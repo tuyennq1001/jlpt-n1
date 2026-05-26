@@ -76,4 +76,27 @@ mindmap
       kiwamarinai["～極まりない (Cực kỳ... tiêu cực)"]
       no_kiwami["～の極み (Tột cùng...)"]
       no_itari["～の至り (Vô cùng...)"]
+    Lien_tiep("Liên tiếp (Ngay lập tức)")
+      ga_hayai_ka["～が早いか"]
+      ya_ina_ya["～や / ～や否や"]
+      soba_kara["～そばから"]
+    Nhan_tien("Nhân tiện / Đi kèm")
+      gatera["～がてら"]
+      katagata["～かたがた"]
+      katawara["～かたわら"]
+    Ly_do("Lý do đặc biệt")
+      to_atte["～とあって"]
+      ba_koso["～ばこそ"]
+      yue_ni["～ゆえに"]
+      temae["～てまえ"]
+    Phu_dinh_bat_buoc("Phủ định / Bắt buộc")
+      zu_ni_wa_sumanai["～ずにはすまない"]
+      zu_ni_wa_irarenai["～ずにはいられない"]
+      te_yamanai["～てやまない"]
+      yogi_naku_sareru["～を余儀なくされる"]
+    Phu_thuoc_dk("Phụ thuộc / Điều kiện")
+      ikan["～いかん / ～いかんによっては"]
+      atte_no["～あっての"]
+      wo_oite["～をおいて"]
+```,StartLine:74,TargetContent:
 ```
