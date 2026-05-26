@@ -1,6 +1,6 @@
-# Tổng hợp Ngữ pháp JLPT N1 liên quan đến 次第 (Shidai)
+# Tổng hợp Ngữ pháp JLPT N1 liên quan đến 次第
 
-Từ **次第 (Shidai)** (Hán tự: **Thứ Đệ - 次第**) có nhiều cách sử dụng rất đa dạng tùy thuộc vào việc nó đứng ở giữa câu hay cuối câu, kết hợp với danh từ hay động từ. Trong kỳ thi N1, đây là cấu trúc thường xuyên xuất hiện ở cả phần ngữ pháp câu lẫn phần đọc hiểu do tính trang trọng của nó.
+Từ **次第** (Hán tự: **Thứ Đệ - 次第**) có nhiều cách sử dụng rất đa dạng tùy thuộc vào việc nó đứng ở giữa câu hay cuối câu, kết hợp với danh từ hay động từ. Trong kỳ thi N1, đây là cấu trúc thường xuyên xuất hiện ở cả phần ngữ pháp câu lẫn phần đọc hiểu do tính trang trọng của nó.
 
 ---
 
@@ -8,9 +8,9 @@ Từ **次第 (Shidai)** (Hán tự: **Thứ Đệ - 次第**) có nhiều cách
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～次第 (Ngay sau khi)](#1-次第-ngay-sau-khi)** | Ngay sau khi... | `V-masu (bỏ ます) + 次第` | Hứa hẹn thực hiện một hành động có chủ ý ngay sau khi một sự việc khác hoàn thành. |
+| **[1. ～次第 (Ngay sau khi)](#1-次第-ngay-sau-khi)** | Ngay sau khi... | `V-ます (bỏ ます) + 次第` | Hứa hẹn thực hiện một hành động có chủ ý ngay sau khi một sự việc khác hoàn thành. |
 | **[2. ～次第だ / ～次第で](#2-次第だ--次第で-tùy-thuộc-vào)** | Tùy thuộc vào... | `N + 次第だ / 次第で` | Diễn tả ý nghĩa: Kết quả vế sau biến đổi hoặc được quyết định bởi yếu tố ở vế trước. |
-| **[3. ～次第だ (Cuối câu)](#3-次第だ-cuối-câu-giải-thích-sự-tình)** | Do đó... / Vì sự tình đó... | `Thể thông thường + 次第だ` | Dùng để giải thích tiến trình, lý do dẫn đến tình trạng hiện tại trong văn viết trang trọng. |
+| **[3. ～次第だ (Cuối câu)](#3-次第だ-cuối-câu-giải-thích-sự-tình)** | Do đó... / Vì sự tình đó... | `V-る・A-い・A-な・N + 次第だ` | Dùng để giải thích tiến trình, lý do dẫn đến tình trạng hiện tại trong văn viết trang trọng. |
 
 ---
 
@@ -51,7 +51,7 @@ Từ **次第 (Shidai)** (Hán tự: **Thứ Đệ - 次第**) có nhiều cách
 
 ### 3. ～次第だ (Cuối câu - Giải thích sự tình)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **次第だ** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ の/である)
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **次第だ** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ の/である)
 *   **Ý nghĩa**: Sự tình là như vậy / Do nguyên nhân đó nên dẫn đến kết quả/tình huống hiện tại.
 *   **Sắc thái**: Dùng nhiều trong báo cáo công việc, thư từ giao dịch hoặc văn phong hành chính trang trọng để giải thích lý do, tiến độ công việc hoặc dùng để tạ lỗi.
 *   **Ví dụ**:

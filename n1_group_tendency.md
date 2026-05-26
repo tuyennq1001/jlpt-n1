@@ -12,7 +12,7 @@ Nhóm ngữ pháp này dùng để miêu tả **vẻ bề ngoài, hơi hướng 
 | **[2. ～びる](#2-びる-trông-có-phong-thái)** | Trông có phong thái... / Vẻ... | `N + びる`<br>`Tính từ な (bỏ だ) + びる` | Mang đặc điểm đó một cách tự nhiên. Thường mang nghĩa tích cực (chín chắn, cổ kính). |
 | **[3. ～ぶる](#3-ぶる-tỏ-vẻ--làm-bộ)** | Tỏ vẻ... / Làm bộ... | `N + ぶる`<br>`Tính từ な (bỏ だ) + ぶる` | Cố ý giả vờ hoặc thể hiện trạng thái đó ra ngoài (mỉa mai, chê trách). |
 | **[4. ～じみた](#4-じみた-có-vẻ-tiêu-cực)** | Có vẻ... (tiêu cực) | `N + じみた` | Trông có vẻ hoặc đượm sắc thái tiêu cực (trẻ con, già nua, ám muội). |
-| **[5. ～きらいがある](#5-きらいがある-có-xu-hướng-xấu)** | Có xu hướng xấu... | `V-ru / N + の + きらいがある` | Diễn tả một khuynh hướng tính cách hoặc hiện tượng không tốt dễ xảy ra. |
+| **[5. ～きらいがある](#5-きらいがある-có-xu-hướng-xấu)** | Có xu hướng xấu... | `V-る / N + の + きらいがある` | Diễn tả một khuynh hướng tính cách hoặc hiện tượng không tốt dễ xảy ra. |
 
 ---
 
@@ -72,7 +72,7 @@ Nhóm ngữ pháp này dùng để miêu tả **vẻ bề ngoài, hơi hướng 
 
 ### 5. ～きらいがある (Có xu hướng xấu...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}} / \text{N}$ + **の** + **きらいがある**
+*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{N}$ + **の** + **きらいがある**
 *   **Ý nghĩa**: Có một khuynh hướng, thói quen hoặc thuộc tính xấu dễ xảy ra.
 *   **Sắc thái**: Thường dùng để nhận xét tiêu cực về tính cách của con người hoặc xu hướng biến đổi của xã hội.
 *   **Ví dụ**:

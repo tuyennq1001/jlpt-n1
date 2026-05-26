@@ -1,4 +1,4 @@
-# So Sánh Ý Nghĩa & Sắc Thái Giữa Ngữ Pháp Hệ もの (Mono) và こと (Koto)
+# So Sánh Ý Nghĩa & Sắc Thái Giữa Ngữ Pháp Hệ もの và こと
 
 Trong tiếng Nhật N1/N2, các cấu trúc đi với **もの (Mono - 物)** và **こと (Koto - 事)** xuất hiện với tần suất rất cao. Việc phân biệt rõ bản chất tư duy của hai nhóm này giúp bạn giải quyết chính xác các câu hỏi chọn đáp án đúng trong bài thi ngữ pháp và đọc hiểu.
 
@@ -6,7 +6,7 @@ Trong tiếng Nhật N1/N2, các cấu trúc đi với **もの (Mono - 物)** v
 
 ## 📌 Bản Chất Cốt Lõi (Core Concept)
 
-| Đặc tính | Ngữ pháp hệ **もの (Mono)** | Ngữ pháp hệ **こと (Koto)** |
+| Đặc tính | Ngữ pháp hệ **もの** | Ngữ pháp hệ **こと** |
 | :--- | :--- | :--- |
 | **Bản chất gốc** | Xuất phát từ **物 (Vật)**: Chỉ vật thể hữu hình hoặc những gì thuộc về **bản năng, lẽ thường, quy luật tự nhiên**. | Xuất phát từ **事 (Sự)**: Chỉ sự việc, hành động vô hình hoặc các yếu tố **logic, quy tắc, kế hoạch**. |
 | **Sắc thái** | **Chủ quan, cảm xúc sâu sắc**, đạo lý làm người, chân lý tự nhiên. | **Khách quan, lý trí, thực tế**, điều kiện, nguyên nhân, luật lệ xã hội. |

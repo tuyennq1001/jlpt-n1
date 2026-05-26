@@ -8,9 +8,9 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～が早いか](#1-が早いか-vừa-mới-thì-lập-tức)** | Vừa mới... thì lập tức... | `V-ru / V-ta + が早いか` | Nhấn mạnh tốc độ tức thời. Vế sau thường là sự việc hơi bất ngờ, khách quan. |
-| **[2. ～や / ～や否や](#2-や--や否や-ngay-sau-khi)** | Ngay sau khi... | `V-ru + や / や否や` | Nhấn mạnh khoảnh khắc đồng thời giữa A và B. Vế sau diễn ra tự nhiên, không thể hiện ý chí của người nói. |
-| **[3. ～そばから](#3-そばから-vừa-mới-xong-thì-lại)** | Vừa mới... xong thì lại... | `V-ru / V-ta + そばから` | Diễn tả hành động lặp đi lặp lại nhiều lần. Thường mang sắc thái tiêu cực (phàn nàn, mệt mỏi). |
+| **[1. ～が早いか](#1-が早いか-vừa-mới-thì-lập-tức)** | Vừa mới... thì lập tức... | `V-る / V-た + が早いか` | Nhấn mạnh tốc độ tức thời. Vế sau thường là sự việc hơi bất ngờ, khách quan. |
+| **[2. ～や / ～や否や](#2-や--や否や-ngay-sau-khi)** | Ngay sau khi... | `V-る + や / や否や` | Nhấn mạnh khoảnh khắc đồng thời giữa A và B. Vế sau diễn ra tự nhiên, không thể hiện ý chí của người nói. |
+| **[3. ～そばから](#3-そばから-vừa-mới-xong-thì-lại)** | Vừa mới... xong thì lại... | `V-る / V-た + そばから` | Diễn tả hành động lặp đi lặp lại nhiều lần. Thường mang sắc thái tiêu cực (phàn nàn, mệt mỏi). |
 
 ---
 
@@ -18,7 +18,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
 
 ### 1. ～が早いか (Vừa mới... thì lập tức...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}} / \text{V}_{\text{ta}}$ + **が早いか**
+*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{V}_{\text{た}}$ + **が早いか**
 *   **Ý nghĩa**: Hành động A vừa mới diễn ra thì gần như ngay lập tức hành động B xảy ra nối tiếp.
 *   **Lưu ý**:
     1.  Chủ ngữ hai vế thường giống nhau.
@@ -33,7 +33,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
 
 ### 2. ～や / ～や否や (Ngay sau khi...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}}$ + **や / や否や**
+*   **Cấu trúc**: $\text{V}_{\text{る}}$ + **や / や否や**
 *   **Ý nghĩa**: Khoảnh khắc hành động A xảy ra cũng là lúc hành động B lập tức tiếp nối.
 *   **Lưu ý**:
     1.  Vế sau chủ yếu là một hiện tượng tự nhiên hoặc hành động khách quan của người khác ngoài tầm kiểm soát của người nói (không dùng cho hành động có chủ ý của bản thân).
@@ -48,7 +48,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
 
 ### 3. ～そばから (Vừa mới... xong thì lại...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}} / \text{V}_{\text{ta}}$ + **そばから**
+*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{V}_{\text{た}}$ + **そばから**
 *   **Ý nghĩa**: Vừa mới thực hiện hành động A xong, lập tức có một hành động B cản trở hoặc làm mất đi tác dụng của hành động A.
 *   **Sắc thái**: Thể hiện sự bất lực, mệt mỏi hoặc phàn nàn của người nói trước một việc lặp đi lặp lại vô ích.
 *   **Ví dụ**:

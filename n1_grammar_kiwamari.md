@@ -1,6 +1,6 @@
-# Tổng hợp Ngữ pháp JLPT N1 liên quan đến 極まり (Kiwamari) / 極み (Kiwami)
+# Tổng hợp Ngữ pháp JLPT N1 liên quan đến 極まり / 極み (Kiwami)
 
-Nhóm ngữ pháp **極まり (Kiwamari)** và **極み (Kiwami)** (Hán tự: **Cực - 極**) dùng để biểu thị ý nghĩa **"mức độ của sự việc/trạng thái đã đạt đến điểm giới hạn cao nhất, không thể cao hơn được nữa"** (Cực kỳ / Vô cùng / Tột cùng). 
+Nhóm ngữ pháp **極まり** và **極み (Kiwami)** (Hán tự: **Cực - 極**) dùng để biểu thị ý nghĩa **"mức độ của sự việc/trạng thái đã đạt đến điểm giới hạn cao nhất, không thể cao hơn được nữa"** (Cực kỳ / Vô cùng / Tột cùng). 
 
 Ngoài ra, cấu trúc **～の至り (no itari)** có cách dùng tương tự cũng được đưa vào nhóm này để bạn dễ dàng so sánh và tránh nhầm lẫn.
 

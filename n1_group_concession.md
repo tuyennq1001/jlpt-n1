@@ -8,13 +8,13 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～といえども](#1-といえども-dù-nói-thế-đi-chăng-nữa)** | Dù nói thế đi chăng nữa... | `Thể thông thường + といえども`<br>`N + といえども` | Khẳng định ngay cả trường hợp đặc biệt ở vế trước thì thực tế vế sau vẫn đúng. Văn phong trang trọng. |
-| **[2. ～思いきや](#2-思いきや-cứ-nghĩ-là-ai-ngờ)** | Cứ nghĩ là... ai ngờ... | `Thể thông thường + と思いきや` | Thể hiện sự ngạc nhiên tột độ của người nói trước một kết quả hoàn toàn trái ngược với suy đoán ban đầu. |
-| **[3. ～とはいえ](#3-とはいえ-mặc-dù-rằng-tuy-nói-thế-nhưng)** | Mặc dù là... / Tuy nói thế nhưng... | `Thể thông thường + とは言え`<br>`N + とは言え` | Thừa nhận thực tế ở vế trước, nhưng vế sau lại đưa ra nhận định hoặc thực tế có mức độ khác đi. |
-| **[4. ～ながらも](#4-ながらも-tuy-nhưng-mặc-dù)** | Tuy... nhưng... / Mặc dù... | `V-masu (bỏ ます) + ながらも`<br>`Tính từ / N + ながらも` | Thường đi với các từ chỉ trạng thái trái ngược (tiêu cực - tích cực). Sắc thái khá trang trọng. |
-| **[5. ～つつも](#5-つつも-dù-biết-nhưng-vẫn)** | Dù biết là... nhưng vẫn... | `V-masu (bỏ ます) + つつも` | Vế trước là nhận thức, vế sau là hành động mâu thuẫn với nhận thức đó (thường mang tính tự trách, hối hận). |
-| **[6. ～ものの](#6-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `Thể thông thường + ものの` | Diễn tả thực tế tương phản nhẹ nhàng (tương tự như が hay けれど nhưng trang trọng hơn). |
-| **[7. ～からといって](#7-からといって-không-phải-cứ-thì)** | Không phải cứ... thì... | `Thể thông thường + からといって` | Bác bỏ lập luận phiến diện: Cứ có lý do ở vế trước thì đương nhiên có kết quả vế sau. |
+| **[1. ～といえども](#1-といえども-dù-nói-thế-đi-chăng-nữa)** | Dù nói thế đi chăng nữa... | `V-る・A-い・A-な・N + といえども`<br>`N + といえども` | Khẳng định ngay cả trường hợp đặc biệt ở vế trước thì thực tế vế sau vẫn đúng. Văn phong trang trọng. |
+| **[2. ～思いきや](#2-思いきや-cứ-nghĩ-là-ai-ngờ)** | Cứ nghĩ là... ai ngờ... | `V-る・A-い・A-な・N + と思いきや` | Thể hiện sự ngạc nhiên tột độ của người nói trước một kết quả hoàn toàn trái ngược với suy đoán ban đầu. |
+| **[3. ～とはいえ](#3-とはいえ-mặc-dù-rằng-tuy-nói-thế-nhưng)** | Mặc dù là... / Tuy nói thế nhưng... | `V-る・A-い・A-な・N + とは言え`<br>`N + とは言え` | Thừa nhận thực tế ở vế trước, nhưng vế sau lại đưa ra nhận định hoặc thực tế có mức độ khác đi. |
+| **[4. ～ながらも](#4-ながらも-tuy-nhưng-mặc-dù)** | Tuy... nhưng... / Mặc dù... | `V-ます (bỏ ます) + ながらも`<br>`Tính từ / N + ながらも` | Thường đi với các từ chỉ trạng thái trái ngược (tiêu cực - tích cực). Sắc thái khá trang trọng. |
+| **[5. ～つつも](#5-つつも-dù-biết-nhưng-vẫn)** | Dù biết là... nhưng vẫn... | `V-ます (bỏ ます) + つつも` | Vế trước là nhận thức, vế sau là hành động mâu thuẫn với nhận thức đó (thường mang tính tự trách, hối hận). |
+| **[6. ～ものの](#6-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・A-い・A-な・N + ものの` | Diễn tả thực tế tương phản nhẹ nhàng (tương tự như が hay けれど nhưng trang trọng hơn). |
+| **[7. ～からといって](#7-からといって-không-phải-cứ-thì)** | Không phải cứ... thì... | `V-る・A-い・A-な・N + からといって` | Bác bỏ lập luận phiến diện: Cứ có lý do ở vế trước thì đương nhiên có kết quả vế sau. |
 
 ---
 
@@ -22,7 +22,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 1. ～といえども (Dù nói thế đi chăng nữa...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **といえども** (Tính từ な và Danh từ thường không đi với だ)
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **といえども** (Tính từ な và Danh từ thường không đi với だ)
 *   **Ý nghĩa**: Cho dù là đối tượng đặc biệt/ưu tú ở vế trước đi chăng nữa, thì thực tế hoặc nghĩa vụ ở vế sau vẫn không thay đổi.
 *   **Ví dụ**:
     1.  未成年**といえども**、犯した罪は重く受け止めなければならない。
@@ -34,7 +34,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 2. ～思いきや (Cứ nghĩ là... ai ngờ...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **と思いきや**
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **と思いきや**
 *   **Ý nghĩa**: Người nói cứ tưởng sự việc sẽ diễn ra theo chiều hướng vế trước, nào ngờ thực tế ở vế sau lại diễn ra hoàn toàn ngược lại.
 *   **Ví dụ**:
     1.  今日は雨が降る**と思いきや**、一日中いい天気だった。
@@ -46,7 +46,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 3. ～とはいえ (Mặc dù là... / Tuy nói thế nhưng...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **とは言え** (Tính từ な và Danh từ không đi với だ)
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **とは言え** (Tính từ な và Danh từ không đi với だ)
 *   **Ý nghĩa**: Chấp nhận sự thật ở vế trước là đúng, nhưng muốn nhấn mạnh khía cạnh hoặc kết luận ở vế sau không hoàn toàn khớp với thực tế đó.
 *   **Ví dụ:*
     1.  春**とは言え**、朝晩はまだかなり冷え込みます。
@@ -83,7 +83,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 6. ～ものの (Mặc dù... nhưng...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **ものの**
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ものの**
 *   **Ý nghĩa**: Thừa nhận sự thật vế trước, nhưng vế sau lại đưa ra thực tế tương phản.
 *   **Ví dụ**:
     1.  大学は卒業した**ものの**、就職先が決まっていない。
@@ -95,7 +95,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 7. ～からといって (Không phải cứ...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **からといって**
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **からといって**
 *   **Ý nghĩa**: Phủ định lập luận: "Cứ vì có lý do ở vế trước thì đương nhiên sẽ có trạng thái ở vế sau".
 *   **Ví dụ**:
     1.  お金持ちだ**からといって**、幸せだとは限らない。

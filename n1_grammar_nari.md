@@ -1,6 +1,6 @@
-# Tổng hợp Ngữ pháp JLPT N1 liên quan đến なり (Nari)
+# Tổng hợp Ngữ pháp JLPT N1 liên quan đến なり
 
-Từ gốc **なり (Nari)** (Hán tự: **Dã - 也** hoặc xuất phát từ trợ động từ cổ) có các công dụng ngữ pháp nâng cao rất độc đáo ở cấp độ N1. Nó có thể đóng vai trò làm từ nối liên kết hành động tức thời, đưa ra các ví dụ để lựa chọn, hoặc diễn tả sự phù hợp tương đối với năng lực/vị thế của sự vật, con người.
+Từ gốc **なり** (Hán tự: **Dã - 也** hoặc xuất phát từ trợ động từ cổ) có các công dụng ngữ pháp nâng cao rất độc đáo ở cấp độ N1. Nó có thể đóng vai trò làm từ nối liên kết hành động tức thời, đưa ra các ví dụ để lựa chọn, hoặc diễn tả sự phù hợp tương đối với năng lực/vị thế của sự vật, con người.
 
 ---
 
@@ -8,9 +8,9 @@ Từ gốc **なり (Nari)** (Hán tự: **Dã - 也** hoặc xuất phát từ 
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～なり (Ngay sau khi)](#1-なり-ngay-sau-khi)** | Ngay sau khi... / Vừa mới... | `V-ru + なり` | Diễn tả hành động xảy ra gần như đồng thời. Vế sau là một hành động bất ngờ hoặc không có dự tính trước. |
-| **[2. ～なり～なり](#2-なりなり-hoặc-là-hoặc-là)** | Hoặc là... hoặc là... | `N / V-ru + なり + N / V-ru + なり` | Đưa ra một vài lựa chọn điển hình có cùng tính chất để người nghe tham khảo hoặc quyết định. |
-| **[3. ～なりに / ～なりの](#3-なりに--なりの-theo- cách-của--tương-xứng-với)** | Theo cách của... / Tương xứng với... | `Thể thông thường + なりに / なりの`<br>`Tính từ な (bỏ だ) + なりに`<br>`N + なりに` | Thừa nhận thực tế: Dù không hoàn hảo nhưng nỗ lực hoặc kết quả đó là phù hợp và chấp nhận được đối với vị thế/năng lực của đối tượng. |
+| **[1. ～なり (Ngay sau khi)](#1-なり-ngay-sau-khi)** | Ngay sau khi... / Vừa mới... | `V-る + なり` | Diễn tả hành động xảy ra gần như đồng thời. Vế sau là một hành động bất ngờ hoặc không có dự tính trước. |
+| **[2. ～なり～なり](#2-なりなり-hoặc-là-hoặc-là)** | Hoặc là... hoặc là... | `N / V-る + なり + N / V-る + なり` | Đưa ra một vài lựa chọn điển hình có cùng tính chất để người nghe tham khảo hoặc quyết định. |
+| **[3. ～なりに / ～なりの](#3-なりに--なりの-theo- cách-của--tương-xứng-với)** | Theo cách của... / Tương xứng với... | `V-る・A-い・A-な・N + なりに / なりの`<br>`Tính từ な (bỏ だ) + なりに`<br>`N + なりに` | Thừa nhận thực tế: Dù không hoàn hảo nhưng nỗ lực hoặc kết quả đó là phù hợp và chấp nhận được đối với vị thế/năng lực của đối tượng. |
 
 ---
 
@@ -18,7 +18,7 @@ Từ gốc **なり (Nari)** (Hán tự: **Dã - 也** hoặc xuất phát từ 
 
 ### 1. ～なり (Ngay sau khi...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}}$ + **なり**
+*   **Cấu trúc**: $\text{V}_{\text{る}}$ + **なり**
 *   **Ý nghĩa**: Hành động vế sau diễn ra ngay lập tức sau hành động vế trước (gần như đồng thời).
 *   **Lưu ý**:
     1.  Chủ ngữ hai vế thường đồng nhất (cùng một người thực hiện).
@@ -36,7 +36,7 @@ Từ gốc **なり (Nari)** (Hán tự: **Dã - 也** hoặc xuất phát từ 
 
 ### 2. ～なり～なり (Hoặc là... hoặc là...)
 
-*   **Cấu trúc**: $\text{N / V}_{\text{ru}}$ + **なり** + $\text{N / V}_{\text{ru}}$ + **なり** (thường đi với động từ **する** ở cuối)
+*   **Cấu trúc**: $\text{N / V}_{\text{る}}$ + **なり** + $\text{N / V}_{\text{る}}$ + **なり** (thường đi với động từ **する** ở cuối)
 *   **Ý nghĩa**: Đưa ra một vài ví dụ tiêu biểu đại diện cho nhóm phương án, nhằm gợi ý cho đối phương tự chọn lựa phương án thích hợp.
 *   **Lưu ý**: Vế sau thường là câu yêu cầu, khuyên bảo hoặc ý chí của người nói. Không dùng cho sự việc trong quá khứ.
 *   **Ví dụ**:
@@ -51,7 +51,7 @@ Từ gốc **なり (Nari)** (Hán tự: **Dã - 也** hoặc xuất phát từ 
 
 ### 3. ～なりに / ～なりの (Theo cách của... / Tương xứng với...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **なりに / なりの** (Tính từ な $\rightarrow$ bỏ だ/である, Danh từ $\rightarrow$ Danh từ)
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **なりに / なりの** (Tính từ な $\rightarrow$ bỏ だ/である, Danh từ $\rightarrow$ Danh từ)
 *   **Ý nghĩa**: Mặc dù mức độ có thể chưa phải là tối đa hay hoàn hảo, nhưng kết quả/nỗ lực đó hoàn toàn tương thích và đáng ghi nhận đối với năng lực, vị thế hoặc đặc điểm của đối tượng đó.
 *   **Ví dụ**:
     1.  子供は子供**なりに**、大人が思っている以上に色々と悩んでいるものだ。

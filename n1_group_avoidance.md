@@ -10,7 +10,7 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 | :--- | :--- | :--- | :--- |
 | **[1. ～をよそに](#1-をよそに-mặc-kệ--bất-chấp)** | Mặc kệ... / Bất chấp... | `N + をよそに` | Thực hiện hành động mặc kệ sự lo lắng, phản đối hoặc kỳ vọng của người khác xung quanh. |
 | **[2. ～なくして（は）](#2-なくしては-nếu-không-có-thì-không-thể)** | Nếu không có... thì không thể... | `N + なくして（は）` | Nhấn mạnh danh từ phía trước là điều kiện sinh tử, bắt buộc phải có để đạt được kết quả vế sau. |
-| **[3. ～なしに（は）](#3-なしには-mà-không-có)** | Mà không có... / Nếu không có... | `N + なしに（は）`<br>`V-ru + ことなしに（は）` | Thực hiện hành động mà bỏ qua hoặc không cần trải qua điều kiện thông thường ở vế trước. |
+| **[3. ～なしに（は）](#3-なしには-mà-không-có)** | Mà không có... / Nếu không có... | `N + なしに（は）`<br>`V-る + ことなしに（は）` | Thực hiện hành động mà bỏ qua hoặc không cần trải qua điều kiện thông thường ở vế trước. |
 
 ---
 
@@ -35,7 +35,7 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 
 ### 2. ～なくして（は） (Nếu không có... thì không thể...)
 
-*   **Cấu trúc**: $\text{N}$ + **なくして（は）** + $\text{V}_{\text{nai}}$
+*   **Cấu trúc**: $\text{N}$ + **なくして（は）** + $\text{V}_{\text{ない}}$
 *   **Ý nghĩa**: Nếu không tồn tại điều kiện hoặc yếu tố ở danh từ phía trước, thì vế sau chắc chắn không thể xảy ra hoặc đạt được thành công.
 *   **Ví dụ**:
     1.  国民の信頼**なくして**、政治の改革を行うことは不可能だ。
@@ -49,7 +49,7 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 
 ### 3. ～なしに（は） (Mà không có... / Nếu không có...)
 
-*   **Cấu trúc**: $\text{N}$ + **なしに（は）** / $\text{V}_{\text{ru}}$ + **ことなしに（は）**
+*   **Cấu trúc**: $\text{N}$ + **なしに（は）** / $\text{V}_{\text{る}}$ + **ことなしに（は）**
 *   **Ý nghĩa**: Thực hiện hành động ở vế sau mà không cần có hoặc không đi qua yếu tố ở vế trước (thường là thủ tục, sự cho phép).
 *   **Ví dụ**:
     1.  許可**なしに**、この立ち入り giữ area に入ることは固く禁じられている。

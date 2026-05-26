@@ -1,6 +1,6 @@
-# Tổng hợp Ngữ pháp JLPT N1 liên quan đến ところ (Tokoro)
+# Tổng hợp Ngữ pháp JLPT N1 liên quan đến ところ
 
-**ところ (Tokoro)** trong tiếng Nhật cổ bản chất là danh từ chỉ "nơi chốn, địa điểm". Trong ngữ pháp hiện đại và nâng cao N1/N2, nó được dùng làm danh từ hình thức chỉ "thời điểm, tình huống, khía cạnh". Các cấu trúc đi kèm với **ところ** giúp người nói bày tỏ thái độ khiêm nhường, phán đoán sự việc, hoặc đưa ra giả định tương phản.
+**ところ** trong tiếng Nhật cổ bản chất là danh từ chỉ "nơi chốn, địa điểm". Trong ngữ pháp hiện đại và nâng cao N1/N2, nó được dùng làm danh từ hình thức chỉ "thời điểm, tình huống, khía cạnh". Các cấu trúc đi kèm với **ところ** giúp người nói bày tỏ thái độ khiêm nhường, phán đoán sự việc, hoặc đưa ra giả định tương phản.
 
 ---
 
@@ -8,13 +8,13 @@
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～ところを](#1-ところを-đang-lúc-trong-lúc)** | Đang lúc... / Trong lúc... | `Thể thông thường + ところを`<br>`N + の + ところを` | **① Tạ lỗi/Cảm ơn**: Dùng làm tiền đề khi nhờ vả, tạ lỗi hoặc cảm ơn.<br>**② Bắt gặp**: Bị phát hiện/chặn lại đúng lúc đang làm gì. |
-| **[2. ～たところで](#2-たところで-dù-có-đi-chăng-nữa-cũng-vô-ích)** | Dù có... cũng vô ích | `V-ta + ところで` | Giả định một hành động dù có thực hiện thì kết quả vẫn không thay đổi (tiêu cực/vô nghĩa). |
-| **[3. ～ところから](#3-ところから-từ-chỗ-chính-vì-lý-do)** | Từ chỗ... / Chính vì... | `Thể thông thường + ところから` | Giải thích nguồn gốc của một tên gọi, hoặc đưa ra căn cứ khách quan cho một phán đoán. |
-| **[4. ～ところだった](#4-ところだった-suýt-chút-nữa-thì)** | Suýt chút nữa thì... | `V-ru + ところだった` | Diễn tả một sự việc suýt nữa đã xảy ra (thường là kết quả xấu nhưng may mắn đã tránh được). |
-| **[5. ～どころか](#5-どころか-nói-chi-đến-ngược-lại-còn)** | Nói chi đến... / Ngược lại còn... | `Thể thông thường + どころか` | Phủ định vế trước để nhấn mạnh tình trạng ở vế sau còn cực đoan hoặc trái ngược hoàn toàn. |
-| **[6. ～どころではない](#6-どころではない-không-phải-là-lúc-không-thể)** | Không phải lúc... / Không thể... | `V-ru / N + どころではない` | Tình hình hiện tại đang quá bận rộn hoặc tồi tệ, khiến việc thực hiện hành động trở nên bất khả thi. |
-| **[7. ～たところ](#7-たところ-sau-khí-thử-làm-thì)** | Sau khi thử làm... thì... | `V-ta + ところ` | Diễn tả việc sau khi thử thực hiện hành động A thì nhận lại kết quả hoặc phát hiện thông tin B. |
+| **[1. ～ところを](#1-ところを-đang-lúc-trong-lúc)** | Đang lúc... / Trong lúc... | `V-る・A-い・A-な・N + ところを`<br>`N + の + ところを` | **① Tạ lỗi/Cảm ơn**: Dùng làm tiền đề khi nhờ vả, tạ lỗi hoặc cảm ơn.<br>**② Bắt gặp**: Bị phát hiện/chặn lại đúng lúc đang làm gì. |
+| **[2. ～たところで](#2-たところで-dù-có-đi-chăng-nữa-cũng-vô-ích)** | Dù có... cũng vô ích | `V-た + ところで` | Giả định một hành động dù có thực hiện thì kết quả vẫn không thay đổi (tiêu cực/vô nghĩa). |
+| **[3. ～ところから](#3-ところから-từ-chỗ-chính-vì-lý-do)** | Từ chỗ... / Chính vì... | `V-る・A-い・A-な・N + ところから` | Giải thích nguồn gốc của một tên gọi, hoặc đưa ra căn cứ khách quan cho một phán đoán. |
+| **[4. ～ところだった](#4-ところだった-suýt-chút-nữa-thì)** | Suýt chút nữa thì... | `V-る + ところだった` | Diễn tả một sự việc suýt nữa đã xảy ra (thường là kết quả xấu nhưng may mắn đã tránh được). |
+| **[5. ～どころか](#5-どころか-nói-chi-đến-ngược-lại-còn)** | Nói chi đến... / Ngược lại còn... | `V-る・A-い・A-な・N + どころか` | Phủ định vế trước để nhấn mạnh tình trạng ở vế sau còn cực đoan hoặc trái ngược hoàn toàn. |
+| **[6. ～どころではない](#6-どころではない-không-phải-là-lúc-không-thể)** | Không phải lúc... / Không thể... | `V-る / N + どころではない` | Tình hình hiện tại đang quá bận rộn hoặc tồi tệ, khiến việc thực hiện hành động trở nên bất khả thi. |
+| **[7. ～たところ](#7-たところ-sau-khí-thử-làm-thì)** | Sau khi thử làm... thì... | `V-た + ところ` | Diễn tả việc sau khi thử thực hiện hành động A thì nhận lại kết quả hoặc phát hiện thông tin B. |
 
 ---
 
@@ -45,7 +45,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 2. ～たところで (Dù có... đi chăng nữa cũng vô ích)
 
-*   **Cấu trúc**: $\text{V}_{\text{ta}}$ + **ところで**
+*   **Cấu trúc**: $\text{V}_{\text{た}}$ + **ところで**
 *   **Ý nghĩa**: Dù cho có cố gắng thực hiện hành động ở vế trước đến mức nào đi chăng nữa, thì kết quả ở vế sau vẫn không thay đổi hoặc không có tác dụng gì (mang tính chất phủ định, thất vọng).
 *   **Lưu ý**: Thường đi kèm với các phó từ nhượng bộ như: いくら (bao nhiêu), たとえ (cho dù), 今さら (đến giờ này)...
 *   **Ví dụ**:
@@ -58,7 +58,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 3. ～ところから (Từ chỗ... / Chính vì lý do...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **ところから** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ である)
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ところから** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ である)
 *   **Ý nghĩa**: Lấy một sự thật hoặc căn cứ làm điểm xuất phát để giải thích nguồn gốc tên gọi, hoặc đưa ra một phán đoán logic.
 *   **Ví dụ**:
     1.  この山は形が富士山に似ている**ところから**、「小富士」と呼ばれている。
@@ -70,7 +70,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 4. ～ところだった (Suýt chút nữa thì...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}}$ + **ところだった**
+*   **Cấu trúc**: $\text{V}_{\text{る}}$ + **ところだった**
 *   **Ý nghĩa**: Suýt nữa thì một sự việc không hay đã xảy ra, nhưng may mắn là thực tế đã không xảy ra như vậy.
 *   **Lưu ý**: Thường đi kèm với các từ như: 危うく (suýt chút nữa), もう少しで (thêm chút nữa thì)...
 *   **Ví dụ**:
@@ -83,7 +83,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 5. ～どころか (Nói chi đến... / Ngược lại còn...)
 
-*   **Cấu trúc**: $\text{Thể thông thường}$ + **どころか** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ Thể thông thường / である)
+*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **どころか** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ Danh từ / である)
 *   **Ý nghĩa**: Bác bỏ hoàn toàn thông tin ở vế trước, nhấn mạnh rằng thực tế tình hình không những không được như vậy mà còn tồi tệ hơn hoặc trái ngược hoàn toàn ở vế sau.
 *   **Ví dụ**:
     1.  漢字**どころか**、ひらがなさえ書けない。
@@ -95,7 +95,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 6. ～どころではない (Không phải lúc... / Không thể...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}}$ / $\text{N}$ + **どころではない** (hoặc **どころじゃない**)
+*   **Cấu trúc**: $\text{V}_{\text{る}}$ / $\text{N}$ + **どころではない** (hoặc **どころじゃない**)
 *   **Ý nghĩa**: Hoàn cảnh hiện tại đang có trở ngại rất lớn (bận rộn, ồn ào, hoặc gặp khó khăn) nên không thể thực hiện hay nghĩ tới hành động đó được.
 *   **Ví dụ**:
     1.  明日が締め切りのレポートがあるので、遊びに行く**どころではない**。
@@ -107,7 +107,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 7. ～たところ (Sau khi thử làm... thì...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ta}}$ + **ところ**
+*   **Cấu trúc**: $\text{V}_{\text{た}}$ + **ところ**
 *   **Ý nghĩa**: Diễn tả chuỗi sự kiện: Sau khi người nói thử thực hiện hành động A thì nhận lại kết quả hoặc biết được một thông tin mới ngoài dự tính ở vế B.
 *   **Ví dụ**:
     1.  駅の窓口で問い合わせ**たところ**、落とした財布が無事に見つかった。

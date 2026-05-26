@@ -10,8 +10,8 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 | :--- | :--- | :--- | :--- |
 | **[1. ～はおろか](#1-はおろか-nói-chi-đến--ngay-cả)** | Nói chi đến... / Ngay cả... | `N + はおろか` | Vế trước là mức độ hiển nhiên/nhỏ hơn, vế sau thường đi kèm các trợ từ như さえ, すら, まで kèm theo thể phủ định. |
 | **[2. ～すら / ～ですら](#2-すら--ですら-ngay-cả)** | Ngay cả... | `N + すら / ですら` | Đưa ra một ví dụ cực đoan nhất để nhấn mạnh rằng sự việc khác còn hiển nhiên hơn (tương đương với さえ). |
-| **[3. ～だに](#3-だに-chỉ-cần-cũng--thậm-chí-không)** | Chỉ cần... cũng... / Thậm chí không... | `V-ru + だに`<br>`N + だに` | Thường đi kèm với các từ chỉ hoạt động tâm lý như: 想像する (tưởng tượng), 考える (suy nghĩ), 夢に見る (mơ thấy)... |
-| **[4. ～たりとも](#4-たりとも-dù-chỉ-một-cũng-không)** | Dù chỉ một... cũng không... | `Số từ chỉ lượng nhỏ nhất + たりとも + V-nai` | Khẳng định tuyệt đối không để lãng phí hoặc xảy ra sai sót dù ở mức độ nhỏ nhất (1 giây, 1 người, 1 giọt...). |
+| **[3. ～だに](#3-だに-chỉ-cần-cũng--thậm-chí-không)** | Chỉ cần... cũng... / Thậm chí không... | `V-る + だに`<br>`N + だに` | Thường đi kèm với các từ chỉ hoạt động tâm lý như: 想像する (tưởng tượng), 考える (suy nghĩ), 夢に見る (mơ thấy)... |
+| **[4. ～たりとも](#4-たりとも-dù-chỉ-một-cũng-không)** | Dù chỉ một... cũng không... | `Số từ chỉ lượng nhỏ nhất + たりとも + V-ない` | Khẳng định tuyệt đối không để lãng phí hoặc xảy ra sai sót dù ở mức độ nhỏ nhất (1 giây, 1 người, 1 giọt...). |
 | **[5. ～からある / ～からする / ～からの](#5-からある--からする--からの-lên-tới--hơn)** | Lên tới... / Hơn... (nhấn mạnh lượng) | `Số lượng/Trọng lượng + からある`<br>`Giá tiền + からする`<br>`Số lượng người + からの` | Nhấn mạnh quy mô lớn, sức nặng, chiều dài hoặc giá trị tiền bạc rất cao của sự vật. |
 
 ---
@@ -44,7 +44,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 3. ～だに (Chỉ cần... cũng...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}} / \text{N}$ + **だに**
+*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{N}$ + **だに**
 *   **Ý nghĩa**: Chỉ cần làm hành động nhẹ nhàng ở vế trước thôi cũng đủ gây ra phản ứng cực đoan ở vế sau.
 *   **Lưu ý**: Có cụm từ cổ mang nghĩa phủ định: **「微動だにしない (びどうだにしない)」** *(không hề nhúc nhích dù chỉ một chút)*.
 *   **Ví dụ**:
@@ -59,7 +59,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 4. ～たりとも (Dù chỉ một... cũng không...)
 
-*   **Cấu trúc**: $\text{Số từ chỉ lượng cực nhỏ}$ + **たりとも** + $\text{V}_{\text{nai}}$
+*   **Cấu trúc**: $\text{Số từ chỉ lượng cực nhỏ}$ + **たりとも** + $\text{V}_{\text{ない}}$
     *   *Số lượng cực nhỏ*: 一秒 (1 giây), 一滴 (1 giọt), 一人 (1 người), 一粒 (1 hạt)...
 *   **Ý nghĩa**: Nhấn mạnh việc không để một lượng vô cùng nhỏ nhặt nào bị lãng phí hoặc vi phạm.
 *   **Ví dụ**:

@@ -8,9 +8,9 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～ずにはすまない](#1-ずにはすまない--ないではすまない-không-thể-không-làm-vì-trách-nhiệm)** | Không thể không... (vì trách nhiệm/đạo đức) | `V-nai (bỏ ない) + ずにはすまない`<br>*(する $\rightarrow$ せずにはすまない)*<br>`V-nai + ではすまない` | Bản thân nhận thức được về mặt đạo lý, luật lệ hoặc dư luận xã hội rằng nếu không làm thì không thể chấp nhận được. |
-| **[2. ～ずにはいられない](#2-ずにはいられない--ないではいられない-không-thể-nhịn-được-cảm-xúc)** | Không thể nhịn được... (cảm xúc bộc phát) | `V-nai (bỏ ない) + ずにはいられない`<br>*(する $\rightarrow$ せずにはいられない)*<br>`V-te + はいられない` *(đang làm gì)* | Diễn tả cảm xúc, phản xạ tự nhiên của cơ thể hoặc tâm lý quá mạnh mẽ, không thể kìm nén được. |
-| **[3. ～てやまない](#3-てやまない-luôn-không-ngừng-mong-mỏi)** | Luôn không ngừng... / Hoài... | `V-te + やまない` | Biểu thị cảm xúc cầu chúc, mong mỏi, biết ơn mạnh mẽ từ đáy lòng (văn phong trang trọng). |
+| **[1. ～ずにはすまない](#1-ずにはすまない--ないではすまない-không-thể-không-làm-vì-trách-nhiệm)** | Không thể không... (vì trách nhiệm/đạo đức) | `V-ない (bỏ ない) + ずにはすまない`<br>*(する $\rightarrow$ せずにはすまない)*<br>`V-ない + ではすまない` | Bản thân nhận thức được về mặt đạo lý, luật lệ hoặc dư luận xã hội rằng nếu không làm thì không thể chấp nhận được. |
+| **[2. ～ずにはいられない](#2-ずにはいられない--ないではいられない-không-thể-nhịn-được-cảm-xúc)** | Không thể nhịn được... (cảm xúc bộc phát) | `V-ない (bỏ ない) + ずにはいられない`<br>*(する $\rightarrow$ せずにはいられない)*<br>`V-て + はいられない` *(đang làm gì)* | Diễn tả cảm xúc, phản xạ tự nhiên của cơ thể hoặc tâm lý quá mạnh mẽ, không thể kìm nén được. |
+| **[3. ～てやまない](#3-てやまない-luôn-không-ngừng-mong-mỏi)** | Luôn không ngừng... / Hoài... | `V-て + やまない` | Biểu thị cảm xúc cầu chúc, mong mỏi, biết ơn mạnh mẽ từ đáy lòng (văn phong trang trọng). |
 | **[4. ～を余儀なくされる](#4-を余儀なくされる-buộc-phải-làm-do-hoàn-cảnh)** | Buộc phải làm... (do hoàn cảnh) | `N + を余儀なくされる` | Bị rơi vào thế bắt buộc phải thực hiện hành động do tình huống khách quan đưa đẩy (dù bản thân không muốn). |
 
 ---
@@ -21,7 +21,7 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 *   **Cấu trúc**: 
     *   $\text{V}_{\text{nai (bỏ ない)}}$ + **ずにはすまない** (Đặc biệt: **する** $\rightarrow$ **せずにはすまない**)
-    *   $\text{V}_{\text{nai}}$ + **ではすまない**
+    *   $\text{V}_{\text{ない}}$ + **ではすまない**
 *   **Ý nghĩa**: Xét về mặt đạo đức xã hội, luật lệ hoặc quan hệ xã hội, người nói bắt buộc phải thực hiện hành động đó. Nếu không làm thì lương tâm không yên hoặc xã hội sẽ không tha thứ.
 *   **Ví dụ**:
     1.  私の不注意で会社に損害を与えたのだから、辞職せ**ずにはすまない**だろう。
@@ -49,7 +49,7 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 ### 3. ～てやまない (Luôn không ngừng mong mỏi...)
 
-*   **Cấu trúc**: $\text{V}_{\text{te}}$ + **やまない**
+*   **Cấu trúc**: $\text{V}_{\text{て}}$ + **やまない**
 *   **Ý nghĩa**: Luôn giữ cảm xúc, mong mỏi đó từ đáy lòng và không bao giờ nguôi ngoai.
 *   **Lưu ý**: Chỉ đi với một số động từ chỉ hoạt động tâm lý, cảm xúc tích cực như: 祈る (cầu nguyện), 願う (mong mỏi), 期待する (mong đợi), 愛する (yêu thương), 信じる (tin tưởng)...
 *   **Ví dụ**:

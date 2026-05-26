@@ -8,9 +8,9 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～がてら](#1-がてら-nhân-tiện-tiện-thể)** | Nhân tiện... / Tiện thể... | `V-masu (bỏ ます) + がてら`<br>`N + がてら` | Dùng trong đời sống hàng ngày (thân mật). Hành động đi kèm thường có cùng hướng di chuyển với hành động chính (ví dụ: đi dạo, đi mua đồ). |
+| **[1. ～がてら](#1-がてら-nhân-tiện-tiện-thể)** | Nhân tiện... / Tiện thể... | `V-ます (bỏ ます) + がてら`<br>`N + がてら` | Dùng trong đời sống hàng ngày (thân mật). Hành động đi kèm thường có cùng hướng di chuyển với hành động chính (ví dụ: đi dạo, đi mua đồ). |
 | **[2. ～かたがた](#2-かたがた-tiện-thể--sẵn-tiện-làm-gì)** | Tiện thể... / Sẵn tiện... | `N + かたがた` | Văn phong trang trọng, lịch sự. Thường dùng khi một hành động có **2 mục đích song song** (cảm ơn, xin lỗi, thăm hỏi). |
-| **[3. ～かたわら](#3-かたわら-vừa-làm-việc-chính-vừa-tranh-thủ)** | Vừa làm (chính)... vừa làm (phụ)... | `V-ru / N + の + かたわら` | Diễn tả hai công việc song song trong một khoảng thời gian dài. Một công việc là chính, một công việc là phụ/ngoài giờ. |
+| **[3. ～かたわら](#3-かたわら-vừa-làm-việc-chính-vừa-tranh-thủ)** | Vừa làm (chính)... vừa làm (phụ)... | `V-る / N + の + かたわら` | Diễn tả hai công việc song song trong một khoảng thời gian dài. Một công việc là chính, một công việc là phụ/ngoài giờ. |
 
 ---
 
@@ -44,7 +44,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 
 ### 3. ～かたわら (Vừa làm việc chính... vừa làm việc phụ...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ru}} / \text{N}$ + **の** + **かたわら**
+*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{N}$ + **の** + **かたわら**
 *   **Ý nghĩa**: Bên cạnh công việc chính/nghề nghiệp chính của mình, tranh thủ thực hiện thêm một hoạt động, sở thích hoặc công việc phụ khác.
 *   **Lưu ý**: Hai công việc này phải diễn ra song song lâu dài chứ không phải hành động tức thời.
 *   **Ví dụ**:
