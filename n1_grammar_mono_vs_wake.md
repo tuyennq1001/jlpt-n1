@@ -1,6 +1,6 @@
 # So Sánh Ý Nghĩa & Sắc Thái Giữa Ngữ Pháp Hệ もの và わけ
 
-Cả **もの (Mono - 物)** và **わけ (Wake - 訳)** đều được sử dụng để diễn tả tính tất yếu ("đương nhiên"), sự phủ định, hoặc điều kiện. Tuy nhiên, sự khác biệt nằm ở chỗ **chúng ta lập luận dựa trên Cảm xúc/Tự nhiên (もの) hay Lý trí/Logic (わけ)**.
+Cả **もの (物)** và **わけ (訳)** đều được sử dụng để diễn tả tính tất yếu ("đương nhiên"), sự phủ định, hoặc điều kiện. Tuy nhiên, sự khác biệt nằm ở chỗ **chúng ta lập luận dựa trên Cảm xúc/Tự nhiên (もの) hay Lý trí/Logic (わけ)**.
 
 ---
 

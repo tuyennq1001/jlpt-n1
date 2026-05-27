@@ -2707,7 +2707,7 @@ Nhóm ngữ pháp này kế thừa các trợ động từ cổ của tiếng Nh
 
 # So Sánh Ý Nghĩa & Sắc Thái Giữa Ngữ Pháp Hệ もの và こと
 
-Trong tiếng Nhật N1/N2, các cấu trúc đi với **もの (Mono - 物)** và **こと (Koto - 事)** xuất hiện với tần suất rất cao. Việc phân biệt rõ bản chất tư duy của hai nhóm này giúp bạn giải quyết chính xác các câu hỏi chọn đáp án đúng trong bài thi ngữ pháp và đọc hiểu.
+Trong tiếng Nhật N1/N2, các cấu trúc đi với **もの (物)** và **こと (事)** xuất hiện với tần suất rất cao. Việc phân biệt rõ bản chất tư duy của hai nhóm này giúp bạn giải quyết chính xác các câu hỏi chọn đáp án đúng trong bài thi ngữ pháp và đọc hiểu.
 
 ---
 
@@ -2809,7 +2809,7 @@ Trong tiếng Nhật N1/N2, các cấu trúc đi với **もの (Mono - 物)** v
 
 # So Sánh Ý Nghĩa & Sắc Thái Giữa Ngữ Pháp Hệ もの và わけ
 
-Cả **もの (Mono - 物)** và **わけ (Wake - 訳)** đều được sử dụng để diễn tả tính tất yếu ("đương nhiên"), sự phủ định, hoặc điều kiện. Tuy nhiên, sự khác biệt nằm ở chỗ **chúng ta lập luận dựa trên Cảm xúc/Tự nhiên (もの) hay Lý trí/Logic (わけ)**.
+Cả **もの (物)** và **わけ (訳)** đều được sử dụng để diễn tả tính tất yếu ("đương nhiên"), sự phủ định, hoặc điều kiện. Tuy nhiên, sự khác biệt nằm ở chỗ **chúng ta lập luận dựa trên Cảm xúc/Tự nhiên (もの) hay Lý trí/Logic (わけ)**.
 
 ---
 
