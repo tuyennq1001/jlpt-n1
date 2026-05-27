@@ -6,17 +6,18 @@ Họ ngữ pháp liên quan đến **もの** chiếm tỉ trọng rất lớn t
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～ものなら](#1-ものなら-nếu-có-thể-nếu-lỡ-làm-gì)** | Nếu có thể... / Nếu lỡ làm gì... | `V-khả năng + ものなら`<br>`V-ý chí + ものなら` | **V-khả năng**: Mong muốn điều bất khả thi.<br>**V-ý chí**: Cảnh báo hậu quả nghiêm trọng. |
-| **[2. ～ものを](#2-ものを-giá-mà-thế-mà)** | Giá mà... / Thế mà... | `V-る・A-い・A-な・N + ものを` | Thể hiện sự tiếc nuối hoặc trách móc đối phương vì đã không làm điều nên làm. |
-| **[3. ～をものともせずに](#3-をものともせずに-bất-chấp-mặc-cho)** | Bất chấp... / Mặc cho... | `N + をものともせず(に)` | Ca ngợi ai đó vượt qua khó khăn, nghịch cảnh lớn để hành động. (Không dùng cho bản thân). |
-| **[4. ～ないものでもない](#4-ないものでもない-không-hẳn-là-không)** | Không hẳn là không... | `V-ない + ないものでもない` | Phủ định kép thể hiện sự đồng ý hoặc khả năng một cách dè dặt, không dứt khoát. |
-| **[5. ～ものがある](#5-ものがある-có-cảm-giác-có-gì-đó)** | Có cảm giác... / Có gì đó... | `V-る・A-い・A-な・N + ものがある` | Cảm nhận sâu sắc của người nói về một sự việc, mang tính chủ quan. |
-| **[6. ～というものだ](#6-というものだ-thực-sự-là-chính-là)** | Thực sự là... / Chính là... | `V-る・A-い・A-な・N + というものだ` | Đưa ra nhận xét khách quan, chân lý hoặc định nghĩa mang tính hiển nhiên. |
-| **[7. ～というもの](#7-というもの-suốt-khoảng-thời-gian)** | Suốt... (qua) | `N chỉ thời gian + というもの` | Nhấn mạnh trạng thái liên tục suốt một khoảng thời gian dài gần đây. |
-| **[8. ～ものか / ～もんか](#8-ものか--もんか-không-đời-nào)** | Không đời nào... / Làm sao mà... | `V-る・A-い・A-な・N + ものか` | Phủ định cực kỳ mạnh mẽ, bày tỏ cảm xúc bác bỏ hoặc cự tuyệt của người nói. |
-| **[9. ～ものの](#9-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・A-い・A-な・N + ものの` | Diễn tả một thực tế tương phản (tương tự như が hay けれど nhưng trang trọng hơn). |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 7 | **[～ものなら](#1-ものなら-nếu-có-thể-nếu-lỡ-làm-gì)** | Nếu có thể... / Nếu lỡ làm gì... | `V-khả năng + ものなら`<br>`V-ý chí + ものなら` | **V-khả năng**: Mong muốn điều bất khả thi.<br>**V-ý chí**: Cảnh báo hậu quả nghiêm trọng. |
+| 8 | **[～ものを](#2-ものを-giá-mà-thế-mà)** | Giá mà... / Thế mà... | `V-る・A-い・A-な・N + ものを` | Thể hiện sự tiếc nuối hoặc trách móc đối phương vì đã không làm điều nên làm. |
+| 9 | **[～をものともせずに](#3-をものともせずに-bất-chấp-mặc-cho)** | Bất chấp... / Mặc cho... | `N + をものともせず(に)` | Ca ngợi ai đó vượt qua khó khăn, nghịch cảnh lớn để hành động. (Không dùng cho bản thân). |
+| 10 | **[～ないものでもない](#4-ないものでもない-không-hẳn-là-không)** | Không hẳn là không... | `V-ない + ないものでもない` | Phủ định kép thể hiện sự đồng ý hoặc khả năng một cách dè dặt, không dứt khoát. |
+| 11 | **[～ものがある](#5-ものがある-có-cảm-giác-có-gì-đó)** | Có cảm giác... / Có gì đó... | `V-る・A-い・A-な・N + ものがある` | Cảm nhận sâu sắc của người nói về một sự việc, mang tính chủ quan. |
+| 12 | **[～というものだ](#6-というものだ-thực-sự-là-chính-là)** | Thực sự là... / Chính là... | `V-る・A-い・A-な・N + というものだ` | Đưa ra nhận xét khách quan, chân lý hoặc định nghĩa mang tính hiển nhiên. |
+| 13 | **[～というもの](#7-というもの-suốt-khoảng-thời-gian)** | Suốt... (qua) | `N chỉ thời gian + というもの` | Nhấn mạnh trạng thái liên tục suốt một khoảng thời gian dài gần đây. |
+| 14 | **[～ものか / ～もんか](#8-ものか--もんか-không-đời-nào)** | Không đời nào... / Làm sao mà... | `V-る・A-い・A-な・N + ものか` | Phủ định cực kỳ mạnh mẽ, bày tỏ cảm xúc bác bỏ hoặc cự tuyệt của người nói. |
+| 15 | **[～ものの](#9-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・A-い・A-な・N + ものの` | Diễn tả một thực tế tương phản (tương tự như が hay けれど nhưng trang trọng hơn). |
+|  |
 
 ---
 

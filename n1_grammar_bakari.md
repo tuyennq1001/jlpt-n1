@@ -6,13 +6,14 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～んばかりに](#1-んばかりに--んばかりの-như-thể-sắp-đến-nơi)** | Như thể sắp... đến nơi | `V-ない (bỏ ない) + んばかりに`<br>*(する → せんばかりに)* | Miêu tả một trạng thái cực đoan suýt xảy ra (thực tế chưa xảy ra nhưng biểu hiện bên ngoài cực kỳ giống). |
-| **[2. ～とばかりに](#2-とばかりに-như-muốn-nói-rằng)** | Như muốn nói rằng... | `Câu trích dẫn + とばかりに` | Diễn tả hành động, thái độ của ai đó nhằm phát ra một thông điệp thay cho lời nói trực tiếp. |
-| **[3. ～ばかりに](#3-ばかりに-chỉ-vì)** | Chỉ vì... (kết quả xấu) | `V-る・A-い・A-な・N + ばかりに`<br>`A-な → な/である`<br>`N → である` | Nêu ra nguyên nhân duy nhất hoặc nhỏ nhặt dẫn đến một kết quả cực kỳ tồi tệ kèm theo sự hối hận. |
-| **[4. ～ばかりか](#4-ばかりか--ばかりでなく-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + ばかりか`<br>`A-な → な / である`<br>`N → N / である` | Vế sau bổ sung thêm thông tin có mức độ cao hơn, mang tính bất ngờ hoặc nghiêm trọng hơn. |
-| **[5. ～ばかりだ](#5-ばかりだ-cứ-ngày-càng-chiều-hướng-xấu)** | Cứ ngày càng... (chiều hướng xấu) | `V-る + ばかりだ` | Diễn tả một sự biến đổi đang tiếp diễn liên tục và thường là theo chiều hướng tiêu cực. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 32 | **[～んばかりに](#1-んばかりに--んばかりの-như-thể-sắp-đến-nơi)** | Như thể sắp... đến nơi | `V-ない (bỏ ない) + んばかりに`<br>*(する → せんばかりに)* | Miêu tả một trạng thái cực đoan suýt xảy ra (thực tế chưa xảy ra nhưng biểu hiện bên ngoài cực kỳ giống). |
+| 33 | **[～とばかりに](#2-とばかりに-như-muốn-nói-rằng)** | Như muốn nói rằng... | `Câu trích dẫn + とばかりに` | Diễn tả hành động, thái độ của ai đó nhằm phát ra một thông điệp thay cho lời nói trực tiếp. |
+| 34 | **[～ばかりに](#3-ばかりに-chỉ-vì)** | Chỉ vì... (kết quả xấu) | `V-る・A-い・A-な・N + ばかりに`<br>`A-な → な/である`<br>`N → である` | Nêu ra nguyên nhân duy nhất hoặc nhỏ nhặt dẫn đến một kết quả cực kỳ tồi tệ kèm theo sự hối hận. |
+| 35 | **[～ばかりか](#4-ばかりか--ばかりでなく-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + ばかりか`<br>`A-な → な / である`<br>`N → N / である` | Vế sau bổ sung thêm thông tin có mức độ cao hơn, mang tính bất ngờ hoặc nghiêm trọng hơn. |
+| 36 | **[～ばかりだ](#5-ばかりだ-cứ-ngày-càng-chiều-hướng-xấu)** | Cứ ngày càng... (chiều hướng xấu) | `V-る + ばかりだ` | Diễn tả một sự biến đổi đang tiếp diễn liên tục và thường là theo chiều hướng tiêu cực. |
+|  |
 
 ---
 

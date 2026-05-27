@@ -6,13 +6,14 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～もさることながら](#1-もさることながら-a-thì-đương-nhiên-nhưng-b-còn-hơn)** | A thì đương nhiên, nhưng B còn... | `N + もさることながら` | Khẳng định A đã rất quan trọng/hiển nhiên rồi, nhưng vế sau B còn quan trọng hoặc đáng chú ý hơn thế nữa. |
-| **[2. ～と相まって](#2-と相まって-kết-hợp-cùng-với--hòa-quyện-với)** | Kết hợp cùng với... / Cộng thêm... | `N + と相まって` | Hai yếu tố A và B cùng tác động song song tạo ra một kết quả tích cực hoặc ấn tượng nhân đôi. |
-| **[3. ～ならでは](#3-ならでは-chỉ-có-thể-là-mới-có)** | Chỉ có thể là... mới có | `N + ならでは`<br>`N + ならではの + N2` | Tôn vinh, ca ngợi tính chất độc quyền, tuyệt vời chỉ đối tượng N mới sở hữu, ngoài ra không có nơi nào có được. |
-| **[4. ～にもまして](#4-にもまして-hơn-cả--so-với)** | Hơn cả... / So với... | `N + にもまして`<br>`Nghi vấn từ + にもまして` | Nhấn mạnh mức độ hiện tại hoặc của đối tượng này vượt trội hơn hẳn so với quá khứ hoặc so với các đối tượng khác. |
-| **[5. ～と並んで](#5-と-並んで-ngang-hàng-với--bên-cạnh)** | Ngang hàng với... / Sánh vai với... | `N + と並んで`<br>`N + に並ぶ + N2` | Diễn tả hai sự vật có giá trị, địa vị hoặc sức mạnh tương đương nhau, cùng đứng ở vị trí hàng đầu. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 130 | **[～もさることながら](#1-もさることながら-a-thì-đương-nhiên-nhưng-b-còn-hơn)** | A thì đương nhiên, nhưng B còn... | `N + もさることながら` | Khẳng định A đã rất quan trọng/hiển nhiên rồi, nhưng vế sau B còn quan trọng hoặc đáng chú ý hơn thế nữa. |
+| 131 | **[～と相まって](#2-と相まって-kết-hợp-cùng-với--hòa-quyện-với)** | Kết hợp cùng với... / Cộng thêm... | `N + と相まって` | Hai yếu tố A và B cùng tác động song song tạo ra một kết quả tích cực hoặc ấn tượng nhân đôi. |
+| 132 | **[～ならでは](#3-ならでは-chỉ-có-thể-là-mới-có)** | Chỉ có thể là... mới có | `N + ならでは`<br>`N + ならではの + N2` | Tôn vinh, ca ngợi tính chất độc quyền, tuyệt vời chỉ đối tượng N mới sở hữu, ngoài ra không có nơi nào có được. |
+| 133 | **[～にもまして](#4-にもまして-hơn-cả--so-với)** | Hơn cả... / So với... | `N + にもまして`<br>`Nghi vấn từ + にもまして` | Nhấn mạnh mức độ hiện tại hoặc của đối tượng này vượt trội hơn hẳn so với quá khứ hoặc so với các đối tượng khác. |
+| 134 | **[～と並んで](#5-と-並んで-ngang-hàng-với--bên-cạnh)** | Ngang hàng với... / Sánh vai với... | `N + と並んで`<br>`N + に並ぶ + N2` | Diễn tả hai sự vật có giá trị, địa vị hoặc sức mạnh tương đương nhau, cùng đứng ở vị trí hàng đầu. |
+|  |
 
 ---
 

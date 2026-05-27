@@ -6,13 +6,14 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～にして](#1-にして-phải-đến--chỉ-mới--vừa-là)** | Phải đến... / Chỉ mới... / Vừa là... | `N + にして` | **① Thời điểm**: Phải đến mốc đó mới làm (hoặc chỉ mới thế mà đã).<br>**② Song song**: Đồng thời sở hữu 2 chức năng. |
-| **[2. ～をもって](#2-をもって-kể-từ-bằng-phương-pháp)** | Kể từ... / Bằng (phương pháp) | `N + を持って` | **① Mốc thời gian**: Tuyên bố bắt đầu/kết thúc công việc.<br>**② Phương thức**: Bằng văn bản, bằng thực lực... (Trang trọng). |
-| **[3. ～を控えて](#3-を控えて-cận-kề--trước-thềm)** | Cận kề... / Trước thềm... | `N + を控えて` | Chỉ ra bối cảnh chuẩn bị, lo lắng trước thềm một sự kiện lớn sắp diễn ra rất gần. |
-| **[4. ～を皮切りに](#4-を皮切りに-bắt-đầu-với-và-lan-rộng)** | Bắt đầu với... (và lan rộng) | `N + を皮切りに / を皮切りにして` | Diễn tả chuỗi sự kiện tương tự bùng nổ, bắt đầu từ điểm xuất phát N (concert, cuộc biểu tình, chi nhánh...). |
-| **[5. ～を契机に](#5-to-契機に-nhân-cơ-hội-bước-ngoặt)** | Nhân cơ hội... / Từ bước ngoặt... | `N + を契机に / を契机として` | Nhờ có sự kiện mang tính bước ngoặt N (ốm đau, kết hôn, đổi luật) dẫn đến sự thay đổi hoàn toàn cục diện. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 98 | **[～にして](#1-にして-phải-đến--chỉ-mới--vừa-là)** | Phải đến... / Chỉ mới... / Vừa là... | `N + にして` | **① Thời điểm**: Phải đến mốc đó mới làm (hoặc chỉ mới thế mà đã).<br>**② Song song**: Đồng thời sở hữu 2 chức năng. |
+| 99 | **[～をもって](#2-をもって-kể-từ-bằng-phương-pháp)** | Kể từ... / Bằng (phương pháp) | `N + を持って` | **① Mốc thời gian**: Tuyên bố bắt đầu/kết thúc công việc.<br>**② Phương thức**: Bằng văn bản, bằng thực lực... (Trang trọng). |
+| 100 | **[～を控えて](#3-を控えて-cận-kề--trước-thềm)** | Cận kề... / Trước thềm... | `N + を控えて` | Chỉ ra bối cảnh chuẩn bị, lo lắng trước thềm một sự kiện lớn sắp diễn ra rất gần. |
+| 101 | **[～を皮切りに](#4-を皮切りに-bắt-đầu-với-và-lan-rộng)** | Bắt đầu với... (và lan rộng) | `N + を皮切りに / を皮切りにして` | Diễn tả chuỗi sự kiện tương tự bùng nổ, bắt đầu từ điểm xuất phát N (concert, cuộc biểu tình, chi nhánh...). |
+| 102 | **[～を契机に](#5-to-契機に-nhân-cơ-hội-bước-ngoặt)** | Nhân cơ hội... / Từ bước ngoặt... | `N + を契机に / を契机として` | Nhờ có sự kiện mang tính bước ngoặt N (ốm đau, kết hôn, đổi luật) dẫn đến sự thay đổi hoàn toàn cục diện. |
+|  |
 
 ---
 

@@ -6,12 +6,13 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～をめぐって](#1-をめぐって-xoay-quanh)** | Xoay quanh... (tranh luận/tranh chấp) | `N + をめぐって / をめぐる` | Biểu thị đối tượng tranh chấp, thảo luận, tranh cãi có nhiều ý kiến trái chiều từ nhiều phía. |
-| **[2. ～に即して](#2-に即して-dựa-theo-quy-địnhtb-thực-tế)** | Dựa theo (quy định/thực tế)... | `N + に即して / に即した` | Bám sát thực tế, sự thật hoặc quy chuẩn pháp lý để hành động (không đi lệch hướng). |
-| **[3. ～にこたえて](#3-にこたえて-đáp-ứng-lại-mong-mỏikỳ-vọng)** | Đáp ứng lại (mong mỏi/kỳ vọng)... | `N + にこたえて / にこたえる` | Thực hiện hành động để đền đáp hoặc đáp lại tấm lòng, yêu cầu, mong ước của đối phương. |
-| **[4. ～にかかわる](#4-にかかわる-liên-quan-tớicó-ảnh-hưởng-tới)** | Liên quan tới... / Ảnh hưởng tới... | `N + にかかわる` | Thường đi với các danh từ có tính hệ trọng (mạng sống, danh dự, uy tín, tương lai). |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 106 | **[～をめぐって](#1-をめぐって-xoay-quanh)** | Xoay quanh... (tranh luận/tranh chấp) | `N + をめぐって / をめぐる` | Biểu thị đối tượng tranh chấp, thảo luận, tranh cãi có nhiều ý kiến trái chiều từ nhiều phía. |
+| 107 | **[～に即して](#2-に即して-dựa-theo-quy-địnhtb-thực-tế)** | Dựa theo (quy định/thực tế)... | `N + に即して / に即した` | Bám sát thực tế, sự thật hoặc quy chuẩn pháp lý để hành động (không đi lệch hướng). |
+| 108 | **[～にこたえて](#3-にこたえて-đáp-ứng-lại-mong-mỏikỳ-vọng)** | Đáp ứng lại (mong mỏi/kỳ vọng)... | `N + にこたえて / にこたえる` | Thực hiện hành động để đền đáp hoặc đáp lại tấm lòng, yêu cầu, mong ước của đối phương. |
+| 109 | **[～にかかわる](#4-にかかわる-liên-quan-tớicó-ảnh-hưởng-tới)** | Liên quan tới... / Ảnh hưởng tới... | `N + にかかわる` | Thường đi với các danh từ có tính hệ trọng (mạng sống, danh dự, uy tín, tương lai). |
+|  |
 
 ---
 

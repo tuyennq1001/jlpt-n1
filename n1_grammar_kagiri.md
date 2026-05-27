@@ -6,13 +6,14 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～を限りに](#1-を限りに-đến-hết--lần-cuối-cùng)** | Đến hết... / Lần cuối cùng... | `N + を限りに` | Đưa ra mốc thời gian cuối cùng để chấm dứt một trạng thái hoặc hoạt động lâu dài. |
-| **[2. ～限りだ](#2-限りだ-cực-kỳ--rất)** | Cực kỳ... / Rất... | `A + 限りだ`<br>*(A-な → な)* | Nhấn mạnh cảm xúc chủ quan của người nói đối với một sự việc (thường đi với tính từ chỉ cảm xúc). |
-| **[3. ～限り（は）](#3-限りは-chừng-nào-còn-thì-vẫn)** | Chừng nào còn... thì vẫn... | `V-る・A-い・A-な・N + 限り（は）`<br>`A-な → な/である`<br>`N → である` | Diễn tả một điều kiện tiếp diễn: Nếu tình trạng vế trước còn duy trì thì vế sau vẫn tiếp tục. |
-| **[4. ～ない限り](#4-ない限り-trừ-khi--nếu-không-thì-không)** | Trừ khi... / Nếu không... | `V-ない + 限り` | Diễn tả điều kiện bắt buộc: Nếu hành động vế trước không xảy ra thì vế sau cũng không thể thực hiện. |
-| **[5. ～限りでは](#5-限りでは-trong-phạm-vi-những-gì)** | Trong phạm vi (những gì)... | `V-る / V-た + 限りでは` | Giới hạn nguồn thông tin mà người nói dùng để đưa ra nhận định hoặc phán đoán của mình. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 37 | **[～を限りに](#1-を限りに-đến-hết--lần-cuối-cùng)** | Đến hết... / Lần cuối cùng... | `N + を限りに` | Đưa ra mốc thời gian cuối cùng để chấm dứt một trạng thái hoặc hoạt động lâu dài. |
+| 38 | **[～限りだ](#2-限りだ-cực-kỳ--rất)** | Cực kỳ... / Rất... | `A + 限りだ`<br>*(A-な → な)* | Nhấn mạnh cảm xúc chủ quan của người nói đối với một sự việc (thường đi với tính từ chỉ cảm xúc). |
+| 39 | **[～限り（は）](#3-限りは-chừng-nào-còn-thì-vẫn)** | Chừng nào còn... thì vẫn... | `V-る・A-い・A-な・N + 限り（は）`<br>`A-な → な/である`<br>`N → である` | Diễn tả một điều kiện tiếp diễn: Nếu tình trạng vế trước còn duy trì thì vế sau vẫn tiếp tục. |
+| 40 | **[～ない限り](#4-ない限り-trừ-khi--nếu-không-thì-không)** | Trừ khi... / Nếu không... | `V-ない + 限り` | Diễn tả điều kiện bắt buộc: Nếu hành động vế trước không xảy ra thì vế sau cũng không thể thực hiện. |
+| 41 | **[～限りでは](#5-限りでは-trong-phạm-vi-những-gì)** | Trong phạm vi (những gì)... | `V-る / V-た + 限りでは` | Giới hạn nguồn thông tin mà người nói dùng để đưa ra nhận định hoặc phán đoán của mình. |
+|  |
 
 ---
 

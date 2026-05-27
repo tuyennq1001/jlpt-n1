@@ -6,15 +6,16 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～といえども](#1-といえども-dù-nói-thế-đi-chăng-nữa)** | Dù nói thế đi chăng nữa... | `V-る・A-い・A-な・N + といえども`<br>`N + といえども` | Khẳng định ngay cả trường hợp đặc biệt ở vế trước thì thực tế vế sau vẫn đúng. Văn phong trang trọng. |
-| **[2. ～思いきや](#2-思いきや-cứ-nghĩ-là-ai-ngờ)** | Cứ nghĩ là... ai ngờ... | `V-る・A-い・A-な・N + と思いきや` | Thể hiện sự ngạc nhiên tột độ của người nói trước một kết quả hoàn toàn trái ngược với suy đoán ban đầu. |
-| **[3. ～とはいえ](#3-とはいえ-mặc-dù-rằng-tuy-nói-thế-nhưng)** | Mặc dù là... / Tuy nói thế nhưng... | `V-る・A-い・A-な・N + とは言え`<br>`N + とは言え` | Thừa nhận thực tế ở vế trước, nhưng vế sau lại đưa ra nhận định hoặc thực tế có mức độ khác đi. |
-| **[4. ～ながらも](#4-ながらも-tuy-nhưng-mặc-dù)** | Tuy... nhưng... / Mặc dù... | `V-ます (bỏ ます) + ながらも`<br>`A / N + ながらも` | Thường đi với các từ chỉ trạng thái trái ngược (tiêu cực - tích cực). Sắc thái khá trang trọng. |
-| **[5. ～つつも](#5-つつも-dù-biết-nhưng-vẫn)** | Dù biết là... nhưng vẫn... | `V-ます (bỏ ます) + つつも` | Vế trước là nhận thức, vế sau là hành động mâu thuẫn với nhận thức đó (thường mang tính tự trách, hối hận). |
-| **[6. ～ものの](#6-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・A-い・A-な・N + ものの` | Diễn tả thực tế tương phản nhẹ nhàng (tương tự như が hay けれど nhưng trang trọng hơn). |
-| **[7. ～からといって](#7-からといって-không-phải-cứ-thì)** | Không phải cứ... thì... | `V-る・A-い・A-な・N + からといって` | Bác bỏ lập luận phiến diện: Cứ có lý do ở vế trước thì đương nhiên có kết quả vế sau. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 78 | **[～といえども](#1-といえども-dù-nói-thế-đi-chăng-nữa)** | Dù nói thế đi chăng nữa... | `V-る・A-い・A-な・N + といえども`<br>`N + といえども` | Khẳng định ngay cả trường hợp đặc biệt ở vế trước thì thực tế vế sau vẫn đúng. Văn phong trang trọng. |
+| 79 | **[～思いきや](#2-思いきや-cứ-nghĩ-là-ai-ngờ)** | Cứ nghĩ là... ai ngờ... | `V-る・A-い・A-な・N + と思いきや` | Thể hiện sự ngạc nhiên tột độ của người nói trước một kết quả hoàn toàn trái ngược với suy đoán ban đầu. |
+| 80 | **[～とはいえ](#3-とはいえ-mặc-dù-rằng-tuy-nói-thế-nhưng)** | Mặc dù là... / Tuy nói thế nhưng... | `V-る・A-い・A-な・N + とは言え`<br>`N + とは言え` | Thừa nhận thực tế ở vế trước, nhưng vế sau lại đưa ra nhận định hoặc thực tế có mức độ khác đi. |
+| 81 | **[～ながらも](#4-ながらも-tuy-nhưng-mặc-dù)** | Tuy... nhưng... / Mặc dù... | `V-ます (bỏ ます) + ながらも`<br>`A / N + ながらも` | Thường đi với các từ chỉ trạng thái trái ngược (tiêu cực - tích cực). Sắc thái khá trang trọng. |
+| 82 | **[～つつも](#5-つつも-dù-biết-nhưng-vẫn)** | Dù biết là... nhưng vẫn... | `V-ます (bỏ ます) + つつも` | Vế trước là nhận thức, vế sau là hành động mâu thuẫn với nhận thức đó (thường mang tính tự trách, hối hận). |
+| 83 | **[～ものの](#6-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・A-い・A-な・N + ものの` | Diễn tả thực tế tương phản nhẹ nhàng (tương tự như が hay けれど nhưng trang trọng hơn). |
+| 84 | **[～からといって](#7-からといって-không-phải-cứ-thì)** | Không phải cứ... thì... | `V-る・A-い・A-な・N + からといって` | Bác bỏ lập luận phiến diện: Cứ có lý do ở vế trước thì đương nhiên có kết quả vế sau. |
+|  |
 
 ---
 

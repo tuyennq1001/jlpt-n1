@@ -6,15 +6,16 @@
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～ところを](#1-ところを-đang-lúc-trong-lúc)** | Đang lúc... / Trong lúc... | `V-る・A-い・A-な・N + ところを`<br>`N + の + ところを` | **① Tạ lỗi/Cảm ơn**: Dùng làm tiền đề khi nhờ vả, tạ lỗi hoặc cảm ơn.<br>**② Bắt gặp**: Bị phát hiện/chặn lại đúng lúc đang làm gì. |
-| **[2. ～たところで](#2-たところで-dù-có-đi-chăng-nữa-cũng-vô-ích)** | Dù có... cũng vô ích | `V-た + ところで` | Giả định một hành động dù có thực hiện thì kết quả vẫn không thay đổi (tiêu cực/vô nghĩa). |
-| **[3. ～ところから](#3-ところから-từ-chỗ-chính-vì-lý-do)** | Từ chỗ... / Chính vì... | `V-る・A-い・A-な・N + ところから` | Giải thích nguồn gốc của một tên gọi, hoặc đưa ra căn cứ khách quan cho một phán đoán. |
-| **[4. ～ところだった](#4-ところだった-suýt-chút-nữa-thì)** | Suýt chút nữa thì... | `V-る + ところだった` | Diễn tả một sự việc suýt nữa đã xảy ra (thường là kết quả xấu nhưng may mắn đã tránh được). |
-| **[5. ～どころか](#5-どころか-nói-chi-đến-ngược-lại-còn)** | Nói chi đến... / Ngược lại còn... | `V-る・A-い・A-な・N + どころか` | Phủ định vế trước để nhấn mạnh tình trạng ở vế sau còn cực đoan hoặc trái ngược hoàn toàn. |
-| **[6. ～どころではない](#6-どころではない-không-phải-là-lúc-không-thể)** | Không phải lúc... / Không thể... | `V-る / N + どころではない` | Tình hình hiện tại đang quá bận rộn hoặc tồi tệ, khiến việc thực hiện hành động trở nên bất khả thi. |
-| **[7. ～たところ](#7-たところ-sau-khí-thử-làm-thì)** | Sau khi thử làm... thì... | `V-た + ところ` | Diễn tả việc sau khi thử thực hiện hành động A thì nhận lại kết quả hoặc phát hiện thông tin B. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 25 | **[～ところを](#1-ところを-đang-lúc-trong-lúc)** | Đang lúc... / Trong lúc... | `V-る・A-い・A-な・N + ところを`<br>`N + の + ところを` | **① Tạ lỗi/Cảm ơn**: Dùng làm tiền đề khi nhờ vả, tạ lỗi hoặc cảm ơn.<br>**② Bắt gặp**: Bị phát hiện/chặn lại đúng lúc đang làm gì. |
+| 26 | **[～たところで](#2-たところで-dù-có-đi-chăng-nữa-cũng-vô-ích)** | Dù có... cũng vô ích | `V-た + ところで` | Giả định một hành động dù có thực hiện thì kết quả vẫn không thay đổi (tiêu cực/vô nghĩa). |
+| 27 | **[～ところから](#3-ところから-từ-chỗ-chính-vì-lý-do)** | Từ chỗ... / Chính vì... | `V-る・A-い・A-な・N + ところから` | Giải thích nguồn gốc của một tên gọi, hoặc đưa ra căn cứ khách quan cho một phán đoán. |
+| 28 | **[～ところだった](#4-ところだった-suýt-chút-nữa-thì)** | Suýt chút nữa thì... | `V-る + ところだった` | Diễn tả một sự việc suýt nữa đã xảy ra (thường là kết quả xấu nhưng may mắn đã tránh được). |
+| 29 | **[～どころか](#5-どころか-nói-chi-đến-ngược-lại-còn)** | Nói chi đến... / Ngược lại còn... | `V-る・A-い・A-な・N + どころか` | Phủ định vế trước để nhấn mạnh tình trạng ở vế sau còn cực đoan hoặc trái ngược hoàn toàn. |
+| 30 | **[～どころではない](#6-どころではない-không-phải-là-lúc-không-thể)** | Không phải lúc... / Không thể... | `V-る / N + どころではない` | Tình hình hiện tại đang quá bận rộn hoặc tồi tệ, khiến việc thực hiện hành động trở nên bất khả thi. |
+| 31 | **[～たところ](#7-たところ-sau-khí-thử-làm-thì)** | Sau khi thử làm... thì... | `V-た + ところ` | Diễn tả việc sau khi thử thực hiện hành động A thì nhận lại kết quả hoặc phát hiện thông tin B. |
+|  |
 
 ---
 

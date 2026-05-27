@@ -6,11 +6,12 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～をよそに](#1-をよそに-mặc-kệ--bất-chấp)** | Mặc kệ... / Bất chấp... | `N + をよそに` | Thực hiện hành động mặc kệ sự lo lắng, phản đối hoặc kỳ vọng của người khác xung quanh. |
-| **[2. ～なくして（は）](#2-なくしては-nếu-không-có-thì-không-thể)** | Nếu không có... thì không thể... | `N + なくして（は）` | Nhấn mạnh danh từ phía trước là điều kiện sinh tử, bắt buộc phải có để đạt được kết quả vế sau. |
-| **[3. ～なしに（は）](#3-なしには-mà-không-có)** | Mà không có... / Nếu không có... | `N + なしに（は）`<br>`V-る + ことなしに（は）` | Thực hiện hành động mà bỏ qua hoặc không cần trải qua điều kiện thông thường ở vế trước. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 95 | **[～をよそに](#1-をよそに-mặc-kệ--bất-chấp)** | Mặc kệ... / Bất chấp... | `N + をよそに` | Thực hiện hành động mặc kệ sự lo lắng, phản đối hoặc kỳ vọng của người khác xung quanh. |
+| 96 | **[～なくして（は）](#2-なくしては-nếu-không-có-thì-không-thể)** | Nếu không có... thì không thể... | `N + なくして（は）` | Nhấn mạnh danh từ phía trước là điều kiện sinh tử, bắt buộc phải có để đạt được kết quả vế sau. |
+| 97 | **[～なしに（は）](#3-なしには-mà-không-có)** | Mà không có... / Nếu không có... | `N + なしに（は）`<br>`V-る + ことなしに（は）` | Thực hiện hành động mà bỏ qua hoặc không cần trải qua điều kiện thông thường ở vế trước. |
+|  |
 
 ---
 

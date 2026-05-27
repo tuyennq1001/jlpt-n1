@@ -6,11 +6,12 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～が早いか](#1-が早いか-vừa-mới-thì-lập-tức)** | Vừa mới... thì lập tức... | `V-る / V-た + が早いか` | Nhấn mạnh tốc độ tức thời. Vế sau thường là sự việc hơi bất ngờ, khách quan. |
-| **[2. ～や / ～や否や](#2-や--や否や-ngay-sau-khi)** | Ngay sau khi... | `V-る + や / や否や` | Nhấn mạnh khoảnh khắc đồng thời giữa A và B. Vế sau diễn ra tự nhiên, không thể hiện ý chí của người nói. |
-| **[3. ～そばから](#3-そばから-vừa-mới-xong-thì-lại)** | Vừa mới... xong thì lại... | `V-る / V-た + そばから` | Diễn tả hành động lặp đi lặp lại nhiều lần. Thường mang sắc thái tiêu cực (phàn nàn, mệt mỏi). |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 61 | **[～が早いか](#1-が早いか-vừa-mới-thì-lập-tức)** | Vừa mới... thì lập tức... | `V-る / V-た + が早いか` | Nhấn mạnh tốc độ tức thời. Vế sau thường là sự việc hơi bất ngờ, khách quan. |
+| 62 | **[～や / ～や否や](#2-や--や否や-ngay-sau-khi)** | Ngay sau khi... | `V-る + や / や否や` | Nhấn mạnh khoảnh khắc đồng thời giữa A và B. Vế sau diễn ra tự nhiên, không thể hiện ý chí của người nói. |
+| 63 | **[～そばから](#3-そばから-vừa-mới-xong-thì-lại)** | Vừa mới... xong thì lại... | `V-る / V-た + そばから` | Diễn tả hành động lặp đi lặp lại nhiều lần. Thường mang sắc thái tiêu cực (phàn nàn, mệt mỏi). |
+|  |
 
 ---
 

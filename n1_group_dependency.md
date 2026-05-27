@@ -6,11 +6,12 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～いかん](#1-いかん--いかんによっては-tùy-thuộc-vào)** | Tùy thuộc vào... | `N + (の) + いかん`<br>`N + (の) + いかんによっては` | Thể hiện mức độ hoặc kết quả ở vế sau thay đổi hoàn toàn dựa trên danh từ vế trước. |
-| **[2. ～あっての](#2-あっての-chính-nhờ-có-mới-có)** | Chính nhờ có... mới có... | `N1 + あっての + N2` | Nhấn mạnh vai trò sinh tử, tối quan trọng của N1 đối với sự tồn tại của N2. |
-| **[3. ～をおいて](#3-をおいて-ngoại-trừ-ra-thì-không-ai-khác)** | Ngoại trừ... ra thì không ai khác | `N + をおいて` | Khẳng định đối tượng N là ứng viên phù hợp nhất hoặc duy nhất cho vị trí/vai trò đó. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 75 | **[～いかん](#1-いかん--いかんによっては-tùy-thuộc-vào)** | Tùy thuộc vào... | `N + (の) + いかん`<br>`N + (の) + いかんによっては` | Thể hiện mức độ hoặc kết quả ở vế sau thay đổi hoàn toàn dựa trên danh từ vế trước. |
+| 76 | **[～あっての](#2-あっての-chính-nhờ-có-mới-có)** | Chính nhờ có... mới có... | `N1 + あっての + N2` | Nhấn mạnh vai trò sinh tử, tối quan trọng của N1 đối với sự tồn tại của N2. |
+| 77 | **[～をおいて](#3-をおいて-ngoại-trừ-ra-thì-không-ai-khác)** | Ngoại trừ... ra thì không ai khác | `N + をおいて` | Khẳng định đối tượng N là ứng viên phù hợp nhất hoặc duy nhất cho vị trí/vai trò đó. |
+|  |
 
 ---
 

@@ -6,12 +6,13 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～ずにはすまない](#1-ずにはすまない--ないではすまない-không-thể-không-làm-vì-trách-nhiệm)** | Không thể không... (vì trách nhiệm/đạo đức) | `V-ない (bỏ ない) + ずにはすまない`<br>*(する → せずにはすまない)*<br>`V-ない + ではすまない` | Bản thân nhận thức được về mặt đạo lý, luật lệ hoặc dư luận xã hội rằng nếu không làm thì không thể chấp nhận được. |
-| **[2. ～ずにはいられない](#2-ずにはいられない--ないではいられない-không-thể-nhịn-được-cảm-xúc)** | Không thể nhịn được... (cảm xúc bộc phát) | `V-ない (bỏ ない) + ずにはいられない`<br>*(する → せずにはいられない)*<br>`V-て + はいられない` *(đang làm gì)* | Diễn tả cảm xúc, phản xạ tự nhiên của cơ thể hoặc tâm lý quá mạnh mẽ, không thể kìm nén được. |
-| **[3. ～てやまない](#3-てやまない-luôn-không-ngừng-mong-mỏi)** | Luôn không ngừng... / Hoài... | `V-て + やまない` | Biểu thị cảm xúc cầu chúc, mong mỏi, biết ơn mạnh mẽ từ đáy lòng (văn phong trang trọng). |
-| **[4. ～を余儀なくされる](#4-を余儀なくされる-buộc-phải-làm-do-hoàn-cảnh)** | Buộc phải làm... (do hoàn cảnh) | `N + を余儀なくされる` | Bị rơi vào thế bắt buộc phải thực hiện hành động do tình huống khách quan đưa đẩy (dù bản thân không muốn). |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 71 | **[～ずにはすまない](#1-ずにはすまない--ないではすまない-không-thể-không-làm-vì-trách-nhiệm)** | Không thể không... (vì trách nhiệm/đạo đức) | `V-ない (bỏ ない) + ずにはすまない`<br>*(する → せずにはすまない)*<br>`V-ない + ではすまない` | Bản thân nhận thức được về mặt đạo lý, luật lệ hoặc dư luận xã hội rằng nếu không làm thì không thể chấp nhận được. |
+| 72 | **[～ずにはいられない](#2-ずにはいられない--ないではいられない-không-thể-nhịn-được-cảm-xúc)** | Không thể nhịn được... (cảm xúc bộc phát) | `V-ない (bỏ ない) + ずにはいられない`<br>*(する → せずにはいられない)*<br>`V-て + はいられない` *(đang làm gì)* | Diễn tả cảm xúc, phản xạ tự nhiên của cơ thể hoặc tâm lý quá mạnh mẽ, không thể kìm nén được. |
+| 73 | **[～てやまない](#3-てやまない-luôn-không-ngừng-mong-mỏi)** | Luôn không ngừng... / Hoài... | `V-て + やまない` | Biểu thị cảm xúc cầu chúc, mong mỏi, biết ơn mạnh mẽ từ đáy lòng (văn phong trang trọng). |
+| 74 | **[～を余儀なくされる](#4-を余儀なくされる-buộc-phải-làm-do-hoàn-cảnh)** | Buộc phải làm... (do hoàn cảnh) | `N + を余儀なくされる` | Bị rơi vào thế bắt buộc phải thực hiện hành động do tình huống khách quan đưa đẩy (dù bản thân không muốn). |
+|  |
 
 ---
 

@@ -6,13 +6,14 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～上は](#1-上は-một-khi-đã-thì-phải)** | Một khi đã... thì phải... | `V-る / V-た + 上は` | Bày tỏ quyết tâm, nghĩa vụ hoặc trách nhiệm chắc chắn phải thực hiện sau khi đã quyết định một việc. |
-| **[2. ～上（じょう）](#2-上じょう-về-mặt-trên-phương-diện)** | Về mặt... / Trên phương diện... | `N + 上（じょう / じょうの）` | Đứng sau danh từ để khoanh vùng khía cạnh xem xét (pháp luật, lịch sử, lý thuyết, công việc...). |
-| **[3. ～上で / ～上の (Trình tự)](#3-上で--上の-sau-khi-làm-thì-mới)** | Sau khi làm... thì mới... | `V-た + 上で`<br>`N + の上で` | Diễn tả chuỗi hành động: Phải thực hiện xong việc A (chuẩn bị) thì mới tiến hành việc B. |
-| **[4. ～上で / ～上の (Bối cảnh)](#4-上で--上の-trong-quá-trình-khi-làm)** | Trong quá trình... / Khi làm... | `V-る + 上で`<br>`N + の上で` | Chỉ ra những điểm quan trọng, điều kiện hoặc khó khăn phát sinh trong bối cảnh thực hiện việc gì. |
-| **[5. ～上に](#5-上に-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + 上に`<br>`A-な → な/である`<br>`N → の/である` | Bổ sung thêm thông tin cùng chiều (cùng tốt hoặc cùng xấu) để tăng sức thuyết phục cho câu. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 42 | **[～上は](#1-上は-một-khi-đã-thì-phải)** | Một khi đã... thì phải... | `V-る / V-た + 上は` | Bày tỏ quyết tâm, nghĩa vụ hoặc trách nhiệm chắc chắn phải thực hiện sau khi đã quyết định một việc. |
+| 43 | **[～上（じょう）](#2-上じょう-về-mặt-trên-phương-diện)** | Về mặt... / Trên phương diện... | `N + 上（じょう / じょうの）` | Đứng sau danh từ để khoanh vùng khía cạnh xem xét (pháp luật, lịch sử, lý thuyết, công việc...). |
+| 44 | **[～上で / ～上の (Trình tự)](#3-上で--上の-sau-khi-làm-thì-mới)** | Sau khi làm... thì mới... | `V-た + 上で`<br>`N + の上で` | Diễn tả chuỗi hành động: Phải thực hiện xong việc A (chuẩn bị) thì mới tiến hành việc B. |
+| 45 | **[～上で / ～上の (Bối cảnh)](#4-上で--上の-trong-quá-trình-khi-làm)** | Trong quá trình... / Khi làm... | `V-る + 上で`<br>`N + の上で` | Chỉ ra những điểm quan trọng, điều kiện hoặc khó khăn phát sinh trong bối cảnh thực hiện việc gì. |
+| 46 | **[～上に](#5-上に-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + 上に`<br>`A-な → な/である`<br>`N → の/である` | Bổ sung thêm thông tin cùng chiều (cùng tốt hoặc cùng xấu) để tăng sức thuyết phục cho câu. |
+|  |
 
 ---
 

@@ -6,17 +6,18 @@
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～ことなしに](#1-ことなしに-nếu-không-làm-gì-mà-không)** | Nếu không làm gì / Mà không... | `V-る + ことなしに(は)` | Diễn tả điều kiện bắt buộc phải có để đạt vế sau. Trang trọng, thường dùng trong văn viết. |
-| **[2. ～こととて](#2-こととて-vì-do-là)** | Vì... / Do là... | `V-る・A-い・A-な・N + こととて`<br>`N + の + こととて` | Đưa ra lý do khách quan để xin lỗi hoặc mong sự thông cảm (văn phong cổ, trang trọng). |
-| **[3. ～ことに](#3-ことに-thật-là-làm-sao-đáng-kinh-ngạc-là)** | Thật là... / Đáng... là | `V-た / A-い / A-な + ことに` | Biểu thị cảm xúc mạnh mẽ của người nói trước khi trình bày một sự việc. |
-| **[4. ～ないことには](#4-ないことには-nếu-không-thì-không)** | Nếu không... thì không... | `V-ない + ことには`<br>`A-い + くないことには` | Vế trước là điều kiện cần thiết, vế sau luôn mang nghĩa phủ định hoặc bất khả thi. |
-| **[5. ～ことだから](#5-ことだから-vì-là-ai-đó-nên)** | Vì là (ai đó) nên... | `N + のことだから` | Dựa vào tính cách, thói quen đặc trưng của ai đó để đưa ra dự đoán hoặc nhận định. |
-| **[6. ～こともあって](#6-こともあって-cũng-một-phần-vì)** | Cũng một phần vì... | `V-る・A-い・A-な・N + こともあって` | Đưa ra một lý do tiêu biểu trong số nhiều lý do dẫn đến kết quả ở vế sau. |
-| **[7. ～ことなく](#7-ことなく-mà-không-hề-không-bị-gián-đoạn)** | Mà không hề... | `V-る + ことなく` | Hành động diễn ra liên tục, suôn sẻ mà không bị gián đoạn hay gặp trở ngại. (Dạng trang trọng của `～ないで`). |
-| **[8. ～ことだ](#8-ことda-nên-khuyên-bảo--thật-là-cảm-thán)** | Nên... (khuyên bảo) / Thật là... | `V-る/V-ない + ことだ`<br>`A-い/A-な + ことだ` | **Khuyên bảo**: Lời khuyên trực tiếp, nhẹ nhàng.<br>**Cảm thán**: Bày tỏ cảm xúc với tính từ. |
-| **[9. ～といったらありはしない](#9-といったらありはしない-cực-kỳ--không-thể-tả-xiết)** | Cực kỳ... / Không thể tả xiết | `A-い / A-な + ことといったらありはしない` | Nhấn mạnh mức độ cực kỳ cao của một trạng thái (thường là tiêu cực hoặc phiền toái). |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 16 | **[～ことなしに](#1-ことなしに-nếu-không-làm-gì-mà-không)** | Nếu không làm gì / Mà không... | `V-る + ことなしに(は)` | Diễn tả điều kiện bắt buộc phải có để đạt vế sau. Trang trọng, thường dùng trong văn viết. |
+| 17 | **[～こととて](#2-こととて-vì-do-là)** | Vì... / Do là... | `V-る・A-い・A-な・N + こととて`<br>`N + の + こととて` | Đưa ra lý do khách quan để xin lỗi hoặc mong sự thông cảm (văn phong cổ, trang trọng). |
+| 18 | **[～ことに](#3-ことに-thật-là-làm-sao-đáng-kinh-ngạc-là)** | Thật là... / Đáng... là | `V-た / A-い / A-な + ことに` | Biểu thị cảm xúc mạnh mẽ của người nói trước khi trình bày một sự việc. |
+| 19 | **[～ないことには](#4-ないことには-nếu-không-thì-không)** | Nếu không... thì không... | `V-ない + ことには`<br>`A-い + くないことには` | Vế trước là điều kiện cần thiết, vế sau luôn mang nghĩa phủ định hoặc bất khả thi. |
+| 20 | **[～ことだから](#5-ことだから-vì-là-ai-đó-nên)** | Vì là (ai đó) nên... | `N + のことだから` | Dựa vào tính cách, thói quen đặc trưng của ai đó để đưa ra dự đoán hoặc nhận định. |
+| 21 | **[～こともあって](#6-こともあって-cũng-một-phần-vì)** | Cũng một phần vì... | `V-る・A-い・A-な・N + こともあって` | Đưa ra một lý do tiêu biểu trong số nhiều lý do dẫn đến kết quả ở vế sau. |
+| 22 | **[～ことなく](#7-ことなく-mà-không-hề-không-bị-gián-đoạn)** | Mà không hề... | `V-る + ことなく` | Hành động diễn ra liên tục, suôn sẻ mà không bị gián đoạn hay gặp trở ngại. (Dạng trang trọng của `～ないで`). |
+| 23 | **[～ことだ](#8-ことda-nên-khuyên-bảo--thật-là-cảm-thán)** | Nên... (khuyên bảo) / Thật là... | `V-る/V-ない + ことだ`<br>`A-い/A-な + ことだ` | **Khuyên bảo**: Lời khuyên trực tiếp, nhẹ nhàng.<br>**Cảm thán**: Bày tỏ cảm xúc với tính từ. |
+| 24 | **[～といったらありはしない](#9-といったらありはしない-cực-kỳ--không-thể-tả-xiết)** | Cực kỳ... / Không thể tả xiết | `A-い / A-な + ことといったらありはしない` | Nhấn mạnh mức độ cực kỳ cao của một trạng thái (thường là tiêu cực hoặc phiền toái). |
+|  |
 
 ---
 

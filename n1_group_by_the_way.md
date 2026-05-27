@@ -6,11 +6,12 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～がてら](#1-がてら-nhân-tiện-tiện-thể)** | Nhân tiện... / Tiện thể... | `V-ます (bỏ ます) + がてら`<br>`N + がてら` | Dùng trong đời sống hàng ngày (thân mật). Hành động đi kèm thường có cùng hướng di chuyển với hành động chính (ví dụ: đi dạo, đi mua đồ). |
-| **[2. ～かたがた](#2-かたがた-tiện-thể--sẵn-tiện-làm-gì)** | Tiện thể... / Sẵn tiện... | `N + かたがた` | Văn phong trang trọng, lịch sự. Thường dùng khi một hành động có **2 mục đích song song** (cảm ơn, xin lỗi, thăm hỏi). |
-| **[3. ～かたわら](#3-かたわら-vừa-làm-việc-chính-vừa-tranh-thủ)** | Vừa làm (chính)... vừa làm (phụ)... | `V-る / N + の + かたわら` | Diễn tả hai công việc song song trong một khoảng thời gian dài. Một công việc là chính, một công việc là phụ/ngoài giờ. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 64 | **[～がてら](#1-がてら-nhân-tiện-tiện-thể)** | Nhân tiện... / Tiện thể... | `V-ます (bỏ ます) + がてら`<br>`N + がてら` | Dùng trong đời sống hàng ngày (thân mật). Hành động đi kèm thường có cùng hướng di chuyển với hành động chính (ví dụ: đi dạo, đi mua đồ). |
+| 65 | **[～かたがた](#2-かたがた-tiện-thể--sẵn-tiện-làm-gì)** | Tiện thể... / Sẵn tiện... | `N + かたがた` | Văn phong trang trọng, lịch sự. Thường dùng khi một hành động có **2 mục đích song song** (cảm ơn, xin lỗi, thăm hỏi). |
+| 66 | **[～かたわら](#3-かたわら-vừa-làm-việc-chính-vừa-tranh-thủ)** | Vừa làm (chính)... vừa làm (phụ)... | `V-る / N + の + かたわら` | Diễn tả hai công việc song song trong một khoảng thời gian dài. Một công việc là chính, một công việc là phụ/ngoài giờ. |
+|  |
 
 ---
 

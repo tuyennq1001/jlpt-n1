@@ -8,12 +8,13 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～極まる](#1-極まる-cực-kỳ--vô-cùng)** | Cực kỳ... / Vô cùng... | `A-な (bỏ だ) + 極まる` | Thường dùng cho các tính từ mang nghĩa tiêu cực (ngoại trừ một số cụm từ cố định). |
-| **[2. ～極まりない](#2-極まりない-cực-kỳ--không-tả-xiết)** | Cực kỳ... (tiêu cực) | `A-な (bỏ だ) + 極まりない`<br>`A-い + こと + 極まりない` | Hầu như 100% dùng cho các tình huống tiêu cực để phê phán, chỉ trích hoặc than phiền. |
-| **[3. ～の極み](#3-の極み-đỉnh-điểm-của--tột-cùng)** | Đỉnh điểm của... / Tột cùng... | `N + の極み` | Đi sau danh từ. Dùng được cho cả trạng thái tích cực lẫn tiêu cực. Văn phong rất trang trọng. |
-| **[4. ～の至り](#4-の至り-vô-cùng--hết-sức)** | Vô cùng... (cảm xúc/trạng thái) | `N + の至り` | Đi sau danh từ chỉ cảm xúc hoặc tình trạng tâm lý. Thường dùng trong thư từ, lời phát biểu lịch sự. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 57 | **[～極まる](#1-極まる-cực-kỳ--vô-cùng)** | Cực kỳ... / Vô cùng... | `A-な (bỏ だ) + 極まる` | Thường dùng cho các tính từ mang nghĩa tiêu cực (ngoại trừ một số cụm từ cố định). |
+| 58 | **[～極まりない](#2-極まりない-cực-kỳ--không-tả-xiết)** | Cực kỳ... (tiêu cực) | `A-な (bỏ だ) + 極まりない`<br>`A-い + こと + 極まりない` | Hầu như 100% dùng cho các tình huống tiêu cực để phê phán, chỉ trích hoặc than phiền. |
+| 59 | **[～の極み](#3-の極み-đỉnh-điểm-của--tột-cùng)** | Đỉnh điểm của... / Tột cùng... | `N + の極み` | Đi sau danh từ. Dùng được cho cả trạng thái tích cực lẫn tiêu cực. Văn phong rất trang trọng. |
+| 60 | **[～の至り](#4-の至り-vô-cùng--hết-sức)** | Vô cùng... (cảm xúc/trạng thái) | `N + の至り` | Đi sau danh từ chỉ cảm xúc hoặc tình trạng tâm lý. Thường dùng trong thư từ, lời phát biểu lịch sự. |
+|  |
 
 ---
 

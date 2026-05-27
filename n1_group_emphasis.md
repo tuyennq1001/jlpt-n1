@@ -6,13 +6,14 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～はおろか](#1-はおろか-nói-chi-đến--ngay-cả)** | Nói chi đến... / Ngay cả... | `N + はおろか` | Vế trước là mức độ hiển nhiên/nhỏ hơn, vế sau thường đi kèm các trợ từ như さえ, すら, まで kèm theo thể phủ định. |
-| **[2. ～すら / ～ですら](#2-すら--ですら-ngay-cả)** | Ngay cả... | `N + すら / ですら` | Đưa ra một ví dụ cực đoan nhất để nhấn mạnh rằng sự việc khác còn hiển nhiên hơn (tương đương với さえ). |
-| **[3. ～だに](#3-だに-chỉ-cần-cũng--thậm-chí-không)** | Chỉ cần... cũng... / Thậm chí không... | `V-る + だに`<br>`N + だに` | Thường đi kèm với các từ chỉ hoạt động tâm lý như: 想像する (tưởng tượng), 考える (suy nghĩ), 夢に見る (mơ thấy)... |
-| **[4. ～たりとも](#4-たりとも-dù-chỉ-một-cũng-không)** | Dù chỉ một... cũng không... | `Số từ chỉ lượng nhỏ nhất + たりとも + V-ない` | Khẳng định tuyệt đối không để lãng phí hoặc xảy ra sai sót dù ở mức độ nhỏ nhất (1 giây, 1 người, 1 giọt...). |
-| **[5. ～からある / ～からする / ～からの](#5-からある--からする--からの-lên-tới--hơn)** | Lên tới... / Hơn... (nhấn mạnh lượng) | `Số lượng/Trọng lượng + からある`<br>`Giá tiền + からする`<br>`Số lượng người + からの` | Nhấn mạnh quy mô lớn, sức nặng, chiều dài hoặc giá trị tiền bạc rất cao của sự vật. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 85 | **[～はおろか](#1-はおろか-nói-chi-đến--ngay-cả)** | Nói chi đến... / Ngay cả... | `N + はおろか` | Vế trước là mức độ hiển nhiên/nhỏ hơn, vế sau thường đi kèm các trợ từ như さえ, すら, まで kèm theo thể phủ định. |
+| 86 | **[～すら / ～ですら](#2-すら--ですら-ngay-cả)** | Ngay cả... | `N + すら / ですら` | Đưa ra một ví dụ cực đoan nhất để nhấn mạnh rằng sự việc khác còn hiển nhiên hơn (tương đương với さえ). |
+| 87 | **[～だに](#3-だに-chỉ-cần-cũng--thậm-chí-không)** | Chỉ cần... cũng... / Thậm chí không... | `V-る + だに`<br>`N + だに` | Thường đi kèm với các từ chỉ hoạt động tâm lý như: 想像する (tưởng tượng), 考える (suy nghĩ), 夢に見る (mơ thấy)... |
+| 88 | **[～たりとも](#4-たりとも-dù-chỉ-một-cũng-không)** | Dù chỉ một... cũng không... | `Số từ chỉ lượng nhỏ nhất + たりとも + V-ない` | Khẳng định tuyệt đối không để lãng phí hoặc xảy ra sai sót dù ở mức độ nhỏ nhất (1 giây, 1 người, 1 giọt...). |
+| 89 | **[～からある / ～からする / ～からの](#5-からある--からする--からの-lên-tới--hơn)** | Lên tới... / Hơn... (nhấn mạnh lượng) | `Số lượng/Trọng lượng + からある`<br>`Giá tiền + からする`<br>`Số lượng người + からの` | Nhấn mạnh quy mô lớn, sức nặng, chiều dài hoặc giá trị tiền bạc rất cao của sự vật. |
+|  |
 
 ---
 

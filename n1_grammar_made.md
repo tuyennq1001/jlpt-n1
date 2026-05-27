@@ -6,14 +6,15 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～てまで / ～までして](#1-てまで--までして-đến-mức-phải--làm-cả-việc)** | Đến mức phải... / Làm cả việc... | `V-て + まで`<br>`N + までして` | Chấp nhận làm một việc cực đoan/vượt giới hạn thông thường để đạt mục tiêu. Thường mang tính phê phán hoặc quyết tâm cao độ. |
-| **[2. ～ないまでも](#2-ないまでも-dù-không-đến-mức)** | Dù không đến mức... | `V-ない + までも` | Dù không đạt tới mức lý tưởng/cực đoan ở vế trước, thì ít nhất cũng đạt được mức độ ở vế sau. |
-| **[3. ～までだ / までのことだ](#3-までだ--までのことだ-cùng-lắm-thì--chỉ-là-thôi)** | Cùng lắm thì... / Chỉ là... thôi | `V-る + までだ`<br>`V-た + までだ` | **V-る**: Cùng lắm chọn cách này (giải pháp cuối).<br>**V-た**: Chỉ hành động vì nghĩa vụ/tự nhiên chứ không có ý gì khác. |
-| **[4. ～までもない](#4-までもない-không-cần-thiết-phải)** | Không cần thiết phải... | `V-る + までもない` | Việc đã quá rõ ràng hoặc đơn giản, không đáng mất công/thời gian để thực hiện. |
-| **[5. ～に至るまで](#5-に至るまで-cho-đến-cả--đến-tận)** | Cho đến cả... / Đến tận... | `N + に至るまで` | Nhấn mạnh phạm vi bao phủ cực rộng, chi tiết từ cái nhỏ nhất đến cái lớn nhất (từ A đến tận B). |
-| **[6. ～ばそれまでだ](#6-ばそれまでだ-thì-coi-như-xong--mọi-nỗ-lực-cũng-vô-ích)** | Thì coi như xong / Vô ích | `V-ば / V-たra + それまでだ` | Nếu tình huống xấu đó xảy ra thì tất cả nỗ lực, giá trị trước đó đều trở nên vô nghĩa. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | **[～てまで / ～までして](#1-てまで--までして-đến-mức-phải--làm-cả-việc)** | Đến mức phải... / Làm cả việc... | `V-て + まで`<br>`N + までして` | Chấp nhận làm một việc cực đoan/vượt giới hạn thông thường để đạt mục tiêu. Thường mang tính phê phán hoặc quyết tâm cao độ. |
+| 2 | **[～ないまでも](#2-ないまでも-dù-không-đến-mức)** | Dù không đến mức... | `V-ない + までも` | Dù không đạt tới mức lý tưởng/cực đoan ở vế trước, thì ít nhất cũng đạt được mức độ ở vế sau. |
+| 3 | **[～までだ / までのことだ](#3-までだ--までのことだ-cùng-lắm-thì--chỉ-là-thôi)** | Cùng lắm thì... / Chỉ là... thôi | `V-る + までだ`<br>`V-た + までだ` | **V-る**: Cùng lắm chọn cách này (giải pháp cuối).<br>**V-た**: Chỉ hành động vì nghĩa vụ/tự nhiên chứ không có ý gì khác. |
+| 4 | **[～までもない](#4-までもない-không-cần-thiết-phải)** | Không cần thiết phải... | `V-る + までもない` | Việc đã quá rõ ràng hoặc đơn giản, không đáng mất công/thời gian để thực hiện. |
+| 5 | **[～に至るまで](#5-に至るまで-cho-đến-cả--đến-tận)** | Cho đến cả... / Đến tận... | `N + に至るまで` | Nhấn mạnh phạm vi bao phủ cực rộng, chi tiết từ cái nhỏ nhất đến cái lớn nhất (từ A đến tận B). |
+| 6 | **[～ばそれまでだ](#6-ばそれまでだ-thì-coi-như-xong--mọi-nỗ-lực-cũng-vô-ích)** | Thì coi như xong / Vô ích | `V-ば / V-たra + それまでだ` | Nếu tình huống xấu đó xảy ra thì tất cả nỗ lực, giá trị trước đó đều trở nên vô nghĩa. |
+|  |
 
 ---
 

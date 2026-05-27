@@ -6,12 +6,13 @@ Từ gốc **わけ** (Hán tự: **Dịch - 訳**) mang nghĩa là "lý do, ý 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～わけにはいかない](#1-わけにはいかない-không-thể-làm-vì-đạo-đứcpháp-luật)** | Không thể làm... (vì đạo đức/pháp luật) | `V-る + わけにはいかない`<br>`V-ない + わけにはいかない` | **V-る**: Không thể làm vì lương tâm/bổn phận không cho phép.<br>**V-ない (phủ định kép)**: Buộc phải làm vì nghĩa vụ. |
-| **[2. ～わけがない](#2-わけがない--わけはない-tuyệt-đối-không-thể-làm-sao-mà)** | Tuyệt đối không thể... / Làm sao mà... | `V-る・A-い・A-な・N + わけがない`<br>`A-な → な / である`<br>`N → の / である` | Phủ định mạnh mẽ dựa trên lập luận khoa học, logic hoặc thực tế hiển nhiên. |
-| **[3. ～わけではない](#3-わけではない--わけ regiments-không-hẳn-là-không-có-nghĩa-là)** | Không hẳn là... / Không có nghĩa là... | `V-る・A-い・A-な・N + わけではない`<br>`A-な → な / である`<br>`N → な / である / の` | Phủ định một phần tình huống, tránh đưa ra kết luận phiến diện hoặc tuyệt đối hóa. |
-| **[4. ～わけだ](#4-わけだ-thảo-nào--hóa-ra-là--đương-nhiên-là)** | Thảo nào... / Đương nhiên là... | `V-る・A-い・A-な・N + わけだ`<br>`A-な → な / である`<br>`N → な / である / の` | Đưa ra kết luận mang tính hiển nhiên, giải thích nguyên nhân logic của một sự việc đã biết. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 50 | **[～わけにはいかない](#1-わけにはいかない-không-thể-làm-vì-đạo-đứcpháp-luật)** | Không thể làm... (vì đạo đức/pháp luật) | `V-る + わけにはいかない`<br>`V-ない + わけにはいかない` | **V-る**: Không thể làm vì lương tâm/bổn phận không cho phép.<br>**V-ない (phủ định kép)**: Buộc phải làm vì nghĩa vụ. |
+| 51 | **[～わけがない](#2-わけがない--わけはない-tuyệt-đối-không-thể-làm-sao-mà)** | Tuyệt đối không thể... / Làm sao mà... | `V-る・A-い・A-な・N + わけがない`<br>`A-な → な / である`<br>`N → の / である` | Phủ định mạnh mẽ dựa trên lập luận khoa học, logic hoặc thực tế hiển nhiên. |
+| 52 | **[～わけではない](#3-わけではない--わけ regiments-không-hẳn-là-không-có-nghĩa-là)** | Không hẳn là... / Không có nghĩa là... | `V-る・A-い・A-な・N + わけではない`<br>`A-な → な / である`<br>`N → な / である / の` | Phủ định một phần tình huống, tránh đưa ra kết luận phiến diện hoặc tuyệt đối hóa. |
+| 53 | **[～わけだ](#4-わけだ-thảo-nào--hóa-ra-là--đương-nhiên-là)** | Thảo nào... / Đương nhiên là... | `V-る・A-い・A-な・N + わけだ`<br>`A-な → な / である`<br>`N → な / である / の` | Đưa ra kết luận mang tính hiển nhiên, giải thích nguyên nhân logic của một sự việc đã biết. |
+|  |
 
 ---
 

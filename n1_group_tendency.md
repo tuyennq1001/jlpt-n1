@@ -6,13 +6,14 @@ Nhóm ngữ pháp này dùng để miêu tả **vẻ bề ngoài, hơi hướng 
 
 ## 📌 Bảng Tổng Hợp Nhanh
 
-| Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
-| :--- | :--- | :--- | :--- |
-| **[1. ～めく](#1-めく-đượm-vẻ--có-hơi-hướng)** | Đượm vẻ... / Có hơi hướng... | `N + めく` | Trạng thái bắt đầu mang đặc điểm, sắc thái của danh từ (mùa xuân, lời đùa...). |
-| **[2. ～びる](#2-びる-trông-có-phong-thái)** | Trông có phong thái... / Vẻ... | `N + びる`<br>`A-な (bỏ だ) + びる` | Mang đặc điểm đó một cách tự nhiên. Thường mang nghĩa tích cực (chín chắn, cổ kính). |
-| **[3. ～ぶる](#3-ぶる-tỏ-vẻ--làm-bộ)** | Tỏ vẻ... / Làm bộ... | `N + ぶる`<br>`A-な (bỏ だ) + ぶる` | Cố ý giả vờ hoặc thể hiện trạng thái đó ra ngoài (mỉa mai, chê trách). |
-| **[4. ～じみた](#4-じみた-có-vẻ-tiêu-cực)** | Có vẻ... (tiêu cực) | `N + じみた` | Trông có vẻ hoặc đượm sắc thái tiêu cực (trẻ con, già nua, ám muội). |
-| **[5. ～きらいがある](#5-きらいがある-có-xu-hướng-xấu)** | Có xu hướng xấu... | `V-る / N + の + きらいがある` | Diễn tả một khuynh hướng tính cách hoặc hiện tượng không tốt dễ xảy ra. |
+| # | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
+| :---: | :--- | :--- | :--- | :--- |
+| 90 | **[～めく](#1-めく-đượm-vẻ--có-hơi-hướng)** | Đượm vẻ... / Có hơi hướng... | `N + めく` | Trạng thái bắt đầu mang đặc điểm, sắc thái của danh từ (mùa xuân, lời đùa...). |
+| 91 | **[～びる](#2-びる-trông-có-phong-thái)** | Trông có phong thái... / Vẻ... | `N + びる`<br>`A-な (bỏ だ) + びる` | Mang đặc điểm đó một cách tự nhiên. Thường mang nghĩa tích cực (chín chắn, cổ kính). |
+| 92 | **[～ぶる](#3-ぶる-tỏ-vẻ--làm-bộ)** | Tỏ vẻ... / Làm bộ... | `N + ぶる`<br>`A-な (bỏ だ) + ぶる` | Cố ý giả vờ hoặc thể hiện trạng thái đó ra ngoài (mỉa mai, chê trách). |
+| 93 | **[～じみた](#4-じみた-có-vẻ-tiêu-cực)** | Có vẻ... (tiêu cực) | `N + じみた` | Trông có vẻ hoặc đượm sắc thái tiêu cực (trẻ con, già nua, ám muội). |
+| 94 | **[～きらいがある](#5-きらいがある-có-xu-hướng-xấu)** | Có xu hướng xấu... | `V-る / N + の + きらいがある` | Diễn tả một khuynh hướng tính cách hoặc hiện tượng không tốt dễ xảy ra. |
+|  |
 
 ---
 
