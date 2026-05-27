@@ -1,34 +1,3 @@
-<style>
-  /* Force all text elements to be pure black for grayscale printing */
-  body, h1, h2, h3, h4, h5, h6, p, li, td, th, tr, a, span, code, pre, strong, em, div, section, article {
-    color: #000000 !important;
-  }
-  
-  /* Reset link styles */
-  a {
-    text-decoration: none !important;
-    border-bottom: 1px dashed #000000 !important;
-  }
-  
-  /* Reset syntax highlighting colors to black */
-  code, pre, span[class^="hljs-"], span[class*=" hljs-"] {
-    color: #000000 !important;
-    background-color: #f7f7f7 !important;
-    text-shadow: none !important;
-  }
-  
-  /* Render borders in solid black */
-  table, th, td {
-    border: 1px solid #000000 !important;
-  }
-  
-  /* Reset blockquote borders and background */
-  blockquote {
-    border-left: 4px solid #000000 !important;
-    background-color: #f9f9f9 !important;
-    color: #000000 !important;
-  }
-</style>
 
 # 📚 Kho Tài Liệu Ôn Luyện Ngữ Pháp JLPT N1
 

@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of jlpt_n1_grammar_print_version"
             }
+          },
+          {
+            "id": "3bd67a44ab9addff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +190,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "43c0838a1f7e53b3",
   "lastOpenFiles": [
     "jlpt_n1_grammar_print_version.pdf",
-    "n1_grammar_bakari.md",
     "jlpt_n1_grammar_print_version.md",
+    "n1_grammar_bakari.md",
     "n1_grammar_kagiri.md"
   ]
 }
