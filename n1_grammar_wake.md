@@ -9,9 +9,9 @@ Từ gốc **わけ** (Hán tự: **Dịch - 訳**) mang nghĩa là "lý do, ý 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
 | **[1. ～わけにはいかない](#1-わけにはいかない-không-thể-làm-vì-đạo-đứcpháp-luật)** | Không thể làm... (vì đạo đức/pháp luật) | `V-る + わけにはいかない`<br>`V-ない + わけにはいかない` | **V-る**: Không thể làm vì lương tâm/bổn phận không cho phép.<br>**V-ない (phủ định kép)**: Buộc phải làm vì nghĩa vụ. |
-| **[2. ～わけがない](#2-わけがない--わけはない-tuyệt-đối-không-thể-làm-sao-mà)** | Tuyệt đối không thể... / Làm sao mà... | `V-る・A-い・A-な・N + わけがない`<br>`Tính từ な → な / である`<br>`N → の / である` | Phủ định mạnh mẽ dựa trên lập luận khoa học, logic hoặc thực tế hiển nhiên. |
-| **[3. ～わけではない](#3-わけではない--わけ regiments-không-hẳn-là-không-có-nghĩa-là)** | Không hẳn là... / Không có nghĩa là... | `V-る・A-い・A-な・N + わけではない`<br>`Tính từ な → な / である`<br>`N → な / である / の` | Phủ định một phần tình huống, tránh đưa ra kết luận phiến diện hoặc tuyệt đối hóa. |
-| **[4. ～わけだ](#4-わけだ-thảo-nào--hóa-ra-là--đương-nhiên-là)** | Thảo nào... / Đương nhiên là... | `V-る・A-い・A-な・N + わけだ`<br>`Tính từ な → な / である`<br>`N → な / である / の` | Đưa ra kết luận mang tính hiển nhiên, giải thích nguyên nhân logic của một sự việc đã biết. |
+| **[2. ～わけがない](#2-わけがない--わけはない-tuyệt-đối-không-thể-làm-sao-mà)** | Tuyệt đối không thể... / Làm sao mà... | `V-る・Adj-い・Adj-な・N + わけがない`<br>`Adj-な → な / である`<br>`N → の / である` | Phủ định mạnh mẽ dựa trên lập luận khoa học, logic hoặc thực tế hiển nhiên. |
+| **[3. ～わけではない](#3-わけではない--わけ regiments-không-hẳn-là-không-có-nghĩa-là)** | Không hẳn là... / Không có nghĩa là... | `V-る・Adj-い・Adj-な・N + わけではない`<br>`Adj-な → な / である`<br>`N → な / である / の` | Phủ định một phần tình huống, tránh đưa ra kết luận phiến diện hoặc tuyệt đối hóa. |
+| **[4. ～わけだ](#4-わけだ-thảo-nào--hóa-ra-là--đương-nhiên-là)** | Thảo nào... / Đương nhiên là... | `V-る・Adj-い・Adj-な・N + わけだ`<br>`Adj-な → な / である`<br>`N → な / である / の` | Đưa ra kết luận mang tính hiển nhiên, giải thích nguyên nhân logic của một sự việc đã biết. |
 
 ---
 
@@ -21,7 +21,7 @@ Từ gốc **わけ** (Hán tự: **Dịch - 訳**) mang nghĩa là "lý do, ý 
 
 Cấu trúc này có hai dạng khẳng định và phủ định kép:
 
-#### A. Dạng khẳng định ($\text{V}_{\text{る}}$ + わけにはいかない)
+#### A. Dạng khẳng định (V-る + わけにはいかない)
 *   **Ý nghĩa**: Bản thân rất muốn thực hiện hành động đó, nhưng vì rào cản đạo đức, quy tắc xã hội, pháp luật hoặc lương tâm nên **không thể làm**.
 *   **Ví dụ**:
     1.  明日は大事な採用試験があるから、今夜は遅くまで遊ぶ**わけにはいかない**。
@@ -29,7 +29,7 @@ Cấu trúc này có hai dạng khẳng định và phủ định kép:
     2.  車の運転をするので、お酒を飲む**わけにはいかない**。
         *   *(Vì tôi phải lái xe nên không thể uống rượu được.)*
 
-#### B. Dạng phủ định kép ($\text{V}_{\text{ない}}$ + わけにはいかない)
+#### B. Dạng phủ định kép (V-ない + わけにはいかない)
 *   **Ý nghĩa**: Bản thân không muốn làm, nhưng vì trách nhiệm, bổn phận hoặc tình nghĩa nên **bắt buộc phải làm**.
 *   **Ví dụ**:
     1.  大変お世話になった先生に頼まれたのだから、この依頼を引き受け**ないわけにはいかない**。
@@ -41,7 +41,7 @@ Cấu trúc này có hai dạng khẳng định và phủ định kép:
 
 ### 2. ～わけがない / ～わけはない (Tuyệt đối không thể...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **わけがない** (Tính từ な → な/である, Danh từ → の/である)
+*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **わけがない** (Adj-な → な/である, Danh từ → の/である)
 *   **Ý nghĩa**: Khẳng định một cách mạnh mẽ rằng sự việc ở vế trước tuyệt đối không thể xảy ra vì nó hoàn toàn trái với logic hoặc thực tế đã biết.
 *   **Ví dụ**:
     1.  毎日あんなに練習したのだから、今日の試合で彼が負ける**わけがない**。
@@ -55,7 +55,7 @@ Cấu trúc này có hai dạng khẳng định và phủ định kép:
 
 ### 3. ～わけではない / ～わけ regiments (Không hẳn là...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **わけではない** (Tính từ な → な/である, Danh từ → な/である/の)
+*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **わけではない** (Adj-な → な/である, Danh từ → な/である/の)
 *   **Ý nghĩa**: Phủ định một phần sự việc để làm rõ rằng thực tế không cực đoan hay tuyệt đối như người khác đang nghĩ.
 *   **Ví dụ**:
     1.  彼のやり方に賛成できないが、彼のことが嫌いな**わけではない**。
@@ -69,7 +69,7 @@ Cấu trúc này có hai dạng khẳng định và phủ định kép:
 
 ### 4. ～わけだ (Thảo nào... / Đương nhiên là...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **わけだ** (Tính từ な → な/である, Danh từ → な/である/の)
+*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **わけだ** (Adj-な → な/である, Danh từ → な/である/の)
 *   **Ý nghĩa**: Rút ra một kết luận tất yếu, hợp logic sau khi đã biết rõ nguyên nhân hoặc thực tế ở vế trước.
 *   **Ví dụ**:
     1.  彼は10年も日本に住んでいるのか。道理で日本語が上手な**わけだ**。

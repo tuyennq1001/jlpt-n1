@@ -22,8 +22,8 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 ### 1. ～てまで / ～までして (Đến mức phải... / Làm cả việc...)
 
 *   **Cấu trúc**:
-    *   $\text{V}_{\text{て}}$ + **まで**
-    *   $\text{N}$ + **までして**
+    *   V-て + **まで**
+    *   N + **までして**
 *   **Giải thích**: Diễn tả việc sẵn sàng làm một hành động cực đoan (thông thường người ta sẽ tránh hoặc không muốn làm) để đạt được một mục đích nào đó.
 *   **Lưu ý**: Thường dùng để thể hiện sự ngạc nhiên, phê phán của người nói, hoặc dùng ở dạng phủ định để từ chối làm việc cực đoan (`～てまで...たくない`: *không thèm làm việc đó để...*).
 *   **Ví dụ**:
@@ -39,7 +39,7 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 ### 2. ～ないまでも (Dù không đến mức...)
 
 *   **Cấu trúc**:
-    *   $\text{V}_{\text{ない}}$ + **までも**
+    *   V-ない + **までも**
     *   Tính từ đuôi い → **くないまでも**
     *   Tính từ đuôi な / Danh từ → **ではないまでも**
 *   **Giải thích**: Cho dù không đạt được trạng thái lý tưởng/cực đoan ở vế trước, thì tối thiểu hoặc ít nhất cũng đạt được trạng thái ở vế sau.
@@ -58,7 +58,7 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 
 Ý nghĩa của cấu trúc này thay đổi hoàn toàn dựa vào **thì của động từ**:
 
-#### A. Đi với Động từ thể từ điển ($\text{V}_{\text{る}}$ + までだ / までのことだ)
+#### A. Đi với Động từ thể từ điển (V-る + までだ / までのことだ)
 *   **Ý nghĩa**: Cùng lắm thì sẽ... / Chỉ còn cách là...
 *   **Giải thích**: Thể hiện sự quyết tâm hoặc chấp nhận thực tế của người nói. Nếu tình huống xấu xảy ra và không còn cách nào khác, họ sẵn sàng chọn giải pháp này như phương án cuối cùng.
 *   **Ví dụ**:
@@ -67,7 +67,7 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
     2.  不合格なら、また来年受ける**までのことだ**。
         *   *(Nếu trượt thì **cùng lắm sang năm thi lại** thôi.)*
 
-#### B. Đi với Động từ thể quá khứ ($\text{V}_{\text{た}}$ + までだ / までのことだ)
+#### B. Đi với Động từ thể quá khứ (V-た + までだ / までのことだ)
 *   **Ý nghĩa**: Chỉ là... thôi (chứ không có ý gì khác / không có gì to tát).
 *   **Giải thích**: Dùng để giải thích hoặc phân bua rằng hành động của mình chỉ là phản xạ tự nhiên, nghĩa vụ bình thường chứ không có mục đích sâu xa hay công lao to tát gì cả.
 *   **Ví dụ**:
@@ -81,7 +81,7 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 ### 4. ～までもない / ～までもなく (Không cần thiết phải...)
 
 *   **Cấu trúc**:
-    *   $\text{V}_{\text{る}}$ + **までもない**
+    *   V-る + **までもない**
 *   **Giải thích**: Không cần thiết phải thực hiện hành động đó vì sự việc đã quá rõ ràng hoặc quá đơn giản rồi, làm sẽ mất công vô ích.
 *   **Ví dụ**:
     1.  言う**までもなく**、健康は一番大切だ。
@@ -96,7 +96,7 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 ### 5. ～に至るまで (Cho đến cả... / Đến tận...)
 
 *   **Cấu trúc**:
-    *   $\text{N}$ + **に至るまで**
+    *   N + **に至るまで**
 *   **Giải thích**: Biểu thị một phạm vi cực kỳ rộng, bao phủ từ những cái lớn/bình thường cho đến cả những chi tiết nhỏ nhặt, bất ngờ nhất ở vế sau.
 *   **Ví dụ**:
     1.  このアニメは子供から大人**に至るまで**、幅広い層に人気がある。
@@ -111,8 +111,8 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 ### 6. ～（ば／たら）それまでだ (Thì coi như xong / Mọi nỗ lực cũng vô ích)
 
 *   **Cấu trúc**:
-    *   $\text{V}_{\text{ば}}$ + **それまでだ**
-    *   $\text{V}_{\text{たら}}$ + **それまでだ**
+    *   V-ば + **それまでだ**
+    *   V-たら + **それまでだ**
 *   **Giải thích**: Diễn tả ý nghĩa "nếu tình huống đó xảy ra thì tất cả những nỗ lực, cố gắng hay giá trị tích lũy trước đó đều trở nên vô nghĩa, chấm hết".
 *   **Ví dụ**:
     1.  どんなに高い時計を買っても、壊してしまえ**ばそれまでだ**。

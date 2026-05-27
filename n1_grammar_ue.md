@@ -12,7 +12,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 | **[2. ～上（じょう）](#2-上じょう-về-mặt-trên-phương-diện)** | Về mặt... / Trên phương diện... | `N + 上（じょう / じょうの）` | Đứng sau danh từ để khoanh vùng khía cạnh xem xét (pháp luật, lịch sử, lý thuyết, công việc...). |
 | **[3. ～上で / ～上の (Trình tự)](#3-上で--上の-sau-khi-làm-thì-mới)** | Sau khi làm... thì mới... | `V-た + 上で`<br>`N + の上で` | Diễn tả chuỗi hành động: Phải thực hiện xong việc A (chuẩn bị) thì mới tiến hành việc B. |
 | **[4. ～上で / ～上の (Bối cảnh)](#4-上で--上の-trong-quá-trình-khi-làm)** | Trong quá trình... / Khi làm... | `V-る + 上で`<br>`N + の上で` | Chỉ ra những điểm quan trọng, điều kiện hoặc khó khăn phát sinh trong bối cảnh thực hiện việc gì. |
-| **[5. ～上に](#5-上に-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + 上に`<br>`Tính từ な → な/である`<br>`N → の/である` | Bổ sung thêm thông tin cùng chiều (cùng tốt hoặc cùng xấu) để tăng sức thuyết phục cho câu. |
+| **[5. ～上に](#5-上に-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・Adj-い・Adj-な・N + 上に`<br>`Adj-な → な/である`<br>`N → の/である` | Bổ sung thêm thông tin cùng chiều (cùng tốt hoặc cùng xấu) để tăng sức thuyết phục cho câu. |
 
 ---
 
@@ -20,7 +20,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ### 1. ～上は (Một khi đã... thì phải...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{V}_{\text{た}}$ + **上は**
+*   **Cấu trúc**: V-る / V-た + **上は**
 *   **Ý nghĩa**: Một khi tình huống đã trở nên như thế, hoặc một khi đã đưa ra quyết định, thì bắt buộc phải thực hiện nghĩa vụ hoặc hành động tiếp theo đến cùng.
 *   **Lưu ý**: Tương tự như **～からには** hoặc **～以上は** nhưng mang sắc thái văn viết trang trọng hơn. Vế sau thường đi với các dạng câu mang tính nghĩa vụ, khuyên bảo hoặc quyết tâm: ～なければならない, ～べきだ, ～つもりだ.
 *   **Ví dụ**:
@@ -35,7 +35,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ### 2. ～上（じょう） (Về mặt... / Trên phương diện...)
 
-*   **Cấu trúc**: $\text{N}$ + **上（じょう / じょうの / じょうは）**
+*   **Cấu trúc**: N + **上（じょう / じょうの / じょうは）**
 *   **Ý nghĩa**: Nhìn từ góc độ, phương diện của danh từ đó để đưa ra phán đoán hoặc giải thích tình hình.
 *   **Lưu ý**: Chỉ đi kèm với một số danh từ trừu tượng nhất định như: 法律 (pháp luật), 歴史 (lịch sử), 教育 (giáo dục), 理論 (lý thuyết), 仕事 (công việc), 健康 (sức khỏe)...
 *   **Ví dụ**:
@@ -50,7 +50,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ### 3. ～上で / ～上の (Sau khi làm... thì mới...)
 
-*   **Cấu trúc**: $\text{V}_{\text{た}}$ + **上で** / $\text{N}$ + **の上で**
+*   **Cấu trúc**: V-た + **上で** / N + **の上で**
 *   **Ý nghĩa**: Thực hiện hành động A như một bước chuẩn bị cần thiết, sau khi có kết quả từ hành động A mới tiến hành hành động B.
 *   **Ví dụ**:
     1.  両親とよく相談した**上で**、将来の進路を決めたいと思います。
@@ -64,7 +64,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ### 4. ～上で / ～上の (Trong quá trình... / Khi làm...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}}$ + **上で** / $\text{N}$ + **の上で**
+*   **Cấu trúc**: V-る + **上で** / N + **の上で**
 *   **Ý nghĩa**: Trong quá trình, bối cảnh thực hiện một hành động hoặc mục tiêu nào đó, thì điều gì là cần thiết, quan trọng hoặc gặp khó khăn.
 *   **Ví dụ**:
     1.  日本で一人暮らしをする**上で**、家賃の安さは最も重要な要素だ。
@@ -78,7 +78,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ### 5. ～上に (Không chỉ... mà còn...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **上に** (Tính từ な → な/である, Danh từ → の/である)
+*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **上に** (Adj-な → な/である, Danh từ → の/である)
 *   **Ý nghĩa**: Bổ sung thêm một đặc điểm, trạng thái có tính chất tương tự (cùng tốt hoặc cùng xấu) vào vế trước nhằm nhấn mạnh mức độ.
 *   **Ví dụ**:
     1.  彼女は頭が良い**上に**、努力家でもあるので尊敬されている。

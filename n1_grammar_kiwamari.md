@@ -10,8 +10,8 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～極まる](#1-極まる-cực-kỳ--vô-cùng)** | Cực kỳ... / Vô cùng... | `Tính từ な (bỏ だ) + 極まる` | Thường dùng cho các tính từ mang nghĩa tiêu cực (ngoại trừ một số cụm từ cố định). |
-| **[2. ～極まりない](#2-極まりない-cực-kỳ--không-tả-xiết)** | Cực kỳ... (tiêu cực) | `Tính từ な (bỏ だ) + 極まりない`<br>`Tính từ い + こと + 極まりない` | Hầu như 100% dùng cho các tình huống tiêu cực để phê phán, chỉ trích hoặc than phiền. |
+| **[1. ～極まる](#1-極まる-cực-kỳ--vô-cùng)** | Cực kỳ... / Vô cùng... | `Adj-な (bỏ だ) + 極まる` | Thường dùng cho các tính từ mang nghĩa tiêu cực (ngoại trừ một số cụm từ cố định). |
+| **[2. ～極まりない](#2-極まりない-cực-kỳ--không-tả-xiết)** | Cực kỳ... (tiêu cực) | `Adj-な (bỏ だ) + 極まりない`<br>`Adj-い + こと + 極まりない` | Hầu như 100% dùng cho các tình huống tiêu cực để phê phán, chỉ trích hoặc than phiền. |
 | **[3. ～の極み](#3-の極み-đỉnh-điểm-của--tột-cùng)** | Đỉnh điểm của... / Tột cùng... | `N + の極み` | Đi sau danh từ. Dùng được cho cả trạng thái tích cực lẫn tiêu cực. Văn phong rất trang trọng. |
 | **[4. ～の至り](#4-の至り-vô-cùng--hết-sức)** | Vô cùng... (cảm xúc/trạng thái) | `N + の至り` | Đi sau danh từ chỉ cảm xúc hoặc tình trạng tâm lý. Thường dùng trong thư từ, lời phát biểu lịch sự. |
 
@@ -21,7 +21,7 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 
 ### 1. ～極まる (Cực kỳ... / Vô cùng...)
 
-*   **Cấu trúc**: $\text{Tính từ}_{\text{な (bỏ だ)}}$ + **極まる**
+*   **Cấu trúc**: Adj-な (bỏ だ) + **極まる**
     *   *Ví dụ*: 危険極まる (cực kỳ nguy hiểm), 無礼極まる (cực kỳ vô lễ), 残念極まる (cực kỳ đáng tiếc)...
 *   **Ý nghĩa**: Trạng thái đạt đến mức độ cực hạn.
 *   **Lưu ý**:
@@ -40,8 +40,8 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 ### 2. ～極まりない (Cực kỳ... - Tiêu cực)
 
 *   **Cấu trúc**:
-    *   $\text{Tính từ}_{\text{な (bỏ だ)}}$ + **極まりない**
-    *   $\text{Tính từ}_{\text{い}}$ + **こと極まりない**
+    *   Adj-な (bỏ だ) + **極まりない**
+    *   Adj-い + **こと極まりない**
     *   *Ví dụ*: 失礼極まりない (cực kỳ thất lễ), 不愉快極まりない (cực kỳ khó chịu), 危険なこと極まりない (cực kỳ nguy hiểm)...
 *   **Ý nghĩa**: Thể hiện sự đánh giá ở mức độ cao nhất đối với một trạng thái xấu.
 *   **Sắc thái**: Mang tính phê phán, chỉ trích, bất bình hoặc kinh ngạc trước một việc tồi tệ. Mạnh mẽ hơn cấu trúc **～極まる**.
@@ -57,7 +57,7 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 
 ### 3. ～の極み (Đỉnh điểm của... / Tột cùng...)
 
-*   **Cấu trúc**: $\text{N}$ + **の極み**
+*   **Cấu trúc**: N + **の極み**
 *   **Ý nghĩa**: Trạng thái hoặc cảm xúc đã đạt đến đỉnh cao nhất, không thể có gì vượt qua được nữa.
 *   **Sắc thái**: Rất trang trọng, cổ kính. Dùng được cho cả nghĩa tích cực (vinh hạnh, sang trọng) lẫn tiêu cực (đau đớn, hối hận).
 *   **Ví dụ**:
@@ -72,7 +72,7 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 
 ### 4. ～の至り (Vô cùng... / Hết sức...)
 
-*   **Cấu trúc**: $\text{N}$ + **の至り** (Danh từ chỉ cảm xúc hoặc tình trạng tinh thần)
+*   **Cấu trúc**: N + **の至り** (Danh từ chỉ cảm xúc hoặc tình trạng tinh thần)
 *   **Ý nghĩa**: Trạng thái cảm xúc đạt đến mức tối đa do một tác động nào đó mang lại.
 *   **Lưu ý**: Cấu trúc này thường chỉ đi kèm với một số danh từ cố định:
     *   **光栄の至り** (vô cùng vinh hạnh)
@@ -95,6 +95,6 @@ Mặc dù cả hai cấu trúc đều mang ý nghĩa "cực kỳ, vô cùng", bi
 
 | Tiêu chí | ～極まる | ～極まりない |
 | :--- | :--- | :--- |
-| **Cách kết hợp** | Chỉ đi với **Tính từ な (bỏ だ)**.<br>*(Ví dụ: 危険極まる, 失礼極まる)* | Kết hợp linh hoạt hơn:<br>1. **Tính từ な (bỏ だ)** + 極まりない *(Ví dụ: 失礼極まりない)*<br>2. **Tính từ な + なこと** + 極まりない *(Ví dụ: 失礼なこと極まりない)*<br>3. **Tính từ い + こと** + 極まりない *(Ví dụ: うるさいこと極まりない)* |
+| **Cách kết hợp** | Chỉ đi với **Adj-な (bỏ だ)**.<br>*(Ví dụ: 危険極まる, 失礼極まる)* | Kết hợp linh hoạt hơn:<br>1. **Adj-な (bỏ だ)** + 極まりない *(Ví dụ: 失礼極まりない)*<br>2. **Adj-な + なこと** + 極まりない *(Ví dụ: 失礼なこと極まりない)*<br>3. **Adj-い + こと** + 極まりない *(Ví dụ: うるさいこと極まりない)* |
 | **Sắc thái cảm xúc** | **Khách quan hơn**, mang tính miêu tả, nhận định bản chất sự việc hoặc tình trạng.<br>Dùng nhiều trong văn viết trang trọng, tin tức, nghị luận. | **Chủ quan mạnh mẽ hơn**, mang sắc thái cảm xúc cá nhân rõ rệt như **phê phán, bất bình, chê trách hoặc kinh ngạc** trước một việc xấu. |
 | **Tính chất từ vựng** | Có thể đi kèm một số quán dụng ngữ mang sắc thái **tích cực/trung tính**:<br>- **感極まる** *(vô cùng xúc động/nghẹn ngào)*<br>- **進退極まる** *(tiến thoái lưỡng nan)* | **Hầu như 100%** đi kèm với các từ mang nghĩa tiêu cực (vô trách nhiệm, thất lễ, nguy hiểm, phiền phức...). Không đi với từ tích cực. |

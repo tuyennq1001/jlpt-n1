@@ -20,8 +20,8 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 ### 1. ～ずにはすまない / ～ないではすまない (Không thể không... vì trách nhiệm)
 
 *   **Cấu trúc**: 
-    *   $\text{V}_{\text{nai (bỏ ない)}}$ + **ずにはすまない** (Đặc biệt: **する** → **せずにはすまない**)
-    *   $\text{V}_{\text{ない}}$ + **ではすまない**
+    *   V-ない (bỏ ない) + **ずにはすまない** (Đặc biệt: **する** → **せずにはすまない**)
+    *   V-ない + **ではすまない**
 *   **Ý nghĩa**: Xét về mặt đạo đức xã hội, luật lệ hoặc quan hệ xã hội, người nói bắt buộc phải thực hiện hành động đó. Nếu không làm thì lương tâm không yên hoặc xã hội sẽ không tha thứ.
 *   **Ví dụ**:
     1.  私の不注意で会社に損害を与えたのだから、辞職せ**ずにはすまない**だろう。
@@ -35,7 +35,7 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 ### 2. ～ずにはいられない / ～ないではいられない (Không thể nhịn được cảm xúc)
 
-*   **Cấu trúc**: $\text{V}_{\text{nai (bỏ ない)}}$ + **ずにはいられない** (Đặc biệt: **する** → **せずにはいられない**)
+*   **Cấu trúc**: V-ない (bỏ ない) + **ずにはいられない** (Đặc biệt: **する** → **せずにはいられない**)
 *   **Ý nghĩa**: Cảm xúc (thương xót, buồn cười, tức giận...) hoặc phản xạ của cơ thể quá mạnh, người nói không thể kiểm soát hay kìm nén được mà phải bộc phát ra ngoài.
 *   **Ví dụ**:
     1.  彼のあまりにも面白い冗談に, 誰もが笑わ**ずにはいられない**。
@@ -49,7 +49,7 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 ### 3. ～てやまない (Luôn không ngừng mong mỏi...)
 
-*   **Cấu trúc**: $\text{V}_{\text{て}}$ + **やまない**
+*   **Cấu trúc**: V-て + **やまない**
 *   **Ý nghĩa**: Luôn giữ cảm xúc, mong mỏi đó từ đáy lòng và không bao giờ nguôi ngoai.
 *   **Lưu ý**: Chỉ đi với một số động từ chỉ hoạt động tâm lý, cảm xúc tích cực như: 祈る (cầu nguyện), 願う (mong mỏi), 期待する (mong đợi), 愛する (yêu thương), 信じる (tin tưởng)...
 *   **Ví dụ**:
@@ -64,7 +64,7 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 
 ### 4. ～を余儀なくされる (Buộc phải làm... do hoàn cảnh)
 
-*   **Cấu trúc**: $\text{N}$ + **を余儀なくされる**
+*   **Cấu trúc**: N + **を余儀なくされる**
 *   **Ý nghĩa**: Do tình thế, bối cảnh khách quan cực kỳ mạnh mẽ đưa đẩy khiến chủ ngữ không còn lựa chọn nào khác ngoài việc thực hiện hành động đó.
 *   **Lưu ý**: 
     1.  Cấu trúc **～を余儀なくされる** đi với chủ ngữ là **người chịu tác động** (bị buộc phải làm).

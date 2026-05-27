@@ -20,7 +20,7 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 
 ### 1. ～にして (Phải đến... / Chỉ mới... / Vừa là...)
 
-*   **Cấu trúc**: $\text{N}$ + **にして**
+*   **Cấu trúc**: N + **にして**
 *   **Ý nghĩa**:
     *   **Nghĩa A (Thời điểm cực đoan)**: Phải đến lúc đó mới đạt được (hoặc ngược lại: chỉ mới ở mức nhỏ đó đã đạt được).
     *   **Nghĩa B (Sự đồng thời)**: Vừa là A vừa là B (áp dụng cho danh từ chỉ danh sắc, vai trò).
@@ -36,7 +36,7 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 
 ### 2. ～をもって (Kể từ... / Bằng...)
 
-*   **Cấu trúc**: $\text{N}$ + **をもって**
+*   **Cấu trúc**: N + **をもって**
 *   **Ý nghĩa**:
     *   **Nghĩa A (Tuyên bố thời hạn)**: Kể từ thời điểm này, sự việc sẽ chấm dứt hoặc bắt đầu (tương đương với **～で**).
     *   **Nghĩa B (Phương thức hành động)**: Bằng cách thức, phương pháp này (tương đương với **～によって**).
@@ -52,7 +52,7 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 
 ### 3. ～を控えて (Cận kề... / Trước thềm...)
 
-*   **Cấu trúc**: $\text{N}$ + **を控えて / を控え**
+*   **Cấu trúc**: N + **を控えて / を控え**
 *   **Ý nghĩa**: Chỉ trạng thái chuẩn bị, tâm lý lo lắng hoặc bận rộn ngay trước thời điểm diễn ra sự kiện trọng đại sắp tới gần.
 *   **Ví dụ**:
     1.  明日の入試**を控えて**、受験生たちは緊張した面持ちで机に向かっている。
@@ -64,7 +64,7 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 
 ### 4. ～を皮切りに (Bắt đầu với... và lan rộng)
 
-*   **Cấu trúc**: $\text{N}$ + **を皮切りに / を皮切りにして**
+*   **Cấu trúc**: N + **を皮切りに / を皮切りにして**
 *   **Ý nghĩa**: Một hành động hoặc sự việc bùng nổ, bắt đầu phát đi từ điểm xuất phát N, sau đó liên tục lan rộng ra các khu vực hoặc đối tượng khác.
 *   **Ví dụ**:
     1.  東京公演**を皮切りに**、全国10都市を回るコンサートツアーが始まった。
@@ -76,7 +76,7 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 
 ### 5. ～を契机に (Nhân cơ hội... / Từ bước ngoặt...)
 
-*   **Cấu trúc**: $\text{N}$ + **を契机に / を契机として**
+*   **Cấu trúc**: N + **を契机に / を契机として**
 *   **Ý nghĩa**: Lấy một sự kiện mang tính bước ngoặt làm động lực hoặc lý do để thực hiện sự thay đổi lớn hoặc bắt đầu một thói quen hoàn toàn mới.
 *   **Sắc thái**: Thường dùng trong viết báo cáo, tự truyện, văn học để nói về các thay đổi mang tính lịch sử hoặc đổi đời.
 *   **Ví dụ**:

@@ -18,7 +18,7 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
 
 ### 1. ～いかん / ～いかんによっては (Tùy thuộc vào...)
 
-*   **Cấu trúc**: $\text{N} + \text{(の)} + $ **いかん / いかんによっては / いかんだ**
+*   **Cấu trúc**: N + (の) + **いかん / いかんによっては / いかんだ**
 *   **Ý nghĩa**: Kết quả ở vế sau được quyết định hoặc thay đổi rất lớn dựa trên nội dung của danh từ đứng trước.
 *   **Lưu ý**:
     1.  Cụm từ **「いかんに関わらず / いかんを問わず」** mang ý nghĩa *"Bất kể là... như thế nào / Không quan tâm đến..."*.
@@ -35,7 +35,7 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
 
 ### 2. ～あっての (Chính nhờ có... mới có...)
 
-*   **Cấu trúc**: $\text{N1}$ + **あっての** + $\text{N2}$
+*   **Cấu trúc**: N1 + **あっての** + N2
 *   **Ý nghĩa**: Sự tồn tại của N2 là hoàn toàn nhờ vào điều kiện tiên quyết, tối quan trọng là N1. Nếu không có N1 thì N2 cũng hoàn toàn vô nghĩa hoặc biến mất.
 *   **Ví dụ**:
     1.  お客様**あっての**商売なのだから, 顧客満足を第一に考えるべきだ。
@@ -49,7 +49,7 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
 
 ### 3. ～をおいて (Ngoại trừ... ra thì không ai khác)
 
-*   **Cấu trúc**: $\text{N}$ + **をおいて** (vế sau thường đi kèm cụm từ **他にいない / 他にない**)
+*   **Cấu trúc**: N + **をおいて** (vế sau thường đi kèm cụm từ **他にいない / 他にない**)
 *   **Ý nghĩa**: Khẳng định đối tượng N là người/vật duy nhất phù hợp, có giá trị cao nhất trong hoàn cảnh đó. Không thể tìm thấy ai/cái gì khác thay thế được.
 *   **Ví dụ**:
     1.  この困難なプロジェクトを成功させられるのは, 鈴木さん**をおいて**他にいない。

@@ -18,7 +18,7 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 
 ### 1. ～をよそに (Mặc kệ... / Bất chấp...)
 
-*   **Cấu trúc**: $\text{N}$ + **をよそに**
+*   **Cấu trúc**: N + **をよそに**
 *   **Ý nghĩa**: Hành động được thực hiện một cách dứt khoát, bất chấp sự lo lắng, can ngăn, phản đối hoặc kỳ vọng của những người xung quanh.
 *   **Lưu ý**:
     1.  Danh từ đứng trước thường chỉ cảm xúc hoặc ý kiến của người khác đối với chủ ngữ: 心配 (sự lo lắng), 反対 (sự phản đối), 期待 (sự kỳ vọng)...
@@ -35,7 +35,7 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 
 ### 2. ～なくして（は） (Nếu không có... thì không thể...)
 
-*   **Cấu trúc**: $\text{N}$ + **なくして（は）** + $\text{V}_{\text{ない}}$
+*   **Cấu trúc**: N + **なくして（は）** + V-ない
 *   **Ý nghĩa**: Nếu không tồn tại điều kiện hoặc yếu tố ở danh từ phía trước, thì vế sau chắc chắn không thể xảy ra hoặc đạt được thành công.
 *   **Ví dụ**:
     1.  国民の信頼**なくして**、政治の改革を行うことは不可能だ。
@@ -49,7 +49,7 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 
 ### 3. ～なしに（は） (Mà không có... / Nếu không có...)
 
-*   **Cấu trúc**: $\text{N}$ + **なしに（は）** / $\text{V}_{\text{る}}$ + **ことなしに（は）**
+*   **Cấu trúc**: N + **なしに（は）** / V-る + **ことなしに（は）**
 *   **Ý nghĩa**: Thực hiện hành động ở vế sau mà không cần có hoặc không đi qua yếu tố ở vế trước (thường là thủ tục, sự cho phép).
 *   **Ví dụ**:
     1.  許可**なしに**、この立ち入り giữ area に入ることは固く禁じられている。

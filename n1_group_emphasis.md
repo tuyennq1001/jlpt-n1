@@ -20,7 +20,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 1. ～はおろか (Nói chi đến...)
 
-*   **Cấu trúc**: $\text{N}$ + **はおろか**
+*   **Cấu trúc**: N + **はおろか**
 *   **Ý nghĩa**: Trạng thái vế trước là điều hiển nhiên/nhẹ hơn mà còn không đạt được, nói gì đến mức độ cao hơn ở vế sau.
 *   **Ví dụ**:
     1.  彼は漢字**はおろか**、ひらがなさえろくに書けない。
@@ -32,7 +32,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 2. ～すら / ～ですら (Ngay cả...)
 
-*   **Cấu trúc**: $\text{N}$ + **すら / ですら**
+*   **Cấu trúc**: N + **すら / ですら**
 *   **Ý nghĩa**: Đưa ra một trường hợp cực đoan, đơn giản nhất để nhấn mạnh tính chất hiển nhiên của các sự việc thông thường khác.
 *   **Ví dụ**:
     1.  こんな簡単な問題は、小学生**ですら**解ける。
@@ -44,7 +44,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 3. ～だに (Chỉ cần... cũng...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{N}$ + **だに**
+*   **Cấu trúc**: V-る / N + **だに**
 *   **Ý nghĩa**: Chỉ cần làm hành động nhẹ nhàng ở vế trước thôi cũng đủ gây ra phản ứng cực đoan ở vế sau.
 *   **Lưu ý**: Có cụm từ cổ mang nghĩa phủ định: **「微動だにしない (びどうだにしない)」** *(không hề nhúc nhích dù chỉ một chút)*.
 *   **Ví dụ**:
@@ -59,7 +59,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 4. ～たりとも (Dù chỉ một... cũng không...)
 
-*   **Cấu trúc**: $\text{Số từ chỉ lượng cực nhỏ}$ + **たりとも** + $\text{V}_{\text{ない}}$
+*   **Cấu trúc**: Số từ chỉ lượng cực nhỏ + **たりとも** + V-ない
     *   *Số lượng cực nhỏ*: 一秒 (1 giây), 一滴 (1 giọt), 一人 (1 người), 一粒 (1 hạt)...
 *   **Ý nghĩa**: Nhấn mạnh việc không để một lượng vô cùng nhỏ nhặt nào bị lãng phí hoặc vi phạm.
 *   **Ví dụ**:
@@ -74,7 +74,7 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 
 ### 5. ～からある / ～からする / ～からの (Lên tới... / Hơn...)
 
-*   **Cấu trúc**: $\text{Số từ (thông số/tiền/người)}$ + **からある / からする / からの**
+*   **Cấu trúc**: Số từ (thông số/tiền/người) + **からある / からする / からの**
 *   **Ý nghĩa**: Nhấn mạnh quy mô cực lớn của các con số được đưa ra đứng trước.
 *   **Ví dụ**:
     1.  彼は重さ100キロ**からある**大きな荷物を軽々と持ち上げた。

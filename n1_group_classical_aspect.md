@@ -20,7 +20,7 @@ Nhóm ngữ pháp này kế thừa các trợ động từ cổ của tiếng Nh
 
 ### 1. ～んがために (Để nhằm mục đích...)
 
-*   **Cấu trúc**: $\text{V}_{\text{nai (bỏ ない)}}$ + **んがために** (Đặc biệt: **する** → **せんがために**)
+*   **Cấu trúc**: V-ない (bỏ ない) + **んがために** (Đặc biệt: **する** → **せんがために**)
 *   **Ý nghĩa**: Thực hiện một nỗ lực phi thường hoặc hành động quyết liệt để hướng tới mục tiêu cực kỳ lớn vế trước.
 *   **Ví dụ**:
     1.  彼はオリンピックで金メダルを獲得せ**んがために**、毎日過酷な練習に耐えている。
@@ -32,7 +32,7 @@ Nhóm ngữ pháp này kế thừa các trợ động từ cổ của tiếng Nh
 
 ### 2. ～んとする (Sắp sửa... / Định làm gì...)
 
-*   **Cấu trúc**: $\text{V}_{\text{ý chí}}$ + **とする / としている / とした**
+*   **Cấu trúc**: V-ý chí + **とする / としている / とした**
 *   **Ý nghĩa**: Một sự vật, hiện tượng tự nhiên hoặc tình huống đang cận kề khoảnh khắc chuẩn bị biến đổi lớn.
 *   **Ví dụ**:
     1.  西の空に太陽が沈も**うとしている**。
@@ -46,7 +46,7 @@ Nhóm ngữ pháp này kế thừa các trợ động từ cổ của tiếng Nh
 
 ### 3. ～べくして (Đương nhiên phải thế)
 
-*   **Cấu trúc**: $\text{V1}_{\text{る}}$ + **べくして** + $\text{V1}$ (thường đi với dạng quá khứ ở cuối câu: **～た**)
+*   **Cấu trúc**: V1-る + **べくして** + V1 (thường đi với dạng quá khứ ở cuối câu: **～た**)
 *   **Ý nghĩa**: Sự việc đó xảy ra là kết quả tất yếu, đúng theo quy luật và tiến trình hợp lý, không có gì là ngẫu nhiên.
 *   **Ví dụ**:
     1.  この事件は起こる**べくして**起こったのだ。防ぐ方法はいくらでもあった。
@@ -58,7 +58,7 @@ Nhóm ngữ pháp này kế thừa các trợ động từ cổ của tiếng Nh
 
 ### 4. ～べくもない (Làm sao có thể... / Không thể...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}}$ + **べくもない** (Đặc biệt: **する** → **すべくもない**)
+*   **Cấu trúc**: V-る + **べくもない** (Đặc biệt: **する** → **すべくもない**)
 *   **Ý nghĩa**: Bày tỏ phán đoán chắc chắn: Hoàn cảnh thực tế không cho phép hoặc về mặt đạo lý không thể trông đợi việc đó xảy ra được.
 *   **Ví dụ**:
     1.  貧しい家庭で育った私には、留学など望む**べくもなかった**。
@@ -71,8 +71,8 @@ Nhóm ngữ pháp này kế thừa các trợ động từ cổ của tiếng Nh
 ### 5. ～ともなく / ～ともなしに (Vô tình... / Không chủ định)
 
 *   **Cấu trúc**: 
-    *   $\text{V}_{\text{る}}$ + **ともなく / ともなしに**
-    *   $\text{Nghi vấn từ (đâu, ai, khi nào)}$ + **ともなく**
+    *   V-る + **ともなく / ともなしに**
+    *   Nghi vấn từ (đâu, ai, khi nào) + **ともなく**
 *   **Ý nghĩa**:
     *   **Nghĩa A**: Vô tình thực hiện hành động (nhìn, nghe) mà không tập trung chú ý hay chủ ý.
     *   **Nghĩa B**: Không rõ là từ đâu, từ ai, khi nào phát ra (ví dụ: tiếng nhạc không rõ từ đâu vọng lại).

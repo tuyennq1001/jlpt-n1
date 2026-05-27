@@ -20,7 +20,7 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 
 ### 1. ～もさることながら (A thì đương nhiên, nhưng B còn...)
 
-*   **Cấu trúc**: $\text{N}$ + **もさることながら**
+*   **Cấu trúc**: N + **もさることながら**
 *   **Ý nghĩa**: Đồng ý rằng sự việc A là điều hiển nhiên hoặc vô cùng quan trọng rồi, nhưng muốn người nghe tập trung sự chú ý vào vế B vì B còn nổi bật hoặc cần thiết hơn nữa.
 *   **Ví dụ**:
     1.  この仕事は給nổiもさることながら, やりがいがあるかどうかが重要だ。
@@ -32,7 +32,7 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 
 ### 2. ～と相まって (Kết hợp cùng với...)
 
-*   **Cấu trúc**: $\text{N}$ + **と相まって** (thường đi với vế trước chứa danh từ khác + **が / も**)
+*   **Cấu trúc**: N + **と相まって** (thường đi với vế trước chứa danh từ khác + **が / も**)
 *   **Ý nghĩa**: Yếu tố A kết hợp, cộng hưởng cùng với yếu tố B tạo nên một kết quả vượt trội, hiệu ứng cộng hưởng tốt đẹp.
 *   **Ví dụ**:
     1.  彼の優れた技術が、長年の努力**と相まって**, ついにノーベル賞受賞につながった。
@@ -44,7 +44,7 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 
 ### 3. ～ならでは (Chỉ có thể là... mới có)
 
-*   **Cấu trúc**: $\text{N}$ + **ならでは** / $\text{N}$ + **ならではの** + $\text{N2}$
+*   **Cấu trúc**: N + **ならでは** / N + **ならではの** + N2
 *   **Ý nghĩa**: Diễn tả sự độc bản, chất lượng cao nhất mà chỉ riêng đối tượng N mới có khả năng làm được hoặc sở hữu.
 *   **Ví dụ**:
     1.  京都**ならではの**古いお寺の雰囲気を楽しんだ。
@@ -56,7 +56,7 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 
 ### 4. ～にもまして (Hơn cả... / So với...)
 
-*   **Cấu trúc**: $\text{N}$ + **にもまして** (hoặc $\text{Nghi vấn từ (いつ/どこ)}$ + **にもまして**)
+*   **Cấu trúc**: N + **にもまして** (hoặc Nghi vấn từ (いつ/どこ) + **にもまして**)
 *   **Ý nghĩa**: Nhấn mạnh rằng mức độ ở hiện tại hoặc của đối tượng vế sau vượt trội hơn hẳn so với mốc so sánh ở vế trước.
 *   **Ví dụ**:
     1.  今年の夏は, 例年**にもまして**暑さが厳しい。
@@ -70,7 +70,7 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 
 ### 5. ～と並んで (Ngang hàng với... / Sánh vai với...)
 
-*   **Cấu trúc**: $\text{N}$ + **と並んで** / $\text{N}$ + **に並ぶ** + $\text{N2}$
+*   **Cấu trúc**: N + **と並んで** / N + **に並ぶ** + N2
 *   **Ý nghĩa**: Đặt hai sự vật có tầm ảnh hưởng, sức mạnh hoặc độ nổi tiếng ngang nhau lên bàn cân để giới thiệu.
 *   **Ví dụ**:
     1.  彼は世界チャンピオン**と並ぶ**実力を持っている。

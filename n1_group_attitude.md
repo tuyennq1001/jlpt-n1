@@ -19,7 +19,7 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 
 ### 1. ～をめぐって (Xoay quanh...)
 
-*   **Cấu trúc**: $\text{N}$ + **をめぐって / をめぐる** + $\text{N2}$
+*   **Cấu trúc**: N + **をめぐって / をめぐる** + N2
 *   **Ý nghĩa**: Xoay quanh chủ đề, vấn đề nào đó mà phát sinh nhiều tranh luận, ý kiến trái chiều, hoặc tranh chấp gay gắt giữa nhiều bên.
 *   **Lưu ý**: Vế sau luôn là các từ chỉ sự tranh cãi, tranh chấp như: 争う (tranh chấp), 議論する (thảo luận/tranh luận), 対立する (đối đầu)...
 *   **Ví dụ**:
@@ -32,7 +32,7 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 
 ### 2. ～に即して (Dựa theo quy định/thực tế...)
 
-*   **Cấu trúc**: $\text{N}$ + **に即して / に即した** + $\text{N2}$
+*   **Cấu trúc**: N + **に即して / に即した** + N2
 *   **Ý nghĩa**: Hành động bám sát, đi sát và hoàn toàn tuân theo các quy định, luật lệ, hoặc thực tế khách quan mà không đi chệch hướng.
 *   **Lưu ý**: 
     1.  Khi bám sát luật lệ, sự thật: dùng **に即して**.
@@ -47,7 +47,7 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 
 ### 3. ～にこたえて (Đáp ứng lại mong mỏi/kỳ vọng...)
 
-*   **Cấu trúc**: $\text{N}$ + **にこたえて / にこたえる** + $\text{N2}$
+*   **Cấu trúc**: N + **にこたえて / にこたえる** + N2
 *   **Ý nghĩa**: Thực hiện hành động để đáp lại lòng mong mỏi, kỳ vọng, yêu cầu hoặc tiếng gọi của đối phương.
 *   **Từ thường đi kèm**: 期待 (kỳ vọng), 要望 (yêu cầu), 声援 (sự cổ vũ), アンコール (yêu cầu diễn thêm)...
 *   **Ví dụ**:
@@ -60,7 +60,7 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 
 ### 4. ～にかかわる (Liên quan tới/Có ảnh hưởng tới...)
 
-*   **Cấu trúc**: $\text{N}$ + **にかかわる / にかかわって**
+*   **Cấu trúc**: N + **にかかわる / にかかわって**
 *   **Ý nghĩa**: Diễn tả sự việc có ảnh hưởng cực kỳ nghiêm trọng, sống còn hoặc mang tính quyết định trực tiếp đối với danh từ đứng trước.
 *   **Từ thường đi kèm**: 命 (mạng sống), 名誉 (danh dự), 評判 (uy tín), 将来 (tương lai)...
 *   **Ví dụ**:

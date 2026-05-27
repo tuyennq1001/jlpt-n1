@@ -18,7 +18,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 
 ### 1. ～がてら (Nhân tiện... / Tiện thể...)
 
-*   **Cấu trúc**: $\text{V}_{\text{masu (bỏ ます)}} / \text{N}$ + **がてら**
+*   **Cấu trúc**: V-ます (bỏ ます) / N + **がてら**
 *   **Ý nghĩa**: Nhân tiện thực hiện một hành động di chuyển A thì làm luôn hành động B có cùng hướng di chuyển để tiết kiệm công sức.
 *   **Lưu ý**: Động từ vế trước thường là các từ chỉ di chuyển như: 散歩する (đi dạo), 買い物する (đi mua đồ), ドライブする (lái xe đi chơi)...
 *   **Ví dụ**:
@@ -31,7 +31,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 
 ### 2. ～かたがた (Tiện thể... / Sẵn tiện...)
 
-*   **Cấu trúc**: $\text{N}$ + **かたがた**
+*   **Cấu trúc**: N + **かたがた**
 *   **Ý nghĩa**: Nhân cơ hội thực hiện một việc lớn nào đó để kết hợp làm một việc lịch sự khác. Hành động mang đồng thời cả hai mục tiêu.
 *   **Sắc thái**: Rất trang trọng, lịch sự. Thường đi với các danh từ như: お礼 (cảm ơn), お見舞い (thăm bệnh), ご挨拶 (chào hỏi), お詫び (xin lỗi)...
 *   **Ví dụ**:
@@ -44,7 +44,7 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 
 ### 3. ～かたわら (Vừa làm việc chính... vừa làm việc phụ...)
 
-*   **Cấu trúc**: $\text{V}_{\text{る}} / \text{N}$ + **の** + **かたわら**
+*   **Cấu trúc**: V-る / N + **の** + **かたわら**
 *   **Ý nghĩa**: Bên cạnh công việc chính/nghề nghiệp chính của mình, tranh thủ thực hiện thêm một hoạt động, sở thích hoặc công việc phụ khác.
 *   **Lưu ý**: Hai công việc này phải diễn ra song song lâu dài chứ không phải hành động tức thời.
 *   **Ví dụ**:
