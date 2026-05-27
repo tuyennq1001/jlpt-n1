@@ -30,18 +30,18 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Ý nghĩa**: Nếu có thể làm được thì tôi rất muốn làm (thường là việc bất khả thi hoặc vô cùng khó khăn).
 *   **Ví dụ**:
     1.  戻れる**ものなら**、もう一度子供の頃に戻りたい。
-        *   *(Nếu có thể quay lại, tôi muốn quay lại thời thơ ấu một lần nữa.)*
+        *   *Nếu có thể quay lại, tôi muốn quay lại thời thơ ấu một lần nữa.*
     2.  できる**ものなら**、世界中の貧困をなくしたい。
-        *   *(Nếu có thể làm được, tôi muốn xóa bỏ nghèo đói trên toàn thế giới.)*
+        *   *Nếu có thể làm được, tôi muốn xóa bỏ nghèo đói trên toàn thế giới.*
 
 #### B. Đi với Động từ ý chí (V-ý chí + ものなら)
 *   **Ý nghĩa**: Nếu lỡ làm việc gì đó (thì sẽ có một hậu quả cực kỳ nghiêm trọng xảy ra).
 *   **Lưu ý**: Vế sau luôn là một kết quả xấu, mang tính cảnh báo, đe dọa.
 *   **Ví dụ**:
     1.  授業中に居眠りをし**ようものなら**、先生にひどく怒られる。
-        *   *(Trong giờ học mà lỡ ngủ gật là sẽ bị thầy giáo mắng mỏ thậm tệ.)*
+        *   *Trong giờ học mà lỡ ngủ gật là sẽ bị thầy giáo mắng mỏ thậm tệ.*
     2.  あの人に秘密を話そ**うものなら**、すぐに全員に広まってしまう。
-        *   *(Nếu lỡ nói bí mật cho người đó biết thì nó sẽ bị lan truyền cho mọi người ngay lập tức.)*
+        *   *Nếu lỡ nói bí mật cho người đó biết thì nó sẽ bị lan truyền cho mọi người ngay lập tức.*
 
 ---
 
@@ -52,9 +52,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Lưu ý**: Vế sau thường bị lược bỏ trong văn nói, chỉ còn lại **ものを** ở cuối câu.
 *   **Ví dụ**:
     1.  連絡してくれれば迎えに行った**ものを**、どうして電話しなかったの。
-        *   *(Nếu báo cho tôi thì tôi đã đi đón rồi, thế mà sao không gọi điện chứ?)*
+        *   *Nếu báo cho tôi thì tôi đã đi đón rồi, thế mà sao không gọi điện chứ?*
     2.  もう少し早く家を出れば間に合った**ものを**、彼はいつも遅刻する。
-        *   *(Giá mà rời nhà sớm hơn một chút thì đã kịp giờ rồi, thế mà anh ta cứ luôn muộn học.)*
+        *   *Giá mà rời nhà sớm hơn một chút thì đã kịp giờ rồi, thế mà anh ta cứ luôn muộn học.*
 
 ---
 
@@ -65,9 +65,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Lưu ý**: Dùng để ca ngợi hoặc mô tả khách quan hành động của người khác. Tuyệt đối không dùng cho bản thân mình.
 *   **Ví dụ**:
     1.  救助隊は、激しい吹雪**をものともせずに**救助活動を続けた。
-        *   *(Đội cứu hộ đã bất chấp trận bão tuyết dữ dội để tiếp tục hoạt động cứu hộ.)*
+        *   *Đội cứu hộ đã bất chấp trận bão tuyết dữ dội để tiếp tục hoạt động cứu hộ.*
     2.  周囲の反対**をものともせずに**、彼女は自分の夢を追いかけた。
-        *   *(Mặc cho sự phản đối của những người xung quanh, cô ấy vẫn theo đuổi ước mơ của mình.)*
+        *   *Mặc cho sự phản đối của những người xung quanh, cô ấy vẫn theo đuổi ước mơ của mình.*
 
 ---
 
@@ -78,9 +78,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Sắc thái**: Thể hiện sự đồng ý hoặc thừa nhận một cách e dè, gián tiếp, không dứt khoát.
 *   **Ví dụ**:
     1.  その条件なら, 協力し**ないものでもない**。
-        *   *(Nếu là điều kiện đó thì không hẳn tôi không hợp tác được [tức là có thể cân nhắc].)*
+        *   *Nếu là điều kiện đó thì không hẳn tôi không hợp tác được [tức là có thể cân nhắc].*
     2.  毎日必死に練習すれば, 合格でき**ないものでもない**。
-        *   *(Nếu luyện tập điên cuồng mỗi ngày thì không hẳn là không thể đỗ [vẫn có cơ hội].)*
+        *   *Nếu luyện tập điên cuồng mỗi ngày thì không hẳn là không thể đỗ [vẫn có cơ hội].*
 
 ---
 
@@ -90,9 +90,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Ý nghĩa**: Cảm thấy có một yếu tố, một tính chất nào đó khiến bản thân xúc động hoặc suy nghĩ sâu sắc.
 *   **Ví dụ**:
     1.  彼の歌声には, 聞く人の心を動かす**ものがある**。
-        *   *(Giọng hát của anh ấy có một cái gì đó chạm đến trái tim người nghe.)*
+        *   *Giọng hát của anh ấy có một cái gì đó chạm đến trái tim người nghe.*
     2.  この不景気で会社を辞めさせられるのは、理不尽極まりない**ものがある**。
-        *   *(Việc bị ép thôi việc trong thời kỳ suy thoái này có cảm giác cực kỳ vô lý.)*
+        *   *Việc bị ép thôi việc trong thời kỳ suy thoái này có cảm giác cực kỳ vô lý.*
 
 ---
 
@@ -102,9 +102,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Ý nghĩa**: Đưa ra một kết luận khách quan, mang tính chân lý hoặc một sự thật hiển nhiên theo quan niệm xã hội.
 *   **Ví dụ**:
     1.  困っている人を助けるのが, 友情**というものだ**。
-        *   *(Giúp đỡ người gặp khó khăn, đó mới chính là tình bạn.)*
+        *   *Giúp đỡ người gặp khó khăn, đó mới chính là tình bạn.*
     2.  他人の日記を無断で読むのは、プライバシーの侵害**というものだ**。
-        *   *(Đọc trộm nhật ký của người khác thực sự là hành vi xâm phạm quyền riêng tư.)*
+        *   *Đọc trộm nhật ký của người khác thực sự là hành vi xâm phạm quyền riêng tư.*
 
 ---
 
@@ -114,9 +114,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Ý nghĩa**: Nhấn mạnh một khoảng thời gian dài liên tục cho tới nay mà một trạng thái vẫn tiếp diễn.
 *   **Ví dụ**:
     1.  ここ1ヶ月**というもの**、仕事が忙しくて休みが取れていない。
-        *   *(Suốt 1 tháng qua, công việc bận rộn đến mức tôi không thể xin nghỉ.)*
+        *   *Suốt 1 tháng qua, công việc bận rộn đến mức tôi không thể xin nghỉ.*
     2.  彼が国に帰ってから**というもの**、部屋の中がひっそりとしている。
-        *   *(Kể từ sau khi anh ấy về nước, trong phòng lúc nào cũng trở nên tĩnh lặng.)*
+        *   *Kể từ sau khi anh ấy về nước, trong phòng lúc nào cũng trở nên tĩnh lặng.*
 
 ---
 
@@ -126,9 +126,9 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Ý nghĩa**: Phủ định mạnh mẽ ý kiến hoặc quyết định, thể hiện thái độ cự tuyệt tuyệt đối. Trong văn nói thường dùng **もんか**.
 *   **Ví dụ**:
     1.  あんな失礼な店、 hai度と行く**ものか**。
-        *   *(Cái cửa hàng bất lịch sự như thế, không đời nào tôi thèm quay lại lần thứ hai.)*
+        *   *Cái cửa hàng bất lịch sự như thế, không đời nào tôi thèm quay lại lần thứ hai.*
     2.  負ける**もんか**！最後まで絶対に諦めないぞ。
-        *   *(Không đời nào chịu thua! Tôi nhất định sẽ không bỏ cuộc đến cùng.)*
+        *   *Không đời nào chịu thua! Tôi nhất định sẽ không bỏ cuộc đến cùng.*
 
 ---
 
@@ -138,6 +138,6 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 *   **Ý nghĩa**: Mặc dù sự thật là A, nhưng kết quả thực tế lại trái ngược hoặc không đạt được mong đợi ở vế B.
 *   **Ví dụ**:
     1.  大学は卒業した**ものの**、就職先が決まっていない。
-        *   *(Mặc dù đã tốt nghiệp đại học nhưng tôi vẫn chưa quyết định được nơi làm việc.)*
+        *   *Mặc dù đã tốt nghiệp đại học nhưng tôi vẫn chưa quyết định được nơi làm việc.*
     2.  車の免許は取った**ものの**、ペーパードライバーで運転ができない。
-        *   *(Mặc dù đã lấy được bằng lái xe nhưng tôi chưa bao giờ lái thực tế nên không biết lái.)*
+        *   *Mặc dù đã lấy được bằng lái xe nhưng tôi chưa bao giờ lái thực tế nên không biết lái.*

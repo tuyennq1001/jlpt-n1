@@ -26,11 +26,11 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
     *   **Nghĩa B (Sự đồng thời)**: Vừa là A vừa là B (áp dụng cho danh từ chỉ danh sắc, vai trò).
 *   **Ví dụ**:
     1.  彼は80歳**にして**初めてパソコンの操作を覚えた。
-        *   *(Cụ ấy phải đến năm 80 tuổi mới lần đầu tiên học cách sử dụng máy tính.)*
+        *   *Cụ ấy phải đến năm 80 tuổi mới lần đầu tiên học cách sử dụng máy tính.*
     2.  この年齢**にして**ようやく自分の未熟さを悟った。
-        *   *(Phải đến độ tuổi này tôi mới ngộ ra sự non kém của bản thân.)*
+        *   *Phải đến độ tuổi này tôi mới ngộ ra sự non kém của bản thân.*
     3.  彼は優れた政治家**にして**、高名な小説家でもある。
-        *   *(Ông ấy vừa là một chính trị gia xuất chúng, vừa là một nhà văn lừng danh.)*
+        *   *Ông ấy vừa là một chính trị gia xuất chúng, vừa là một nhà văn lừng danh.*
 
 ---
 
@@ -42,11 +42,11 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
     *   **Nghĩa B (Phương thức hành động)**: Bằng cách thức, phương pháp này (tương đương với **～によって**).
 *   **Ví dụ**:
     1.  本日**をもって**、今年度の新規会員募集を締め切らせていただきます。
-        *   *(Kể từ ngày hôm nay, chúng tôi xin phép đóng cổng đăng ký thành viên mới của năm học này.)*
+        *   *Kể từ ngày hôm nay, chúng tôi xin phép đóng cổng đăng ký thành viên mới của năm học này.*
     2.  結果は書面**をもって**通知いたします。お電話での問い合わせはご遠慮ください。
-        *   *(Kết quả sẽ được thông báo bằng văn bản. Xin vui lòng không hỏi qua điện thoại.)*
+        *   *Kết quả sẽ được thông báo bằng văn bản. Xin vui lòng không hỏi qua điện thoại.*
     3.  私の実力**をもって**しても, その壁を越えることはできなかった。
-        *   *(Dù bằng chính thực lực của tôi thì cũng không thể vượt qua nổi bức tường ngăn cản đó.)*
+        *   *Dù bằng chính thực lực của tôi thì cũng không thể vượt qua nổi bức tường ngăn cản đó.*
 
 ---
 
@@ -56,9 +56,9 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 *   **Ý nghĩa**: Chỉ trạng thái chuẩn bị, tâm lý lo lắng hoặc bận rộn ngay trước thời điểm diễn ra sự kiện trọng đại sắp tới gần.
 *   **Ví dụ**:
     1.  明日の入試**を控えて**、受験生たちは緊張した面持ちで机に向かっている。
-        *   *(Cận kề kỳ thi tuyển sinh ngày mai, các thí sinh đang hướng về phía bàn học với khuôn mặt đầy lo lắng.)*
+        *   *Cận kề kỳ thi tuyển sinh ngày mai, các thí sinh đang hướng về phía bàn học với khuôn mặt đầy lo lắng.*
     2.  結婚式**を控えた**彼女は、準備の忙しさに追われつつも幸せそうだ。
-        *   *(Cận kề đám cưới, cô ấy tuy bận rộn tối mắt tối mũi chuẩn bị nhưng trông vẫn rất hạnh phúc.)*
+        *   *Cận kề đám cưới, cô ấy tuy bận rộn tối mắt tối mũi chuẩn bị nhưng trông vẫn rất hạnh phúc.*
 
 ---
 
@@ -68,9 +68,9 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 *   **Ý nghĩa**: Một hành động hoặc sự việc bùng nổ, bắt đầu phát đi từ điểm xuất phát N, sau đó liên tục lan rộng ra các khu vực hoặc đối tượng khác.
 *   **Ví dụ**:
     1.  東京公演**を皮切りに**、全国10都市を回るコンサートツアーが始まった。
-        *   *(Bắt đầu với đêm diễn tại Tokyo, chuyến lưu diễn ca nhạc đi qua 10 thành phố cả nước đã chính thức bắt đầu.)*
+        *   *Bắt đầu với đêm diễn tại Tokyo, chuyến lưu diễn ca nhạc đi qua 10 thành phố cả nước đã chính thức bắt đầu.*
     2.  一つのスーパーの値下げ**を皮切りに**、地域全体で価格競争が激化した。
-        *   *(Bắt đầu từ đợt giảm giá của một siêu thị, cuộc chiến giá cả đã bùng nổ dữ dội trên toàn khu vực.)*
+        *   *Bắt đầu từ đợt giảm giá của một siêu thị, cuộc chiến giá cả đã bùng nổ dữ dội trên toàn khu vực.*
 
 ---
 
@@ -81,6 +81,6 @@ Nhóm ngữ pháp này dùng để xác định **mốc thời gian, cơ hội b
 *   **Sắc thái**: Thường dùng trong viết báo cáo, tự truyện, văn học để nói về các thay đổi mang tính lịch sử hoặc đổi đời.
 *   **Ví dụ**:
     1.  大病を患ったこと**を契机に**、毎朝ジョギングをするなど健康に気を使うようになった。
-        *   *(Nhân cơ hội trải qua một trận bạo bệnh, tôi đã bắt đầu chăm sóc sức khỏe như chạy bộ mỗi sáng.)*
+        *   *Nhân cơ hội trải qua một trận bạo bệnh, tôi đã bắt đầu chăm sóc sức khỏe như chạy bộ mỗi sáng.*
     2.  1964年の東京オリンピック**を契机として**、日本のインフラ整備が急速に進んだ。
-        *   *(Từ bước ngoặt Olympics Tokyo 1964, việc xây dựng cơ sở hạ tầng của Nhật Bản đã phát triển nhanh chóng.)*
+        *   *Từ bước ngoặt Olympics Tokyo 1964, việc xây dựng cơ sở hạ tầng của Nhật Bản đã phát triển nhanh chóng.*

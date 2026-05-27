@@ -23,9 +23,9 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 *   **Lưu ý**: Động từ vế trước thường là các từ chỉ di chuyển như: 散歩する (đi dạo), 買い物する (đi mua đồ), ドライブする (lái xe đi chơi)...
 *   **Ví dụ**:
     1.  散歩**がてら**、近くの郵便局に行って手紙を出してこよう。
-        *   *(Nhân tiện đi dạo, tôi sẽ ghé qua bưu điện gần nhà gửi bức thư luôn.)*
+        *   *Nhân tiện đi dạo, tôi sẽ ghé qua bưu điện gần nhà gửi bức thư luôn.*
     2.  ドライブ**がてら**、新しくできたショッピングモールを見に行った。
-        *   *(Tiện thể đi lái xe hóng gió, chúng tôi ghé xem trung tâm mua sắm mới mở.)*
+        *   *Tiện thể đi lái xe hóng gió, chúng tôi ghé xem trung tâm mua sắm mới mở.*
 
 ---
 
@@ -36,9 +36,9 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 *   **Sắc thái**: Rất trang trọng, lịch sự. Thường đi với các danh từ như: お礼 (cảm ơn), お見舞い (thăm bệnh), ご挨拶 (chào hỏi), お詫び (xin lỗi)...
 *   **Ví dụ**:
     1.  お礼**かたがた**、新年のご挨拶に伺いました。
-        *   *(Tiện thể gửi lời cảm ơn, tôi đến để gửi lời chúc mừng năm mới đến quý khách.)*
+        *   *Tiện thể gửi lời cảm ơn, tôi đến để gửi lời chúc mừng năm mới đến quý khách.*
     2.  先日のお詫び**かたがた**、部長のご自宅へお見舞いに伺った。
-        *   *(Tiện thể xin lỗi chuyện hôm trước, tôi đã đến nhà riêng để thăm bệnh Trưởng phòng.)*
+        *   *Tiện thể xin lỗi chuyện hôm trước, tôi đã đến nhà riêng để thăm bệnh Trưởng phòng.*
 
 ---
 
@@ -49,8 +49,8 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"nhân tiệ
 *   **Lưu ý**: Hai công việc này phải diễn ra song song lâu dài chứ không phải hành động tức thời.
 *   **Ví dụ**:
     1.  彼は本業 của mình là bác sĩ**のかたわら**、小説家としても活躍している。
-        *   *(Bên cạnh công việc chính là bác sĩ, ông ấy còn hoạt động rất tích cực với tư cách là tiểu thuyết gia.)*
+        *   *Bên cạnh công việc chính là bác sĩ, ông ấy còn hoạt động rất tích cực với tư cách là tiểu thuyết gia.*
     2.  彼女は大学に通う**かたわら**、モデルの仕事もこなしている。
-        *   *(Bên cạnh việc đi học đại học, cô ấy còn kiêm cả công việc làm người mẫu.)*
+        *   *Bên cạnh việc đi học đại học, cô ấy còn kiêm cả công việc làm người mẫu.*
     3.  祖父は農業を営む**かたわら**、地域のボランティア活動に励んでいる。
-        *   *(Bên cạnh việc làm nông nghiệp, ông tôi còn tích cực tham gia các hoạt động tình nguyện tại địa phương.)*
+        *   *Bên cạnh việc làm nông nghiệp, ông tôi còn tích cực tham gia các hoạt động tình nguyện tại địa phương.*

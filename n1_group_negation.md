@@ -25,11 +25,11 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 *   **Ý nghĩa**: Xét về mặt đạo đức xã hội, luật lệ hoặc quan hệ xã hội, người nói bắt buộc phải thực hiện hành động đó. Nếu không làm thì lương tâm không yên hoặc xã hội sẽ không tha thứ.
 *   **Ví dụ**:
     1.  私の不注意で会社に損害を与えたのだから、辞職せ**ずにはすまない**だろう。
-        *   *(Vì sự bất cẩn của tôi gây thiệt hại cho công ty nên có lẽ không thể không từ chức được.)*
+        *   *Vì sự bất cẩn của tôi gây thiệt hại cho công ty nên có lẽ không thể không từ chức được.*
     2.  人の物を壊してしまった以上、弁償し**ないではすまない**。
-        *   *(Một khi đã làm hỏng đồ của người khác thì bắt buộc phải bồi thường.)*
+        *   *Một khi đã làm hỏng đồ của người khác thì bắt buộc phải bồi thường.*
     3.  これだけ大きな問題になれば、責任を取らされ**ずにはすまない**。
-        *   *(Khi vấn đề đã trở nên lớn thế này, chắc chắn không thể không bị truy cứu trách nhiệm.)*
+        *   *Khi vấn đề đã trở nên lớn thế này, chắc chắn không thể không bị truy cứu trách nhiệm.*
 
 ---
 
@@ -39,11 +39,11 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 *   **Ý nghĩa**: Cảm xúc (thương xót, buồn cười, tức giận...) hoặc phản xạ của cơ thể quá mạnh, người nói không thể kiểm soát hay kìm nén được mà phải bộc phát ra ngoài.
 *   **Ví dụ**:
     1.  彼のあまりにも面白い冗談に, 誰もが笑わ**ずにはいられない**。
-        *   *(Trước trò đùa quá mức buồn cười của anh ta, không ai là không thể nhịn được cười.)*
+        *   *Trước trò đùa quá mức buồn cười của anh ta, không ai là không thể nhịn được cười.*
     2.  悲しいニュースを聞いて、涙を流さ**ずにはいられなかった**。
-        *   *(Nghe tin buồn đó, tôi không thể kìm được nước mắt rơi.)*
+        *   *Nghe tin buồn đó, tôi không thể kìm được nước mắt rơi.*
     3.  目の前で困っている子供を見たら, 助け**ないではいられない**。
-        *   *(Nhìn thấy đứa trẻ gặp khó khăn ngay trước mắt, tôi không thể không giúp đỡ được.)*
+        *   *Nhìn thấy đứa trẻ gặp khó khăn ngay trước mắt, tôi không thể không giúp đỡ được.*
 
 ---
 
@@ -54,11 +54,11 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
 *   **Lưu ý**: Chỉ đi với một số động từ chỉ hoạt động tâm lý, cảm xúc tích cực như: 祈る (cầu nguyện), 願う (mong mỏi), 期待する (mong đợi), 愛する (yêu thương), 信じる (tin tưởng)...
 *   **Ví dụ**:
     1.  被災地の一日も早い phục hồiを祈っ**てやみません**。
-        *   *(Tôi luôn cầu nguyện cho vùng bị thiên tai sẽ sớm phục hồi từng ngày.)*
+        *   *Tôi luôn cầu nguyện cho vùng bị thiên tai sẽ sớm phục hồi từng ngày.*
     2.  私たちは、新入社員の皆さんの活躍を期待し**てやまない**。
-        *   *(Chúng tôi luôn không ngừng mong đợi sự thể hiện năng nổ của tất cả các bạn nhân viên mới.)*
+        *   *Chúng tôi luôn không ngừng mong đợi sự thể hiện năng nổ của tất cả các bạn nhân viên mới.*
     3.  彼は妻のことを愛し**てやまない**愛妻家だ。
-        *   *(Anh ấy là người chồng luôn yêu thương vợ mình hết mực.)*
+        *   *Anh ấy là người chồng luôn yêu thương vợ mình hết mực.*
 
 ---
 
@@ -71,8 +71,8 @@ Nhóm ngữ pháp này diễn tả ý nghĩa **"không thể không làm gì"** 
     2.  Cấu trúc **～を余儀なくさせる** đi với chủ ngữ là **nguyên nhân** (buộc ai đó phải làm).
 *   **Ví dụ**:
     1.  突然の豪雨により、登山隊は計画の中止**を余儀なくされた**。
-        *   *(Do trận mưa lớn đột ngột, đoàn leo núi buộc phải hủy bỏ kế hoạch.)*
+        *   *Do trận mưa lớn đột ngột, đoàn leo núi buộc phải hủy bỏ kế hoạch.*
     2.  資金不足が、彼らに開発の中断**を余儀なくさせた**。
-        *   *(Sự thiếu hụt nguồn vốn đã buộc họ phải tạm dừng việc phát triển sản phẩm.)*
+        *   *Sự thiếu hụt nguồn vốn đã buộc họ phải tạm dừng việc phát triển sản phẩm.*
     3.  怪我の悪化により、彼は現役引退**を余儀なくされた**。
-        *   *(Vì chấn thương xấu đi, anh ấy buộc phải giải nghệ.)*
+        *   *Vì chấn thương xấu đi, anh ấy buộc phải giải nghệ.*

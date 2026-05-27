@@ -25,11 +25,11 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 *   **Ý nghĩa**: Trạng thái hiện tại của sự vật, con người biểu hiện ra bên ngoài cực kỳ rõ ràng, giống như thể sắp xảy ra hành động đó ngay lập tức (dù thực tế chưa xảy ra).
 *   **Ví dụ**:
     1.  彼女は泣き出さ**んばかりに**うつむいて、何も言わなかった。
-        *   *(Cô ấy cúi gằm mặt xuống như thể sắp khóc đến nơi và không nói lời nào.)*
+        *   *Cô ấy cúi gằm mặt xuống như thể sắp khóc đến nơi và không nói lời nào.*
     2.  彼は今にも殴りかから**んばかりの**勢いで迫ってきた。
-        *   *(Anh ta lao đến với khí thế như thể sắp lao vào đấm người đến nơi.)*
+        *   *Anh ta lao đến với khí thế như thể sắp lao vào đấm người đến nơi.*
     3.  割れんばかりの拍手が会場に響き渡った。
-        *   *(Tiếng vỗ tay vang dội như muốn vỡ cả khán phòng.)*
+        *   *Tiếng vỗ tay vang dội như muốn vỡ cả khán phòng.*
 
 ---
 
@@ -39,11 +39,11 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 *   **Ý nghĩa**: Người đó không nói ra bằng lời, nhưng thái độ, hành động của họ biểu hiện cực kỳ rõ ràng thông điệp đó.
 *   **Ví dụ**:
     1.  彼は「出て行け」**とばかりに**、ドアを指差した。
-        *   *(Anh ta chỉ tay ra cửa như thể muốn nói là "Cút đi".)*
+        *   *Anh ta chỉ tay ra cửa như thể muốn nói là "Cút đi".*
     2.  彼女は私の話がつまらない**とばかりに**、大きなため息をついた。
-        *   *(Cô ấy thở dài một tiếng thật dài như thể muốn nói là câu chuyện của tôi chán ngắt.)*
+        *   *Cô ấy thở dài một tiếng thật dài như thể muốn nói là câu chuyện của tôi chán ngắt.*
     3.  彼はチャンス到来**とばかりに**、すぐに手を挙げて発言した。
-        *   *(Anh ta lập tức giơ tay phát biểu như muốn thể hiện rằng cơ hội đã đến.)*
+        *   *Anh ta lập tức giơ tay phát biểu như muốn thể hiện rằng cơ hội đã đến.*
 
 ---
 
@@ -53,11 +53,11 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 *   **Ý nghĩa**: Chỉ vì một nguyên nhân duy nhất, đôi khi là sơ suất nhỏ, mà dẫn đến một kết quả cực kỳ tồi tệ ngoài ý muốn. Thể hiện sự tiếc nuối và hối hận sâu sắc của người nói.
 *   **Ví dụ**:
     1.  油断した**ばかりに**、最後の最後で逆転負けしてしまった。
-        *   *(Chỉ vì một phút lơ là chủ quan mà tôi đã bị lật ngược tình thế và thua ở phút cuối cùng.)*
+        *   *Chỉ vì một phút lơ là chủ quan mà tôi đã bị lật ngược tình thế và thua ở phút cuối cùng.*
     2.  携帯電話の充電を忘れた**ばかりに**、大事な取引先からの連絡が取れなかった。
-        *   *(Chỉ vì quên sạc điện thoại mà tôi đã không liên lạc được với đối tác quan trọng.)*
+        *   *Chỉ vì quên sạc điện thoại mà tôi đã không liên lạc được với đối tác quan trọng.*
     3.  お金がない**ばかりに**、進学を諦めざmắtを得なかった。
-        *   *(Chỉ vì không có tiền mà tôi đành phải từ bỏ việc học tiếp lên cao.)*
+        *   *Chỉ vì không có tiền mà tôi đành phải từ bỏ việc học tiếp lên cao.*
 
 ---
 
@@ -67,11 +67,11 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 *   **Ý nghĩa**: Không chỉ dừng lại ở mức độ vế trước, mà vế sau còn có thêm thông tin bổ sung với mức độ hoặc phạm vi rộng hơn nhiều.
 *   **Ví dụ**:
     1.  彼は日本語**ばかりか**、英語も中国語もペラペラだ。
-        *   *(Anh ấy không chỉ nói giỏi tiếng Nhật, mà tiếng Anh lẫn tiếng Trung cũng đều vanh vách.)*
+        *   *Anh ấy không chỉ nói giỏi tiếng Nhật, mà tiếng Anh lẫn tiếng Trung cũng đều vanh vách.*
     2.  この病気は本人が苦しい**ばかりか**、周りの家族にも大きな負担をかける。
-        *   *(Căn bệnh này không chỉ bản thân người bệnh đau đớn, mà còn gây gánh nặng lớn cho gia đình xung quanh.)*
+        *   *Căn bệnh này không chỉ bản thân người bệnh đau đớn, mà còn gây gánh nặng lớn cho gia đình xung quanh.*
     3.  大雨**ばかりでなく**、強風も吹き荒れて電車が完全にストップした。
-        *   *(Không chỉ mưa lớn, gió mạnh cũng thổi dữ dội khiến tàu điện dừng hoạt động hoàn toàn.)*
+        *   *Không chỉ mưa lớn, gió mạnh cũng thổi dữ dội khiến tàu điện dừng hoạt động hoàn toàn.*
 
 ---
 
@@ -82,6 +82,6 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 *   **Lưu ý**: Tương tự như cấu trúc **～一方だ**.
 *   **Ví dụ**:
     1.  祖父の病状は、悪化する**ばかりだ**。
-        *   *(Bệnh tình của ông tôi cứ ngày càng xấu đi.)*
+        *   *Bệnh tình của ông tôi cứ ngày càng xấu đi.*
     2.  物価は上がる**ばかりで**、生活は少しも楽にならない。
-        *   *(Giá cả cứ tăng lên liên tục, cuộc sống chẳng dễ thở hơn chút nào.)*
+        *   *Giá cả cứ tăng lên liên tục, cuộc sống chẳng dễ thở hơn chút nào.*

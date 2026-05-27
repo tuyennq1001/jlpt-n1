@@ -25,11 +25,11 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
     2.  Không dùng cấu trúc này để nói về hành động của bản thân người nói.
 *   **Ví dụ**:
     1.  親の心配**をよそに**、彼は学校をサボって遊び回っている。
-        *   *(Mặc kệ sự lo lắng của bố mẹ, cậu ta vẫn trốn học đi chơi rông khắp nơi.)*
+        *   *Mặc kệ sự lo lắng của bố mẹ, cậu ta vẫn trốn học đi chơi rông khắp nơi.*
     2.  周囲の反対**をよそに**、二人は駆け落ちしてしまった。
-        *   *(Bất chấp sự phản đối của những người xung quanh, hai người họ đã bỏ trốn cùng nhau.)*
+        *   *Bất chấp sự phản đối của những người xung quanh, hai người họ đã bỏ trốn cùng nhau.*
     3.  住民の不安**をよそに**、ダムの建設工事が強行された。
-        *   *(Mặc kệ sự bất an của người dân, công trình xây dựng đập nước vẫn bị cưỡng chế tiến hành.)*
+        *   *Mặc kệ sự bất an của người dân, công trình xây dựng đập nước vẫn bị cưỡng chế tiến hành.*
 
 ---
 
@@ -39,11 +39,11 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 *   **Ý nghĩa**: Nếu không tồn tại điều kiện hoặc yếu tố ở danh từ phía trước, thì vế sau chắc chắn không thể xảy ra hoặc đạt được thành công.
 *   **Ví dụ**:
     1.  国民の信頼**なくして**、政治の改革を行うことは不可能だ。
-        *   *(Nếu không có lòng tin của người dân thì việc cải cách chính trị là điều bất khả thi.)*
+        *   *Nếu không có lòng tin của người dân thì việc cải cách chính trị là điều bất khả thi.*
     2.  厳しい練習**なくしては**、オリン phục hồiで金メダルを取ることはできない。
-        *   *(Nếu không có sự luyện tập nghiêm khắc thì không thể đoạt huy chương vàng Olympics.)*
+        *   *Nếu không có sự luyện tập nghiêm khắc thì không thể đoạt huy chương vàng Olympics.*
     3.  他者への思いやり**なくしては**、真の友情は築けない。
-        *   *(Nếu không có sự cảm thông chia sẻ với người khác thì không thể xây dựng tình bạn thực sự.)*
+        *   *Nếu không có sự cảm thông chia sẻ với người khác thì không thể xây dựng tình bạn thực sự.*
 
 ---
 
@@ -53,8 +53,8 @@ Nhóm ngữ pháp này dùng để diễn tả ý nghĩa **"thực hiện hành 
 *   **Ý nghĩa**: Thực hiện hành động ở vế sau mà không cần có hoặc không đi qua yếu tố ở vế trước (thường là thủ tục, sự cho phép).
 *   **Ví dụ**:
     1.  許可**なしに**、この立ち入り giữ area に入ることは固く禁じられている。
-        *   *(Nghiêm cấm đi vào khu vực hạn chế này mà không có sự cho phép.)*
+        *   *Nghiêm cấm đi vào khu vực hạn chế này mà không có sự cho phép.*
     2.  十分な準備**なしに**試験に臨むのは、無謀というものだ。
-        *   *(Tham gia kỳ thi mà không có sự chuẩn bị đầy đủ thực sự là hành vi liều lĩnh.)*
+        *   *Tham gia kỳ thi mà không có sự chuẩn bị đầy đủ thực sự là hành vi liều lĩnh.*
     3.  相手の同意を得る**ことなしに**、契約を進めることはできない。
-        *   *(Không thể tiến hành hợp đồng mà không có sự đồng ý của đối phương.)*
+        *   *Không thể tiến hành hợp đồng mà không có sự đồng ý của đối phương.*

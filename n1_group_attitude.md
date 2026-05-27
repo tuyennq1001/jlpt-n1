@@ -24,9 +24,9 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 *   **Lưu ý**: Vế sau luôn là các từ chỉ sự tranh cãi, tranh chấp như: 争う (tranh chấp), 議論する (thảo luận/tranh luận), 対立する (đối đầu)...
 *   **Ví dụ**:
     1.  親の遺産**をめぐって**、兄弟の間で激しい裁判沙汰になってしまった。
-        *   *(Xoay quanh tài sản thừa kế của cha mẹ, giữa các anh em đã xảy ra kiện tụng gay gắt.)*
+        *   *Xoay quanh tài sản thừa kế của cha mẹ, giữa các anh em đã xảy ra kiện tụng gay gắt.*
     2.  消費税増税**をめぐる**議論は, 未だに解決のめどが立っていない。
-        *   *(Cuộc thảo luận xoay quanh việc tăng thuế tiêu dùng cho đến nay vẫn chưa thấy triển vọng giải quyết.)*
+        *   *Cuộc thảo luận xoay quanh việc tăng thuế tiêu dùng cho đến nay vẫn chưa thấy triển vọng giải quyết.*
 
 ---
 
@@ -39,9 +39,9 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
     2.  Khi bám sát phong tục, tình cảm: thường dùng **に則して** (cùng cách đọc).
 *   **Ví dụ**:
     1.  事実**に即して**、客 quanな報告書を作成しなければならない。
-        *   *(Dựa sát vào sự thật, chúng ta phải viết một bản báo cáo khách quan.)*
+        *   *Dựa sát vào sự thật, chúng ta phải viết một bản báo cáo khách quan.*
     2.  規定**に即した**手続きを行わないと、申請は却下されます。
-        *   *(Nếu không thực hiện thủ tục dựa theo đúng quy định, đơn đăng ký sẽ bị bác bỏ.)*
+        *   *Nếu không thực hiện thủ tục dựa theo đúng quy định, đơn đăng ký sẽ bị bác bỏ.*
 
 ---
 
@@ -52,9 +52,9 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 *   **Từ thường đi kèm**: 期待 (kỳ vọng), 要望 (yêu cầu), 声援 (sự cổ vũ), アンコール (yêu cầu diễn thêm)...
 *   **Ví dụ**:
     1.  ファンの期待**にこたえて**、彼はついに現役復帰を決意した。
-        *   *(Đáp lại sự kỳ vọng của người hâm mộ, anh ấy cuối cùng đã quyết định quay lại thi đấu.)*
+        *   *Đáp lại sự kỳ vọng của người hâm mộ, anh ấy cuối cùng đã quyết định quay lại thi đấu.*
     2.  市民の要望**にこたえる**形で、図書館の開館時間が延長された。
-        *   *(Theo dạng đáp ứng yêu cầu của người dân, thời gian mở cửa thư viện đã được kéo dài.)*
+        *   *Theo dạng đáp ứng yêu cầu của người dân, thời gian mở cửa thư viện đã được kéo dài.*
 
 ---
 
@@ -65,8 +65,8 @@ Nhóm ngữ pháp này dùng để diễn tả **hướng tác động của hà
 *   **Từ thường đi kèm**: 命 (mạng sống), 名誉 (danh dự), 評判 (uy tín), 将来 (tương lai)...
 *   **Ví dụ**:
     1.  これは命**にかかわる**重大な問題ですから、医師の指示に絶対に従ってください。
-        *   *(Đây là vấn đề nghiêm trọng ảnh hưởng đến mạng sống, xin hãy tuyệt đối tuân theo chỉ định của bác sĩ.)*
+        *   *Đây là vấn đề nghiêm trọng ảnh hưởng đến mạng sống, xin hãy tuyệt đối tuân theo chỉ định của bác sĩ.*
     2.  個人のプライバシー**にかかわる**質問には, お答えできません。
-        *   *(Tôi không thể trả lời các câu hỏi liên quan trực tiếp đến quyền riêng tư cá nhân.)*
+        *   *Tôi không thể trả lời các câu hỏi liên quan trực tiếp đến quyền riêng tư cá nhân.*
     3.  一度の不祥事でも, 企業の信頼**にかかわる**大打撃になり得る。
-        *   *(Chỉ một lần bê bối cũng có thể trở thành đòn giáng nặng nề ảnh hưởng trực tiếp đến uy tín của doanh nghiệp.)*
+        *   *Chỉ một lần bê bối cũng có thể trở thành đòn giáng nặng nề ảnh hưởng trực tiếp đến uy tín của doanh nghiệp.*

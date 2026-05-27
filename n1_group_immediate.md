@@ -25,9 +25,9 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
     2.  Vế sau là hành động thực tế đã xảy ra (thì quá khứ), không dùng cho câu thể hiện ý chí, mệnh lệnh hay rủ rê của người nói.
 *   **Ví dụ**:
     1.  ベルが鳴る**が早いか**、生徒たちは教室から飛び出して行った。
-        *   *(Chuông vừa mới reo một cái là học sinh lập tức lao ra khỏi lớp học.)*
+        *   *Chuông vừa mới reo một cái là học sinh lập tức lao ra khỏi lớp học.*
     2.  話題 của ca sĩ đó vừa mới ra lò**が早いか**、すぐに売り切れてしまった。
-        *   *(Đĩa nhạc của ca sĩ đó vừa mới ra mắt một cái là lập tức bán sạch.)*
+        *   *Đĩa nhạc của ca sĩ đó vừa mới ra mắt một cái là lập tức bán sạch.*
 
 ---
 
@@ -40,9 +40,9 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
     2.  Mang sắc thái văn viết, trang trọng hơn.
 *   **Ví dụ**:
     1.  彼は布団に入る**や否や**、泥のように眠り込んでしまった。
-        *   *(Anh ấy vừa mới đặt lưng xuống giường là lập tức chìm vào giấc ngủ sâu như chết.)*
+        *   *Anh ấy vừa mới đặt lưng xuống giường là lập tức chìm vào giấc ngủ sâu như chết.*
     2.  子供は母親の顔を見る**や**、ワッと泣き出した。
-        *   *(Đứa trẻ vừa nhìn thấy mặt mẹ một cái là lập tức khóc òa lên.)*
+        *   *Đứa trẻ vừa nhìn thấy mặt mẹ một cái là lập tức khóc òa lên.*
 
 ---
 
@@ -53,8 +53,8 @@ Nhóm ngữ pháp này được dùng để diễn tả ý nghĩa **"vừa mới
 *   **Sắc thái**: Thể hiện sự bất lực, mệt mỏi hoặc phàn nàn của người nói trước một việc lặp đi lặp lại vô ích.
 *   **Ví dụ**:
     1.  祖母は片付けた**そばから**、物をどこに置いたか忘れてしまう。
-        *   *(Bà tôi cứ vừa mới cất đồ xong là lại quên ngay không biết mình đã để đâu.)*
+        *   *Bà tôi cứ vừa mới cất đồ xong là lại quên ngay không biết mình đã để đâu.*
     2.  この文章は難しくて, 読んだ**そばから**意味を忘れていってしまう。
-        *   *(Đoạn văn này khó quá, vừa đọc xong một cái là lại quên ngay ý nghĩa.)*
+        *   *Đoạn văn này khó quá, vừa đọc xong một cái là lại quên ngay ý nghĩa.*
     3.  子供は注意した**そばから**、また同じ悪戯を繰り返す。
-        *   *(Đứa trẻ vừa bị nhắc nhở xong lại lập tức lặp lại trò nghịch ngợm cũ.)*
+        *   *Đứa trẻ vừa bị nhắc nhở xong lại lập tức lặp lại trò nghịch ngợm cũ.*

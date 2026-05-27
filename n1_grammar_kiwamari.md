@@ -29,11 +29,11 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
     2.  Có một số quán dụng ngữ (cụm từ cố định) mang nghĩa trung tính/tích cực như: **「感極まる (かんきわまる)」** (cảm xúc dâng trào/vô cùng xúc động), **「進退極まる (しんたいきわまる)」** (tiến thoái lưỡng nan).
 *   **Ví dụ**:
     1.  シートベルトをせずに高速道路を走るなど、危険**極まる**行為だ。
-        *   *(Chạy xe trên đường cao tốc mà không thắt dây an toàn là hành vi cực kỳ nguy hiểm.)*
+        *   *Chạy xe trên đường cao tốc mà không thắt dây an toàn là hành vi cực kỳ nguy hiểm.*
     2.  彼の発言は、我々に対する無礼**極まる**態度と言わざるを得ない。
-        *   *(Phát ngôn của anh ta không thể không nói là thái độ cực kỳ vô lễ đối với chúng tôi.)*
+        *   *Phát ngôn của anh ta không thể không nói là thái độ cực kỳ vô lễ đối với chúng tôi.*
     3.  旧友の突然の悲報を聞き、哀悼の意に堪えず、悲しみ**極まる**思いだ。
-        *   *(Nghe tin dữ đột ngột về người bạn cũ, tôi không khỏi đau xót, lòng vô cùng buồn bã.)*
+        *   *Nghe tin dữ đột ngột về người bạn cũ, tôi không khỏi đau xót, lòng vô cùng buồn bã.*
 
 ---
 
@@ -47,11 +47,11 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 *   **Sắc thái**: Mang tính phê phán, chỉ trích, bất bình hoặc kinh ngạc trước một việc tồi tệ. Mạnh mẽ hơn cấu trúc **～極まる**.
 *   **Ví dụ**:
     1.  深夜に大音量で音楽を流すのは、迷惑**極まりない**。
-        *   *(Mở nhạc âm lượng lớn lúc nửa đêm là cực kỳ phiền phức.)*
+        *   *Mở nhạc âm lượng lớn lúc nửa đêm là cực kỳ phiền phức.*
     2.  何の連絡もなしにドタキャンするなんて、無責任なこと**極まりない**。
-        *   *(Hủy lịch hẹn vào phút chót mà không thông báo gì cả thật là một hành động cực kỳ vô trách nhiệm.)*
+        *   *Hủy lịch hẹn vào phút chót mà không thông báo gì cả thật là một hành động cực kỳ vô trách nhiệm.*
     3.  このような重要な情報を放置しておくとは、不注意**極まりない**態度だ。
-        *   *(Để mặc thông tin quan trọng như thế này mà không xử lý thật là một thái độ cực kỳ bất cẩn.)*
+        *   *Để mặc thông tin quan trọng như thế này mà không xử lý thật là một thái độ cực kỳ bất cẩn.*
 
 ---
 
@@ -62,11 +62,11 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
 *   **Sắc thái**: Rất trang trọng, cổ kính. Dùng được cho cả nghĩa tích cực (vinh hạnh, sang trọng) lẫn tiêu cực (đau đớn, hối hận).
 *   **Ví dụ**:
     1.  皆様の前でスピーチをする機会をいただき、光栄**の極み**でございます。
-        *   *(Được trao cơ hội phát biểu trước toàn thể quý vị là niềm vinh hạnh tột cùng của tôi.)*
+        *   *Được trao cơ hội phát biểu trước toàn thể quý vị là niềm vinh hạnh tột cùng của tôi.*
     2.  平日の昼間から何もしないで温泉に入るのは、贅沢**の極み**だ。
-        *   *(Chẳng làm gì cả mà cứ đi tắm suối nước nóng từ ban ngày giữa tuần, đúng là đỉnh điểm của sự xa xỉ.)*
+        *   *Chẳng làm gì cả mà cứ đi tắm suối nước nóng từ ban ngày giữa tuần, đúng là đỉnh điểm của sự xa xỉ.*
     3.  ライバル会社に情報が漏洩してしまったことは、痛恨**の極み**である。
-        *   *(Việc rò rỉ thông tin sang công ty đối thủ là niềm hối tiếc tột cùng.)*
+        *   *Việc rò rỉ thông tin sang công ty đối thủ là niềm hối tiếc tột cùng.*
 
 ---
 
@@ -81,11 +81,11 @@ Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng như 
     *   **赤面の至り** (vô cùng xấu hổ, đỏ cả mặt)
 *   **Ví dụ**:
     1.  憧れの先輩から直接アドバイスをいただけるなんて、感激**の至り**です。
-        *   *(Được người tiền bối mình ngưỡng mộ trực tiếp đưa ra lời khuyên, tôi vô cùng cảm kích.)*
+        *   *Được người tiền bối mình ngưỡng mộ trực tiếp đưa ra lời khuyên, tôi vô cùng cảm kích.*
     2.  学生時代に先生に反抗したのは, 今思えば若気**の至り**だった。
-        *   *(Việc phản kháng lại thầy cô thời học sinh, giờ nghĩ lại đúng là sự bồng bột của tuổi trẻ.)*
+        *   *Việc phản kháng lại thầy cô thời học sinh, giờ nghĩ lại đúng là sự bồng bột của tuổi trẻ.*
     3.  人前で大失敗をしてしまい、まさに赤面**の至り**だ。
-        *   *(Lập một cú phốt lớn trước mặt mọi người, thật là vô cùng xấu hổ.)*
+        *   *Lập một cú phốt lớn trước mặt mọi người, thật là vô cùng xấu hổ.*
 
 ---
 

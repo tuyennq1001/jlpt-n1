@@ -25,11 +25,11 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 *   **Lưu ý**: Tương tự như **～からには** hoặc **～以上は** nhưng mang sắc thái văn viết trang trọng hơn. Vế sau thường đi với các dạng câu mang tính nghĩa vụ, khuyên bảo hoặc quyết tâm: ～なければならない, ～べきだ, ～つもりだ.
 *   **Ví dụ**:
     1.  契約書にサインした**上は**、約束を守る義務がある。
-        *   *(Một khi đã ký vào bản hợp đồng thì anh có nghĩa vụ phải giữ lời hứa.)*
+        *   *Một khi đã ký vào bản hợp đồng thì anh có nghĩa vụ phải giữ lời hứa.*
     2.  プロジェクトを引き受けた**上は**、最後まで全力を尽くすつもりだ。
-        *   *(Một khi đã nhận dự án này, tôi dự định sẽ dốc toàn lực đến cùng.)*
+        *   *Một khi đã nhận dự án này, tôi dự định sẽ dốc toàn lực đến cùng.*
     3.  ここまで事実が明らかになった**上は**、真実を公表せざるを得ない。
-        *   *(Một khi sự thật đã sáng tỏ đến mức này thì không thể không công bố.)*
+        *   *Một khi sự thật đã sáng tỏ đến mức này thì không thể không công bố.*
 
 ---
 
@@ -40,11 +40,11 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 *   **Lưu ý**: Chỉ đi kèm với một số danh từ trừu tượng nhất định như: 法律 (pháp luật), 歴史 (lịch sử), 教育 (giáo dục), 理論 (lý thuyết), 仕事 (công việc), 健康 (sức khỏe)...
 *   **Ví dụ**:
     1.  法律**上**は問題ないが、道徳的には批判されるべき行為だ。
-        *   *(Về mặt pháp luật thì không vấn đề gì, nhưng về mặt đạo đức thì đó là hành vi đáng bị phê phán.)*
+        *   *Về mặt pháp luật thì không vấn đề gì, nhưng về mặt đạo đức thì đó là hành vi đáng bị phê phán.*
     2.  健康**上**の理由により、しばらく会社を休むことになりました。
-        *   *(Vì lý do sức khỏe, tôi sẽ nghỉ làm ở công ty một thời gian.)*
+        *   *Vì lý do sức khỏe, tôi sẽ nghỉ làm ở công ty một thời gian.*
     3.  理論**上**は可能だが、実際に実行するのは極めて難しい。
-        *   *(Về mặt lý thuyết thì có thể thực hiện được, nhưng thực tế làm lại cực kỳ khó.)*
+        *   *Về mặt lý thuyết thì có thể thực hiện được, nhưng thực tế làm lại cực kỳ khó.*
 
 ---
 
@@ -54,11 +54,11 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 *   **Ý nghĩa**: Thực hiện hành động A như một bước chuẩn bị cần thiết, sau khi có kết quả từ hành động A mới tiến hành hành động B.
 *   **Ví dụ**:
     1.  両親とよく相談した**上で**、将来の進路を決めたいと思います。
-        *   *(Sau khi thảo luận kỹ với bố mẹ, tôi mới quyết định hướng đi tương lai.)*
+        *   *Sau khi thảo luận kỹ với bố mẹ, tôi mới quyết định hướng đi tương lai.*
     2.  カレンダーで日程を確認の**上で**、改めてご連絡いたします。
-        *   *(Sau khi xác nhận lịch trình trên lịch, tôi sẽ liên lạc lại sau.)*
+        *   *Sau khi xác nhận lịch trình trên lịch, tôi sẽ liên lạc lại sau.*
     3.  実物をこの目で見た**上で**ないと、購入するかどうか決められない。
-        *   *(Nếu chưa được xem đồ thật bằng mắt thì tôi không thể quyết định có mua hay không.)*
+        *   *Nếu chưa được xem đồ thật bằng mắt thì tôi không thể quyết định có mua hay không.*
 
 ---
 
@@ -68,11 +68,11 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 *   **Ý nghĩa**: Trong quá trình, bối cảnh thực hiện một hành động hoặc mục tiêu nào đó, thì điều gì là cần thiết, quan trọng hoặc gặp khó khăn.
 *   **Ví dụ**:
     1.  日本で一人暮らしをする**上で**、家賃の安さは最も重要な要素だ。
-        *   *(Trong việc sinh sống một mình ở Nhật, tiền thuê nhà rẻ là yếu tố quan trọng nhất.)*
+        *   *Trong việc sinh sống một mình ở Nhật, tiền thuê nhà rẻ là yếu tố quan trọng nhất.*
     2.  この機械を使用する**上で**の注意点をよく読んでください。
-        *   *(Hãy đọc kỹ những điểm cần lưu ý khi sử dụng chiếc máy này.)*
+        *   *Hãy đọc kỹ những điểm cần lưu ý khi sử dụng chiếc máy này.*
     3.  外国語をマスターする**上で**、単語力の強化は欠かせない。
-        *   *(Trong quá trình làm chủ ngoại ngữ, việc tăng cường vốn từ vựng là không thể thiếu.)*
+        *   *Trong quá trình làm chủ ngoại ngữ, việc tăng cường vốn từ vựng là không thể thiếu.*
 
 ---
 
@@ -82,8 +82,8 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 *   **Ý nghĩa**: Bổ sung thêm một đặc điểm, trạng thái có tính chất tương tự (cùng tốt hoặc cùng xấu) vào vế trước nhằm nhấn mạnh mức độ.
 *   **Ví dụ**:
     1.  彼女は頭が良い**上に**、努力家でもあるので尊敬されている。
-        *   *(Cô ấy không chỉ thông minh mà còn là một người rất chăm chỉ nên được mọi người tôn trọng.)*
+        *   *Cô ấy không chỉ thông minh mà còn là một người rất chăm chỉ nên được mọi người tôn trọng.*
     2.  昨日から熱がある**上に**、喉も痛くて起き上がることができない。
-        *   *(Từ hôm qua tôi không chỉ bị sốt mà cổ họng còn đau buốt, không thể gượng dậy nổi.)*
+        *   *Từ hôm qua tôi không chỉ bị sốt mà cổ họng còn đau buốt, không thể gượng dậy nổi.*
     3.  このアパートは駅から近い**上に**、家賃も安くて素晴らしい。
-        *   *(Căn hộ này không chỉ gần ga mà giá thuê lại còn rẻ, thật tuyệt vời.)*
+        *   *Căn hộ này không chỉ gần ga mà giá thuê lại còn rẻ, thật tuyệt vời.*

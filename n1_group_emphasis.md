@@ -24,9 +24,9 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 *   **Ý nghĩa**: Trạng thái vế trước là điều hiển nhiên/nhẹ hơn mà còn không đạt được, nói gì đến mức độ cao hơn ở vế sau.
 *   **Ví dụ**:
     1.  彼は漢字**はおろか**、ひらがなさえろくに書けない。
-        *   *(Chữ Hán thì nói chi đến, ngay cả chữ Hiragana anh ta còn không viết nên hồn.)*
+        *   *Chữ Hán thì nói chi đến, ngay cả chữ Hiragana anh ta còn không viết nên hồn.*
     2.  怪我の痛みがひどく、歩くこと**はおろか**、立つこともできない。
-        *   *(Chấn thương đau đến mức đi bộ còn nói chi đến, ngay cả đứng cũng không đứng nổi.)*
+        *   *Chấn thương đau đến mức đi bộ còn nói chi đến, ngay cả đứng cũng không đứng nổi.*
 
 ---
 
@@ -36,9 +36,9 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 *   **Ý nghĩa**: Đưa ra một trường hợp cực đoan, đơn giản nhất để nhấn mạnh tính chất hiển nhiên của các sự việc thông thường khác.
 *   **Ví dụ**:
     1.  こんな簡単な問題は、小学生**ですら**解ける。
-        *   *(Câu hỏi dễ như thế này thì ngay cả học sinh tiểu học cũng giải được.)*
+        *   *Câu hỏi dễ như thế này thì ngay cả học sinh tiểu học cũng giải được.*
     2.  忙しすぎて, ご飯を食べる時間**すら**ない。
-        *   *(Bận rộn đến mức ngay cả thời gian ăn cơm cũng không có.)*
+        *   *Bận rộn đến mức ngay cả thời gian ăn cơm cũng không có.*
 
 ---
 
@@ -49,11 +49,11 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 *   **Lưu ý**: Có cụm từ cổ mang nghĩa phủ định: **「微動だにしない (びどうだにしない)」** *(không hề nhúc nhích dù chỉ một chút)*.
 *   **Ví dụ**:
     1.  あの事故のことは、考える**だに**恐ろしい。
-        *   *(Về vụ tai nạn đó, chỉ cần nghĩ đến thôi cũng đủ thấy khiếp sợ rồi.)*
+        *   *Về vụ tai nạn đó, chỉ cần nghĩ đến thôi cũng đủ thấy khiếp sợ rồi.*
     2.  自分が宇宙に行くなど、想像**だに**していなかった。
-        *   *(Việc bản thân đi vào vũ trụ, thậm chí trong tưởng tượng tôi cũng chưa từng nghĩ tới.)*
+        *   *Việc bản thân đi vào vũ trụ, thậm chí trong tưởng tượng tôi cũng chưa từng nghĩ tới.*
     3.  敵は微動**だに**せず、こちらを見つめていた。
-        *   *(Kẻ địch không hề nhúc nhích dù chỉ một chút, cứ thế nhìn chằm chằm vào tôi.)*
+        *   *Kẻ địch không hề nhúc nhích dù chỉ một chút, cứ thế nhìn chằm chằm vào tôi.*
 
 ---
 
@@ -64,11 +64,11 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 *   **Ý nghĩa**: Nhấn mạnh việc không để một lượng vô cùng nhỏ nhặt nào bị lãng phí hoặc vi phạm.
 *   **Ví dụ**:
     1.  締め切り直前なので、一秒**たりとも**無駄にすることはできない。
-        *   *(Vì sát giờ nộp bài nên dù chỉ một giây cũng không được phép lãng phí.)*
+        *   *Vì sát giờ nộp bài nên dù chỉ một giây cũng không được phép lãng phí.*
     2.  この水害地域では, 水は一滴**たりとも**無駄にはできない。
-        *   *(Ở vùng lũ lụt thiếu nước này, nước dù chỉ một giọt cũng không thể lãng phí.)*
+        *   *Ở vùng lũ lụt thiếu nước này, nước dù chỉ một giọt cũng không thể lãng phí.*
     3.  試合開始後は, 一瞬**たりとも**油断してはいけない。
-        *   *(Sau khi trận đấu bắt đầu, dù chỉ một khoảnh khắc cũng không được phép lơ là.)*
+        *   *Sau khi trận đấu bắt đầu, dù chỉ một khoảnh khắc cũng không được phép lơ là.*
 
 ---
 
@@ -78,8 +78,8 @@ Nhóm ngữ pháp này dùng để **nhấn mạnh tính chất cực đoan củ
 *   **Ý nghĩa**: Nhấn mạnh quy mô cực lớn của các con số được đưa ra đứng trước.
 *   **Ví dụ**:
     1.  彼は重さ100キロ**からある**大きな荷物を軽々と持ち上げた。
-        *   *(Anh ấy đã nhấc bổng chiếc hành lý lớn nặng tới hơn 100 kg một cách nhẹ nhàng.)*
+        *   *Anh ấy đã nhấc bổng chiếc hành lý lớn nặng tới hơn 100 kg một cách nhẹ nhàng.*
     2.  彼女は1億円**からする**高級マンションを購入したらしい。
-        *   *(Nghe nói cô ấy đã mua một căn hộ chung cư cao cấp có giá lên tới hơn 100 triệu Yên.)*
+        *   *Nghe nói cô ấy đã mua một căn hộ chung cư cao cấp có giá lên tới hơn 100 triệu Yên.*
     3.  そのコンサートには、3万人**からの**ファンが詰めかけた。
-        *   *(Đã có một lượng người hâm mộ lên tới hơn 3 vạn người đổ xô đến buổi hòa nhạc đó.)*
+        *   *Đã có một lượng người hâm mộ lên tới hơn 3 vạn người đổ xô đến buổi hòa nhạc đó.*

@@ -29,17 +29,17 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Từ thường đi kèm**: お忙しい (đang bận), お休みの (đang nghỉ ngơi), ご多忙の (đang rất bận)...
 *   **Ví dụ**:
     1.  お忙しい**ところを**わざわざお越しいただき、誠にありがとうございました。
-        *   *(Trong lúc quý khách đang bận rộn như vậy thế mà vẫn cất công đến đây, chúng tôi xin chân thành cảm ơn.)*
+        *   *Trong lúc quý khách đang bận rộn như vậy thế mà vẫn cất công đến đây, chúng tôi xin chân thành cảm ơn.*
     2.  お休みの**ところを**お電話してしまい、大変申し訳ありません。
-        *   *(Xin lỗi vì đã gọi điện làm phiền anh trong lúc anh đang nghỉ ngơi.)*
+        *   *Xin lỗi vì đã gọi điện làm phiền anh trong lúc anh đang nghỉ ngơi.*
 
 #### B. Diễn tả khoảnh khắc bị bắt gặp, phát hiện hoặc can thiệp
 *   **Ý nghĩa**: Đúng lúc đang làm hành động A thì bị đối phương bắt quả tang hoặc ngăn chặn.
 *   **Ví dụ**:
     1.  テストでカンニングしている**ところを**先生に見つかってしまった。
-        *   *(Đúng lúc đang quay cóp trong giờ kiểm tra thì tôi bị giáo viên phát hiện.)*
+        *   *Đúng lúc đang quay cóp trong giờ kiểm tra thì tôi bị giáo viên phát hiện.*
     2.  犯人が国外へ逃亡しようとした**ところを**、空港で逮捕された。
-        *   *(Kẻ phạm tội đúng lúc đang định trốn ra nước ngoài thì bị bắt giữ tại sân bay.)*
+        *   *Kẻ phạm tội đúng lúc đang định trốn ra nước ngoài thì bị bắt giữ tại sân bay.*
 
 ---
 
@@ -50,9 +50,9 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Lưu ý**: Thường đi kèm với các phó từ nhượng bộ như: いくら (bao nhiêu), たとえ (cho dù), 今さら (đến giờ này)...
 *   **Ví dụ**:
     1.  今さら走っ**たところで**、もう電車の発車時刻には間に合わない。
-        *   *(Đến giờ này dù có chạy đi chăng nữa thì cũng không kịp giờ tàu chạy nữa rồi.)*
+        *   *Đến giờ này dù có chạy đi chăng nữa thì cũng không kịp giờ tàu chạy nữa rồi.*
     2.  いくら後悔し**たところで**、過去を変えることはできない。
-        *   *(Cho dù có hối hận đến mấy đi chăng nữa thì cũng không thể thay đổi được quá khứ.)*
+        *   *Cho dù có hối hận đến mấy đi chăng nữa thì cũng không thể thay đổi được quá khứ.*
 
 ---
 
@@ -62,9 +62,9 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Ý nghĩa**: Lấy một sự thật hoặc căn cứ làm điểm xuất phát để giải thích nguồn gốc tên gọi, hoặc đưa ra một phán đoán logic.
 *   **Ví dụ**:
     1.  この山は形が富士山に似ている**ところから**、「小富士」と呼ばれている。
-        *   *(Chính vì hình dáng ngọn núi này giống núi Phú Sĩ nên nó được gọi là "Phú Sĩ Nhỏ".)*
+        *   *Chính vì hình dáng ngọn núi này giống núi Phú Sĩ nên nó được gọi là "Phú Sĩ Nhỏ".*
     2.  彼女が突然会社を休んだ**ところから**、何かトラブルに巻き込まれたのではないかと推測した。
-        *   *(Từ việc cô ấy đột nhiên nghỉ làm, tôi suy đoán rằng có lẽ cô ấy đã vướng vào rắc rối nào đó.)*
+        *   *Từ việc cô ấy đột nhiên nghỉ làm, tôi suy đoán rằng có lẽ cô ấy đã vướng vào rắc rối nào đó.*
 
 ---
 
@@ -75,9 +75,9 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Lưu ý**: Thường đi kèm với các từ như: 危うく (suýt chút nữa), もう少しで (thêm chút nữa thì)...
 *   **Ví dụ**:
     1.  危うく赤信号を無視して、車にひかれる**ところだった**。
-        *   *(Suýt chút nữa là tôi vượt đèn đỏ và bị xe tông trúng rồi.)*
+        *   *Suýt chút nữa là tôi vượt đèn đỏ và bị xe tông trúng rồi.*
     2.  友達が教えてくれなかったら、大事な会議を忘れる**ところだった**。
-        *   *(Nếu người bạn không nhắc nhở, suýt nữa tôi đã quên mất cuộc họp quan trọng rồi.)*
+        *   *Nếu người bạn không nhắc nhở, suýt nữa tôi đã quên mất cuộc họp quan trọng rồi.*
 
 ---
 
@@ -87,9 +87,9 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Ý nghĩa**: Bác bỏ hoàn toàn thông tin ở vế trước, nhấn mạnh rằng thực tế tình hình không những không được như vậy mà còn tồi tệ hơn hoặc trái ngược hoàn toàn ở vế sau.
 *   **Ví dụ**:
     1.  漢字**どころか**、ひらがなさえ書けない。
-        *   *(Nói chi đến chữ Hán, ngay cả chữ Hiragana tôi còn không viết nổi.)*
+        *   *Nói chi đến chữ Hán, ngay cả chữ Hiragana tôi còn không viết nổi.*
     2.  親切にするつもりで話しかけたのに, 感謝される**どころか**怒られてしまった。
-        *   *(Tôi định bụng bắt chuyện để giúp đỡ, nào ngờ chẳng những không được cảm ơn mà ngược lại còn bị mắng.)*
+        *   *Tôi định bụng bắt chuyện để giúp đỡ, nào ngờ chẳng những không được cảm ơn mà ngược lại còn bị mắng.*
 
 ---
 
@@ -99,9 +99,9 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Ý nghĩa**: Hoàn cảnh hiện tại đang có trở ngại rất lớn (bận rộn, ồn ào, hoặc gặp khó khăn) nên không thể thực hiện hay nghĩ tới hành động đó được.
 *   **Ví dụ**:
     1.  明日が締め切りのレポートがあるので、遊びに行く**どころではない**。
-        *   *(Vì có báo cáo phải nộp vào ngày mai nên bây giờ không phải là lúc đi chơi.)*
+        *   *Vì có báo cáo phải nộp vào ngày mai nên bây giờ không phải là lúc đi chơi.*
     2.  風邪がひどくて、食事**どころではない**。水も喉を通らない。
-        *   *(Bị cảm nặng quá nên không thể ăn uống gì được. Ngay cả nước cũng không nuốt trôi.)*
+        *   *Bị cảm nặng quá nên không thể ăn uống gì được. Ngay cả nước cũng không nuốt trôi.*
 
 ---
 
@@ -111,6 +111,6 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 *   **Ý nghĩa**: Diễn tả chuỗi sự kiện: Sau khi người nói thử thực hiện hành động A thì nhận lại kết quả hoặc biết được một thông tin mới ngoài dự tính ở vế B.
 *   **Ví dụ**:
     1.  駅の窓口で問い合わせ**たところ**、落とした財布が無事に見つかった。
-        *   *(Sau khi tôi hỏi tại quầy thông tin nhà ga thì chiếc ví bị mất đã được tìm thấy an toàn.)*
+        *   *Sau khi tôi hỏi tại quầy thông tin nhà ga thì chiếc ví bị mất đã được tìm thấy an toàn.*
     2.  新しくできたレストランに行ってみ**たところ**、想像以上に美味しかった。
-        *   *(Sau khi tôi đi thử nhà hàng mới mở thì thấy đồ ăn ngon hơn mong đợi nhiều.)*
+        *   *Sau khi tôi đi thử nhà hàng mới mở thì thấy đồ ăn ngon hơn mong đợi nhiều.*

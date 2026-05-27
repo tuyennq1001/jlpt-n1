@@ -24,9 +24,9 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 *   **Ý nghĩa**: Đồng ý rằng sự việc A là điều hiển nhiên hoặc vô cùng quan trọng rồi, nhưng muốn người nghe tập trung sự chú ý vào vế B vì B còn nổi bật hoặc cần thiết hơn nữa.
 *   **Ví dụ**:
     1.  この仕事は給nổiもさることながら, やりがいがあるかどうかが重要だ。
-        *   *(Công việc này lương bổng thì đương nhiên là quan trọng rồi, nhưng có đem lại giá trị tự hào hay không mới là điều quan trọng hơn.)*
+        *   *Công việc này lương bổng thì đương nhiên là quan trọng rồi, nhưng có đem lại giá trị tự hào hay không mới là điều quan trọng hơn.*
     2.  彼女は歌の才能**もさることながら**、容姿も抜群に美しい。
-        *   *(Cô ấy tài năng ca hát thì đương nhiên rồi, nhưng ngoại hình cũng cực kỳ xinh đẹp nổi bật.)*
+        *   *Cô ấy tài năng ca hát thì đương nhiên rồi, nhưng ngoại hình cũng cực kỳ xinh đẹp nổi bật.*
 
 ---
 
@@ -36,9 +36,9 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 *   **Ý nghĩa**: Yếu tố A kết hợp, cộng hưởng cùng với yếu tố B tạo nên một kết quả vượt trội, hiệu ứng cộng hưởng tốt đẹp.
 *   **Ví dụ**:
     1.  彼の優れた技術が、長年の努力**と相まって**, ついにノーベル賞受賞につながった。
-        *   *(Kỹ thuật xuất sắc của anh ấy kết hợp cùng sự nỗ lực suốt nhiều năm cuối cùng đã dẫn tới việc đoạt giải Nobel.)*
+        *   *Kỹ thuật xuất sắc của anh ấy kết hợp cùng sự nỗ lực suốt nhiều năm cuối cùng đã dẫn tới việc đoạt giải Nobel.*
     2.  歴史ある街並みが, 雪の白さ**と相まって**、幻想的な景色を作り出している。
-        *   *(Dãy phố cổ kính hòa quyện cùng sắc trắng của tuyết tạo nên một khung cảnh vô cùng huyền ảo.)*
+        *   *Dãy phố cổ kính hòa quyện cùng sắc trắng của tuyết tạo nên một khung cảnh vô cùng huyền ảo.*
 
 ---
 
@@ -48,9 +48,9 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 *   **Ý nghĩa**: Diễn tả sự độc bản, chất lượng cao nhất mà chỉ riêng đối tượng N mới có khả năng làm được hoặc sở hữu.
 *   **Ví dụ**:
     1.  京都**ならではの**古いお寺の雰囲気を楽しんだ。
-        *   *(Tôi đã thưởng thức bầu không khí chùa cổ mà chỉ riêng Kyoto mới có.)*
+        *   *Tôi đã thưởng thức bầu không khí chùa cổ mà chỉ riêng Kyoto mới có.*
     2.  このような素晴らしいおもてなしは, 日本の旅館**ならでは**だ。
-        *   *(Sự hiếu khách tuyệt vời như thế này đúng là chỉ có tại nhà nghỉ truyền thống Nhật Bản mới có.)*
+        *   *Sự hiếu khách tuyệt vời như thế này đúng là chỉ có tại nhà nghỉ truyền thống Nhật Bản mới có.*
 
 ---
 
@@ -60,11 +60,11 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 *   **Ý nghĩa**: Nhấn mạnh rằng mức độ ở hiện tại hoặc của đối tượng vế sau vượt trội hơn hẳn so với mốc so sánh ở vế trước.
 *   **Ví dụ**:
     1.  今年の夏は, 例年**にもまして**暑さが厳しい。
-        *   *(Mùa hè năm nay cái nóng khắc nghiệt hơn hẳn so với mọi năm.)*
+        *   *Mùa hè năm nay cái nóng khắc nghiệt hơn hẳn so với mọi năm.*
     2.  彼女は以前**にもまして**、美しくなった。
-        *   *(Cô ấy trở nên xinh đẹp hơn hẳn so với trước đây.)*
+        *   *Cô ấy trở nên xinh đẹp hơn hẳn so với trước đây.*
     3.  何**にもまして**、健康が一番大切だ。
-        *   *(Hơn cả mọi thứ trên đời, sức khỏe vẫn là quan trọng nhất.)*
+        *   *Hơn cả mọi thứ trên đời, sức khỏe vẫn là quan trọng nhất.*
 
 ---
 
@@ -74,6 +74,6 @@ Nhóm ngữ pháp này dùng để biểu thị sự **kết hợp tác động 
 *   **Ý nghĩa**: Đặt hai sự vật có tầm ảnh hưởng, sức mạnh hoặc độ nổi tiếng ngang nhau lên bàn cân để giới thiệu.
 *   **Ví dụ**:
     1.  彼は世界チャンピオン**と並ぶ**実力を持っている。
-        *   *(Anh ấy sở hữu thực lực ngang hàng với nhà vô địch thế giới.)*
+        *   *Anh ấy sở hữu thực lực ngang hàng với nhà vô địch thế giới.*
     2.  この絵画は、彼の代表作**と並んで**高く評価されている。
-        *   *(Bức tranh này được đánh giá cao ngang hàng với tác phẩm tiêu biểu nhất của ông.)*
+        *   *Bức tranh này được đánh giá cao ngang hàng với tác phẩm tiêu biểu nhất của ông.*

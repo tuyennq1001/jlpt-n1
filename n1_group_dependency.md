@@ -25,11 +25,11 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
     2.  Là dạng trang trọng của cấu trúc **～次第だ**.
 *   **Ví dụ**:
     1.  今学期の出席状況**いかんによっては**、進級できない可能性もある。
-        *   *(Tùy thuộc vào tình trạng chuyên cần của học kỳ này, có khả năng em sẽ không thể lên lớp.)*
+        *   *Tùy thuộc vào tình trạng chuyên cần của học kỳ này, có khả năng em sẽ không thể lên lớp.*
     2.  理由の**いかん**に関わらず、無断欠席は一切認められません。
-        *   *(Bất kể là vì lý do gì đi chăng nữa, việc tự ý vắng mặt hoàn toàn không được chấp nhận.)*
+        *   *Bất kể là vì lý do gì đi chăng nữa, việc tự ý vắng mặt hoàn toàn không được chấp nhận.*
     3.  契約が成立するかどうかは, 今後の交渉のいかん**にかかっている**。
-        *   *(Hợp đồng có được thành lập hay không phụ thuộc vào cuộc đàm phán sau này.)*
+        *   *Hợp đồng có được thành lập hay không phụ thuộc vào cuộc đàm phán sau này.*
 
 ---
 
@@ -39,11 +39,11 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
 *   **Ý nghĩa**: Sự tồn tại của N2 là hoàn toàn nhờ vào điều kiện tiên quyết, tối quan trọng là N1. Nếu không có N1 thì N2 cũng hoàn toàn vô nghĩa hoặc biến mất.
 *   **Ví dụ**:
     1.  お客様**あっての**商売なのだから, 顧客満足を第一に考えるべきだ。
-        *   *(Chính nhờ có khách hàng mới có việc buôn bán, thế nên phải đặt sự hài lòng của khách hàng lên hàng đầu.)*
+        *   *Chính nhờ có khách hàng mới có việc buôn bán, thế nên phải đặt sự hài lòng của khách hàng lên hàng đầu.*
     2.  健康**あっての**人生だ。病気になっては何も楽しめない。
-        *   *(Có sức khỏe mới có cuộc đời. Nếu bị bệnh thì chẳng thưởng thức được gì nữa.)*
+        *   *Có sức khỏe mới có cuộc đời. Nếu bị bệnh thì chẳng thưởng thức được gì nữa.*
     3.  社員の努力**あっての**我が社の急成長である。
-        *   *(Sự phát triển vượt bậc của công ty chúng ta là chính nhờ vào sự nỗ lực của tập thể nhân viên.)*
+        *   *Sự phát triển vượt bậc của công ty chúng ta là chính nhờ vào sự nỗ lực của tập thể nhân viên.*
 
 ---
 
@@ -53,8 +53,8 @@ Nhóm ngữ pháp này dùng để biểu thị **mối quan hệ phụ thuộc*
 *   **Ý nghĩa**: Khẳng định đối tượng N là người/vật duy nhất phù hợp, có giá trị cao nhất trong hoàn cảnh đó. Không thể tìm thấy ai/cái gì khác thay thế được.
 *   **Ví dụ**:
     1.  この困難なプロジェクトを成功させられるのは, 鈴木さん**をおいて**他にいない。
-        *   *(Người có thể làm cho dự án khó khăn này thành công, ngoài anh Suzuki ra không còn ai khác.)*
+        *   *Người có thể làm cho dự án khó khăn này thành công, ngoài anh Suzuki ra không còn ai khác.*
     2.  次世代のリーダーは、彼**をおいて**ふさわしい人物は見当たらない。
-        *   *(Lãnh đạo thế hệ tiếp theo, ngoài anh ta ra tôi không tìm thấy ai phù hợp hơn cả.)*
+        *   *Lãnh đạo thế hệ tiếp theo, ngoài anh ta ra tôi không tìm thấy ai phù hợp hơn cả.*
     3.  都会の喧騒を忘れてのんびり休むなら, この温泉地**をおいて**他にない。
-        *   *(Nếu muốn quên đi sự ồn ào đô thị để nghỉ ngơi thong thả, ngoài khu suối nước nóng này ra thì chẳng còn nơi nào tốt hơn.)*
+        *   *Nếu muốn quên đi sự ồn ào đô thị để nghỉ ngơi thong thả, ngoài khu suối nước nóng này ra thì chẳng còn nơi nào tốt hơn.*

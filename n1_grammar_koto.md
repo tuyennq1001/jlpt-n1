@@ -28,9 +28,9 @@
 *   **Ý nghĩa**: Nếu không thực hiện hành động A thì vế B (kết quả tốt đẹp) không thể xảy ra. Hoặc làm một việc mà không cần trải qua việc A.
 *   **Ví dụ**:
     1.  努力する**ことなしに**成功を勝ち取ることはできない。
-        *   *(Nếu không nỗ lực thì không thể giành được thành công.)*
+        *   *Nếu không nỗ lực thì không thể giành được thành công.*
     2.  大統領の許可を得る**ことなしに**、このエリアに立ち入ることは許されない。
-        *   *(Nếu không có sự cho phép của Tổng thống, không ai được phép đi vào khu vực này.)*
+        *   *Nếu không có sự cho phép của Tổng thống, không ai được phép đi vào khu vực này.*
 
 ---
 
@@ -42,9 +42,9 @@
 *   **Sắc thái**: Thường dùng trong thư từ công việc, email trang trọng khi xin lỗi hoặc giải thích tình hình.
 *   **Ví dụ**:
     1.  新入社員の**こととて**、失礼な態度をとってしまい大変申し訳ありません。
-        *   *(Vì là nhân viên mới nên đã có thái độ thất lễ, tôi vô cùng xin lỗi.)*
+        *   *Vì là nhân viên mới nên đã có thái độ thất lễ, tôi vô cùng xin lỗi.*
     2.  まだ慣れない土地の**こととて**、道に迷ってしまいました。
-        *   *(Vì là vùng đất tôi chưa quen thuộc nên tôi đã bị lạc đường.)*
+        *   *Vì là vùng đất tôi chưa quen thuộc nên tôi đã bị lạc đường.*
 
 ---
 
@@ -57,9 +57,9 @@
 *   **Lưu ý**: Chỉ đi với những động từ/tính từ biểu thị cảm xúc như: 驚く(ngạc nhiên), 嬉しい(vui), 残念(tiếc nuối), 悲しい(buồn), ありがたい(biết ơn)...
 *   **Ví dụ**:
     1.  驚いた**ことに**、彼は1ヶ月で日本語能力試験N1に合格した。
-        *   *(Thật là đáng ngạc nhiên, anh ấy đã đỗ kỳ thi JLPT N1 chỉ trong vòng 1 tháng.)*
+        *   *Thật là đáng ngạc nhiên, anh ấy đã đỗ kỳ thi JLPT N1 chỉ trong vòng 1 tháng.*
     2.  残念な**ことに**、私たちが楽しみにしていたイベントは雨で中止になった。
-        *   *(Thật là đáng tiếc, sự kiện chúng tôi mong đợi đã bị hủy vì trời mưa.)*
+        *   *Thật là đáng tiếc, sự kiện chúng tôi mong đợi đã bị hủy vì trời mưa.*
 
 ---
 
@@ -72,9 +72,9 @@
 *   **Ý nghĩa**: Nếu điều kiện ở vế trước không được đáp ứng, thì vế sau chắc chắn không thể thực hiện được.
 *   **Ví dụ**:
     1.  実際にやってみ**ないことには**、上手になるかどうかわからない。
-        *   *(Nếu không thực sự bắt tay vào làm, bạn sẽ không biết mình có giỏi lên được hay không.)*
+        *   *Nếu không thực sự bắt tay vào làm, bạn sẽ không biết mình có giỏi lên được hay không.*
     2.  お金がたまら**ないことには**、家を買うことなんてできない。
-        *   *(Nếu không tiết kiệm đủ tiền, việc mua nhà là điều hoàn toàn không thể.)*
+        *   *Nếu không tiết kiệm đủ tiền, việc mua nhà là điều hoàn toàn không thể.*
 
 ---
 
@@ -84,9 +84,9 @@
 *   **Ý nghĩa**: Dựa trên tính cách, thói quen đặc thù của một người mà ai cũng biết rõ để đưa ra một phán đoán hoặc phỏng đoán gần như chắc chắn.
 *   **Ví dụ**:
     1.  真面目な山田さんの**ことだから**、約束の時間には遅れずに来るはずだ。
-        *   *(Vì là người nghiêm túc như anh Yamada nên chắc chắn anh ấy sẽ đến đúng giờ hẹn.)*
+        *   *Vì là người nghiêm túc như anh Yamada nên chắc chắn anh ấy sẽ đến đúng giờ hẹn.*
     2.  子供の**ことだから**、片付けろと言ってもすぐにまた散らかすだろう。
-        *   *(Vì là trẻ con nên dù có bảo dọn dẹp thì chúng cũng sẽ bày bừa ra ngay thôi.)*
+        *   *Vì là trẻ con nên dù có bảo dọn dẹp thì chúng cũng sẽ bày bừa ra ngay thôi.*
 
 ---
 
@@ -96,9 +96,9 @@
 *   **Ý nghĩa**: Đưa ra một lý do trong số nhiều lý do khác nhau để giải thích cho kết quả vế sau.
 *   **Ví dụ**:
     1.  初めの海外旅行という**こともあって**、出発前はとても緊張した。
-        *   *(Cũng một phần vì đây là chuyến du lịch nước ngoài đầu tiên, tôi đã rất lo lắng trước khi đi.)*
+        *   *Cũng một phần vì đây là chuyến du lịch nước ngoài đầu tiên, tôi đã rất lo lắng trước khi đi.*
     2.  給料が上がった**こともあって**、新しいパソコンを買うことにした。
-        *   *(Cũng một phần vì được tăng lương, tôi quyết định mua một chiếc máy tính mới.)*
+        *   *Cũng một phần vì được tăng lương, tôi quyết định mua một chiếc máy tính mới.*
 
 ---
 
@@ -109,9 +109,9 @@
 *   **Sắc thái**: Là dạng trang trọng của **～ないで** trong văn viết.
 *   **Ví dụ**:
     1.  彼は10年間、一日も休む**ことなく**働き続けた。
-        *   *(Anh ấy đã làm việc liên tục suốt 10 năm mà không hề nghỉ một ngày nào.)*
+        *   *Anh ấy đã làm việc liên tục suốt 10 năm mà không hề nghỉ một ngày nào.*
     2.  飛行機は何のトラブルも起こる**ことなく**、無事に着陸した。
-        *   *(Chiếc máy bay đã hạ cánh an toàn mà không hề gặp phải bất kỳ sự cố nào.)*
+        *   *Chiếc máy bay đã hạ cánh an toàn mà không hề gặp phải bất kỳ sự cố nào.*
 
 ---
 
@@ -124,15 +124,15 @@ Cấu trúc này chia thành hai nhóm ý nghĩa:
 *   **Sắc thái**: Đưa ra lời khuyên trực tiếp trong giao tiếp hàng ngày, mang tính răn dạy nhẹ nhàng của người đi trước.
 *   **Ví dụ**:
     1.  日本語が上手になりたければ、毎日少しずつでも話す**ことだ**。
-        *   *(Nếu muốn giỏi tiếng Nhật, tốt nhất là bạn nên nói chuyện mỗi ngày dù chỉ một chút.)*
+        *   *Nếu muốn giỏi tiếng Nhật, tốt nhất là bạn nên nói chuyện mỗi ngày dù chỉ một chút.*
     2.  健康のためには、夜遅く食べない**ことだ**。
-        *   *(Để bảo vệ sức khỏe, tốt nhất là không nên ăn muộn vào ban đêm.)*
+        *   *Để bảo vệ sức khỏe, tốt nhất là không nên ăn muộn vào ban đêm.*
 
 #### B. Cảm thán (A-い / A-な + ことだ)
 *   **Ý nghĩa**: Thật là... biết bao! (bày tỏ cảm xúc cá nhân sâu sắc).
 *   **Ví dụ**:
     1.  こんなに広い家で一人暮らしができるなんて、うらやましい**ことだ**。
-        *   *(Có thể sống một mình trong ngôi nhà rộng như thế này, thật là đáng ghen tị biết bao!)*
+        *   *Có thể sống một mình trong ngôi nhà rộng như thế này, thật là đáng ghen tị biết bao!*
 
 ---
 
@@ -145,6 +145,6 @@ Cấu trúc này chia thành hai nhóm ý nghĩa:
 *   **Sắc thái**: Thường dùng trong văn nói hàng ngày để than phiền về các trạng thái tiêu cực.
 *   **Ví dụ**:
     1.  昨日の試験の難しかった**ことといったらありはしない**。
-        *   *(Bài thi ngày hôm qua khó kinh khủng, không thể nào tả xiết.)*
+        *   *Bài thi ngày hôm qua khó kinh khủng, không thể nào tả xiết.*
     2.  彼の部屋の汚い**ことといったらありゃしない**。
-        *   *(Căn phòng của anh ta bẩn thỉu vô cùng, không chịu nổi.)*
+        *   *Căn phòng của anh ta bẩn thỉu vô cùng, không chịu nổi.*

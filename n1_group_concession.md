@@ -26,9 +26,9 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Ý nghĩa**: Cho dù là đối tượng đặc biệt/ưu tú ở vế trước đi chăng nữa, thì thực tế hoặc nghĩa vụ ở vế sau vẫn không thay đổi.
 *   **Ví dụ**:
     1.  未成年**といえども**、犯した罪は重く受け止めなければならない。
-        *   *(Dù nói là trẻ vị thành niên đi chăng nữa, tội lỗi đã phạm phải vẫn phải chịu hình phạt nặng nề.)*
+        *   *Dù nói là trẻ vị thành niên đi chăng nữa, tội lỗi đã phạm phải vẫn phải chịu hình phạt nặng nề.*
     2.  プロの運転手**といえども**、事故を起こすことはある。
-        *   *(Dù là tài xế chuyên nghiệp đi chăng nữa, việc xảy ra tai nạn vẫn là có thể.)*
+        *   *Dù là tài xế chuyên nghiệp đi chăng nữa, việc xảy ra tai nạn vẫn là có thể.*
 
 ---
 
@@ -38,9 +38,9 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Ý nghĩa**: Người nói cứ tưởng sự việc sẽ diễn ra theo chiều hướng vế trước, nào ngờ thực tế ở vế sau lại diễn ra hoàn toàn ngược lại.
 *   **Ví dụ**:
     1.  今日は雨が降る**と思いきや**、一日中いい天気だった。
-        *   *(Cứ nghĩ hôm nay trời sẽ mưa, ai ngờ thời tiết lại nắng đẹp cả ngày.)*
+        *   *Cứ nghĩ hôm nay trời sẽ mưa, ai ngờ thời tiết lại nắng đẹp cả ngày.*
     2.  難しい試験だ**と思いきや**、意外と簡単に合格できた。
-        *   *(Cứ tưởng là kỳ thi khó lắm, ai ngờ lại đỗ dễ dàng ngoài dự tính.)*
+        *   *Cứ tưởng là kỳ thi khó lắm, ai ngờ lại đỗ dễ dàng ngoài dự tính.*
 
 ---
 
@@ -50,9 +50,9 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Ý nghĩa**: Chấp nhận sự thật ở vế trước là đúng, nhưng muốn nhấn mạnh khía cạnh hoặc kết luận ở vế sau không hoàn toàn khớp với thực tế đó.
 *   **Ví dụ:*
     1.  春**とは言え**、朝晩はまだかなり冷え込みます。
-        *   *(Mặc dù là mùa xuân thật đấy, nhưng sáng tối trời vẫn khá lạnh.)*
+        *   *Mặc dù là mùa xuân thật đấy, nhưng sáng tối trời vẫn khá lạnh.*
     2.  解決した**とは言え**、まだいくつかの問題が残っている。
-        *   *(Tuy nói là đã giải quyết xong, nhưng vẫn còn sót lại một vài vấn đề.)*
+        *   *Tuy nói là đã giải quyết xong, nhưng vẫn còn sót lại một vài vấn đề.*
 
 ---
 
@@ -62,9 +62,9 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Ý nghĩa**: Tuy trong trạng thái vế trước nhưng kết quả hoặc tính chất ở vế sau lại mâu thuẫn một cách bất ngờ.
 *   **Ví dụ**:
     1.  彼は狭い家**ながらも**、快適に暮らしている。
-        *   *(Anh ấy tuy sống trong ngôi nhà chật hẹp nhưng lại rất thoải mái.)*
+        *   *Anh ấy tuy sống trong ngôi nhà chật hẹp nhưng lại rất thoải mái.*
     2.  子供**ながらも**、しっかりとした意見を持っている。
-        *   *(Mặc dù là trẻ con nhưng em ấy đã có ý kiến rất chín chắn.)*
+        *   *Mặc dù là trẻ con nhưng em ấy đã có ý kiến rất chín chắn.*
 
 ---
 
@@ -75,9 +75,9 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Lưu ý**: Chỉ đi với động từ chỉ nhận thức như: 知る (biết), 思う (nghĩ), 反省する (phản tỉnh), 後悔する (hối hận)...
 *   **Ví dụ**:
     1.  体に悪いと知り**つつも**、夜食を食べるのをやめられない。
-        *   *(Dù biết là hại sức khỏe nhưng tôi vẫn không thể bỏ được thói quen ăn đêm.)*
+        *   *Dù biết là hại sức khỏe nhưng tôi vẫn không thể bỏ được thói quen ăn đêm.*
     2.  早く勉強しなければと思いつつも、ついスマホを見てしまう。
-        *   *(Dù nghĩ là phải học bài sớm đi nhưng tôi cứ vô tình lướt điện thoại.)*
+        *   *Dù nghĩ là phải học bài sớm đi nhưng tôi cứ vô tình lướt điện thoại.*
 
 ---
 
@@ -87,9 +87,9 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Ý nghĩa**: Thừa nhận sự thật vế trước, nhưng vế sau lại đưa ra thực tế tương phản.
 *   **Ví dụ**:
     1.  大学は卒業した**ものの**、就職先が決まっていない。
-        *   *(Mặc dù đã tốt nghiệp đại học nhưng tôi vẫn chưa có việc làm.)*
+        *   *Mặc dù đã tốt nghiệp đại học nhưng tôi vẫn chưa có việc làm.*
     2.  料理の本を買った**ものの**、一度も作っていない。
-        *   *(Mặc dù đã mua sách nấu ăn nhưng tôi chưa từng làm thử một lần nào.)*
+        *   *Mặc dù đã mua sách nấu ăn nhưng tôi chưa từng làm thử một lần nào.*
 
 ---
 
@@ -99,6 +99,6 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 *   **Ý nghĩa**: Phủ định lập luận: "Cứ vì có lý do ở vế trước thì đương nhiên sẽ có trạng thái ở vế sau".
 *   **Ví dụ**:
     1.  お金持ちだ**からといって**、幸せだとは限らない。
-        *   *(Không phải cứ giàu có thì sẽ chắc chắn hạnh phúc.)*
+        *   *Không phải cứ giàu có thì sẽ chắc chắn hạnh phúc.*
     2.  一度失敗した**からといって**、諦めてはいけない。
-        *   *(Không phải cứ thất bại một lần là được phép bỏ cuộc.)*
+        *   *Không phải cứ thất bại một lần là được phép bỏ cuộc.*

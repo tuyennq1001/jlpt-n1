@@ -27,11 +27,11 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
     2.  Có cụm từ cố định: **「声を限りに」** nghĩa là *hét lên hết sức bình sinh / hét khản cả giọng*.
 *   **Ví dụ**:
     1.  今日**を限りに**、この店は閉店することになりました。
-        *   *(Hết ngày hôm nay, cửa hàng này sẽ chính thức đóng cửa.)*
+        *   *Hết ngày hôm nay, cửa hàng này sẽ chính thức đóng cửa.*
     2.  彼とは今回の取引**を限りに**、縁を切ることにした。
-        *   *(Tôi quyết định cắt đứt quan hệ với anh ta sau lần giao dịch này.)*
+        *   *Tôi quyết định cắt đứt quan hệ với anh ta sau lần giao dịch này.*
     3.  迷子の子供は、声**を限りに**泣き叫んでいた。
-        *   *(Đứa trẻ bị lạc đã gào khóc hết sức bình sinh.)*
+        *   *Đứa trẻ bị lạc đã gào khóc hết sức bình sinh.*
 
 ---
 
@@ -42,11 +42,11 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 *   **Lưu ý**: Chỉ đi kèm với các tính từ biểu thị cảm xúc như: 嬉しい (vui), 寂しい (buồn), 羨ましい (ghen tị), 腹立たしい (tức giận), 残念 (tiếc nuối), 光栄 (vinh dự)...
 *   **Ví dụ**:
     1.  こんな素晴らしい賞をいただき、光栄の**限りです**。
-        *   *(Nhận được giải thưởng tuyệt vời như thế này, tôi thấy vô cùng vinh dự.)*
+        *   *Nhận được giải thưởng tuyệt vời như thế này, tôi thấy vô cùng vinh dự.*
     2.  大好きな親友が遠くに引っ越してしまうのは、寂しい**限りだ**。
-        *   *(Việc người bạn thân nhất chuyển đi nơi khác thật là buồn biết bao.)*
+        *   *Việc người bạn thân nhất chuyển đi nơi khác thật là buồn biết bao.*
     3.  せっかく準備したイベントが中止になり、残念な**限りだ**。
-        *   *(Sự kiện đã cất công chuẩn bị lại bị hủy bỏ, thật là đáng tiếc hết sức.)*
+        *   *Sự kiện đã cất công chuẩn bị lại bị hủy bỏ, thật là đáng tiếc hết sức.*
 
 ---
 
@@ -56,11 +56,11 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 *   **Ý nghĩa**: Chừng nào trạng thái vế trước vẫn còn tiếp diễn thì trạng thái ở vế sau vẫn sẽ tiếp tục duy trì tương tự.
 *   **Ví dụ**:
     1.  この仕事を続けている**限り**、のんびり休む時間はないだろう。
-        *   *(Chừng nào còn tiếp tục công việc này thì chắc là tôi sẽ không có thời gian nghỉ ngơi thong thả đâu.)*
+        *   *Chừng nào còn tiếp tục công việc này thì chắc là tôi sẽ không có thời gian nghỉ ngơi thong thả đâu.*
     2.  体が動く**限りは**、一生懸命働き続けたい。
-        *   *(Chừng nào cơ thể còn cử động được, tôi vẫn muốn tiếp tục làm việc hết mình.)*
+        *   *Chừng nào cơ thể còn cử động được, tôi vẫn muốn tiếp tục làm việc hết mình.*
     3.  彼が謝らない**限り**、私は絶対に許さない。
-        *   *(Chừng nào anh ta còn chưa xin lỗi, tôi nhất định sẽ không tha thứ.)*
+        *   *Chừng nào anh ta còn chưa xin lỗi, tôi nhất định sẽ không tha thứ.*
 
 ---
 
@@ -70,9 +70,9 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 *   **Ý nghĩa**: Nếu điều kiện cần thiết ở vế trước không được thực hiện, thì sự việc ở vế sau cũng không thể xảy ra.
 *   **Ví dụ**:
     1.  本人が直接来て謝罪し**ない限り**、この件は解決しない。
-        *   *(Trừ khi chính bản thân người đó đến xin lỗi trực tiếp, vụ việc này sẽ không thể giải quyết được.)*
+        *   *Trừ khi chính bản thân người đó đến xin lỗi trực tiếp, vụ việc này sẽ không thể giải quyết được.*
     2.  台風などの特別な事情が**ない限り**、試験は予定通り行います。
-        *   *(Trừ khi có lý do đặc biệt như bão lũ, kỳ thi vẫn sẽ diễn ra đúng lịch trình.)*
+        *   *Trừ khi có lý do đặc biệt như bão lũ, kỳ thi vẫn sẽ diễn ra đúng lịch trình.*
 
 ---
 
@@ -83,8 +83,8 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 *   **Lưu ý**: Thường đi kèm với các động từ liên quan đến thu thập thông tin như: 調べる (tìm hiểu), 知る (biết), 見る (nhìn), 聞く (nghe)...
 *   **Ví dụ**:
     1.  私が調べた**限りでは**、その情報は事実のようです。
-        *   *(Trong phạm vi những gì tôi đã tìm hiểu, thông tin đó có vẻ là sự thật.)*
+        *   *Trong phạm vi những gì tôi đã tìm hiểu, thông tin đó có vẻ là sự thật.*
     2.  私の知る**限りでは**、彼はそんなことをする人ではない。
-        *   *(Theo như những gì tôi biết, anh ta không phải là người sẽ làm chuyện như vậy.)*
+        *   *Theo như những gì tôi biết, anh ta không phải là người sẽ làm chuyện như vậy.*
     3.  今回の調査の**限りでは**、環境への悪影響は見られなかった。
-        *   *(Trong phạm vi cuộc khảo sát lần này, không phát hiện thấy ảnh hưởng xấu nào đến môi trường.)*
+        *   *Trong phạm vi cuộc khảo sát lần này, không phát hiện thấy ảnh hưởng xấu nào đến môi trường.*
