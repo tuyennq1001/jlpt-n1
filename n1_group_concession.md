@@ -22,7 +22,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 1. ～といえども (Dù nói thế đi chăng nữa...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **といえども** (Tính từ な và Danh từ thường không đi với だ)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **といえども** (Tính từ な và Danh từ thường không đi với だ)
 *   **Ý nghĩa**: Cho dù là đối tượng đặc biệt/ưu tú ở vế trước đi chăng nữa, thì thực tế hoặc nghĩa vụ ở vế sau vẫn không thay đổi.
 *   **Ví dụ**:
     1.  未成年**といえども**、犯した罪は重く受け止めなければならない。
@@ -34,7 +34,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 2. ～思いきや (Cứ nghĩ là... ai ngờ...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **と思いきや**
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **と思いきや**
 *   **Ý nghĩa**: Người nói cứ tưởng sự việc sẽ diễn ra theo chiều hướng vế trước, nào ngờ thực tế ở vế sau lại diễn ra hoàn toàn ngược lại.
 *   **Ví dụ**:
     1.  今日は雨が降る**と思いきや**、一日中いい天気だった。
@@ -46,7 +46,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 3. ～とはいえ (Mặc dù là... / Tuy nói thế nhưng...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **とは言え** (Tính từ な và Danh từ không đi với だ)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **とは言え** (Tính từ な và Danh từ không đi với だ)
 *   **Ý nghĩa**: Chấp nhận sự thật ở vế trước là đúng, nhưng muốn nhấn mạnh khía cạnh hoặc kết luận ở vế sau không hoàn toàn khớp với thực tế đó.
 *   **Ví dụ:*
     1.  春**とは言え**、朝晩はまだかなり冷え込みます。
@@ -58,7 +58,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 4. ～ながらも (Tuy... nhưng... / Mặc dù...)
 
-*   **Cấu trúc**: $\text{V}_{\text{masu (bỏ ます)}} / \text{Tính từ} / \text{N}$ + **ながらも** (Tính từ な $\rightarrow$ な/bỏ だ, Danh từ $\rightarrow$ Danh từ)
+*   **Cấu trúc**: $\text{V}_{\text{masu (bỏ ます)}} / \text{Tính từ} / \text{N}$ + **ながらも** (Tính từ な → な/bỏ だ, Danh từ → Danh từ)
 *   **Ý nghĩa**: Tuy trong trạng thái vế trước nhưng kết quả hoặc tính chất ở vế sau lại mâu thuẫn một cách bất ngờ.
 *   **Ví dụ**:
     1.  彼は狭い家**ながらも**、快適に暮らしている。
@@ -83,7 +83,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 6. ～ものの (Mặc dù... nhưng...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ものの**
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ものの**
 *   **Ý nghĩa**: Thừa nhận sự thật vế trước, nhưng vế sau lại đưa ra thực tế tương phản.
 *   **Ví dụ**:
     1.  大学は卒業した**ものの**、就職先が決まっていない。
@@ -95,7 +95,7 @@ Nhóm ngữ pháp này diễn tả mối quan hệ **tương phản, nhượng b
 
 ### 7. ～からといって (Không phải cứ...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **からといって**
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **からといって**
 *   **Ý nghĩa**: Phủ định lập luận: "Cứ vì có lý do ở vế trước thì đương nhiên sẽ có trạng thái ở vế sau".
 *   **Ví dụ**:
     1.  お金持ちだ**からといって**、幸せだとは限らない。

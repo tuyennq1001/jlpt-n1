@@ -1,6 +1,6 @@
 # Tổng hợp Ngữ pháp JLPT N1 liên quan đến 上
 
-Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có thể đọc là **うえ (ue)** hoặc **じょう (jou)** tùy thuộc vào cách kết hợp. Nó thường được sử dụng để biểu thị mối quan hệ trình tự, bổ sung thông tin hoặc chỉ ra khía cạnh, góc độ để xem xét một vấn đề.
+Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có thể đọc là **うえ** hoặc **じょう** tùy thuộc vào cách kết hợp. Nó thường được sử dụng để biểu thị mối quan hệ trình tự, bổ sung thông tin hoặc chỉ ra khía cạnh, góc độ để xem xét một vấn đề.
 
 ---
 
@@ -12,7 +12,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 | **[2. ～上（じょう）](#2-上じょう-về-mặt-trên-phương-diện)** | Về mặt... / Trên phương diện... | `N + 上（じょう / じょうの）` | Đứng sau danh từ để khoanh vùng khía cạnh xem xét (pháp luật, lịch sử, lý thuyết, công việc...). |
 | **[3. ～上で / ～上の (Trình tự)](#3-上で--上の-sau-khi-làm-thì-mới)** | Sau khi làm... thì mới... | `V-た + 上で`<br>`N + の上で` | Diễn tả chuỗi hành động: Phải thực hiện xong việc A (chuẩn bị) thì mới tiến hành việc B. |
 | **[4. ～上で / ～上の (Bối cảnh)](#4-上で--上の-trong-quá-trình-khi-làm)** | Trong quá trình... / Khi làm... | `V-る + 上で`<br>`N + の上で` | Chỉ ra những điểm quan trọng, điều kiện hoặc khó khăn phát sinh trong bối cảnh thực hiện việc gì. |
-| **[5. ～上に](#5-上に-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + 上に`<br>`Tính từ な $\rightarrow$ な/である`<br>`N $\rightarrow$ の/である` | Bổ sung thêm thông tin cùng chiều (cùng tốt hoặc cùng xấu) để tăng sức thuyết phục cho câu. |
+| **[5. ～上に](#5-上に-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + 上に`<br>`Tính từ な → な/である`<br>`N → の/である` | Bổ sung thêm thông tin cùng chiều (cùng tốt hoặc cùng xấu) để tăng sức thuyết phục cho câu. |
 
 ---
 
@@ -78,7 +78,7 @@ Từ **上** (Hán tự: **Thượng - 上**) trong ngữ pháp cao cấp có th
 
 ### 5. ～上に (Không chỉ... mà còn...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **上に** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ の/である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **上に** (Tính từ な → な/である, Danh từ → の/である)
 *   **Ý nghĩa**: Bổ sung thêm một đặc điểm, trạng thái có tính chất tương tự (cùng tốt hoặc cùng xấu) vào vế trước nhằm nhấn mạnh mức độ.
 *   **Ví dụ**:
     1.  彼女は頭が良い**上に**、努力家でもあるので尊敬されている。

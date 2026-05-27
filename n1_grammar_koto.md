@@ -37,7 +37,7 @@
 ### 2. ～こととて (Vì... / Do là...)
 
 *   **Cấu trúc**: 
-    *   $\text{V-る・A-い・A-な・N}$ + **こととて** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ の/である)
+    *   $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **こととて** (Tính từ な → な/である, Danh từ → の/である)
 *   **Ý nghĩa**: Vì lý do đó (thường là bất khả kháng, thiếu kinh nghiệm, hoặc hoàn cảnh đặc biệt) nên xin hãy thứ lỗi hoặc thông cảm cho kết quả ở vế sau.
 *   **Sắc thái**: Thường dùng trong thư từ công việc, email trang trọng khi xin lỗi hoặc giải thích tình hình.
 *   **Ví dụ**:
@@ -52,7 +52,7 @@
 
 *   **Cấu trúc**: 
     *   $\text{V}_{\text{た}}$ + **ことに**
-    *   $\text{A}_{\text{い}}$ / $\text{A}_{\text{な}}$ + **ことに** (Tính từ な $\rightarrow$ な)
+    *   $\text{A}_{\text{い}}$ / $\text{A}_{\text{な}}$ + **ことに** (Tính từ な → な)
 *   **Ý nghĩa**: Nhấn mạnh cảm xúc của người nói trước khi kể về sự việc tiếp theo.
 *   **Lưu ý**: Chỉ đi với những động từ/tính từ biểu thị cảm xúc như: 驚く(ngạc nhiên), 嬉しい(vui), 残念(tiếc nuối), 悲しい(buồn), ありがたい(biết ơn)...
 *   **Ví dụ**:
@@ -67,8 +67,8 @@
 
 *   **Cấu trúc**: 
     *   $\text{V}_{\text{ない}}$ + **ことには**
-    *   $\text{A}_{\text{い}}$ $\rightarrow$ **くないことには**
-    *   $\text{A}_{\text{な}}$ / $\text{N}$ $\rightarrow$ **でないことには**
+    *   $\text{A}_{\text{い}}$ → **くないことには**
+    *   $\text{A}_{\text{な}}$ / $\text{N}$ → **でないことには**
 *   **Ý nghĩa**: Nếu điều kiện ở vế trước không được đáp ứng, thì vế sau chắc chắn không thể thực hiện được.
 *   **Ví dụ**:
     1.  実際にやってみ**ないことには**、上手になるかどうかわからない。
@@ -92,7 +92,7 @@
 
 ### 6. ～こともあって (Cũng một phần vì...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **こともあって** (Tính từ な $\rightarrow$ な, Danh từ $\rightarrow$ の)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **こともあって** (Tính từ な → な, Danh từ → の)
 *   **Ý nghĩa**: Đưa ra một lý do trong số nhiều lý do khác nhau để giải thích cho kết quả vế sau.
 *   **Ví dụ**:
     1.  初めの海外旅行という**こともあって**、出発前はとても緊張した。

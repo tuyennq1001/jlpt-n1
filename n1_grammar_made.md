@@ -40,8 +40,8 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 
 *   **Cấu trúc**:
     *   $\text{V}_{\text{ない}}$ + **までも**
-    *   Tính từ đuôi い $\rightarrow$ **くないまでも**
-    *   Tính từ đuôi な / Danh từ $\rightarrow$ **ではないまでも**
+    *   Tính từ đuôi い → **くないまでも**
+    *   Tính từ đuôi な / Danh từ → **ではないまでも**
 *   **Giải thích**: Cho dù không đạt được trạng thái lý tưởng/cực đoan ở vế trước, thì tối thiểu hoặc ít nhất cũng đạt được trạng thái ở vế sau.
 *   **Lưu ý**: Thường đi kèm với cụm từ cố định **「～とは言わないまでも」** *(Dù không thể nói là...)* hoặc **「～とは言えないまでも」**.
 *   **Ví dụ**:
@@ -93,7 +93,7 @@ Bản chất cốt lõi của **まで** trong tiếng Nhật là chỉ "giới 
 
 ---
 
-### 5. ～に至るまで (ni itaru made - Cho đến cả... / Đến tận...)
+### 5. ～に至るまで (Cho đến cả... / Đến tận...)
 
 *   **Cấu trúc**:
     *   $\text{N}$ + **に至るまで**

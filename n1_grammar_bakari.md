@@ -8,10 +8,10 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～んばかりに](#1-んばかりに--んばかりの-như-thể-sắp-đến-nơi)** | Như thể sắp... đến nơi | `V-ない (bỏ ない) + んばかりに`<br>*(する $\rightarrow$ せんばかりに)* | Miêu tả một trạng thái cực đoan suýt xảy ra (thực tế chưa xảy ra nhưng biểu hiện bên ngoài cực kỳ giống). |
+| **[1. ～んばかりに](#1-んばかりに--んばかりの-như-thể-sắp-đến-nơi)** | Như thể sắp... đến nơi | `V-ない (bỏ ない) + んばかりに`<br>*(する → せんばかりに)* | Miêu tả một trạng thái cực đoan suýt xảy ra (thực tế chưa xảy ra nhưng biểu hiện bên ngoài cực kỳ giống). |
 | **[2. ～とばかりに](#2-とばかりに-như-muốn-nói-rằng)** | Như muốn nói rằng... | `Câu trích dẫn + とばかりに` | Diễn tả hành động, thái độ của ai đó nhằm phát ra một thông điệp thay cho lời nói trực tiếp. |
-| **[3. ～ばかりに](#3-ばかりに-chỉ-vì)** | Chỉ vì... (kết quả xấu) | `V-る・A-い・A-な・N + ばかりに`<br>`Tính từ な $\rightarrow$ な/である`<br>`N $\rightarrow$ である` | Nêu ra nguyên nhân duy nhất hoặc nhỏ nhặt dẫn đến một kết quả cực kỳ tồi tệ kèm theo sự hối hận. |
-| **[4. ～ばかりか](#4-ばかりか--ばかりでなく-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + ばかりか`<br>`Tính từ な $\rightarrow$ な / である`<br>`N $\rightarrow$ N / である` | Vế sau bổ sung thêm thông tin có mức độ cao hơn, mang tính bất ngờ hoặc nghiêm trọng hơn. |
+| **[3. ～ばかりに](#3-ばかりに-chỉ-vì)** | Chỉ vì... (kết quả xấu) | `V-る・A-い・A-な・N + ばかりに`<br>`Tính từ な → な/である`<br>`N → である` | Nêu ra nguyên nhân duy nhất hoặc nhỏ nhặt dẫn đến một kết quả cực kỳ tồi tệ kèm theo sự hối hận. |
+| **[4. ～ばかりか](#4-ばかりか--ばかりでなく-không-chỉ-mà-còn)** | Không chỉ... mà còn... | `V-る・A-い・A-な・N + ばかりか`<br>`Tính từ な → な / である`<br>`N → N / である` | Vế sau bổ sung thêm thông tin có mức độ cao hơn, mang tính bất ngờ hoặc nghiêm trọng hơn. |
 | **[5. ～ばかりだ](#5-ばかりだ-cứ-ngày-càng-chiều-hướng-xấu)** | Cứ ngày càng... (chiều hướng xấu) | `V-る + ばかりだ` | Diễn tả một sự biến đổi đang tiếp diễn liên tục và thường là theo chiều hướng tiêu cực. |
 
 ---
@@ -21,7 +21,7 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 ### 1. ～んばかりに / ～んばかりの (Như thể sắp... đến nơi)
 
 *   **Cấu trúc**: $\text{V}_{\text{nai (bỏ ない)}}$ + **んばかりに / んばかりの / んばかりだ**
-    *   *Lưu ý đặc biệt*: Động từ **する** chuyển thành **せんばかりに**; Động từ **来る (くる)** $\rightarrow$ **こんばかりに**.
+    *   *Lưu ý đặc biệt*: Động từ **する** chuyển thành **せんばかりに**; Động từ **来る (くる)** → **こんばかりに**.
 *   **Ý nghĩa**: Trạng thái hiện tại của sự vật, con người biểu hiện ra bên ngoài cực kỳ rõ ràng, giống như thể sắp xảy ra hành động đó ngay lập tức (dù thực tế chưa xảy ra).
 *   **Ví dụ**:
     1.  彼女は泣き出さ**んばかりに**うつむいて、何も言わなかった。
@@ -49,7 +49,7 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 
 ### 3. ～ばかりに (Chỉ vì...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ばかりに** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ばかりに** (Tính từ な → な/である, Danh từ → である)
 *   **Ý nghĩa**: Chỉ vì một nguyên nhân duy nhất, đôi khi là sơ suất nhỏ, mà dẫn đến một kết quả cực kỳ tồi tệ ngoài ý muốn. Thể hiện sự tiếc nuối và hối hận sâu sắc của người nói.
 *   **Ví dụ**:
     1.  油断した**ばかりに**、最後の最後で逆転負けしてしまった。
@@ -63,7 +63,7 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 
 ### 4. ～ばかりか / ～ばかりでなく (Không chỉ... mà còn...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ばかりか** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ N / である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ばかりか** (Tính từ な → な/である, Danh từ → N / である)
 *   **Ý nghĩa**: Không chỉ dừng lại ở mức độ vế trước, mà vế sau còn có thêm thông tin bổ sung với mức độ hoặc phạm vi rộng hơn nhiều.
 *   **Ví dụ**:
     1.  彼は日本語**ばかりか**、英語も中国語もペラペラだ。
@@ -79,7 +79,7 @@ Từ gốc **ばかり** ở cấp độ cơ bản mang ý nghĩa "chỉ" hoặc
 
 *   **Cấu trúc**: $\text{V}_{\text{る}}$ + **ばかりだ**
 *   **Ý nghĩa**: Diễn tả một trạng thái, xu hướng đang liên tục biến đổi (thường là theo chiều hướng xấu đi).
-*   **Lưu ý**: Tương tự như cấu trúc **～一方だ (ippou da)**.
+*   **Lưu ý**: Tương tự như cấu trúc **～一方だ**.
 *   **Ví dụ**:
     1.  祖父の病状は、悪化する**ばかりだ**。
         *   *(Bệnh tình của ông tôi cứ ngày càng xấu đi.)*

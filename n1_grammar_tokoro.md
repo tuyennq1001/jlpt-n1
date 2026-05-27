@@ -58,7 +58,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 3. ～ところから (Từ chỗ... / Chính vì lý do...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ところから** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ところから** (Tính từ な → な/である, Danh từ → である)
 *   **Ý nghĩa**: Lấy một sự thật hoặc căn cứ làm điểm xuất phát để giải thích nguồn gốc tên gọi, hoặc đưa ra một phán đoán logic.
 *   **Ví dụ**:
     1.  この山は形が富士山に似ている**ところから**、「小富士」と呼ばれている。
@@ -83,7 +83,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 5. ～どころか (Nói chi đến... / Ngược lại còn...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **どころか** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ Danh từ / である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **どころか** (Tính từ な → な/である, Danh từ → Danh từ / である)
 *   **Ý nghĩa**: Bác bỏ hoàn toàn thông tin ở vế trước, nhấn mạnh rằng thực tế tình hình không những không được như vậy mà còn tồi tệ hơn hoặc trái ngược hoàn toàn ở vế sau.
 *   **Ví dụ**:
     1.  漢字**どころか**、ひらがなさえ書けない。

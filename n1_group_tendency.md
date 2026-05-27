@@ -33,7 +33,7 @@ Nhóm ngữ pháp này dùng để miêu tả **vẻ bề ngoài, hơi hướng 
 
 ### 2. ～びる (Trông có phong thái...)
 
-*   **Cấu trúc**: $\text{N} / \text{Tính từ な (bỏ だ)}$ + **びる** (chia như động từ nhóm 2)
+*   **Cấu trúc**: $\text{N} / \text{Tính từ}_{\text{な (bỏ だ)}}$ + **びる** (chia như động từ nhóm 2)
 *   **Ý nghĩa**: Toát ra vẻ chín chắn, có phong thái hoặc mang giá trị của danh từ đó một cách tự nhiên.
 *   **Từ thường đi kèm**: 大人 (người lớn), 田舎 (quê hương), 古 (cổ kính)...
 *   **Ví dụ**:
@@ -46,7 +46,7 @@ Nhóm ngữ pháp này dùng để miêu tả **vẻ bề ngoài, hơi hướng 
 
 ### 3. ～ぶる (Tỏ vẻ... / Làm bộ...)
 
-*   **Cấu trúc**: $\text{N} / \text{Tính từ な (bỏ だ)}$ + **ぶる** (chia như động từ nhóm 1)
+*   **Cấu trúc**: $\text{N} / \text{Tính từ}_{\text{な (bỏ だ)}}$ + **ぶる** (chia như động từ nhóm 1)
 *   **Ý nghĩa**: Cố tình giả vờ hoặc làm điệu bộ để thể hiện ra bên ngoài một trạng thái mà thực tế bản chất không phải như vậy.
 *   **Từ thường đi kèm**: 金持ち (giàu sang), 偉い (vĩ đại/quyền lực), 優等生 (học sinh ưu tú), 悪 (kẻ xấu)...
 *   **Ví dụ**:

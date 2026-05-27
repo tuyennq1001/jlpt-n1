@@ -47,7 +47,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 2. ～ものを (Giá mà... / Thế mà...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ものを** (Tính từ な $\rightarrow$ な, Danh từ $\rightarrow$ である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ものを** (Tính từ な → な, Danh từ → である)
 *   **Ý nghĩa**: Giá mà làm A thì kết quả đã tốt rồi, thế mà thực tế lại không làm như vậy (thể hiện sự tiếc nuối hoặc trách móc nhẹ nhàng).
 *   **Lưu ý**: Vế sau thường bị lược bỏ trong văn nói, chỉ còn lại **ものを** ở cuối câu.
 *   **Ví dụ**:
@@ -86,7 +86,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 5. ～ものがある (Có cảm giác... / Có gì đó...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ものがある** (Tính từ な $\rightarrow$ な)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ものがある** (Tính từ な → な)
 *   **Ý nghĩa**: Cảm thấy có một yếu tố, một tính chất nào đó khiến bản thân xúc động hoặc suy nghĩ sâu sắc.
 *   **Ví dụ**:
     1.  彼の歌声には, 聞く人の心を動かす**ものがある**。
@@ -98,7 +98,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 6. ～というものだ (Thực sự là... / Chính là...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **というものだ** (Không dùng だ của tính từ な và danh từ)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **というものだ** (Không dùng だ của tính từ な và danh từ)
 *   **Ý nghĩa**: Đưa ra một kết luận khách quan, mang tính chân lý hoặc một sự thật hiển nhiên theo quan niệm xã hội.
 *   **Ví dụ**:
     1.  困っている人を助けるのが, 友情**というものだ**。
@@ -122,7 +122,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 8. ～ものか / ～もんか (Không đời nào... / Làm sao mà...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ものか** (Tính từ な $\rightarrow$ な, Danh từ $\rightarrow$ な/である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ものか** (Tính từ な → な, Danh từ → な/である)
 *   **Ý nghĩa**: Phủ định mạnh mẽ ý kiến hoặc quyết định, thể hiện thái độ cự tuyệt tuyệt đối. Trong văn nói thường dùng **もんか**.
 *   **Ví dụ**:
     1.  あんな失礼な店、 hai度と行く**ものか**。
@@ -134,7 +134,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 9. ～ものの (Mặc dù... nhưng...)
 
-*   **Cấu trúc**: $\text{V-る・A-い・A-な・N}$ + **ものの** (Tính từ な $\rightarrow$ な/である, Danh từ $\rightarrow$ である)
+*   **Cấu trúc**: $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **ものの** (Tính từ な → な/である, Danh từ → である)
 *   **Ý nghĩa**: Mặc dù sự thật là A, nhưng kết quả thực tế lại trái ngược hoặc không đạt được mong đợi ở vế B.
 *   **Ví dụ**:
     1.  大学は卒業した**ものの**、就職先が決まっていない。

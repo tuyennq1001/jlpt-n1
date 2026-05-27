@@ -1,8 +1,8 @@
-# Tổng hợp Ngữ pháp JLPT N1 liên quan đến 極まり / 極み (Kiwami)
+# Tổng hợp Ngữ pháp JLPT N1 liên quan đến 極まり / 極み
 
-Nhóm ngữ pháp **極まり** và **極み (Kiwami)** (Hán tự: **Cực - 極**) dùng để biểu thị ý nghĩa **"mức độ của sự việc/trạng thái đã đạt đến điểm giới hạn cao nhất, không thể cao hơn được nữa"** (Cực kỳ / Vô cùng / Tột cùng). 
+Nhóm ngữ pháp **極まり** và **極み** (Hán tự: **Cực - 極**) dùng để biểu thị ý nghĩa **"mức độ của sự việc/trạng thái đã đạt đến điểm giới hạn cao nhất, không thể cao hơn được nữa"** (Cực kỳ / Vô cùng / Tột cùng). 
 
-Ngoài ra, cấu trúc **～の至り (no itari)** có cách dùng tương tự cũng được đưa vào nhóm này để bạn dễ dàng so sánh và tránh nhầm lẫn.
+Ngoài ra, cấu trúc **～の至り** có cách dùng tương tự cũng được đưa vào nhóm này để bạn dễ dàng so sánh và tránh nhầm lẫn.
 
 ---
 
@@ -21,7 +21,7 @@ Ngoài ra, cấu trúc **～の至り (no itari)** có cách dùng tương tự 
 
 ### 1. ～極まる (Cực kỳ... / Vô cùng...)
 
-*   **Cấu trúc**: $\text{Tính từ な (bỏ だ)}$ + **極まる**
+*   **Cấu trúc**: $\text{Tính từ}_{\text{な (bỏ だ)}}$ + **極まる**
     *   *Ví dụ*: 危険極まる (cực kỳ nguy hiểm), 無礼極まる (cực kỳ vô lễ), 残念極まる (cực kỳ đáng tiếc)...
 *   **Ý nghĩa**: Trạng thái đạt đến mức độ cực hạn.
 *   **Lưu ý**:
@@ -40,8 +40,8 @@ Ngoài ra, cấu trúc **～の至り (no itari)** có cách dùng tương tự 
 ### 2. ～極まりない (Cực kỳ... - Tiêu cực)
 
 *   **Cấu trúc**:
-    *   $\text{Tính từ な (bỏ だ)}$ + **極まりない**
-    *   $\text{Tính từ い}$ + **こと極まりない**
+    *   $\text{Tính từ}_{\text{な (bỏ だ)}}$ + **極まりない**
+    *   $\text{Tính từ}_{\text{い}}$ + **こと極まりない**
     *   *Ví dụ*: 失礼極まりない (cực kỳ thất lễ), 不愉快極まりない (cực kỳ khó chịu), 危険なこと極まりない (cực kỳ nguy hiểm)...
 *   **Ý nghĩa**: Thể hiện sự đánh giá ở mức độ cao nhất đối với một trạng thái xấu.
 *   **Sắc thái**: Mang tính phê phán, chỉ trích, bất bình hoặc kinh ngạc trước một việc tồi tệ. Mạnh mẽ hơn cấu trúc **～極まる**.

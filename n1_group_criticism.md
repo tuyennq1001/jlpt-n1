@@ -33,7 +33,7 @@ Nhóm ngữ pháp này được sử dụng để **phê phán, chỉ trích hà
 
 *   **Cấu trúc**: 
     *   $\text{N}$ + **をいいことに**
-    *   $\text{V-る・A-い・A-な・N}$ + **のをいいことに**
+    *   $\text{V}_{\text{る}}・\text{A}_{\text{い}}・\text{A}_{\text{な}}・\text{N}$ + **のをいいことに**
 *   **Ý nghĩa**: Tận dụng một cơ hội thuận lợi, sự lơ là hoặc điểm yếu (sự hiền lành, sự vắng mặt...) của đối phương để làm một hành động ích kỷ, có hại.
 *   **Ví dụ**:
     1.  先生がいないの**をいいことに**、生徒たちは教室で騒ぎ始めた。
