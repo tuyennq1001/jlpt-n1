@@ -4,6 +4,13 @@ Chào mừng bạn đến với kho tài liệu ôn luyện ngữ pháp **JLPT N
 
 **🔥 Tổng số mẫu ngữ pháp: 143 mẫu** (chia thành 11 nhóm gốc cơ bản và 18 nhóm ý nghĩa/chức năng thực tế).
 
+### 🔑 Ký Hiệu Viết Tắt (Notations)
+
+Để các công thức kết nối ngắn gọn và dễ hiểu, các tài liệu trong kho lưu trữ thống nhất sử dụng các ký hiệu sau:
+*   **V** (Verb): Động từ (ví dụ: `V-る`, `V-た`, `V-ない`, `V-て`, `V-ば`, `V-たら`, `V-ます`).
+*   **A** (Adjective): Tính từ (ví dụ: `A-い` cho tính từ đuôi い, `A-な` cho tính từ đuôi な).
+*   **N** (Noun): Danh từ.
+
 ---
 
 ## 📂 Danh Sách Tài Liệu Chi Tiết

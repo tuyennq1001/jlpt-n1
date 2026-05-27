@@ -9,14 +9,14 @@ Họ ngữ pháp liên quan đến **もの** chiếm tỉ trọng rất lớn t
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
 | **[1. ～ものなら](#1-ものなら-nếu-có-thể-nếu-lỡ-làm-gì)** | Nếu có thể... / Nếu lỡ làm gì... | `V-khả năng + ものなら`<br>`V-ý chí + ものなら` | **V-khả năng**: Mong muốn điều bất khả thi.<br>**V-ý chí**: Cảnh báo hậu quả nghiêm trọng. |
-| **[2. ～ものを](#2-ものを-giá-mà-thế-mà)** | Giá mà... / Thế mà... | `V-る・Adj-い・Adj-な・N + ものを` | Thể hiện sự tiếc nuối hoặc trách móc đối phương vì đã không làm điều nên làm. |
+| **[2. ～ものを](#2-ものを-giá-mà-thế-mà)** | Giá mà... / Thế mà... | `V-る・A-い・A-な・N + ものを` | Thể hiện sự tiếc nuối hoặc trách móc đối phương vì đã không làm điều nên làm. |
 | **[3. ～をものともせずに](#3-をものともせずに-bất-chấp-mặc-cho)** | Bất chấp... / Mặc cho... | `N + をものともせず(に)` | Ca ngợi ai đó vượt qua khó khăn, nghịch cảnh lớn để hành động. (Không dùng cho bản thân). |
 | **[4. ～ないものでもない](#4-ないものでもない-không-hẳn-là-không)** | Không hẳn là không... | `V-ない + ないものでもない` | Phủ định kép thể hiện sự đồng ý hoặc khả năng một cách dè dặt, không dứt khoát. |
-| **[5. ～ものがある](#5-ものがある-có-cảm-giác-có-gì-đó)** | Có cảm giác... / Có gì đó... | `V-る・Adj-い・Adj-な・N + ものがある` | Cảm nhận sâu sắc của người nói về một sự việc, mang tính chủ quan. |
-| **[6. ～というものだ](#6-というものだ-thực-sự-là-chính-là)** | Thực sự là... / Chính là... | `V-る・Adj-い・Adj-な・N + というものだ` | Đưa ra nhận xét khách quan, chân lý hoặc định nghĩa mang tính hiển nhiên. |
-| **[7. ～というもの](#7-というもの-suốt-khoảng-thời-gian)** | Suốt... (qua) | `Danh từ chỉ thời gian + というもの` | Nhấn mạnh trạng thái liên tục suốt một khoảng thời gian dài gần đây. |
-| **[8. ～ものか / ～もんか](#8-ものか--もんか-không-đời-nào)** | Không đời nào... / Làm sao mà... | `V-る・Adj-い・Adj-な・N + ものか` | Phủ định cực kỳ mạnh mẽ, bày tỏ cảm xúc bác bỏ hoặc cự tuyệt của người nói. |
-| **[9. ～ものの](#9-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・Adj-い・Adj-な・N + ものの` | Diễn tả một thực tế tương phản (tương tự như が hay けれど nhưng trang trọng hơn). |
+| **[5. ～ものがある](#5-ものがある-có-cảm-giác-có-gì-đó)** | Có cảm giác... / Có gì đó... | `V-る・A-い・A-な・N + ものがある` | Cảm nhận sâu sắc của người nói về một sự việc, mang tính chủ quan. |
+| **[6. ～というものだ](#6-というものだ-thực-sự-là-chính-là)** | Thực sự là... / Chính là... | `V-る・A-い・A-な・N + というものだ` | Đưa ra nhận xét khách quan, chân lý hoặc định nghĩa mang tính hiển nhiên. |
+| **[7. ～というもの](#7-というもの-suốt-khoảng-thời-gian)** | Suốt... (qua) | `N chỉ thời gian + というもの` | Nhấn mạnh trạng thái liên tục suốt một khoảng thời gian dài gần đây. |
+| **[8. ～ものか / ～もんか](#8-ものか--もんか-không-đời-nào)** | Không đời nào... / Làm sao mà... | `V-る・A-い・A-な・N + ものか` | Phủ định cực kỳ mạnh mẽ, bày tỏ cảm xúc bác bỏ hoặc cự tuyệt của người nói. |
+| **[9. ～ものの](#9-ものの-mặc-dù-nhưng)** | Mặc dù... nhưng... | `V-る・A-い・A-な・N + ものの` | Diễn tả một thực tế tương phản (tương tự như が hay けれど nhưng trang trọng hơn). |
 
 ---
 
@@ -47,7 +47,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 2. ～ものを (Giá mà... / Thế mà...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **ものを** (Adj-な → な, Danh từ → である)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **ものを** (A-な → な, N → である)
 *   **Ý nghĩa**: Giá mà làm A thì kết quả đã tốt rồi, thế mà thực tế lại không làm như vậy (thể hiện sự tiếc nuối hoặc trách móc nhẹ nhàng).
 *   **Lưu ý**: Vế sau thường bị lược bỏ trong văn nói, chỉ còn lại **ものを** ở cuối câu.
 *   **Ví dụ**:
@@ -86,7 +86,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 5. ～ものがある (Có cảm giác... / Có gì đó...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **ものがある** (Adj-な → な)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **ものがある** (A-な → な)
 *   **Ý nghĩa**: Cảm thấy có một yếu tố, một tính chất nào đó khiến bản thân xúc động hoặc suy nghĩ sâu sắc.
 *   **Ví dụ**:
     1.  彼の歌声には, 聞く人の心を動かす**ものがある**。
@@ -98,7 +98,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 6. ～というものだ (Thực sự là... / Chính là...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **というものだ** (Không dùng だ của tính từ な và danh từ)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **というものだ** (Không dùng だ của tính từ な và danh từ)
 *   **Ý nghĩa**: Đưa ra một kết luận khách quan, mang tính chân lý hoặc một sự thật hiển nhiên theo quan niệm xã hội.
 *   **Ví dụ**:
     1.  困っている人を助けるのが, 友情**というものだ**。
@@ -122,7 +122,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 8. ～ものか / ～もんか (Không đời nào... / Làm sao mà...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **ものか** (Adj-な → な, Danh từ → な/である)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **ものか** (A-な → な, N → な/である)
 *   **Ý nghĩa**: Phủ định mạnh mẽ ý kiến hoặc quyết định, thể hiện thái độ cự tuyệt tuyệt đối. Trong văn nói thường dùng **もんか**.
 *   **Ví dụ**:
     1.  あんな失礼な店、 hai度と行く**ものか**。
@@ -134,7 +134,7 @@ Cấu trúc này chia làm hai sắc thái hoàn toàn khác biệt dựa vào d
 
 ### 9. ～ものの (Mặc dù... nhưng...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **ものの** (Adj-な → な/である, Danh từ → である)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **ものの** (A-な → な/である, N → である)
 *   **Ý nghĩa**: Mặc dù sự thật là A, nhưng kết quả thực tế lại trái ngược hoặc không đạt được mong đợi ở vế B.
 *   **Ví dụ**:
     1.  大学は卒業した**ものの**、就職先が決まっていない。

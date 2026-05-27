@@ -9,8 +9,8 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
 | **[1. ～を限りに](#1-を限りに-đến-hết--lần-cuối-cùng)** | Đến hết... / Lần cuối cùng... | `N + を限りに` | Đưa ra mốc thời gian cuối cùng để chấm dứt một trạng thái hoặc hoạt động lâu dài. |
-| **[2. ～限りだ](#2-限りだ-cực-kỳ--rất)** | Cực kỳ... / Rất... | `Adj + 限りだ`<br>*(Adj-な → な)* | Nhấn mạnh cảm xúc chủ quan của người nói đối với một sự việc (thường đi với tính từ chỉ cảm xúc). |
-| **[3. ～限り（は）](#3-限りは-chừng-nào-còn-thì-vẫn)** | Chừng nào còn... thì vẫn... | `V-る・Adj-い・Adj-な・N + 限り（は）`<br>`Adj-な → な/である`<br>`N → である` | Diễn tả một điều kiện tiếp diễn: Nếu tình trạng vế trước còn duy trì thì vế sau vẫn tiếp tục. |
+| **[2. ～限りだ](#2-限りだ-cực-kỳ--rất)** | Cực kỳ... / Rất... | `A + 限りだ`<br>*(A-な → な)* | Nhấn mạnh cảm xúc chủ quan của người nói đối với một sự việc (thường đi với tính từ chỉ cảm xúc). |
+| **[3. ～限り（は）](#3-限りは-chừng-nào-còn-thì-vẫn)** | Chừng nào còn... thì vẫn... | `V-る・A-い・A-な・N + 限り（は）`<br>`A-な → な/である`<br>`N → である` | Diễn tả một điều kiện tiếp diễn: Nếu tình trạng vế trước còn duy trì thì vế sau vẫn tiếp tục. |
 | **[4. ～ない限り](#4-ない限り-trừ-khi--nếu-không-thì-không)** | Trừ khi... / Nếu không... | `V-ない + 限り` | Diễn tả điều kiện bắt buộc: Nếu hành động vế trước không xảy ra thì vế sau cũng không thể thực hiện. |
 | **[5. ～限りでは](#5-限りでは-trong-phạm-vi-những-gì)** | Trong phạm vi (những gì)... | `V-る / V-た + 限りでは` | Giới hạn nguồn thông tin mà người nói dùng để đưa ra nhận định hoặc phán đoán của mình. |
 
@@ -37,7 +37,7 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 
 ### 2. ～限りだ (Cực kỳ... / Rất...)
 
-*   **Cấu trúc**: Adj (い/な) + **限りだ** (Adj-な → な)
+*   **Cấu trúc**: A (い/な) + **限りだ** (A-な → な)
 *   **Ý nghĩa**: Biểu thị cảm xúc của người nói đang ở mức độ cao nhất, không thể hơn được nữa.
 *   **Lưu ý**: Chỉ đi kèm với các tính từ biểu thị cảm xúc như: 嬉しい (vui), 寂しい (buồn), 羨ましい (ghen tị), 腹立たしい (tức giận), 残念 (tiếc nuối), 光栄 (vinh dự)...
 *   **Ví dụ**:
@@ -52,7 +52,7 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 
 ### 3. ～限り（は） (Chừng nào còn... thì vẫn...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **限り（は）** (Adj-な → な/である, Danh từ → である)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **限り（は）** (A-な → な/である, N → である)
 *   **Ý nghĩa**: Chừng nào trạng thái vế trước vẫn còn tiếp diễn thì trạng thái ở vế sau vẫn sẽ tiếp tục duy trì tương tự.
 *   **Ví dụ**:
     1.  この仕事を続けている**限り**、のんびり休む時間はないだろう。
@@ -66,7 +66,7 @@ Họ ngữ pháp liên quan đến **限り** (Hán tự: **Hạn - 限**) dùng
 
 ### 4. ～ない限り (Trừ khi... / Nếu không... thì không...)
 
-*   **Cấu trúc**: V-ない + **限り** (Adj-な → でない/である, Danh từ → でない/である)
+*   **Cấu trúc**: V-ない + **限り** (A-な → でない/である, N → でない/である)
 *   **Ý nghĩa**: Nếu điều kiện cần thiết ở vế trước không được thực hiện, thì sự việc ở vế sau cũng không thể xảy ra.
 *   **Ví dụ**:
     1.  本人が直接来て謝罪し**ない限り**、この件は解決しない。

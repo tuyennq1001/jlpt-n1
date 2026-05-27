@@ -8,11 +8,11 @@
 
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
-| **[1. ～ところを](#1-ところを-đang-lúc-trong-lúc)** | Đang lúc... / Trong lúc... | `V-る・Adj-い・Adj-な・N + ところを`<br>`N + の + ところを` | **① Tạ lỗi/Cảm ơn**: Dùng làm tiền đề khi nhờ vả, tạ lỗi hoặc cảm ơn.<br>**② Bắt gặp**: Bị phát hiện/chặn lại đúng lúc đang làm gì. |
+| **[1. ～ところを](#1-ところを-đang-lúc-trong-lúc)** | Đang lúc... / Trong lúc... | `V-る・A-い・A-な・N + ところを`<br>`N + の + ところを` | **① Tạ lỗi/Cảm ơn**: Dùng làm tiền đề khi nhờ vả, tạ lỗi hoặc cảm ơn.<br>**② Bắt gặp**: Bị phát hiện/chặn lại đúng lúc đang làm gì. |
 | **[2. ～たところで](#2-たところで-dù-có-đi-chăng-nữa-cũng-vô-ích)** | Dù có... cũng vô ích | `V-た + ところで` | Giả định một hành động dù có thực hiện thì kết quả vẫn không thay đổi (tiêu cực/vô nghĩa). |
-| **[3. ～ところから](#3-ところから-từ-chỗ-chính-vì-lý-do)** | Từ chỗ... / Chính vì... | `V-る・Adj-い・Adj-な・N + ところから` | Giải thích nguồn gốc của một tên gọi, hoặc đưa ra căn cứ khách quan cho một phán đoán. |
+| **[3. ～ところから](#3-ところから-từ-chỗ-chính-vì-lý-do)** | Từ chỗ... / Chính vì... | `V-る・A-い・A-な・N + ところから` | Giải thích nguồn gốc của một tên gọi, hoặc đưa ra căn cứ khách quan cho một phán đoán. |
 | **[4. ～ところだった](#4-ところだった-suýt-chút-nữa-thì)** | Suýt chút nữa thì... | `V-る + ところだった` | Diễn tả một sự việc suýt nữa đã xảy ra (thường là kết quả xấu nhưng may mắn đã tránh được). |
-| **[5. ～どころか](#5-どころか-nói-chi-đến-ngược-lại-còn)** | Nói chi đến... / Ngược lại còn... | `V-る・Adj-い・Adj-な・N + どころか` | Phủ định vế trước để nhấn mạnh tình trạng ở vế sau còn cực đoan hoặc trái ngược hoàn toàn. |
+| **[5. ～どころか](#5-どころか-nói-chi-đến-ngược-lại-còn)** | Nói chi đến... / Ngược lại còn... | `V-る・A-い・A-な・N + どころか` | Phủ định vế trước để nhấn mạnh tình trạng ở vế sau còn cực đoan hoặc trái ngược hoàn toàn. |
 | **[6. ～どころではない](#6-どころではない-không-phải-là-lúc-không-thể)** | Không phải lúc... / Không thể... | `V-る / N + どころではない` | Tình hình hiện tại đang quá bận rộn hoặc tồi tệ, khiến việc thực hiện hành động trở nên bất khả thi. |
 | **[7. ～たところ](#7-たところ-sau-khí-thử-làm-thì)** | Sau khi thử làm... thì... | `V-た + ところ` | Diễn tả việc sau khi thử thực hiện hành động A thì nhận lại kết quả hoặc phát hiện thông tin B. |
 
@@ -58,7 +58,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 3. ～ところから (Từ chỗ... / Chính vì lý do...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **ところから** (Adj-な → な/である, Danh từ → である)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **ところから** (A-な → な/である, N → である)
 *   **Ý nghĩa**: Lấy một sự thật hoặc căn cứ làm điểm xuất phát để giải thích nguồn gốc tên gọi, hoặc đưa ra một phán đoán logic.
 *   **Ví dụ**:
     1.  この山は形が富士山に似ている**ところから**、「小富士」と呼ばれている。
@@ -83,7 +83,7 @@ Cấu trúc này có hai cách sử dụng phổ biến ở trình độ nâng c
 
 ### 5. ～どころか (Nói chi đến... / Ngược lại còn...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **どころか** (Adj-な → な/である, Danh từ → Danh từ / である)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **どころか** (A-な → な/である, N → N / である)
 *   **Ý nghĩa**: Bác bỏ hoàn toàn thông tin ở vế trước, nhấn mạnh rằng thực tế tình hình không những không được như vậy mà còn tồi tệ hơn hoặc trái ngược hoàn toàn ở vế sau.
 *   **Ví dụ**:
     1.  漢字**どころか**、ひらがなさえ書けない。

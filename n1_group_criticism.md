@@ -9,7 +9,7 @@ Nhóm ngữ pháp này được sử dụng để **phê phán, chỉ trích hà
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
 | **[1. ～ともあろうものが](#1-ともあろうものが-đã-là-thế-mà-lại)** | Đã là... thế mà lại... | `N + ともあろうものが`<br>`N + ともあろうお方が` *(kính ngữ)* | Phê phán người có địa vị cao, có uy tín nhưng lại làm một hành động tệ hại không xứng đáng. |
-| **[2. ～をいいことに](#2-をいいことに-lợi-dụng-việc)** | Lợi dụng việc... | `V-る・Adj-い・Adj-な・N + の + をいいことに`<br>`N + をいいことに` | Lợi dụng một tình huống thuận lợi hoặc điểm yếu của người khác để làm điều xấu cho riêng mình. |
+| **[2. ～をいいことに](#2-をいいことに-lợi-dụng-việc)** | Lợi dụng việc... | `V-る・A-い・A-な・N + の + をいいことに`<br>`N + をいいことに` | Lợi dụng một tình huống thuận lợi hoặc điểm yếu của người khác để làm điều xấu cho riêng mình. |
 | **[3. ～にかこつけて](#3-にかこつけて-lấy-cớ-là--lấy-danh-nghĩa)** | Lấy cớ là... / Lấy danh nghĩa... | `N + にかこつけて` | Mượn cớ, giả vờ dùng một lý do nghe có vẻ hợp lý để làm một hành động có mục đích cá nhân khác. |
 | **[4. ～を盾に](#4-を盾に-lấy-làm-bia-đỡ-đạn--lá-chắn)** | Lấy... làm bia đỡ đạn / lá chắn | `N + を盾に` | Sử dụng một quyền lực, lý do bất khả xâm phạm (pháp luật, cha mẹ, con cái) làm lá chắn để ép buộc người khác. |
 
@@ -33,7 +33,7 @@ Nhóm ngữ pháp này được sử dụng để **phê phán, chỉ trích hà
 
 *   **Cấu trúc**: 
     *   N + **をいいことに**
-    *   V-る・Adj-い・Adj-な・N + **のをいいことに**
+    *   V-る・A-い・A-な・N + **のをいいことに**
 *   **Ý nghĩa**: Tận dụng một cơ hội thuận lợi, sự lơ là hoặc điểm yếu (sự hiền lành, sự vắng mặt...) của đối phương để làm một hành động ích kỷ, có hại.
 *   **Ví dụ**:
     1.  先生がいないの**をいいことに**、生徒たちは教室で騒ぎ始めた。

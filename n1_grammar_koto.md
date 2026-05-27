@@ -9,14 +9,14 @@
 | Ngữ pháp | Ý nghĩa tiếng Việt | Cấu trúc kết nối | Sắc thái / Bối cảnh sử dụng |
 | :--- | :--- | :--- | :--- |
 | **[1. ～ことなしに](#1-ことなしに-nếu-không-làm-gì-mà-không)** | Nếu không làm gì / Mà không... | `V-る + ことなしに(は)` | Diễn tả điều kiện bắt buộc phải có để đạt vế sau. Trang trọng, thường dùng trong văn viết. |
-| **[2. ～こととて](#2-こととて-vì-do-là)** | Vì... / Do là... | `V-る・Adj-い・Adj-な・N + こととて`<br>`N + の + こととて` | Đưa ra lý do khách quan để xin lỗi hoặc mong sự thông cảm (văn phong cổ, trang trọng). |
-| **[3. ～ことに](#3-ことに-thật-là-làm-sao-đáng-kinh-ngạc-là)** | Thật là... / Đáng... là | `V-た / Adj-い / Adj-な + ことに` | Biểu thị cảm xúc mạnh mẽ của người nói trước khi trình bày một sự việc. |
-| **[4. ～ないことには](#4-ないことには-nếu-không-thì-không)** | Nếu không... thì không... | `V-ない + ことには`<br>`Adj-い + くないことには` | Vế trước là điều kiện cần thiết, vế sau luôn mang nghĩa phủ định hoặc bất khả thi. |
+| **[2. ～こととて](#2-こととて-vì-do-là)** | Vì... / Do là... | `V-る・A-い・A-な・N + こととて`<br>`N + の + こととて` | Đưa ra lý do khách quan để xin lỗi hoặc mong sự thông cảm (văn phong cổ, trang trọng). |
+| **[3. ～ことに](#3-ことに-thật-là-làm-sao-đáng-kinh-ngạc-là)** | Thật là... / Đáng... là | `V-た / A-い / A-な + ことに` | Biểu thị cảm xúc mạnh mẽ của người nói trước khi trình bày một sự việc. |
+| **[4. ～ないことには](#4-ないことには-nếu-không-thì-không)** | Nếu không... thì không... | `V-ない + ことには`<br>`A-い + くないことには` | Vế trước là điều kiện cần thiết, vế sau luôn mang nghĩa phủ định hoặc bất khả thi. |
 | **[5. ～ことだから](#5-ことだから-vì-là-ai-đó-nên)** | Vì là (ai đó) nên... | `N + のことだから` | Dựa vào tính cách, thói quen đặc trưng của ai đó để đưa ra dự đoán hoặc nhận định. |
-| **[6. ～こともあって](#6-こともあって-cũng-một-phần-vì)** | Cũng một phần vì... | `V-る・Adj-い・Adj-な・N + こともあって` | Đưa ra một lý do tiêu biểu trong số nhiều lý do dẫn đến kết quả ở vế sau. |
+| **[6. ～こともあって](#6-こともあって-cũng-một-phần-vì)** | Cũng một phần vì... | `V-る・A-い・A-な・N + こともあって` | Đưa ra một lý do tiêu biểu trong số nhiều lý do dẫn đến kết quả ở vế sau. |
 | **[7. ～ことなく](#7-ことなく-mà-không-hề-không-bị-gián-đoạn)** | Mà không hề... | `V-る + ことなく` | Hành động diễn ra liên tục, suôn sẻ mà không bị gián đoạn hay gặp trở ngại. (Dạng trang trọng của `～ないで`). |
-| **[8. ～ことだ](#8-ことda-nên-khuyên-bảo--thật-là-cảm-thán)** | Nên... (khuyên bảo) / Thật là... | `V-る/V-ない + ことだ`<br>`Adj-い/Adj-な + ことだ` | **Khuyên bảo**: Lời khuyên trực tiếp, nhẹ nhàng.<br>**Cảm thán**: Bày tỏ cảm xúc với tính từ. |
-| **[9. ～といったらありはしない](#9-といったらありはしない-cực-kỳ--không-thể-tả-xiết)** | Cực kỳ... / Không thể tả xiết | `Adj-い / Adj-な + ことといったらありはしない` | Nhấn mạnh mức độ cực kỳ cao của một trạng thái (thường là tiêu cực hoặc phiền toái). |
+| **[8. ～ことだ](#8-ことda-nên-khuyên-bảo--thật-là-cảm-thán)** | Nên... (khuyên bảo) / Thật là... | `V-る/V-ない + ことだ`<br>`A-い/A-な + ことだ` | **Khuyên bảo**: Lời khuyên trực tiếp, nhẹ nhàng.<br>**Cảm thán**: Bày tỏ cảm xúc với tính từ. |
+| **[9. ～といったらありはしない](#9-といったらありはしない-cực-kỳ--không-thể-tả-xiết)** | Cực kỳ... / Không thể tả xiết | `A-い / A-な + ことといったらありはしない` | Nhấn mạnh mức độ cực kỳ cao của một trạng thái (thường là tiêu cực hoặc phiền toái). |
 
 ---
 
@@ -37,7 +37,7 @@
 ### 2. ～こととて (Vì... / Do là...)
 
 *   **Cấu trúc**: 
-    *   V-る・Adj-い・Adj-な・N + **こととて** (Adj-な → な/である, Danh từ → の/である)
+    *   V-る・A-い・A-な・N + **こととて** (A-な → な/である, N → の/である)
 *   **Ý nghĩa**: Vì lý do đó (thường là bất khả kháng, thiếu kinh nghiệm, hoặc hoàn cảnh đặc biệt) nên xin hãy thứ lỗi hoặc thông cảm cho kết quả ở vế sau.
 *   **Sắc thái**: Thường dùng trong thư từ công việc, email trang trọng khi xin lỗi hoặc giải thích tình hình.
 *   **Ví dụ**:
@@ -52,7 +52,7 @@
 
 *   **Cấu trúc**: 
     *   V-た + **ことに**
-    *   Adj-い / Adj-な + **ことに** (Adj-な → な)
+    *   A-い / A-な + **ことに** (A-な → な)
 *   **Ý nghĩa**: Nhấn mạnh cảm xúc của người nói trước khi kể về sự việc tiếp theo.
 *   **Lưu ý**: Chỉ đi với những động từ/tính từ biểu thị cảm xúc như: 驚く(ngạc nhiên), 嬉しい(vui), 残念(tiếc nuối), 悲しい(buồn), ありがたい(biết ơn)...
 *   **Ví dụ**:
@@ -67,8 +67,8 @@
 
 *   **Cấu trúc**: 
     *   V-ない + **ことには**
-    *   Adj-い → **くないことには**
-    *   Adj-な / N → **でないことには**
+    *   A-い → **くないことには**
+    *   A-な / N → **でないことには**
 *   **Ý nghĩa**: Nếu điều kiện ở vế trước không được đáp ứng, thì vế sau chắc chắn không thể thực hiện được.
 *   **Ví dụ**:
     1.  実際にやってみ**ないことには**、上手になるかどうかわからない。
@@ -92,7 +92,7 @@
 
 ### 6. ～こともあって (Cũng một phần vì...)
 
-*   **Cấu trúc**: V-る・Adj-い・Adj-な・N + **こともあって** (Adj-な → な, Danh từ → の)
+*   **Cấu trúc**: V-る・A-い・A-な・N + **こともあって** (A-な → な, N → の)
 *   **Ý nghĩa**: Đưa ra một lý do trong số nhiều lý do khác nhau để giải thích cho kết quả vế sau.
 *   **Ví dụ**:
     1.  初めの海外旅行という**こともあって**、出発前はとても緊張した。
@@ -128,7 +128,7 @@ Cấu trúc này chia thành hai nhóm ý nghĩa:
     2.  健康のためには、夜遅く食べない**ことだ**。
         *   *(Để bảo vệ sức khỏe, tốt nhất là không nên ăn muộn vào ban đêm.)*
 
-#### B. Cảm thán (Adj-い / Adj-な + ことだ)
+#### B. Cảm thán (A-い / A-な + ことだ)
 *   **Ý nghĩa**: Thật là... biết bao! (bày tỏ cảm xúc cá nhân sâu sắc).
 *   **Ví dụ**:
     1.  こんなに広い家で一人暮らしができるなんて、うらやましい**ことだ**。
@@ -139,8 +139,8 @@ Cấu trúc này chia thành hai nhóm ý nghĩa:
 ### 9. ～といったらありはしない (Cực kỳ... / Không thể tả xiết)
 
 *   **Cấu trúc**: 
-    *   Adj-い + **ことといったらありはしない** (hoặc **ことといったらない**)
-    *   Adj-な + **（な）ことといったらありはしない**
+    *   A-い + **ことといったらありはしない** (hoặc **ことといったらない**)
+    *   A-な + **（な）ことといったらありはしない**
 *   **Ý nghĩa**: Nhấn mạnh một mức độ cực đoan của tính chất, không có từ ngữ nào tả nổi sự khó chịu, mệt mỏi hoặc ngạc nhiên.
 *   **Sắc thái**: Thường dùng trong văn nói hàng ngày để than phiền về các trạng thái tiêu cực.
 *   **Ví dụ**:
