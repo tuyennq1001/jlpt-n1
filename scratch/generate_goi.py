@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 import os
 
-# Danh sách 100 từ vựng láy tượng hình / tượng thanh tiếng Nhật (Giongo / Gitaigo)
+# Danh sách 200 từ vựng láy tượng hình / tượng thanh tiếng Nhật (Giongo / Gitaigo)
 # Định dạng: (từ_vựng, nhóm, ý_nghĩa, jp_def, sắc_thái, ví_dụ_jp, ví_dụ_vi, từ_đồng_nghĩa, từ_trái_nghĩa)
 words_data = [
-    # Nhóm 1: Trạng Thái Tinh Thần & Cảm Xúc (Mental & Emotional States) - 25 từ
+    # Nhóm 1: Trạng Thái Tinh Thần & Cảm Xúc (Mental & Emotional States) - 50 từ
     (
         "すっきり",
         "Trạng Thái Tinh Thần & Cảm Xúc",
@@ -44,7 +44,7 @@ words_data = [
         "Hồi hộp / Tim đập thình thịch",
         "運動や緊張、驚きなどで心臓の鼓動が速くなる様子。",
         "Tiếng tim đập nhanh do lo lắng, căng thẳng, sợ hãi hoặc phấn khích (ví dụ trước khi phát biểu, gặp người yêu, hoặc khi đứng trước kết quả thi).",
-        "発表の番が近づいてきて、胸がどきどきしている。",
+        "発表 of 番が近づいてきて、胸がどきどきしている。",
         "Lượt phát biểu đang đến gần, lồng ngực tôi đập thình thịch.",
         "はらはら, 緊張する",
         "ほっとする, 落ち着く"
@@ -68,7 +68,7 @@ words_data = [
         "Cảm giác lo sợ, hồi hộp khi nhìn thấy người khác ở trong tình thế nguy hiểm (như xem xiếc, nhìn em bé tập đi).",
         "子供が木に登っているのを見て、はらはらした。",
         "Nhìn thấy đứa trẻ trèo lên cây mà tôi lo nhấp nhổm cả người.",
-        "どきどき, ハラハラする",
+        "どきどき, 緊張する",
         "ほっとする, 安心する"
     ),
     (
@@ -79,7 +79,7 @@ words_data = [
         "Tâm trạng bị hút hồn, say đắm trước vẻ đẹp hoặc một tác phẩm nghệ thuật, âm nhạc xuất sắc.",
         "彼女は美しいバイオリンの音色にうっとり聞き入っていた。",
         "Cô ấy say sưa lắng nghe giai điệu vĩ cầm tuyệt đẹp.",
-        "うっとりする, 恍惚とする",
+        "恍惚とする, 見とれる",
         "無関心, 興ざめする"
     ),
     (
@@ -112,7 +112,7 @@ words_data = [
         "Thái độ e sợ, không tự tin, ngập ngừng lúng túng khi giao tiếp hoặc đứng trước đám đông.",
         "面接の時、緊張しておどおどしてしまった。",
         "Lúc phỏng vấn, vì căng thẳng nên tôi cứ lúng ta lúng túng.",
-        "びくびく, 卑屈になる",
+        "びくびく, 怯える",
         "堂々とする, はきはきする"
     ),
     (
@@ -134,7 +134,7 @@ words_data = [
         "Có hai nghĩa: Cảm thấy nôn nao, buồn nôn ở dạ dày; Hoặc cảm giác tức tối phát điên vì hành động vô lý của ai đó.",
         "彼の失礼な態度を思い出すと、今でも胸がむかむかする。",
         "Nghĩ lại thái độ vô lễ của anh ta, đến giờ tôi vẫn thấy tức cành hông.",
-        "いらいら, 吐き気がする",
+        "いらいら, むかつく",
         "すっきり, さっぱり"
     ),
     (
@@ -145,7 +145,7 @@ words_data = [
         "Sự bồn chồn sốt ruột vì lo lắng cho tình hình của người khác mà bản thân không thể can thiệp được.",
         "連絡が取れない息子を心配して、母はやきもきしていた。",
         "Lo lắng cho đứa con trai không liên lạc được, người mẹ cứ bồn chồn đứng ngồi không yên.",
-        "いらいら, 心配する",
+        "いらいら, 気をもむ",
         "のんびり, 泰然とする"
     ),
     (
@@ -156,7 +156,7 @@ words_data = [
         "Trạng thái rối bời, không biết phải xử lý thế nào khi xảy ra sự cố đột ngột ngoài tầm kiểm soát.",
         "事故の現場を見て, 何もできずにおろおろするばかりだった。",
         "Nhìn thấy hiện trường tai nạn, tôi chỉ biết cuống cuồng lúng túng mà không làm được gì.",
-        "うろたえる, パニックになる",
+        "うろたえる, 狼狽する",
         "冷静沈着, 落ち着く"
     ),
     (
@@ -184,13 +184,13 @@ words_data = [
     (
         "めそめそ",
         "Trạng Thái Tinh Thần & Cảm Xúc",
-        "Khóc thút thít / Sụt sùi",
+        "Khọc thút thít / Sụt sùi",
         "弱々しく泣き続ける様子。",
         "Hành động khóc nhỏ, kéo dài, thút thít (thường dùng cho trẻ con hoặc người yếu đuối).",
         "いつまでもめそめそ泣くのはやめなさい。",
         "Đừng có khóc thút thít suốt như thế nữa.",
-        "しくしく, 泣く",
-        "にこにこ, からから笑う"
+        "しくしく, すすり泣く",
+        "にこにこ, げらげら"
     ),
     (
         "おずおず",
@@ -201,7 +201,7 @@ words_data = [
         "彼は社長室のドアをおずおずとノックした。",
         "Anh ấy rụt rè gõ cửa phòng giám đốc.",
         "恐る恐る, ためらう",
-        "堂々と, 思い切って"
+        "堂々と, 大胆に"
     ),
     (
         "もじもじ",
@@ -211,7 +211,7 @@ words_data = [
         "Thái độ ngượng ngùng, ngập ngừng không dám bộc lộ ý kiến hay hành động vì xấu hổ trước người khác.",
         "子供は知らない人の前で、恥ずかしそうにもじもじしていた。",
         "Đứa bé ngượng nghịu lúng túng trước mặt người lạ.",
-        "はにかむ, 照れる",
+        "はникаむ, もじもじする",
         "堂々とする, はきはきする"
     ),
     (
@@ -222,7 +222,7 @@ words_data = [
         "Cách giải quyết công việc vô cùng nhanh chóng, có trình tự và hiệu quả cao.",
         "彼女は家事をてきぱきと片付けた。",
         "Cô ấy tháo vát dọn dẹp nhanh gọn việc nhà.",
-        "さっさと, 手際よく",
+        "さっさと, はきはき",
         "ぐずぐず, のろのろ"
     ),
     (
@@ -233,8 +233,8 @@ words_data = [
         "Trạng thái sống thoải mái, ấm áp dễ chịu mà không phải chịu vất vả cực nhọc.",
         "寒い冬の日に、こたつでぬくぬく過ごすのは最高だ。",
         "Vào ngày đông giá rét, ngồi ấm êm trong bàn sưởi Kotatsu thì thật tuyệt vời.",
-        "ぬくぬくする, 快適に過ごす",
-        "がたがた, 震える"
+        "ぽかぽか, 快適",
+        "がたがた, 寒い"
     ),
     (
         "はっきり",
@@ -280,8 +280,283 @@ words_data = [
         "いらいら, 焦る",
         "のんびり, 泰然とする"
     ),
+    (
+        "もやもや",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Bức bối / Bứt rứt / U ám trong lòng",
+        "すっきりせず、心の中にわだかまりがある様子。",
+        "Cảm giác vướng bận, khó chịu, không thoải mái trong lòng về một mối quan hệ hoặc sự việc chưa sáng tỏ.",
+        "友達に嘘をついてしまい, 心の中がもやもやしている。",
+        "Vì lỡ nói dối bạn bè nên trong lòng tôi cứ bứt rứt không yên.",
+        "むかむか, すっきりしない",
+        "すっきり, さっぱり"
+    ),
+    (
+        "つくづく",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Thấu đáo / Sâu sắc / Tỉ mỉ",
+        "物事を深く考えたり, 痛切に感じたりする様子。",
+        "Cảm nhận sâu sắc, thấm thía một sự thật nào đó (như tuổi tác, sự cô đơn) hoặc nhìn nhận một vấn đề vô cùng thấu đáo.",
+        "最近、自分の年齢をつくづく感じるようになった。",
+        "Gần đây, tôi cảm thấy vô cùng thấm thía về tuổi tác của mình.",
+        "しみじみ, 痛切に",
+        "うわの空, ぼんやり"
+    ),
+    (
+        "あたふた",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Luống cuống / Cuống quýt / Vội vã",
+        "慌てて落ち着かない様子。",
+        "Hành động vội vàng, bối rối luống cuống khi gặp tình huống bất ngờ hoặc khi sắp trễ giờ.",
+        "急にテストがあると聞いて、あたふた準備した。",
+        "Nghe tin sắp có kiểm tra đột xuất, tôi luống cuống chuẩn bị.",
+        "おろおろ, あたふたする",
+        "冷静沈着, 落ち着く"
+    ),
+    (
+        "しみじみ",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Thấm thía / Sâu sắc / Lắng đọng",
+        "心の底から深く感じる様子。しみ入るように感じる様子。",
+        "Cảm giác xúc động lắng đọng từ sâu thẳm con tim (như khi nghe một bài hát cũ, nhớ lại tình cảm cha mẹ).",
+        "親のありがたさをしみじみと感じる。",
+        "Tôi cảm nhận sâu sắc thấm thía công ơn của cha mẹ.",
+        "つくづく, 深々",
+        "あっさり, 淡々と"
+    ),
+    (
+        "うじうじ",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Do dự / Thiếu quyết đoán / Kỳ kèo",
+        "決断力がなく、物事をいつまでも気に病む様子。",
+        "Thái độ chần chừ, băn khoăn mãi không dám đưa ra quyết định hoặc hành động dứt khoát vì sợ sệt.",
+        "いつまでもうじうじしていないで、早く決めなさい。",
+        "Đừng có chần chừ do dự mãi thế nữa, hãy quyết định nhanh đi.",
+        "ぐずぐず, もじもじ",
+        "きっぱり, 素早く"
+    ),
+    (
+        "そわそわ",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Nhấp nhổm / Bồn chồn (đứng ngồi không yên)",
+        "緊張や興奮などで、落ち着きがない様子。",
+        "Trạng thái nôn nóng, phấn khích hoặc lo lắng khiến cơ thể không thể ngồi yên một chỗ (như trước giờ hẹn hò, chờ kết quả).",
+        "彼はテストの結果が気になるのか, そわそわしている。",
+        "Cậu ấy nhấp nhổm không yên, có vẻ như đang lo lắng về kết quả bài kiểm tra.",
+        "どきどき, 落ち着かない",
+        "じっとする, 冷静"
+    ),
+    (
+        "どきっと",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Giật nảy mình / Hoảng hốt bất ngờ",
+        "不意の出来事に一瞬驚き、心臓が大きく鳴る様子。",
+        "Trạng thái giật mình hoảng hốt trong tích tắc khi bất ngờ bị hỏi trúng tim đen hoặc gặp sự cố bất ngờ.",
+        "突然名前を呼ばれて、どきっとした。",
+        "Bất thình lình bị gọi tên làm tôi giật nảy mình.",
+        "はっとする, びっくりする",
+        "平気, 動じない"
+    ),
+    (
+        "きっと",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Nghiêm nghị / Cứng rắn / Chắc chắn",
+        "表情や態度を厳しくする様子。または強い決意を表す。",
+        "Nét mặt nghiêm nghị hẳn lên khi tập trung hoặc thái độ cứng rắn biểu thị quyết tâm cao.",
+        "叱られて、子供の顔がきっとなった。",
+        "Bị mắng, nét mặt đứa trẻ trở nên nghiêm nghị hẳn.",
+        "きりっと, 厳格に",
+        "へらへら, にやにや"
+    ),
+    (
+        "はっと",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Giật mình nhận ra / Sực tỉnh",
+        "急に気がついて驚く様子。",
+        "Sự thức tỉnh sực nhận ra một điều gì đó mà trước đó mình vô ý bỏ qua hoặc quên mất.",
+        "彼の言葉に、はっと我に返った。",
+        "Lời nói của anh ấy khiến tôi sực tỉnh nhận ra.",
+        "どきっと, びっくり",
+        "ぼんやり"
+    ),
+    (
+        "むっと",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Hậm hực / Khó chịu ra mặt",
+        "不愉快に思って、怒りを顔に表す様子。",
+        "Thái độ giận dỗi, hậm hực biểu hiện rõ ra khuôn mặt nhưng không thốt lên lời nói.",
+        "皮肉を言われて、彼はむっとした顔をした。",
+        "Bị mỉa mai, anh ta lộ rõ vẻ mặt hậm hực khó chịu.",
+        "いらいら, 不機嫌",
+        "にこにこ, 穏やか"
+    ),
+    (
+        "ぷんぷん",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Giận đùng đùng / Mùi bay nồng nặc",
+        "ひどく怒っている様子。または、においが強く漂う様子。",
+        "Cơn giận bốc lên đùng đùng thường thấy ở trẻ nhỏ hay các cô gái; Hoặc mùi nước hoa, mùi hôi lan tỏa nồng nặc.",
+        "彼女は約束を破られて、ぷんぷん怒っている。",
+        "Cô ấy đang giận đùng đùng vì bị lỡ hẹn.",
+        "むっとする, カンカン",
+        "にこやか"
+    ),
+    (
+        "むっつり",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Lầm lì / Lầm rầm / Ít nói",
+        "口数が少なく、愛想のない様子。",
+        "Vẻ mặt lạnh lùng, lầm lì không chịu trò chuyện hay biểu lộ sự cởi mở với người xung quanh.",
+        "彼は一日中むっつりしていて、誰とも口を利かない。",
+        "Anh ta cứ lầm lì suốt cả ngày, chẳng chịu nói chuyện với ai.",
+        "ぶっきらぼう, 不愛想",
+        "はきはき, 愛想がいい"
+    ),
+    (
+        "げっそり",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Gầy rộc đi / Hốc hác / Chán nản cực độ",
+        "急激に痩せる様子。また, がっかりして元気を失う様子。",
+        "Ngoại hình gầy đi nhanh chóng sau trận ốm nặng hoặc làm việc quá sức; Hoặc tâm trạng sụp đổ thất vọng nặng nề.",
+        "病気の後で, 彼の顔はげっそり痩せてしまった。",
+        "Sau trận ốm, khuôn mặt anh ấy gầy rộc hốc hác hẳn đi.",
+        "やつれる, がっかり",
+        "ふっくら, 元気いっぱい"
+    ),
+    (
+        "にこにこ",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Mỉm cười rạng rỡ / Vui vẻ",
+        "嬉しそうに微笑んでいる様子。",
+        "Khuôn mặt cười tươi tắn, thân thiện và tràn đầy niềm vui phát ra từ ánh mắt.",
+        "お母さんはいつもにこにこしていて優しい。",
+        "Mẹ tôi lúc nào cũng mỉm cười rạng rỡ và rất dịu dàng.",
+        "にっこり, 微笑む",
+        "むっとする, ぷんぷん"
+    ),
+    (
+        "にやにや",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Cười đểu / Cười ẩn ý / Cười một mình",
+        "薄気味悪く、または含み笑いをする様子。",
+        "Điệu cười thầm, cười một mình khi nghĩ tới điều mờ ám hoặc nụ cười có ý chế nhạo lịch sự.",
+        "スマホを見ながらにやにやしている彼は怪しい。",
+        "Anh ta cứ cười tủm tỉm một mình khi nhìn điện thoại trông thật khả nghi.",
+        "にやつく, 含み笑い",
+        "真面目な顔, きっとする"
+    ),
+    (
+        "けろっと",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Thản nhiên / Như không có chuyện gì",
+        "大ごとがあった後なのに, 平気でいる様子。",
+        "Thái độ thản nhiên, coi như chưa từng xảy ra sự cố lớn nào (ví dụ đứa trẻ khóc thét rồi nín ngay lập tức và cười tươi).",
+        "注射のときは泣いたが, すぐにけろっとして遊び始めた。",
+        "Lúc tiêm thì khóc thét nhưng sau đó đứa bé đã thản nhiên chơi đùa như không có gì.",
+        "けろり, 平然とする",
+        "くよくよする, 落ち込む"
+    ),
+    (
+        "けろり",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Thản nhiên bình phục / Khỏi hẳn",
+        "病気や傷がすっかり治り、あとに残らない様子。",
+        "Tình trạng vết thương hoặc bệnh tật biến mất hoàn toàn, cơ thể khỏe mạnh thản nhiên như chưa từng đau ốm.",
+        "熱があったのに、翌朝にはけろりと治っていた。",
+        "Mới hôm trước còn sốt mà sáng hôm sau đã khỏi bệnh hoàn toàn thản nhiên.",
+        "けろっと, 完治する",
+        "長引く, 悪化する"
+    ),
+    (
+        "ぼうぜん",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Bàng hoàng / Ngơ ngác / Thẫn thờ",
+        "驚きやあきれで, 言葉が出ない様子。",
+        "Trạng thái đờ đẫn, bàng hoàng không nói nên lời khi nghe tin sốc hoặc chứng kiến một hiện tượng kinh ngạc.",
+        "事故の惨状を見て、ただぼうぜんと立ち尽くしていた。",
+        "Nhìn thảm cảnh tai nạn, tôi chỉ biết bàng hoàng đứng sững sờ.",
+        "呆然, 茫然とする",
+        "泰然自若"
+    ),
+    (
+        "しゃきっと",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Tỉnh táo hẳn / Dứt khoát vững vàng",
+        "態度や気持ちが引き締まり, はっきりする様子。",
+        "Cơ thể tỉnh táo sảng khoái hẳn lên sau khi rửa mặt hoặc uống cà phê; Hoặc thái độ dứt khoát nghiêm túc.",
+        "冷たい水を浴びて、頭をしゃきっとさせた。",
+        "Dội nước lạnh giúp đầu óc tôi tỉnh táo hẳn lên.",
+        "しゃきっとする, シャキッ",
+        "ぼんやり, ふにゃふにゃ"
+    ),
+    (
+        "ぴりぴり",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Căng thẳng nhạy cảm / Tê rát (vị cay)",
+        "神経を尖らせて、緊張している様子。舌が痛む様子。",
+        "Không khí căng thẳng bao trùm phòng thi hoặc thái độ vô cùng nhạy cảm dễ nổi giận; Hoặc vị cay làm tê đầu lưỡi.",
+        "試験前なので, 教室の空気がぴりぴりしている。",
+        "Vì sắp thi nên bầu không khí trong lớp học vô cùng căng thẳng.",
+        "ぴりぴりする, ピリピリ",
+        "のんびり, 穏やか"
+    ),
+    (
+        "はしゃぐ",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Vui đùa quá trớn / Phấn khích huyên náo",
+        "嬉しさのあまり、騒ぎ回る様子。",
+        "Hành động nô đùa vui vẻ thái quá, phấn khích làm ồn xung quanh (thường nói về lũ trẻ khi đi chơi viên giải trí).",
+        "遠足の日、子供たちは朝からはしゃいでいた。",
+        "Ngày đi dã ngoại, lũ trẻ đã phấn khích vui đùa từ sáng sớm.",
+        "騒ぐ, はしゃぎ回る",
+        "おとなしくする, 沈む"
+    ),
+    (
+        "めげる",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Nản lòng / Thoái chí / Sụp đổ trước áp lực",
+        "困難に負けて、元気をなくす様子。",
+        "Trạng thái mất ý chí, nản lòng thoái chí trước những khó khăn trở ngại liên tục ập đến.",
+        "失敗が続いても、彼は決してめげない。",
+        "Dù thất bại liên tiếp nhưng anh ấy quyết không nản chí.",
+        "へこむ, 気を落とす",
+        "奮起する, 立ち上がる"
+    ),
+    (
+        "ひやひや",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Lo sợ run rẩy / Sợ dựng tóc gáy / Ớn lạnh",
+        "危なっかしくて、恐ろしさを感じる様子。",
+        "Cảm giác lạnh sống lưng vì lo sợ nguy hiểm xảy ra cho bản thân hoặc người khác khi đứng bên bờ vực.",
+        "見ていてひやひやするような運転だった。",
+        "Đó là kiểu lái xe khiến người xem phải lo sợ dựng cả tóc gáy.",
+        "はらはらする, 冷や冷や",
+        "安心する"
+    ),
+    (
+        "もじもじする",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Lúng ta lúng túng / Rụt rè ngần ngại",
+        "恥ずかしがって落ち着かない様子。",
+        "Thái độ ngượng ngùng không biết đặt tay chân vào đâu, ngập ngừng khó nói.",
+        "告白する前、彼はもじもじしていた。",
+        "Trước khi tỏ tình, anh ấy cứ lúng ta lúng túng ngập ngừng.",
+        "はにかむ, もじもじ",
+        "はきはきする"
+    ),
+    (
+        "そわそわする",
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Đứng ngồi không yên / Bồn chồn",
+        "気持ちが落ち着かない様子。",
+        "Sự bồn bồn lo lắng hoặc phấn khích biểu hiện ra động tác cơ thể không chịu đứng yên một chỗ.",
+        "合格発表を待つ間、そわそわする。",
+        "Trong lúc chờ công bố kết quả thi, tôi đứng ngồi không yên.",
+        "そわそわ, どきどき",
+        "落ち着く, 静止する"
+    ),
 
-    # Nhóm 2: Cảm Giác Cơ Thể & Thể Chất (Physical Feelings & Food) - 25 từ
+    # Nhóm 2: Cảm Giác Cơ Thể & Thể Chất (Physical Feelings & Food) - 50 từ
     (
         "さっぱり",
         "Cảm Giác Cơ Thể & Thể Chất",
@@ -400,14 +675,14 @@ words_data = [
         "Cảm giác tê buốt hoặc tê rần rần ở tay chân khi bị lạnh buốt hoặc sau khi ngồi xếp bằng quá lâu.",
         "寒さで手がかじかんで, じんじんする。",
         "Cái lạnh làm tay tôi tê buốt rần rần.",
-        "しびれる, 痺痛",
+        "しびれる, 痺れ感",
         "感覚が戻る"
     ),
     (
         "くたくた",
         "Cảm Giác Cơ Thể & Thể Chất",
         "Mệt rã rời / Mệt lử / Nhão nhẹt",
-        "ひどく疲れえて、力が入らない様子。",
+        "ひどく疲れて、力が入らない様子。",
         "Trạng thái mệt mỏi rã rời, không còn chút sức lực nào sau khi hoạt động nặng nhọc; Hoặc đồ ăn được nấu nhừ nhão.",
         "一日中歩き回って、もうくたくただ。",
         "Đi bộ cả ngày trời nên tôi mệt rã rời cả người rồi.",
@@ -557,8 +832,283 @@ words_data = [
         "ざらざら, 骨ばる",
         "なめらか, 柔らかい"
     ),
+    (
+        "あっさり",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Thanh mát nhẹ nhàng / Dễ dàng / Đơn giản không cầu kỳ",
+        "食物がしつこくなく、口当たりがよい様子。物事が簡単に行われる様子。",
+        "Món ăn có vị thanh nhã nhẹ nhàng, không béo ngậy ngấy dầu mỡ; Hoặc tính cách con người cởi mở dễ chịu; Hoặc công việc được xử lý một cách cực kỳ nhanh chóng dễ dàng.",
+        "暑い日は、あっさりした味のスープが美味しい。",
+        "Những ngày oi bức thì bát canh vị thanh mát nhẹ nhàng thật là ngon lành.",
+        "さっぱり, 淡白な",
+        "こってり, むつこい, 困難に"
+    ),
+    (
+        "こってり",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Đậm đà béo ngậy / Mức độ nặng",
+        "食べ物の脂気が多くて味が濃い様子。しつこく注意される様子。",
+        "Hương vị thức ăn vô cùng đậm đà, ngấy mỡ béo (như mỳ ramen nước xương hầm cô đặc); Hoặc bị mắng mỏ một trận tơi tả.",
+        "このラーメンのスープは、こってりしていて重い。",
+        "Nước súp của bát mì Ramen này béo ngậy đậm đà và đặc quá.",
+        "濃厚な, 油っこい",
+        "あっさり, さっぱり"
+    ),
+    (
+        "むせ返る",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Ngạt thở / Sặc sụa (vì mùi hoặc khói)",
+        "煙や強いにおいで、激しくむせる様子。",
+        "Trạng thái ho sặc sụa, khó thở khi ngửi phải khói bụi hoặc hương nước hoa nồng nặc bay kín không gian.",
+        "香水の強いにおいに、思わずむせ返った。",
+        "Tôi bất giác ho sặc sụa vì mùi nước hoa quá nồng.",
+        "むせる, 息が詰まる",
+        "すーすーする"
+    ),
+    (
+        "ひりひり",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Đau rát buốt / Cay xè (đầu lưỡi)",
+        "皮膚や舌が、辛さや痛さで刺激を受ける様子。",
+        "Cảm giác đau buốt da thịt sau khi bị cháy nắng, cọ xát mạnh, hoặc đầu lưỡi bị cay xè do dính ớt bột.",
+        "日焼けのせいで, 背中がひりひり痛む。",
+        "Do bị cháy nắng nên lưng tôi cứ đau rát buốt lên.",
+        "ぴりぴり, ひりつく",
+        "ひんやり, 落ち着く"
+    ),
+    (
+        "ちくちく",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Đau châm chích / Ngứa ngáy (như bị kim đâm)",
+        "針などで軽く刺されるような痛みを感じる様子。",
+        "Cảm giác ngứa ngáy châm chích khó chịu trên da thịt khi mặc áo len chất lượng kém hoặc bị cỏ lau cọ xát.",
+        "このセーターは首のあたりがちくちくする。",
+        "Chiếc áo len này làm vùng cổ tôi cứ ngứa ngáy châm chích khó chịu.",
+        "チクチクする, 刺すような",
+        "すべすべ, なめらか"
+    ),
+    (
+        "がたがた",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Rung bần bật / Lỏng lẻo ọp ẹp",
+        "硬いものが触れ合って立てる音。また, 震える様子。",
+        "Răng va vào nhau lập cập vì quá lạnh; Hoặc cánh cửa ọp ẹp rung lắc phát tiếng cọc cạch trong gió.",
+        "寒さで歯ががたがた鳴る。",
+        "Răng tôi cứ va vào nhau lập cập bần bật vì quá lạnh.",
+        "がたつく, カタカタ",
+        "しっかり, 安定する"
+    ),
+    (
+        "がびがび",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Khô cứng đơ / Nhám xơ xác (do dính keo, nước)",
+        "水分が抜けて、表面が硬く荒れている様子。",
+        "Trạng thái bề mặt giấy, vải sau khi dính keo hoặc dính nước rồi phơi khô trở nên cứng đơ, ráp ráp khó chịu.",
+        "接着剤が乾いて, 手ががびがびになった。",
+        "Keo dán khô lại làm tay tôi cứng đơ nhám ráp khó chịu.",
+        "かさかさ, がさがさ",
+        "しっとり, ぬるぬる"
+    ),
+    (
+        "かさかさ",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Khô ráp xơ xác / Thiếu ẩm",
+        "水分が失われて、荒れて乾燥している様子。",
+        "Tình trạng da mặt, môi thiếu ẩm nứt nẻ se lại xơ xác vào mùa hanh khô.",
+        "冬は肌がかさかさになりやすい。",
+        "Mùa đông da dẻ rất dễ bị khô ráp xơ xác.",
+        "がさがさ, カサカサ",
+        "しっとり, つるつる"
+    ),
+    (
+        "すーすー",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Tê mát lạnh / Gió lùa lành lạnh",
+        "風が通り抜けて涼しく感じる様子。",
+        "Cảm giác mát lạnh tê tê đầu lưỡi khi ngậm kẹo bạc hà; Hoặc gió lùa se se lạnh qua khe cửa vào phòng.",
+        "ハッカ飴をなめると, 口の中がすーすーする。",
+        "Ngậm kẹo bạc hà làm khoang miệng tôi tê mát lạnh sảng khoái.",
+        "ひんやり, すうすう",
+        "むんむん, ぽかぽか"
+    ),
+    (
+        "じわーっと",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Rỉ ra từ từ / Thấm đẫm dần dần",
+        "水分がにじみ出て広がる様子。",
+        "Trạng thái mồ hôi, nước mắt rỉ ra và lan rộng thấm đẫm dần dần (cũng chỉ cảm xúc rưng rưng).",
+        "額から汗がじわーっと流れ出た。",
+        "Mồ hôi từ trán tôi cứ rỉ ra từ từ chảy xuống.",
+        "じわじわ, にじみ出る",
+        "どっと, さらりと"
+    ),
+    (
+        "からりとする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Khô ráo hoàn toàn / Thoáng đãng",
+        "湿気が完全になくなり、乾燥してさわやかな様子。",
+        "Cảm giác quần áo phơi ngoài nắng khô ráo hoàn toàn hay không khí sau cơn mưa bừng sáng khô ráo.",
+        "天気が良いので, 洗濯物がからりとした。",
+        "Thời tiết đẹp giúp quần áo giặt phơi ngoài nắng đã khô ráo hoàn toàn.",
+        "からり, 乾く",
+        "じめじめ, じっとり"
+    ),
+    (
+        "ねばねばする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Dính dấp / Có tính dính nhớt",
+        "粘り気がある様子。",
+        "Trạng thái dính nhớt tự nhiên của thực phẩm hoặc chất lỏng.",
+        "オクラを切ると, ねばねばする。",
+        "Cắt quả đậu bắp ra thấy nó dính nhớp nháp.",
+        "ねばねば, べたべた",
+        "さらさらしている"
+    ),
+    (
+        "ぬるぬるする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Trơn nhớt / Nhớt nhúa",
+        "滑りやすい状態にある様子。",
+        "Bề mặt trơn trượt do dầu mỡ hoặc chất nhầy động vật.",
+        "うなぎの表面はぬるぬるしている。",
+        "Bề mặt con lươn trơn tuột nhớt nhúa.",
+        "ぬるぬる, 滑る",
+        "ざらざらしている"
+    ),
+    (
+        "べたべたする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Nhớp nháp dính mồ hôi",
+        "粘り気のあるものがへばりつく様子。",
+        "Cơ thể nhớp nháp khó chịu do mồ hôi tiết ra nhiều ngày oi nóng.",
+        "湿気が高くて、肌がべたべたする。",
+        "Độ ẩm cao quá làm da dẻ cứ nhớp nháp dính dính khó chịu.",
+        "べたべた, べったり",
+        "さらさらする"
+    ),
+    (
+        "つるつるする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Trơn láng / Trơn tuột",
+        "滑らかで摩擦がない様子。",
+        "Bề mặt nhẵn thín bóng bẩy trơn tuột khi chạm.",
+        "このうどんはのどごしがつるつるしている。",
+        "Sợi mì Udon này trơn tuột đi qua cổ họng rất trơn láng.",
+        "つるつる, 滑らか",
+        "ごつごつする"
+    ),
+    (
+        "ごつごつする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Xương xẩu / Gồ ghề",
+        "硬くて平らでない様子。",
+        "Bàn tay xương xẩu thô kệch do làm việc chân tay nhiều năm.",
+        "父の手はごつごつしていて温かい。",
+        "Bàn tay bố xương xẩu gồ ghề nhưng thật ấm áp.",
+        "ごつごつ, 頑丈",
+        "柔らかい, すべすべ"
+    ),
+    (
+        "ひりひりする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Đau rát / Cay rát đầu lưỡi",
+        "辛みや強い痛みの刺激を受ける様子。",
+        "Cảm giác đau buốt nhẹ ngoài da do chà xát hoặc cay xè đầu lưỡi.",
+        "カレーが辛すぎて, 舌がひりひりする。",
+        "Món cà ri cay quá làm lưỡi tôi cứ cay rát lên.",
+        "ひりひり, ピリピリ",
+        "冷める, 落ち着く"
+    ),
+    (
+        "ちくちくする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Đau châm chích / Ngứa ngáy ngứa ngáy",
+        "刺されるような軽い痛みがある様子。",
+        "Mặc áo chất liệu len thô cọ xát gây cảm giác châm chích nhẹ.",
+        "ウールのセーターがちくちくする。",
+        "Cái áo len lông cừu làm tôi ngứa châm chích khó chịu.",
+        "ちくちく, 刺す",
+        "なめらかな肌触り"
+    ),
+    (
+        "がたがたする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Rung lắc cọc cạch / Lọc cọc",
+        "激しく揺れる様子。",
+        "Cửa sổ rung lên bần bật lọc cọc do tác động của bão mạnh.",
+        "風で窓ががたがたしている。",
+        "Gió làm cửa sổ rung lên cọc cạch lọc cọc.",
+        "がたがた, がたつく",
+        "固定される"
+    ),
+    (
+        "すーすーする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Tê mát bạc hà / Gió thổi lạnh lùa",
+        "冷たい風が通る様子。",
+        "Bôi dầu gió làm vùng da đó có cảm giác mát lạnh tê tê dễ chịu.",
+        "ミントを塗ったら、肌がすーすーした。",
+        "Bôi bạc hà làm da dẻ tê mát dễ chịu.",
+        "すーすー, ひんやり",
+        "熱い, むんむん"
+    ),
+    (
+        "じわーっとする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Rưng rưng nước mắt / Râm ran",
+        "水分や感情がにじみ出る様子。",
+        "Cảm giác xúc động rưng rưng làm nước mắt từ từ ứa ra mi mắt.",
+        "映画を見て, 目頭がじわーっとした。",
+        "Xem bộ phim xong, mắt tôi cứ rưng rưng nước mắt vì xúc động.",
+        "じわーっと, 感動する",
+        "淡々とする"
+    ),
+    (
+        "からりとする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Khô ráo / Hết ẩm mốc",
+        "湿気がなくなる様子。",
+        "Bầu không khí trong phòng trở nên khô ráo sau khi mở máy hút ẩm.",
+        "除湿機のおかげで, 部屋がからりとした。",
+        "Nhờ có máy hút ẩm nên phòng ốc trở nên khô ráo thoáng đãng hẳn.",
+        "からり, さわやか",
+        "じめじめする"
+    ),
+    (
+        "すっきりする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Nhẹ nhõm đầu óc / Đỡ đau",
+        "不快な状態が解消される様子。",
+        "Đầu óc sảng khoái nhẹ nhõm hẳn sau một giấc ngủ ngon.",
+        "よく眠ったので, 頭がすっきりした。",
+        "Ngủ một giấc thật ngon xong, đầu óc tôi sảng khoái hẳn lên.",
+        "すっきり, さっぱり",
+        "頭が重い, むかむか"
+    ),
+    (
+        "さっぱりする",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Sảng khoái mát mẻ đầu óc",
+        "清潔になって気持ちが良い様子。",
+        "Tắm gội sạch sẽ gột hết bụi bẩn làm tinh thần mát mẻ thoải mái.",
+        "シャワーを浴びてさっぱりした。",
+        "Tắm vòi hoa sen xong mát mẻ sảng khoái hẳn.",
+        "さっぱり, 清潔",
+        "汚れる, しつこい"
+    ),
+    (
+        "ほかほか",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Nóng hổi (thức ăn) / Ấm áp dễ chịu (cơ thể)",
+        "体や食べ物が温かく、心地よい様子。",
+        "Diễn tả thức ăn vừa mới nấu chín nóng hổi bốc hơi nghi ngút, hoặc cơ thể ấm áp thoải mái sau khi ủ ấm.",
+        "出来立てのほかほかの中華まんを食べる。",
+        "Ăn chiếc bánh bao xá xíu nóng hổi vừa mới ra lò.",
+        "ぽかぽか, 温かい",
+        "ひんやり, 冷たい"
+    ),
 
-    # Nhóm 3: Hành Vi & Thái Độ (Behavior & Action) - 25 từ
+    # Nhóm 3: Hành Vi & Thái Độ (Behavior & Action) - 50 từ
     (
         "うっかり",
         "Hành Vi & Thái Độ",
@@ -589,7 +1139,7 @@ words_data = [
         "Hành động thong thả, không vội vàng, tận hưởng thời gian nghỉ ngơi thư thái mà không vướng bận lo nghĩ.",
         "週末は田舎の温泉でのんびり過ごしたい。",
         "Cuối tuần tôi muốn dành thời gian nghỉ ngơi thong thả ở suối nước nóng vùng quê.",
-        "ゆったり, だらだら",
+        "ゆったり, のんびりする",
         "いそいそ, せかせか"
     ),
     (
@@ -600,7 +1150,7 @@ words_data = [
         "Hành động đi qua đi lại một khu vực nào đó mà không có mục đích rõ ràng (dễ gây nghi ngờ cho cảnh sát).",
         "道に迷って、同じ場所をうろうろしてしまった。",
         "Do lạc đường nên tôi cứ đi quanh quẩn lảng vảng ở cùng một nơi.",
-        "うろつく, 徘徊する",
+        "うろつく, 彷徨う",
         "じっとする, 立ち止まる"
     ),
     (
@@ -611,8 +1161,8 @@ words_data = [
         "Hành vi đi dạo thong dong thư giãn, ngắm cảnh mà không vội vàng hay có lịch trình ép buộc.",
         "天気がいいので、近所の公園をぶらぶら散歩した。",
         "Thời tiết đẹp nên tôi đi dạo quanh công viên gần nhà.",
-        "のんびり歩く, 散策",
-        "さっさと走る, 急ぐ"
+        "ぶらつく, 散策する",
+        "急ぐ, さっさと走る"
     ),
     (
         "よろよろ",
@@ -622,7 +1172,7 @@ words_data = [
         "Dáng đi không vững vàng, bước thấp bước cao do say xỉn, già yếu hoặc kiệt sức.",
         "お年寄りが重い荷物を持って, よろよろ歩いている。",
         "Cụ già mang hành lý nặng bước đi loạng choạng.",
-        "ふらふら, おぼつかない",
+        "ふらふら, 足元がおぼつかない",
         "しゃんとする, しっかり歩く"
     ),
     (
@@ -644,8 +1194,8 @@ words_data = [
         "Hành động che giấu người khác để làm việc gì đó một cách âm thầm, không muốn ai phát hiện.",
         "彼は夜中にこっそり台所でケーキを食べた。",
         "Anh ta lén lút ăn bánh ngọt trong bếp vào nửa đêm.",
-        "こっそり, 秘密裏に",
-        "堂々と, おおやけに"
+        "忍び足で, ひそかに",
+        "堂々と, 大っぴらに"
     ),
     (
         "こっくり",
@@ -654,9 +1204,9 @@ words_data = [
         "居眠りをして、頭が下に下がる様子。",
         "Đầu gật xuống khi ngủ gật trong giờ học hoặc cuộc họp; Hoặc cái gật đầu nhẹ để đồng ý.",
         "彼は授業中にこっくりこっくり居眠りをしている。",
-        "Cậu ấy cứ ngủ gật gật gù gù trong giờ học.",
+        "Cậu ấy cứ ngủ gật gù gù trong giờ học.",
         "うとうと, 船を漕ぐ",
-        "ぱっちり目が覚める"
+        "シャキッとする, 目が覚める"
     ),
     (
         "さっさと",
@@ -666,7 +1216,7 @@ words_data = [
         "Làm việc dứt khoát, nhanh gọn, không để phí thời gian hay chần chừ lề mề.",
         "無駄口を叩かずに、さっさと仕事を終わらせなさい。",
         "Đừng nói nhảm nữa, hãy nhanh chóng kết thúc công việc đi.",
-        "てきぱき, 素早く",
+        "てきぱき, 急いで",
         "ぐずぐず, のろのろ"
     ),
     (
@@ -677,13 +1227,13 @@ words_data = [
         "Hành động chăm chỉ làm lụng, tích lũy từng chút một không ngừng nghỉ hướng tới mục tiêu.",
         "彼女は将来のために、せっせと貯金をしている。",
         "Cô ấy đang cần mẫn tiết kiệm tiền tích lũy cho tương lai.",
-        "こつこつ, 勤勉に",
-        "怠ける, ぐずぐず"
+        "こつこつ, 懸命に",
+        "怠ける, ぐずぐずする"
     ),
     (
         "じっと",
         "Hành Vi & Thái Độ",
-        "Chằm chằm (nhìn) / Đứng yên phăng phắc / Chịu đựng",
+        "Chằm chằm (nhìn) / Đứng im chịu đựng",
         "動かずに、同じ状態を保つ様子。",
         "Giữ nguyên tư thế không cử động (đứng yên) hoặc nhìn không chớp mắt (nhìn chằm chằm), chịu đựng đau đớn.",
         "彼は壁の写真をじっと見つめていた。",
@@ -699,7 +1249,7 @@ words_data = [
         "Tâm trí lơ đãng ngồi không nghĩ ngợi gì; Hoặc phong cảnh mờ ảo khuất sau màn sương.",
         "彼は授業中、いつも窓の外をぼんやり眺めている。",
         "Trong giờ học, anh ấy toàn ngơ ngẩn nhìn ra ngoài cửa sổ.",
-        "うっかり, おぼろげ",
+        "うっかり, ぼやける",
         "はっきり, くっきり"
     ),
     (
@@ -717,12 +1267,12 @@ words_data = [
         "ばたばた",
         "Hành Vi & Thái Độ",
         "Bận rộn tíu tít / Luống cuống dập dồn",
-        "慌ただしく動き回る様子。",
+        "慌たただしく動き回る様子。",
         "Trạng thái bận rộn chạy đôn chạy đáo lo toan nhiều việc phát sinh cùng lúc.",
         "急な来客のせいで, 朝からばたばたしている。",
         "Có khách đột xuất ghé thăm nên từ sáng tôi đã cứ tíu tít luống cuống cả lên.",
         "慌ただしい, あたふた",
-        "ゆったり, のんびり"
+        "のんびり, 泰然とする"
     ),
     (
         "ちょこちょこ",
@@ -730,7 +1280,7 @@ words_data = [
         "Lăng xăng / Đi thoăn thoắt / Thường xuyên",
         "小股で素早く歩く様子。また、頻繁に物事を行う様子。",
         "Bước đi nhỏ nhanh thoăn thoắt (như trẻ em hay động vật nhỏ); Hoặc hành động lặp lại nhiều lần trong khoảng thời gian ngắn.",
-        "妹はちょこちょこと busy そうに動き回っている。",
+        "妹はちょこちょこと忙しそうに動き回っている。",
         "Em gái tôi cứ lăng xăng đi lại trông thật bận rộn.",
         "ちょこまか, しばしば",
         "じっと, めったに〜ない"
@@ -743,7 +1293,7 @@ words_data = [
         "Cơn buồn ngủ kéo đến nhẹ nhàng khiến mắt lim dim sắp chìm vào giấc ngủ ngắn (thường trên sofa hoặc xe buýt).",
         "テレビを見ているうちに、うとうとしてしまった。",
         "Đang xem tivi thì tôi ngủ thiu thiu lúc nào không biết.",
-        "こっくり, とろとろ",
+        "こっくり, 居眠りする",
         "ぱっちり目が覚める"
     ),
     (
@@ -754,7 +1304,7 @@ words_data = [
         "Âm thanh ngủ say sưa phát ra tiếng ngáy; Hoặc tiếng bụng đói kêu réo ùng ục.",
         "弟は疲れていたのか、ベッドでぐうぐう寝ている。",
         "Em trai tôi chắc mệt quá nên đang nằm trên giường ngủ khò khò.",
-        "ぐっすり, 熟睡",
+        "ぐっすり, 熟睡する",
         "目をぱちくりする"
     ),
     (
@@ -777,7 +1327,7 @@ words_data = [
         "彼は日本語がぺらぺらだ。",
         "Anh ấy nói tiếng Nhật trôi chảy lưu loát lắm.",
         "流暢に, ペラペラ",
-        "無口, たどたどしい"
+        "たどたどしい, 口が重い"
     ),
     (
         "ちらちら",
@@ -788,7 +1338,7 @@ words_data = [
         "授業中、時計をちらちら見てしまう。",
         "Trong giờ học, tôi cứ thỉnh thoảng liếc nhìn đồng hồ.",
         "ちらりと見る",
-        "じっと見る, 凝視"
+        "じっと見つめる"
     ),
     (
         "じろじろ",
@@ -798,8 +1348,8 @@ words_data = [
         "Nhìn người khác từ đầu đến chân một cách dò xét, thiếu tế nhị khiến họ cảm thấy khó chịu.",
         "人の顔をじろじろ見るのは失礼だ。",
         "Nhìn chằm chằm soi mói vào mặt người khác là bất lịch sự.",
-        "じっと見る, 注視する",
-        "ちらちら見る, チラ見"
+        "じっと見つめる, 凝視する",
+        "ちらちら見る"
     ),
     (
         "ぐんぐん",
@@ -820,7 +1370,7 @@ words_data = [
         "Hành trình cặm cụi đi bộ quãng đường dài bằng chân một cách đều đặn, bền bỉ.",
         "駅まで20分、てくてく歩いて通っている。",
         "Tôi cặm cụi đi bộ túc tắc mất 20 phút để đi đến ga hàng ngày.",
-        "とぼとぼ, 歩行する",
+        "とぼとぼ, 歩く",
         "さっさと走る, 乗車する"
     ),
     (
@@ -831,15 +1381,290 @@ words_data = [
         "Ngó nghiêng xung quanh một cách không yên lòng (như người lạ lạc đường hoặc tìm kiếm cái gì).",
         "知らない街に着いて, 不安そうにきょろきょろした。",
         "Đến một thành phố lạ, tôi cứ lơ ngơ dáo dác nhìn quanh đầy vẻ lo lắng.",
-        "見回す, うろうろ",
+        "見回す, おどおど",
         "じっと見つめる"
     ),
+    (
+        "おずおずと",
+        "Hành Vi & Thái Độ",
+        "Rụt rè e sợ / Ngập ngừng hỏi han",
+        "ためらいながら、恐る恐る発言したり行動したりする様子。",
+        "Thái độ ngập ngừng rụt rè mở lời vì sợ sệt hoặc tôn kính cấp trên.",
+        "おずおずと社長に自分の意見を述べた。",
+        "Tôi rụt rè rón rén bày tỏ ý kiến của mình với giám đốc.",
+        "恐る恐る, おずおず",
+        "堂々と"
+    ),
+    (
+        "ちょこまか",
+        "Hành Vi & Thái Độ",
+        "Chạy đi chạy lại lăng xăng / Làm ồn",
+        "小さくすばやく動き回って、落ち着きがない様子。",
+        "Chạy đi chạy lại lăng xăng nghịch ngợm làm náo nhiệt cả phòng (thường mô tả trẻ em hoặc chuột nhỏ).",
+        "子供が部屋の中をちょこまか走り回って危ない。",
+        "Đứa trẻ cứ chạy nhảy lăng xăng trong phòng trông thật nguy hiểm.",
+        "ちょこちょこ, 落ち着きがない",
+        "おとなしくする"
+    ),
+    (
+        "すたすた",
+        "Hành Vi & Thái Độ",
+        "Đi nhanh thoăn thoắt / Bước nhanh dứt khoát",
+        "わき見をせず、早足で歩く様子。",
+        "Bước đi nhanh chóng, dứt khoát một mạch mà không nhìn ngang ngó dọc hay dừng lại.",
+        "彼女は私に気付かず、すたすた通り過ぎていった。",
+        "Cô ấy chẳng nhận ra tôi, cứ đi thoăn thoắt vượt qua mất.",
+        "早足で, さっさと",
+        "とぼとぼ, よろよろ"
+    ),
+    (
+        "さっさとやる",
+        "Hành Vi & Thái Độ",
+        "Nhanh nhẹn làm việc / Hoàn thành nhanh",
+        "仕事などを手早く済ませる様子。",
+        "Làm việc không chần chừ hay trì hoãn, nhanh chóng dứt điểm.",
+        "宿題をさっさとやりなさい。",
+        "Hãy nhanh nhẹn làm bài tập đi nào.",
+        "さっさと, てきぱき",
+        "もたもたする"
+    ),
+    (
+        "ぐいぐい",
+        "Hành Vi & Thái Độ",
+        "Kéo mạnh vùn vụt / Uống ực ực dồn dập",
+        "力を入れて強く引っ張ったり、一気に飲んだりする様子。",
+        "Kéo kéo mạnh mẽ, dứt khoát; Hoặc tu ừng ực cạn chén nước ngọt.",
+        "彼は私の手をぐいぐい引っ張って進んだ。",
+        "Anh ấy kéo phăng tay tôi dắt đi vùn vụt.",
+        "力強く, ぐいっと",
+        "弱々しく"
+    ),
+    (
+        "うとうとする",
+        "Hành Vi & Thái Độ",
+        "Ngủ gà ngủ gật / Buồn ngủ ngủ gật",
+        "浅く眠りかける状態になる様子。",
+        "Thiu thiu ngủ sượt trên bàn học do cơn buồn ngủ ập đến.",
+        "授業中、退屈でうとうとしてしまった。",
+        "Trong giờ học buồn tẻ quá nên tôi đã ngủ gà ngủ gật mất.",
+        "うとうと, こっくりする",
+        "目が冴える"
+    ),
+    (
+        "こそこそ",
+        "Hành Vi & Thái Độ",
+        "Thì thầm lén lút / Vụng trộm chuyện trò",
+        "人に知られないよう、隠れて密かに行う様子。",
+        "Trao đổi nhỏ thì thầm lén lút che giấu sự chú ý của mọi người.",
+        "廊下で二人でこそこそ話している。",
+        "Hai người họ đang đứng thì thầm lén lút nói chuyện ở hành lang.",
+        "ひそひそ, こっそり",
+        "堂々と, 大声で"
+    ),
+    (
+        "ぬきあし",
+        "Hành Vi & Thái Độ",
+        "Nhón chân bước đi rón rén / Đi không tiếng động",
+        "足音を立てないように静かに歩く様子。",
+        "Hành động rón rén nhấc chân nhẹ nhàng để đi không phát ra bất kỳ tiếng động nào (đặc biệt khi trốn đi chơi khuya).",
+        "親を起こさないように、ぬきあし差しあしで部屋を出た。",
+        "Tôi nhón chân đi rón rén ra khỏi phòng để không làm bố mẹ thức giấc.",
+        "忍び足, 静かに歩く",
+        "どたどた歩く"
+    ),
+    (
+        "ひそひそ",
+        "Hành Vi & Thái Độ",
+        "Thì thầm nhỏ giọng / Nói khẽ",
+        "声を低くして、他人に聞こえないように話す様子。",
+        "Nói chuyện nhỏ nhẹ chỉ vừa đủ hai người nghe để không làm phiền người xung quanh.",
+        "図書館ではひそひそ話さなければならない。",
+        "Ở thư viện thì phải thì thầm nói nhỏ giọng.",
+        "こそこそ, 小声で",
+        "大声で, 叫ぶ"
+    ),
+    (
+        "へらへら",
+        "Hành Vi & Thái Độ",
+        "Cười nhởn nhơ / Cười trừ nịnh bợ",
+        "軽薄に笑う様子。しまりのない態度を取る様子。",
+        "Điệu cười hề hề, nhởn nhơ thiếu nghiêm túc hoặc nụ cười gượng gạo khi mắc lỗi lầm.",
+        "叱られているのに、へらへら笑うな！",
+        "Đang bị mắng mà sao lại cười nhởn nhơ nịnh bợ như thế kia hả!",
+        "にやにや, 薄笑い",
+        "真面目にする, きっとする"
+    ),
+    (
+        "にやにやする",
+        "Hành Vi & Thái Độ",
+        "Cười tủm tỉm / Cười ẩn ý",
+        "嬉しさや悪だくみを隠せず、ニヤつく様子。",
+        "Vừa xem tin nhắn vừa cười tủm tỉm ẩn ý.",
+        "何か良いことがあったのか、にやにやしている。",
+        "Có chuyện gì vui hay sao mà cứ cười tủm tỉm ẩn ý thế kia.",
+        "にやにや, にやつ",
+        "真面目な顔をする"
+    ),
+    (
+        "ふらふら",
+        "Hành Vi & Thái Độ",
+        "Lảo đảo loạng choạng / Không kiên định",
+        "体が揺れて定まらない様子。考えが変わりやすい様子。",
+        "Đầu óc choáng váng đi lảo đảo; Hoặc ý chí dao động dễ thay đổi lập trường.",
+        "高熱のせいで、体がふらふらする。",
+        "Cơn sốt cao làm cơ thể tôi cứ lảo đảo loạng choạng.",
+        "よろよろ, ふらつく",
+        "しゃんとする, 安定する"
+    ),
+    (
+        "のろのろ",
+        "Hành Vi & Thái Độ",
+        "Chậm chạp như sên / Lề mề ì ạch",
+        "動作や進行が非常に遅い様子。",
+        "Di chuyển hay tiến triển tốc độ chậm chạp kéo dài (ví dụ: xe bò lết ì ạch trên đường).",
+        "前の車がのろのろ走っているので、遅刻しそうだ。",
+        "Chiếc xe phía trước chạy chậm rì như sên làm tôi sắp trễ giờ mất rồi.",
+        "ぐずぐず, もたもた",
+        "さっさと, 素早く"
+    ),
+    (
+        "ぐずぐずする",
+        "Hành Vi & Thái Độ",
+        "Lề mề / Trì hoãn chần chừ",
+        "行動が遅くて、時間を無駄にする様子。",
+        "Không dứt khoát làm bài tập, cứ lề mề làm mất thời gian.",
+        "ぐずぐずしないで、早く片付けなさい。",
+        "Đừng có lề mề trì hoãn nữa, dọn dẹp nhanh lên đi.",
+        "ぐずぐず, のろのろする",
+        "さっさとやる, てきぱき"
+    ),
+    (
+        "そそくさと",
+        "Hành Vi & Thái Độ",
+        "Hối hả chuồn đi / Vội vã lén lút ra về",
+        "挙動が慌ただしく、落ち着かない様子で立ち去る様子。",
+        "Hành vi vội vàng sửa soạn đồ đạc rồi hối hả lén lút chuồn về trước để tránh rắc rối.",
+        "彼は会議が終わると, そそくさと退室した。",
+        "Cuộc họp vừa kết thúc, anh ta liền hối hả chuồn ra khỏi phòng.",
+        "そそくさ, 急いで",
+        "ゆっくり, のんびり"
+    ),
+    (
+        "とことこ",
+        "Hành Vi & Thái Độ",
+        "Bước đi lon ton / Đi lại nhanh của bé nhỏ",
+        "子供や動物が小股で歩く様子。",
+        "Những bước đi ngắn nhanh nhẹn, lon ton đầy đáng yêu của trẻ chập chững biết đi.",
+        "赤ちゃんがとことこ歩く姿が可愛い。",
+        "Dáng vẻ em bé bước đi lon ton trông thật đáng yêu.",
+        "とことこと, ちょこちょこ",
+        "のっしのっし"
+    ),
+    (
+        "もたもたする",
+        "Hành Vi & Thái Độ",
+        "Lóng ngóng vụng về / Chậm chạp bất tiện",
+        "要領が悪く、仕事が捗らない様子。",
+        "Cách làm việc lóng ngóng vụng về làm công việc tiến triển rất chậm chạp ì ạch.",
+        "スマホの操作にもたもたしているとおじいちゃんに言われた。",
+        "Tôi bị ông nội chê là lóng ngóng thao tác điện thoại chậm chạp.",
+        "もたもた, ぐずぐず",
+        "てきぱきやる"
+    ),
+    (
+        "ゆったりする",
+        "Hành Vi & Thái Độ",
+        "Thư thái rộng rãi / Thong thả thoải mái",
+        "余裕があって、のびのびと落ち着いている様子。",
+        "Mặc quần áo rộng rãi thư thái; Hoặc tinh thần thong thả không vội vã.",
+        "週末は自宅でゆったりした気分で過ごす。",
+        "Cuối tuần tôi ở nhà tận hưởng thời gian thư thái nhẹ nhàng.",
+        "ゆったり, のんびり",
+        "せかせかする, 窮屈な"
+    ),
+    (
+        "はきはき",
+        "Hành Vi & Thái Độ",
+        "Hoạt bát nhanh nhảu / Rõ ràng mạch lạc",
+        "話し方や態度が明確で、活発な様子。",
+        "Cách nói chuyện to, rõ chữ dứt khoát mạch lạc và thái độ vô cùng tự tin, năng động.",
+        "面接では質問にはきはきと答えなさい。",
+        "Lúc phỏng vấn hãy trả lời các câu hỏi thật hoạt bát rõ ràng mạch lạc.",
+        "てきぱき, はきはきと",
+        "おどおど, ぼそぼそ"
+    ),
+    (
+        "きっぱり",
+        "Hành Vi & Thái Độ",
+        "Dứt khoát từ chối / Rõ ràng minh bạch",
+        "態度を明確にして、曖昧さを残さない様子。",
+        "Đưa ra quyết định từ chối một cách dứt khoát thẳng thừng, không mập mờ tạo hy vọng hão huyền.",
+        "彼は彼女の誘いをきっぱり断った。",
+        "Cậu ấy đã từ chối thẳng thừng dứt khoát lời mời của cô ấy.",
+        "きっぱりと, 断固として",
+        "あやふやに, 曖昧に"
+    ),
+    (
+        "ちゃんとする",
+        "Hành Vi & Thái Độ",
+        "Đàng hoàng chỉn chu / Đâu ra đấy",
+        "規則やマナーに従い、きちんとする様子。",
+        "Hành động ngồi đàng hoàng chỉnh tề; Làm việc chu đáo chỉn chu đâu ra đấy.",
+        "部屋をちゃんと片付けなさい。",
+        "Hãy dọn dẹp phòng đàng hoàng chỉn chu đi.",
+        "ちゃんと, きちんと",
+        "だらしなくする"
+    ),
+    (
+        "きちんと",
+        "Hành Vi & Thái Độ",
+        "Ngăn nắp chỉn chu / Đâu ra đấy",
+        "整理整頓されていて、すきがない様子。",
+        "Đồ đạc được sắp xếp ngăn nắp có trật tự rõ ràng; Hoặc hành vi cư xử lịch sự đúng mực.",
+        "靴をきちんと並べなさい。",
+        "Hãy xếp giày dép ngăn nắp chỉn chu thành hàng đi.",
+        "ちゃんと, きちんと並べる",
+        "乱雑にする, だらだら"
+    ),
+    (
+        "だらだら",
+        "Hành Vi & Thái Độ",
+        "Lê thê dài dòng / Lười nhác nằm dài / Chảy lòng thòng",
+        "だらしなく過ごす様子。物事が長く続く様子。",
+        "Nằm dài lười nhác lướt điện thoại cả ngày; Hoặc bài phát biểu kéo dài lê thê; Hoặc nước dãi chảy lòng thòng.",
+        "休日は家でだらだら過ごしてしまう。",
+        "Ngày nghỉ tôi toàn nằm dài lười nhác lướt điện thoại ở nhà.",
+        "のろのろ, 長々と",
+        "てきぱき, しゃきっと"
+    ),
+    (
+        "もじもじする",
+        "Hành Vi & Thái Độ",
+        "Ngượng nghịu khép nép",
+        "言いたいことを言えずに、体を縮める様子。",
+        "Thái độ ngượng ngùng e thẹn không dám bước lên phát biểu.",
+        "子供がもじもじして挨拶しない。",
+        "Đứa trẻ ngượng nghịu khép nép mãi không chịu chào hỏi.",
+        "もじもじ, もじつく",
+        "堂々と挨拶する"
+    ),
+    (
+        "てきぱきやる",
+        "Hành Vi & Thái Độ",
+        "Tháo vát hoàn thành / Làm việc nhanh nhảu",
+        "物事を効率よく片付ける様子。",
+        "Nhanh nhảu thu dọn bếp núc, giặt giũ gọn gàng ngăn nắp.",
+        "彼女は仕事をてきぱきやったので早く帰れた。",
+        "Cô ấy tháo vát làm việc nhanh nhảu nên được về sớm.",
+        "てきぱき, さっさと",
+        "ぐずぐずする"
+    ),
 
-    # Nhóm 4: Mức Độ & Biến Đổi (Degree & Transformation) - 25 từ
+    # Nhóm 4: Mức Độ & Biến Đổi (Degree & Transformation) - 50 từ
     (
         "めっきり",
         "Mức Độ & Biến Đổi",
-        "Rõ rét / Đáng kể (biến đổi theo thời gian)",
+        "Rõ rệt / Đáng kể (biến đổi theo thời gian)",
         "変化の様子が、目に見えてはっきり感じられる様子。",
         "Chỉ sự biến đổi trạng thái diễn ra nhanh và rõ nét tới mức cảm nhận rõ rệt (thời tiết thu lạnh đi, tóc bạc đi, khách khứa giảm đi).",
         "10月に入って、朝晩はめっきり涼しくなった。",
@@ -861,7 +1686,7 @@ words_data = [
     (
         "ぎっしり",
         "Mức Độ & Biến Đổi",
-        "Nét chặt / Đầy chật ních / San sát",
+        "Nén chặt / Đầy chật ních / San sát",
         "すき間なく詰まっている様子。",
         "Trạng thái đồ đạc hoặc con người được nhét đầy ắp, không còn một kẽ hở nào trống (lịch trình bận kín mít, vali xếp chật đồ).",
         "箱の中に本がぎっしり詰まっている。",
@@ -1084,7 +1909,7 @@ words_data = [
         "Cuối cùng thì / Ngày càng tăng tiến mức độ",
         "ある事態が迫ってくる様子。程度が一層強まる様子。",
         "Thời khắc mong đợi hoặc một sự kiện trọng đại cuối cùng cũng đã sát nút; Hoặc mức độ nghiêm trọng gia tăng.",
-        "いよいよ明日は大学入試の合格発表だ。",
+        "いよいよ明日は大学入試 of 合格発表だ。",
         "Cuối cùng thì ngày mai cũng là ngày công bố kết quả thi đại học.",
         "ついに, ますます",
         "はじめは"
@@ -1110,6 +1935,281 @@ words_data = [
         "Xuân về, thời tiết dần dần trở nên ấm áp hơn.",
         "次第に, 徐々に",
         "急激に, 突如"
+    ),
+    (
+        "ほとんど",
+        "Mức Độ & Biến Đổi",
+        "Hầu như / Gần như toàn bộ / Suýt nữa thì",
+        "大部分。ほぼ全体に近い様子。危うくそうなるところ。",
+        "Lượng vật chất đã được hoàn thành hoặc sử dụng tới 90% trở lên; Hoặc suýt nữa thì gặp sự cố nguy cấp.",
+        "宿題はほとんど終わった。",
+        "Bài tập về nhà hầu như đã hoàn thành xong xuôi.",
+        "大体, ほぼ",
+        "まったく, 少し"
+    ),
+    (
+        "おおよそ",
+        "Mức Độ & Biến Đổi",
+        "Đại khái / Khoảng chừng / Nhìn chung",
+        "大体のところ。約。だいたい。",
+        "Đánh giá khái quát chung chung hoặc ước lượng số liệu số lượng xấp xỉ không cần chính xác tuyệt đối.",
+        "おおよその人数を教えてください。",
+        "Làm ơn cho tôi biết số lượng người khoảng chừng bao nhiêu.",
+        "大体, およそ",
+        "詳細に, きちんと"
+    ),
+    (
+        "ごくごく",
+        "Mức Độ & Biến Đổi",
+        "Cực kỳ / Vô cùng / Uống ừng ực dồn dập",
+        "極めて。非常に。また, 水を一気に飲む様子。",
+        "Nhấn mạnh mức độ cực kỳ ít ỏi, vô cùng nhỏ bé; Hoặc tiếng tu nước ngọt ừng ực liên tục khi khát.",
+        "それはごくごく稀なケースです。",
+        "Đó là một trường hợp cực kỳ hiếm thấy.",
+        "極めて, 非常に",
+        "普通に"
+    ),
+    (
+        "がたがたする",
+        "Mức Độ & Biến Đổi",
+        "Cọc cạch lung lay / Sập xệ ọp ẹp",
+        "体制や構造が緩んで不安定になる様子。",
+        "Bàn ghế sử dụng lâu năm nên lỏng lẻo ọp ẹp phát tiếng kêu khi tì tay.",
+        "この机は足ががたがたしている。",
+        "Chiếc bàn này chân bị lỏng lẻo cọc cạch lung lay rồi.",
+        "がたつく, ガタガタする",
+        "しっかりする"
+    ),
+    (
+        "がらりと",
+        "Mức Độ & Biến Đổi",
+        "Thay đổi 180 độ / Hoàn toàn khác biệt",
+        "状態や態度が急激に、すっかり変わる様子。",
+        "Thái độ của một người hoặc bầu không khí thay đổi đột ngột trở nên hoàn toàn trái ngược chỉ trong tích tắc.",
+        "彼が入社してから, 職場の雰囲気ががらりと変わった。",
+        "Từ khi anh ấy vào công ty, bầu không khí nơi làm việc đã thay đổi hoàn toàn khác biệt.",
+        "一変する, すっかり",
+        "相変わらず, そのまま"
+    ),
+    (
+        "どっと",
+        "Mức Độ & Biến Đổi",
+        "Ồ ạt kéo tới / Đột ngột ùa ra (tiếng cười, mệt mỏi)",
+        "多くの人や物が一度に押し寄せる様子。疲れが一気に出る様子。",
+        "Lượng lớn khách khứa hoặc mệt mỏi dồn nén bấy lâu đột ngột ập đến cùng một thời điểm.",
+        "仕事が終わった瞬間、疲れがどっと出た。",
+        "Ngay khoảnh khắc công việc kết thúc, sự mệt mỏi tích tụ bấy lâu ồ ạt kéo đến đổ sụp xuống.",
+        "一気に, どっと押し寄せる",
+        "小出しに, 徐々に"
+    ),
+    (
+        "ぽつぽつ",
+        "Mức Độ & Biến Đổi",
+        "Lác đác rải rác / Mưa rơi tí tách / Nổi mụn nhỏ",
+        "点々と散らばっている様子。少しずつ物事を進める様子。",
+        "Tuyết hoặc mưa bắt đầu rơi lác đác từng hạt nhỏ; Hoặc xuất hiện mụn rải rác ngoài da.",
+        "雨がぽつぽつ降り始めた。",
+        "Mưa đã bắt đầu rơi lác đác tí tách vài hạt rồi.",
+        "ちらほら, ぽつりぽつり",
+        "どしゃ降り, ぎっしり"
+    ),
+    (
+        "ちらほら",
+        "Mức Độ & Biến Đổi",
+        "Lác đác đây đó / Rải rác xuất hiện",
+        "あちこちに少しずつ見え隠れする様子。",
+        "Hoa anh đào bắt đầu nở lác đác vài bông đây đó hoặc người xuất hiện lưa thưa.",
+        "桜のつぼみがちらほらほころび始めた。",
+        "Nụ hoa anh đào đã bắt đầu hé nở lác đác đây đó rồi.",
+        "ぽつぽつ, ちらりほらり",
+        "ぎっしり, ずらり"
+    ),
+    (
+        "まちまち",
+        "Mức Độ & Biến Đổi",
+        "Muôn hình muôn vẻ / Không đồng đều / Khác nhau",
+        "それぞれ異なっていて, 一定していない様子。",
+        "Ý kiến của mọi người hoặc kích cỡ của đồ vật không đồng nhất mà mỗi cái một kiểu khác nhau hoàn toàn.",
+        "その件に関するみんなの意見はまちまちだ。",
+        "Ý kiến của mọi người liên quan đến sự việc đó muôn hình muôn vẻ khác nhau hoàn toàn.",
+        "さまざま, 多様",
+        "一様, そろっている"
+    ),
+    (
+        "べたっと",
+        "Mức Độ & Biến Đổi",
+        "Bám dính chặt / Dán bệt xuống đất",
+        "物が密着して離れない様子。平らにへばりつく様子。",
+        "Cơ thể mệt mỏi nằm bẹp dí xuống sàn nhà; Hoặc nhãn dán bám dính chặt vào bề mặt chai.",
+        "疲れて床にべたっと寝転がった。",
+        "Mệt quá nên tôi nằm bệt dí dán chặt xuống sàn nhà.",
+        "べったり, 貼り付く",
+        "さらりと, 離れる"
+    ),
+    (
+        "すかすか",
+        "Mức Độ & Biến Đổi",
+        "Trống rỗng thưa thớt / Loãng toẹt / Gió lùa thông thoáng",
+        "中身が少なくてすき間が多い様子。風がよく通る様子。",
+        "Hộp quà bọc to nhưng bên trong ruột trống rỗng thưa thớt; Hoặc quần áo mỏng nhiều khe hở gió lùa lạnh.",
+        "荷物の箱を開けたら, 中身はすかすかだった。",
+        "Mở thùng hành lý ra mới thấy bên trong trống rỗng thưa thớt quá chừng.",
+        "がらがら, すかすかする",
+        "ぎっしり, ぎゅうぎゅう"
+    ),
+    (
+        "ずっしり",
+        "Mức Độ & Biến Đổi",
+        "Nặng trĩu tay / Nặng đầm / Có giá trị",
+        "重みがあって、手応えが感じられる様子。",
+        "Cầm túi vàng hoặc đồ vật lên có cảm giác nặng trĩu tay rất đầm; Hoặc lời nói có sức nặng lớn.",
+        "このバッグは見た目よりずっしり重い。",
+        "Chiếc túi xách này cầm nặng trĩu tay hơn vẻ bề ngoài của nó.",
+        "重たい, ずっしりとする",
+        "軽々しい, スカスカ"
+    ),
+    (
+        "みっしり",
+        "Mức Độ & Biến Đổi",
+        "Dày đặc / San sát chật chội / Nghiêm khắc",
+        "すき間なく詰まっている様子。厳しく行う様子。",
+        "Lớp học được xếp dày đặc san sát học sinh; Hoặc được rèn luyện học tập một cách vô cùng nghiêm khắc.",
+        "スケジュールがみっしり詰まっている。",
+        "Lịch trình công việc dày đặc san sát không trống một chỗ.",
+        "ぎっしり, ぎゅうぎゅう",
+        "すかすか, がらがら"
+    ),
+    (
+        "ぎゅうぎゅう",
+        "Mức Độ & Biến Đổi",
+        "Nhét chật cứng / Chật ních / Khóc thút thít",
+        "狭いところに無理に詰め込む様子。強く締めつける音。",
+        "Đồ đạc bị nhồi nhét chật cứng vào vali; Hoặc toa tàu điện chật ních người ép chặt vào nhau.",
+        "スーツケースに服をぎゅうぎゅうに詰め込んだ。",
+        "Tôi đã nhồi nhét quần áo chật cứng chật ních vào trong vali.",
+        "ぎっしり, みっしり",
+        "すかすか, ゆったり"
+    ),
+    (
+        "カラリとする",
+        "Mức Độ & Biến Đổi",
+        "Hết ẩm ướt / Khô ráo hoàn toàn",
+        "空気が乾燥して爽やかになる様子。",
+        "Đất cát, cây cối khô ráo thoáng đãng hẳn sau khi nắng ấm xuất hiện xua tan ẩm mốc.",
+        "晴天で布団がカラリとした。",
+        "Nắng đẹp làm chiếc chăn bông khô ráo hoàn toàn sạch ẩm mốc.",
+        "からり, 乾く",
+        "じめじめする"
+    ),
+    (
+        "ずらっと",
+        "Mức Độ & Biến Đổi",
+        "Dải dài san sát / Xếp hàng dài tăm tắp",
+        "多くの人や物が一列に並んでいる様子。",
+        "Hàng dài ô tô đỗ san sát bên lề đường trải dài tăm tắp.",
+        "入り口の前に人がずらっと並んでいる。",
+        "Trước lối vào, người xếp hàng dài tăm tắp san sát nhau.",
+        "ずらり, 一列に",
+        "ばらばら, ぽつぽつ"
+    ),
+    (
+        "ひょっこり",
+        "Mức Độ & Biến Đổi",
+        "Bất thình lình xuất hiện / Tình cờ gặp",
+        "思いがけず現れる様子。",
+        "Một người quen cũ bất thình lình xuất hiện đột ngột ngay trước cửa nhà mà không hẹn trước.",
+        "数年前に別れた友人に、街でひょっこり会った。",
+        "Tôi tình cờ gặp lại người bạn cũ chia tay nhiều năm trước ngay trên phố.",
+        "ふと, 偶然に",
+        "予定通り, 前もって"
+    ),
+    (
+        "ふと",
+        "Mức Độ & Biến Đổi",
+        "Đột nhiên nhận ra / Tình cờ / Ngẫu nhiên",
+        "意識しないで、急に思い浮かんだり行動したりする様子。",
+        "Bản thân đột nhiên sực nghĩ ra một ý tưởng hoặc tình cờ đưa mắt nhìn ra ngoài cửa sổ không chủ ý.",
+        "ふと窓の外を見ると、雪が降っていた。",
+        "Tình cờ nhìn ra ngoài cửa sổ, tôi thấy tuyết đang rơi.",
+        "ひょっこり, 偶然に",
+        "わざと, 意図的に"
+    ),
+    (
+        "ちょっぴり",
+        "Mức Độ & Biến Đổi",
+        "Một chút xíu / Hơi hơi / Hơi một chút",
+        "数量や程度がごく少ない様子。",
+        "Mức độ gia vị muối hoặc tình cảm chỉ có một chút xíu hơi hơi không đáng kể.",
+        "スープに塩をちょっぴり入れた。",
+        "Tôi cho một chút xíu muối vào trong súp.",
+        "すこし, わずか",
+        "たっぷり, 大量に"
+    ),
+    (
+        "わずか",
+        "Mức Độ & Biến Đổi",
+        "Vỏn vẹn / Chỉ một ít / Không đáng kể",
+        "数量や程度が極めて少ない様子。",
+        "Số lượng tiền bạc hoặc thời gian còn lại vỏn vẹn chỉ còn một ít cực kỳ hạn chế.",
+        "残された時間はわずかしかない。",
+        "Thời gian còn lại vỏn vẹn chỉ có một ít không đáng kể.",
+        "すこし, ちょっぴり",
+        "たくさん, どっさり"
+    ),
+    (
+        "いささか",
+        "Mức Độ & Biến Đổi",
+        "Hơi hơi / Một chút (văn phong trang trọng)",
+        "少し。ほんの少し。（硬い表現）",
+        "Mức độ lo lắng hoặc thất vọng hơi một chút, dùng trong văn viết học thuật hoặc trang trọng.",
+        "彼の態度には、いささか疑問を感じる。",
+        "Tôi cảm thấy hơi hơi nghi ngờ đối với thái độ của anh ta.",
+        "すこし, やや",
+        "大いに, まったく"
+    ),
+    (
+        "およそ",
+        "Mức Độ & Biến Đổi",
+        "Nhìn chung / Khoảng chừng / Xấp xỉ",
+        "だいたいの数値や状態を表す言葉。約。",
+        "Ước lượng xấp xỉ khoảng chừng (ví dụ: khoảng chừng 2 tiếng đồng hồ).",
+        "ここから駅まではおよそ10分かかる。",
+        "Từ đây đến ga mất khoảng chừng 10 phút.",
+        "大体, おおよそ",
+        "正確に, ぴったり"
+    ),
+    (
+        "ほぼ",
+        "Mức Độ & Biến Đổi",
+        "Gần như / Xấp xỉ / Hầu như hoàn toàn",
+        "完全な状態に非常に近い様子。だいたい。",
+        "Mức độ tiệm cận hoàn thành tới 95% trở lên (ví dụ: công việc gần như đã xong xuôi).",
+        "計画はほぼ予定通りに進行している。",
+        "Kế hoạch đang tiến triển gần như hoàn toàn theo đúng dự kiến.",
+        "大体, ほとんど",
+        "まったく, 部分的に"
+    ),
+    (
+        "めちゃめちゃ",
+        "Mức Độ & Biến Đổi",
+        "Nát bét / Lộn xộn cực độ / Quá mức",
+        "状態が非常にひどく壊れている様子。または非常に。",
+        "Đồ đạc bị đập phá nát bét; Hoặc tâm trạng mệt mỏi cực độ; Dùng làm trạng từ chỉ mức độ 'cực kỳ'.",
+        "車が壁に衝突して、めちゃめちゃに壊れた。",
+        "Chiếc xe đâm sầm vào tường nên bị vỡ nát bét hoàn toàn.",
+        "めちゃくちゃ, ごちゃごちゃ",
+        "きちんとした"
+    ),
+    (
+        "さらさら",
+        "Mức Độ & Biến Đổi",
+        "Mượt mà (tóc) / Xào xạc (gió, lá) / Viết trơn tru",
+        "湿気がなく、滑らかに進む様子。さらさら流れる音。",
+        "Làn tóc suôn mượt mà sờ vào mát rượi; Hoặc ngòi bút viết trơn tru vèo vèo trên trang giấy; Hoặc suối chảy róc rách.",
+        "彼女はさらさらとした美しい髪をしている。",
+        "Cô ấy sở hữu mái tóc suôn mượt mà đẹp đẽ.",
+        "なめらか, するする",
+        "べたべた, ごつごつ"
     )
 ]
 
@@ -1134,9 +2234,6 @@ ILLUSTRATED_WORDS = {
     "びくびく": "bikubiku.png"
 }
 
-def generate_markdown():
-    output_path = "/Users/tuyennq1001/htdocs/jlpt-n1/goi/goi_onomatopoeia.md"
-    
 def format_word_links(text, all_words_map):
     if not text:
         return ""
@@ -1168,12 +2265,12 @@ def generate_markdown():
     markdown_content = []
     markdown_content.append("# 🎨 Từ Láy & Phó Từ Tượng Hình Tiếng Nhật (Goi - Onomatopoeia)")
     markdown_content.append("")
-    markdown_content.append("Sổ tay trực quan tổng hợp 100 từ láy tượng thanh, tượng hình (擬音語・擬態語) và phó từ thường gặp trong JLPT. Các từ được phân nhóm ý nghĩa rõ ràng giúp bạn dễ dàng so sánh và học tập hiệu quả.")
+    markdown_content.append("Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (擬音語・擬態語) và phó từ thường gặp trong JLPT. Các từ được phân nhóm ý nghĩa rõ ràng giúp bạn dễ dàng so sánh và học tập hiệu quả.")
     markdown_content.append("")
     markdown_content.append("---")
     markdown_content.append("")
     
-    # Thứ tự phân nhóm thủ công để số thứ tự đi từ 1 đến 100
+    # Thứ tự phân nhóm thủ công để số thứ tự đi từ 1 đến 200
     ordered_groups = [
         "Trạng Thái Tinh Thần & Cảm Xúc",
         "Cảm Giác Cơ Thể & Thể Chất",
@@ -1181,11 +2278,42 @@ def generate_markdown():
         "Mức Độ & Biến Đổi"
     ]
     
-    for group_name in ordered_groups:
+    # Tạo Danh Sách Mục Lục (TOC)
+    markdown_content.append("## 🗂️ Mục Lục Tra Cứu Nhanh (Table of Contents)")
+    markdown_content.append("")
+    
+    for g_idx, group_name in enumerate(ordered_groups, 1):
+        if group_name not in groups:
+            continue
+        markdown_content.append(f"### [Phân Nhóm {g_idx}: {group_name}](#nhom-{g_idx})")
+        markdown_content.append("")
+        
+        # Tạo bảng 5 cột cho các từ trong nhóm
+        markdown_content.append("| | | | | |")
+        markdown_content.append("| --- | --- | --- | --- | --- |")
+        
+        group_items = groups[group_name]
+        rows = [group_items[i:i + 5] for i in range(0, len(group_items), 5)]
+        for row in rows:
+            row_strs = []
+            for item_idx in range(5):
+                if item_idx < len(row):
+                    num, item = row[item_idx]
+                    word = item[0]
+                    row_strs.append(f"[{num}. {word}](#{num}-{word})")
+                else:
+                    row_strs.append("")
+            markdown_content.append("| " + " | ".join(row_strs) + " |")
+        markdown_content.append("")
+        
+    markdown_content.append("---")
+    markdown_content.append("")
+    
+    for g_idx, group_name in enumerate(ordered_groups, 1):
         if group_name not in groups:
             continue
             
-        markdown_content.append(f"## 📌 Phân Nhóm: {group_name}")
+        markdown_content.append(f'## <span id="nhom-{g_idx}"></span>📌 Phân Nhóm: {group_name}')
         markdown_content.append("")
         
         for num, item in groups[group_name]:
