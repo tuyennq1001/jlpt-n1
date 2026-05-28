@@ -1137,6 +1137,26 @@ ILLUSTRATED_WORDS = {
 def generate_markdown():
     output_path = "/Users/tuyennq1001/htdocs/jlpt-n1/goi/goi_onomatopoeia.md"
     
+def format_word_links(text, all_words_map):
+    if not text:
+        return ""
+    parts = [p.strip() for p in text.split(",")]
+    result_parts = []
+    for part in parts:
+        if part in all_words_map:
+            num = all_words_map[part]
+            anchor = f"{num}-{part}"
+            result_parts.append(f"[{part}](#{anchor})")
+        else:
+            result_parts.append(part)
+    return ", ".join(result_parts)
+
+def generate_markdown():
+    output_path = "/Users/tuyennq1001/htdocs/jlpt-n1/goi/goi_onomatopoeia.md"
+    
+    # Tạo bản đồ từ vựng -> số thứ tự tuyệt đối
+    all_words_map = {item[0]: idx for idx, item in enumerate(words_data, 1)}
+    
     # Gom nhóm dữ liệu
     groups = {}
     for idx, item in enumerate(words_data, 1):
@@ -1171,7 +1191,11 @@ def generate_markdown():
         for num, item in groups[group_name]:
             word, _, meaning, jp_def, nuance, ex_jp, ex_vi, syn, ant = item
             
-            markdown_content.append(f"### {num}. {word}")
+            # Định dạng các từ đồng nghĩa/trái nghĩa thành link nếu có trong file
+            formatted_syn = format_word_links(syn, all_words_map)
+            formatted_ant = format_word_links(ant, all_words_map)
+            
+            markdown_content.append(f'### <span id="{num}-{word}"></span>{num}. {word}')
             markdown_content.append(f"* **Ý nghĩa:** {meaning}")
             markdown_content.append("")
             
@@ -1184,15 +1208,17 @@ def generate_markdown():
             markdown_content.append("")
             
             # Khối thông tin (Định nghĩa, sắc thái, đồng nghĩa, trái nghĩa) - Dùng [!NOTE] của GitHub
-            markdown_content.append("> [!NOTE] **Định nghĩa & Sắc thái**")
+            markdown_content.append("> [!NOTE]")
+            markdown_content.append("> **Định nghĩa & Sắc thái**")
             markdown_content.append(f"> * **日本語:** {jp_def}")
             markdown_content.append(f"> * **Sắc thái:** {nuance}")
-            markdown_content.append(f"> * **Từ đồng nghĩa:** {syn}")
-            markdown_content.append(f"> * **Từ trái nghĩa:** {ant}")
+            markdown_content.append(f"> * **Từ đồng nghĩa:** {formatted_syn}")
+            markdown_content.append(f"> * **Từ trái nghĩa:** {formatted_ant}")
             markdown_content.append("")
             
             # Khối ví dụ - Dùng [!TIP] của GitHub
-            markdown_content.append("> [!TIP] **Ví dụ thực tế (例文)**")
+            markdown_content.append("> [!TIP]")
+            markdown_content.append("> **Ví dụ thực tế (例文)**")
             markdown_content.append(f"> * {ex_jp}")
             markdown_content.append(f">   * *{ex_vi}*")
             markdown_content.append("")
