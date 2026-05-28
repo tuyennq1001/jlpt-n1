@@ -925,9 +925,14 @@ ILLUSTRATED_WORDS = {
     "すっかり": "sukkari.png",
     "いらいら": "iraira.png",
     "どきどき": "dokidoki.png",
-    "nonbiri": "nonbiri.png",  # key check
+    "nonbiri": "nonbiri.png",
     "のんびり": "nonbiri.png",
-    "ぐっすり": "gussuri.png"
+    "ぐっすり": "gussuri.png",
+    "わくわく": "wakuwaku.png",
+    "はらはら": "harahara.png",
+    "うっとり": "uttori.png",
+    "しょんぼり": "shonbori.png",
+    "びくびく": "bikubiku.png"
 }
 
 def generate_markdown():
@@ -949,7 +954,18 @@ def generate_markdown():
     markdown_content.append("---")
     markdown_content.append("")
     
-    for group_name in sorted(groups.keys()):
+    # Thứ tự phân nhóm thủ công để số thứ tự đi từ 1 đến 100
+    ordered_groups = [
+        "Trạng Thái Tinh Thần & Cảm Xúc",
+        "Cảm Giác Cơ Thể & Thể Chất",
+        "Hành Vi & Thái Độ",
+        "Mức Độ & Biến Đổi"
+    ]
+    
+    for group_name in ordered_groups:
+        if group_name not in groups:
+            continue
+            
         markdown_content.append(f"## 📌 Phân Nhóm: {group_name}")
         markdown_content.append("")
         

@@ -4,6 +4,383 @@ Sổ tay trực quan tổng hợp 100 từ láy tượng thanh, tượng hình (
 
 ---
 
+## 📌 Phân Nhóm: Trạng Thái Tinh Thần & Cảm Xúc
+
+### 1. すっきり
+* **Ý nghĩa:** Sảng khoái / Nhẹ nhõm / Gọn gàng (sau khi trút bỏ gánh nặng)
+
+<img src="images/onomatopoeia/sukkiri.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 余計なものや面倒なものがなく、気持ちがよい様子。
+> * **Sắc thái:** Cảm giác dễ chịu khi những điều phiền toái, thừa thãi hoặc mập mờ được giải quyết triệt để (ví dụ: dọn dẹp xong phòng sạch sẽ, giải tỏa lo lắng trong lòng, hoặc hát hò giải trí xong).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * カラオケで đại thanh で hát ったら、tâm trạng がすっきりした。
+>   * *Hát thật to ở karaoke xong, tâm trạng sảng khoái hẳn.*
+
+---
+
+### 2. がっかり
+* **Ý nghĩa:** Thất vọng / Chán nản / Sụp đổ tinh thần
+
+<img src="images/onomatopoeia/gakkari.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 期待が外れて、力落としをする様子。
+> * **Sắc thái:** Trạng thái buồn bã, mất sạch năng lượng khi kỳ vọng lớn của bản thân bị đổ vỡ (dáng vẻ vai sụp xuống, cúi mặt).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 楽しみにしていたコンサートが中止になり、がっかりした。
+>   * *Buổi hòa nhạc mong đợi bấy lâu bị hủy bỏ khiến tôi vô cùng thất vọng.*
+
+---
+
+### 3. いらいら
+* **Ý nghĩa:** Bực bội / Sốt ruột / Nóng lòng
+
+<img src="images/onomatopoeia/iraira.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 物事が思うようにならず、気持ちが落ち着かない様子。
+> * **Sắc thái:** Cảm xúc bực bội, khó chịu khi mọi việc không diễn ra theo ý muốn hoặc phải chờ đợi lâu mà sốt ruột.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 渋滞で車が全然進まず、いらいらする。
+>   * *Vì kẹt xe nên xe hoàn toàn không tiến lên được, thật là bực bội.*
+
+---
+
+### 4. どきどき
+* **Ý nghĩa:** Hồi hộp / Tim đập thình thịch
+
+<img src="images/onomatopoeia/dokidoki.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 運動や緊張、驚きなどで心臓の鼓動が速くなる様子。
+> * **Sắc thái:** Tiếng tim đập nhanh do lo lắng, căng thẳng, sợ hãi hoặc phấn khích (ví dụ trước khi phát biểu, gặp người yêu, hoặc khi đứng trước kết quả thi).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 発表の番が近づいてきて、胸がどきどきしている。
+>   * *Lượt phát biểu đang đến gần, lồng ngực tôi đập thình thịch.*
+
+---
+
+### 5. わくわく
+* **Ý nghĩa:** Háo hức / Hồi hộp mong chờ
+
+<img src="images/onomatopoeia/wakuwaku.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 期待や喜びで胸が躍り、落ち着かない様子。
+> * **Sắc thái:** Trạng thái háo hức, mong đợi những điều tốt đẹp, vui sướng sắp diễn ra (như trước chuyến đi du lịch, trước ngày khai giảng).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 明日から旅行なので, 心がわくわくしている。
+>   * *Vì ngày mai đi du lịch nên trong lòng vô cùng háo hức.*
+
+---
+
+### 6. はらはら
+* **Ý nghĩa:** Lo lắng / Nhấp nhổm (lo sợ giùm cho người khác)
+
+<img src="images/onomatopoeia/harahara.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 他人の様子を見て、危なっかしくて心配する様子。
+> * **Sắc thái:** Cảm giác lo sợ, hồi hộp khi nhìn thấy người khác ở trong tình thế nguy hiểm (như xem xiếc, nhìn em bé tập đi).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 子供が木に登っているのを見て、はらはらした。
+>   * *Nhìn thấy đứa trẻ trèo lên cây mà tôi lo nhấp nhổm cả người.*
+
+---
+
+### 7. うっとり
+* **Ý nghĩa:** Say đắm / Ngây ngất / Say sưa ngắm nhìn
+
+<img src="images/onomatopoeia/uttori.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 美しいものなどに心を奪われて、ぼんやりしている様子。
+> * **Sắc thái:** Tâm trạng bị hút hồn, say đắm trước vẻ đẹp hoặc một tác phẩm nghệ thuật, âm nhạc xuất sắc.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 彼女は美しいバイオリンの音色にうっとり聞き入っていた。
+>   * *Cô ấy say sưa lắng nghe giai điệu vĩ cầm tuyệt đẹp.*
+
+---
+
+### 8. しょんぼり
+* **Ý nghĩa:** Ủ rũ / Buồn bã / Thẫn thờ
+
+<img src="images/onomatopoeia/shonbori.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 元気がなく、うなだれている様子。
+> * **Sắc thái:** Dáng vẻ buồn bã, ủ rũ vì bị mắng, thất bại nhẹ hoặc gặp chuyện buồn nhỏ.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 叱られた犬が、しょんぼりして座っている。
+>   * *Chú chó bị mắng đang ngồi ủ rũ một góc.*
+
+---
+
+### 9. びくびく
+* **Ý nghĩa:** Run sợ / Phấp phỏng lo sợ / Sợ sệt
+
+<img src="images/onomatopoeia/bikubiku.png" width="300" />
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 恐れて、体が震える様子。心配で落ち着かない様子。
+> * **Sắc thái:** Sự sợ hãi dồn dập, phấp phỏng vì sợ bị phát hiện lỗi lầm, sợ bị phạt hoặc gặp nguy hiểm.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 先生に叱られるのではないかと、びくびくしている。
+>   * *Tôi cứ phấp phỏng lo sợ không biết có bị thầy giáo mắng hay không.*
+
+---
+
+### 10. おどおど
+* **Ý nghĩa:** Rụt rè / Lúng túng / Khép nép (thiếu tự tin)
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 自信がなく、恐れて落ち着かない態度をとる様子。
+> * **Sắc thái:** Thái độ e sợ, không tự tin, ngập ngừng lúng túng khi giao tiếp hoặc đứng trước đám đông.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 面接の時、緊張しておどおどしてしまった。
+>   * *Lúc phỏng vấn, vì căng thẳng nên tôi cứ lúng ta lúng túng.*
+
+---
+
+### 11. ほっと
+* **Ý nghĩa:** Thở phào nhẹ nhõm / Yên tâm
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 緊張が解けて、安心する様子。
+> * **Sắc thái:** Cảm giác trút bỏ căng thẳng, thở phào khi một nguy cơ trôi qua hoặc công việc kết thúc thành công.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 試験がすべて終わって、ほっとした。
+>   * *Kỳ thi đã kết thúc hoàn toàn, tôi thở phào nhẹ nhõm.*
+
+---
+
+### 12. むかむか
+* **Ý nghĩa:** Nôn nao / Bực tức / Tức tối lồng lộn
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 吐き気がする様子。また、怒りでおさまらない様子。
+> * **Sắc thái:** Có hai nghĩa: Cảm thấy nôn nao, buồn nôn ở dạ dày; Hoặc cảm giác tức tối phát điên vì hành động vô lý của ai đó.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 彼の失礼な態度を思い出すと、今でも胸がむかむかする。
+>   * *Nghĩ lại thái độ vô lễ của anh ta, đến giờ tôi vẫn thấy tức cành hông.*
+
+---
+
+### 13. やきもき
+* **Ý nghĩa:** Sốt ruột / Bồn chồn lo lắng (về chuyện của người khác)
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 他人のことが心配で、どうしていいか焦る様子。
+> * **Sắc thái:** Sự bồn chồn sốt ruột vì lo lắng cho tình hình của người khác mà bản thân không thể can thiệp được.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 連絡が取れない息子を心配して、母はやきもきしていた。
+>   * *Lo lắng cho đứa con trai không liên lạc được, người mẹ cứ bồn chồn đứng ngồi không yên.*
+
+---
+
+### 14. おろおろ
+* **Ý nghĩa:** Cuống cuồng / Lúng túng mất phương hướng
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** どうしていいか分からず、慌てふためく様子。
+> * **Sắc thái:** Trạng thái rối bời, không biết phải xử lý thế nào khi xảy ra sự cố đột ngột ngoài tầm kiểm soát.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 事故の現場を見て, 何もできずにおろおろするばかりだった。
+>   * *Nhìn thấy hiện trường tai nạn, tôi chỉ biết cuống cuồng lúng túng mà không làm được gì.*
+
+---
+
+### 15. びっくり
+* **Ý nghĩa:** Giật mình / Kinh ngạc / Bất ngờ
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 急な出来事に驚く様子。
+> * **Sắc thái:** Sự ngạc nhiên, giật mình do những âm thanh lớn hoặc sự việc bất ngờ xảy ra ngay trước mắt.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 大きな音がして、びっくりして跳び上がった。
+>   * *Có tiếng động lớn phát ra khiến tôi giật mình nhảy dựng lên.*
+
+---
+
+### 16. うきうき
+* **Ý nghĩa:** Hân hoan / Rộn ràng vui tươi
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 嬉しくて気持ちが浮き立ち、楽しそうな様子。
+> * **Sắc thái:** Tâm trạng phấn chấn, nhẹ nhàng, vui vẻ biểu hiện ra bên ngoài (như bước đi nhún nhảy vì vui).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 彼女は新しいデート服を着て、うきうきと出かけた。
+>   * *Cô ấy diện bộ đồ hẹn hò mới rồi hân hoan bước ra ngoài.*
+
+---
+
+### 17. めそめそ
+* **Ý nghĩa:** Khóc thút thít / Sụt sùi
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 弱々しく泣き続ける様子。
+> * **Sắc thái:** Hành động khóc nhỏ, kéo dài, thút thít (thường dùng cho trẻ con hoặc người yếu đuối).
+
+> [!example] **Ví dụ thực tế (例文)**
+> * いつまでもめそめそ泣くのはやめなさい。
+>   * *Đừng có khóc thút thít suốt như thế nữa.*
+
+---
+
+### 18. おずおず
+* **Ý nghĩa:** Rụt rè / Rón rén / Ngần ngại
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** ためらいながら、恐る恐る物事を行う様子。
+> * **Sắc thái:** Hành vi ngập ngừng, rụt rè tiến lại gần hoặc đặt câu hỏi vì sợ sệt hay kính cẩn.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 彼は社長室のドアをおずおずとノックした。
+>   * *Anh ấy rụt rè gõ cửa phòng giám đốc.*
+
+---
+
+### 19. もじもじ
+* **Ý nghĩa:** Ngượng nghịu / Ngại ngùng lúng túng
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 恥ずかしがって、言いたいことが言えない様子。
+> * **Sắc thái:** Thái độ ngượng ngùng, ngập ngừng không dám bộc lộ ý kiến hay hành động vì xấu hổ trước người khác.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 子供は知らない人の前で、恥ずかしそうにもじもじしていた。
+>   * *Đứa bé ngượng nghịu lúng túng trước mặt người lạ.*
+
+---
+
+### 20. てきぱき
+* **Ý nghĩa:** Nhanh nhẹn / Tháo vát / Nhanh nhảu
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 仕事を要領よく、手際よく進める様子。
+> * **Sắc thái:** Cách giải quyết công việc vô cùng nhanh chóng, có trình tự và hiệu quả cao.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 彼女は家事をてきぱきと片付けた。
+>   * *Cô ấy tháo vát dọn dẹp nhanh gọn việc nhà.*
+
+---
+
+### 21. ぬくぬく
+* **Ý nghĩa:** Ấm êm / Dễ chịu / Sung sướng
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 暖かく快適に過ごす様子。楽をしている様子。
+> * **Sắc thái:** Trạng thái sống thoải mái, ấm áp dễ chịu mà không phải chịu vất vả cực nhọc.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 寒い冬の日に、こたつでぬくぬく過ごすのは最高だ。
+>   * *Vào ngày đông giá rét, ngồi ấm êm trong bàn sưởi Kotatsu thì thật tuyệt vời.*
+
+---
+
+### 22. はっきり
+* **Ý nghĩa:** Rõ ràng / Dứt khoát
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 形や意味が明確で、疑う余地がない様子。
+> * **Sắc thái:** Trạng thái biểu đạt rõ ràng về mặt hình ảnh, âm thanh hoặc ý chí dứt khoát không mập mờ.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 富士山がはっきりと見えた。
+>   * *Núi Phú Sĩ đã nhìn thấy rõ mồn một.*
+
+---
+
+### 23. すくすく
+* **Ý nghĩa:** Mau lớn / Khỏe mạnh (trẻ em, cây cối)
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 元気に成長する様子。
+> * **Sắc thái:** Trạng thái lớn nhanh như thổi, phát triển khỏe mạnh của trẻ nhỏ hoặc thực vật.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 子供たちは健康に、すくすくと育っている。
+>   * *Lũ trẻ đang phát triển vô cùng khỏe mạnh, lớn nhanh như thổi.*
+
+---
+
+### 24. いそいそ
+* **Ý nghĩa:** Hớn hở vội vã / Hăm hở
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 楽しみな事のために、嬉しそうに準備して出かける様子。
+> * **Sắc thái:** Dáng vẻ hối hả chuẩn bị ra ngoài với tâm trạng phấn khởi vì có việc vui chờ đợi phía trước.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 彼はパーティーに行くために、いそいそと支度をしている。
+>   * *Anh ấy đang hớn hở chuẩn bị sửa soạn để đi dự tiệc.*
+
+---
+
+### 25. じりじり
+* **Ý nghĩa:** Nóng ruột chờ đợi / Sốt ruột
+
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+
+> [!info] **Định nghĩa & Sắc thái**
+> * **日本語:** 焦って、いらだちながら待つ様子。
+> * **Sắc thái:** Cảm giác sốt ruột, nóng lòng chờ đợi một thời khắc nào đó đang đến rất chậm.
+
+> [!example] **Ví dụ thực tế (例文)**
+> * 締め切り時間が近づき, じりじりしながら待った。
+>   * *Thời hạn chót đang đến gần, tôi sốt ruột nóng lòng chờ đợi.*
+
+---
+
 ## 📌 Phân Nhóm: Cảm Giác Cơ Thể & Thể Chất
 
 ### 26. さっぱり
@@ -1132,382 +1509,5 @@ Sổ tay trực quan tổng hợp 100 từ láy tượng thanh, tượng hình (
 > [!example] **Ví dụ thực tế (例文)**
 > * 春になって、だんだん暖かくなってきた。
 >   * *Xuân về, thời tiết dần dần trở nên ấm áp hơn.*
-
----
-
-## 📌 Phân Nhóm: Trạng Thái Tinh Thần & Cảm Xúc
-
-### 1. すっきり
-* **Ý nghĩa:** Sảng khoái / Nhẹ nhõm / Gọn gàng (sau khi trút bỏ gánh nặng)
-
-<img src="images/onomatopoeia/sukkiri.png" width="300" />
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 余計なものや面倒なものがなく、気持ちがよい様子。
-> * **Sắc thái:** Cảm giác dễ chịu khi những điều phiền toái, thừa thãi hoặc mập mờ được giải quyết triệt để (ví dụ: dọn dẹp xong phòng sạch sẽ, giải tỏa lo lắng trong lòng, hoặc hát hò giải trí xong).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * カラオケで đại thanh で hát ったら、tâm trạng がすっきりした。
->   * *Hát thật to ở karaoke xong, tâm trạng sảng khoái hẳn.*
-
----
-
-### 2. がっかり
-* **Ý nghĩa:** Thất vọng / Chán nản / Sụp đổ tinh thần
-
-<img src="images/onomatopoeia/gakkari.png" width="300" />
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 期待が外れて、力落としをする様子。
-> * **Sắc thái:** Trạng thái buồn bã, mất sạch năng lượng khi kỳ vọng lớn của bản thân bị đổ vỡ (dáng vẻ vai sụp xuống, cúi mặt).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 楽しみにしていたコンサートが中止になり、がっかりした。
->   * *Buổi hòa nhạc mong đợi bấy lâu bị hủy bỏ khiến tôi vô cùng thất vọng.*
-
----
-
-### 3. いらいら
-* **Ý nghĩa:** Bực bội / Sốt ruột / Nóng lòng
-
-<img src="images/onomatopoeia/iraira.png" width="300" />
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 物事が思うようにならず、気持ちが落ち着かない様子。
-> * **Sắc thái:** Cảm xúc bực bội, khó chịu khi mọi việc không diễn ra theo ý muốn hoặc phải chờ đợi lâu mà sốt ruột.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 渋滞で車が全然進まず、いらいらする。
->   * *Vì kẹt xe nên xe hoàn toàn không tiến lên được, thật là bực bội.*
-
----
-
-### 4. どきどき
-* **Ý nghĩa:** Hồi hộp / Tim đập thình thịch
-
-<img src="images/onomatopoeia/dokidoki.png" width="300" />
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 運動や緊張、驚きなどで心臓の鼓動が速くなる様子。
-> * **Sắc thái:** Tiếng tim đập nhanh do lo lắng, căng thẳng, sợ hãi hoặc phấn khích (ví dụ trước khi phát biểu, gặp người yêu, hoặc khi đứng trước kết quả thi).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 発表の番が近づいてきて、胸がどきどきしている。
->   * *Lượt phát biểu đang đến gần, lồng ngực tôi đập thình thịch.*
-
----
-
-### 5. わくわく
-* **Ý nghĩa:** Háo hức / Hồi hộp mong chờ
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 期待や喜びで胸が躍り、落ち着かない様子。
-> * **Sắc thái:** Trạng thái háo hức, mong đợi những điều tốt đẹp, vui sướng sắp diễn ra (như trước chuyến đi du lịch, trước ngày khai giảng).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 明日から旅行なので, 心がわくわくしている。
->   * *Vì ngày mai đi du lịch nên trong lòng vô cùng háo hức.*
-
----
-
-### 6. はらはら
-* **Ý nghĩa:** Lo lắng / Nhấp nhổm (lo sợ giùm cho người khác)
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 他人の様子を見て、危なっかしくて心配する様子。
-> * **Sắc thái:** Cảm giác lo sợ, hồi hộp khi nhìn thấy người khác ở trong tình thế nguy hiểm (như xem xiếc, nhìn em bé tập đi).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 子供が木に登っているのを見て、はらはらした。
->   * *Nhìn thấy đứa trẻ trèo lên cây mà tôi lo nhấp nhổm cả người.*
-
----
-
-### 7. うっとり
-* **Ý nghĩa:** Say đắm / Ngây ngất / Say sưa ngắm nhìn
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 美しいものなどに心を奪われて、ぼんやりしている様子。
-> * **Sắc thái:** Tâm trạng bị hút hồn, say đắm trước vẻ đẹp hoặc một tác phẩm nghệ thuật, âm nhạc xuất sắc.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 彼女は美しいバイオリンの音色にうっとり聞き入っていた。
->   * *Cô ấy say sưa lắng nghe giai điệu vĩ cầm tuyệt đẹp.*
-
----
-
-### 8. しょんぼり
-* **Ý nghĩa:** Ủ rũ / Buồn bã / Thẫn thờ
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 元気がなく、うなだれている様子。
-> * **Sắc thái:** Dáng vẻ buồn bã, ủ rũ vì bị mắng, thất bại nhẹ hoặc gặp chuyện buồn nhỏ.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 叱られた犬が、しょんぼりして座っている。
->   * *Chú chó bị mắng đang ngồi ủ rũ một góc.*
-
----
-
-### 9. びくびく
-* **Ý nghĩa:** Run sợ / Phấp phỏng lo sợ / Sợ sệt
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 恐れて、体が震える様子。心配で落ち着かない様子。
-> * **Sắc thái:** Sự sợ hãi dồn dập, phấp phỏng vì sợ bị phát hiện lỗi lầm, sợ bị phạt hoặc gặp nguy hiểm.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 先生に叱られるのではないかと、びくびくしている。
->   * *Tôi cứ phấp phỏng lo sợ không biết có bị thầy giáo mắng hay không.*
-
----
-
-### 10. おどおど
-* **Ý nghĩa:** Rụt rè / Lúng túng / Khép nép (thiếu tự tin)
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 自信がなく、恐れて落ち着かない態度をとる様子。
-> * **Sắc thái:** Thái độ e sợ, không tự tin, ngập ngừng lúng túng khi giao tiếp hoặc đứng trước đám đông.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 面接の時、緊張しておどおどしてしまった。
->   * *Lúc phỏng vấn, vì căng thẳng nên tôi cứ lúng ta lúng túng.*
-
----
-
-### 11. ほっと
-* **Ý nghĩa:** Thở phào nhẹ nhõm / Yên tâm
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 緊張が解けて、安心する様子。
-> * **Sắc thái:** Cảm giác trút bỏ căng thẳng, thở phào khi một nguy cơ trôi qua hoặc công việc kết thúc thành công.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 試験がすべて終わって、ほっとした。
->   * *Kỳ thi đã kết thúc hoàn toàn, tôi thở phào nhẹ nhõm.*
-
----
-
-### 12. むかむか
-* **Ý nghĩa:** Nôn nao / Bực tức / Tức tối lồng lộn
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 吐き気がする様子。また、怒りでおさまらない様子。
-> * **Sắc thái:** Có hai nghĩa: Cảm thấy nôn nao, buồn nôn ở dạ dày; Hoặc cảm giác tức tối phát điên vì hành động vô lý của ai đó.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 彼の失礼な態度を思い出すと、今でも胸がむかむかする。
->   * *Nghĩ lại thái độ vô lễ của anh ta, đến giờ tôi vẫn thấy tức cành hông.*
-
----
-
-### 13. やきもき
-* **Ý nghĩa:** Sốt ruột / Bồn chồn lo lắng (về chuyện của người khác)
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 他人のことが心配で、どうしていいか焦る様子。
-> * **Sắc thái:** Sự bồn chồn sốt ruột vì lo lắng cho tình hình của người khác mà bản thân không thể can thiệp được.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 連絡が取れない息子を心配して、母はやきもきしていた。
->   * *Lo lắng cho đứa con trai không liên lạc được, người mẹ cứ bồn chồn đứng ngồi không yên.*
-
----
-
-### 14. おろおろ
-* **Ý nghĩa:** Cuống cuồng / Lúng túng mất phương hướng
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** どうしていいか分からず、慌てふためく様子。
-> * **Sắc thái:** Trạng thái rối bời, không biết phải xử lý thế nào khi xảy ra sự cố đột ngột ngoài tầm kiểm soát.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 事故の現場を見て, 何もできずにおろおろするばかりだった。
->   * *Nhìn thấy hiện trường tai nạn, tôi chỉ biết cuống cuồng lúng túng mà không làm được gì.*
-
----
-
-### 15. びっくり
-* **Ý nghĩa:** Giật mình / Kinh ngạc / Bất ngờ
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 急な出来事に驚く様子。
-> * **Sắc thái:** Sự ngạc nhiên, giật mình do những âm thanh lớn hoặc sự việc bất ngờ xảy ra ngay trước mắt.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 大きな音がして、びっくりして跳び上がった。
->   * *Có tiếng động lớn phát ra khiến tôi giật mình nhảy dựng lên.*
-
----
-
-### 16. うきうき
-* **Ý nghĩa:** Hân hoan / Rộn ràng vui tươi
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 嬉しくて気持ちが浮き立ち、楽しそうな様子。
-> * **Sắc thái:** Tâm trạng phấn chấn, nhẹ nhàng, vui vẻ biểu hiện ra bên ngoài (như bước đi nhún nhảy vì vui).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 彼女は新しいデート服を着て、うきうきと出かけた。
->   * *Cô ấy diện bộ đồ hẹn hò mới rồi hân hoan bước ra ngoài.*
-
----
-
-### 17. めそめそ
-* **Ý nghĩa:** Khóc thút thít / Sụt sùi
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 弱々しく泣き続ける様子。
-> * **Sắc thái:** Hành động khóc nhỏ, kéo dài, thút thít (thường dùng cho trẻ con hoặc người yếu đuối).
-
-> [!example] **Ví dụ thực tế (例文)**
-> * いつまでもめそめそ泣くのはやめなさい。
->   * *Đừng có khóc thút thít suốt như thế nữa.*
-
----
-
-### 18. おずおず
-* **Ý nghĩa:** Rụt rè / Rón rén / Ngần ngại
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** ためらいながら、恐る恐る物事を行う様子。
-> * **Sắc thái:** Hành vi ngập ngừng, rụt rè tiến lại gần hoặc đặt câu hỏi vì sợ sệt hay kính cẩn.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 彼は社長室のドアをおずおずとノックした。
->   * *Anh ấy rụt rè gõ cửa phòng giám đốc.*
-
----
-
-### 19. もじもじ
-* **Ý nghĩa:** Ngượng nghịu / Ngại ngùng lúng túng
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 恥ずかしがって、言いたいことが言えない様子。
-> * **Sắc thái:** Thái độ ngượng ngùng, ngập ngừng không dám bộc lộ ý kiến hay hành động vì xấu hổ trước người khác.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 子供は知らない人の前で、恥ずかしそうにもじもじしていた。
->   * *Đứa bé ngượng nghịu lúng túng trước mặt người lạ.*
-
----
-
-### 20. てきぱき
-* **Ý nghĩa:** Nhanh nhẹn / Tháo vát / Nhanh nhảu
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 仕事を要領よく、手際よく進める様子。
-> * **Sắc thái:** Cách giải quyết công việc vô cùng nhanh chóng, có trình tự và hiệu quả cao.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 彼女は家事をてきぱきと片付けた。
->   * *Cô ấy tháo vát dọn dẹp nhanh gọn việc nhà.*
-
----
-
-### 21. ぬくぬく
-* **Ý nghĩa:** Ấm êm / Dễ chịu / Sung sướng
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 暖かく快適に過ごす様子。楽をしている様子。
-> * **Sắc thái:** Trạng thái sống thoải mái, ấm áp dễ chịu mà không phải chịu vất vả cực nhọc.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 寒い冬の日に、こたつでぬくぬく過ごすのは最高だ。
->   * *Vào ngày đông giá rét, ngồi ấm êm trong bàn sưởi Kotatsu thì thật tuyệt vời.*
-
----
-
-### 22. はっきり
-* **Ý nghĩa:** Rõ ràng / Dứt khoát
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 形や意味が明確で、疑う余地がない様子。
-> * **Sắc thái:** Trạng thái biểu đạt rõ ràng về mặt hình ảnh, âm thanh hoặc ý chí dứt khoát không mập mờ.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 富士山がはっきりと見えた。
->   * *Núi Phú Sĩ đã nhìn thấy rõ mồn một.*
-
----
-
-### 23. すくすく
-* **Ý nghĩa:** Mau lớn / Khỏe mạnh (trẻ em, cây cối)
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 元気に成長する様子。
-> * **Sắc thái:** Trạng thái lớn nhanh như thổi, phát triển khỏe mạnh của trẻ nhỏ hoặc thực vật.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 子供たちは健康に、すくすくと育っている。
->   * *Lũ trẻ đang phát triển vô cùng khỏe mạnh, lớn nhanh như thổi.*
-
----
-
-### 24. いそいそ
-* **Ý nghĩa:** Hớn hở vội vã / Hăm hở
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 楽しみな事のために、嬉しそうに準備して出かける様子。
-> * **Sắc thái:** Dáng vẻ hối hả chuẩn bị ra ngoài với tâm trạng phấn khởi vì có việc vui chờ đợi phía trước.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 彼はパーティーに行くために、いそいそと支度をしている。
->   * *Anh ấy đang hớn hở chuẩn bị sửa soạn để đi dự tiệc.*
-
----
-
-### 25. じりじり
-* **Ý nghĩa:** Nóng ruột chờ đợi / Sốt ruột
-
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
-
-> [!info] **Định nghĩa & Sắc thái**
-> * **日本語:** 焦って、いらだちながら待つ様子。
-> * **Sắc thái:** Cảm giác sốt ruột, nóng lòng chờ đợi một thời khắc nào đó đang đến rất chậm.
-
-> [!example] **Ví dụ thực tế (例文)**
-> * 締め切り時間が近づき, じりじりしながら待った。
->   * *Thời hạn chót đang đến gần, tôi sốt ruột nóng lòng chờ đợi.*
 
 ---
