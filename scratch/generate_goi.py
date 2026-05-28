@@ -2285,7 +2285,7 @@ def generate_markdown():
     for g_idx, group_name in enumerate(ordered_groups, 1):
         if group_name not in groups:
             continue
-        markdown_content.append(f"### [Phân Nhóm {g_idx}: {group_name}](#nhom-{g_idx})")
+        markdown_content.append(f"### [Phân Nhóm {g_idx}: {group_name}](#nhóm-{g_idx})")
         markdown_content.append("")
         
         # Tạo bảng 5 cột cho các từ trong nhóm
@@ -2313,7 +2313,8 @@ def generate_markdown():
         if group_name not in groups:
             continue
             
-        markdown_content.append(f'## <span id="nhom-{g_idx}"></span>📌 Phân Nhóm: {group_name}')
+        markdown_content.append(f'## nhóm-{g_idx}')
+        markdown_content.append(f'### 📌 Phân Nhóm {g_idx}: {group_name}')
         markdown_content.append("")
         
         for num, item in groups[group_name]:
@@ -2323,7 +2324,7 @@ def generate_markdown():
             formatted_syn = format_word_links(syn, all_words_map)
             formatted_ant = format_word_links(ant, all_words_map)
             
-            markdown_content.append(f'### <span id="{num}-{word}"></span>{num}. {word}')
+            markdown_content.append(f'### {num}-{word}')
             markdown_content.append(f"* **Ý nghĩa:** {meaning}")
             markdown_content.append("")
             

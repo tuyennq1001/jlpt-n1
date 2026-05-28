@@ -6,7 +6,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ## 🗂️ Mục Lục Tra Cứu Nhanh (Table of Contents)
 
-### [Phân Nhóm 1: Trạng Thái Tinh Thần & Cảm Xúc](#nhom-1)
+### [Phân Nhóm 1: Trạng Thái Tinh Thần & Cảm Xúc](#nhóm-1)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 | [41. けろっと](#41-けろっと) | [42. けろり](#42-けろり) | [43. ぼうぜん](#43-ぼうぜん) | [44. しゃきっと](#44-しゃきっと) | [45. ぴりぴり](#45-ぴりぴり) |
 | [46. はしゃぐ](#46-はしゃぐ) | [47. めげる](#47-めげる) | [48. ひやひや](#48-ひやひや) | [49. もじもじする](#49-もじもじする) | [50. そわそわする](#50-そわそわする) |
 
-### [Phân Nhóm 2: Cảm Giác Cơ Thể & Thể Chất](#nhom-2)
+### [Phân Nhóm 2: Cảm Giác Cơ Thể & Thể Chất](#nhóm-2)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 | [91. ごつごつする](#91-ごつごつする) | [92. ひりひりする](#92-ひりひりする) | [93. ちくちくする](#93-ちくちくする) | [94. がたがたする](#94-がたがたする) | [95. すーすーする](#95-すーすーする) |
 | [96. じわーっとする](#96-じわーっとする) | [97. からりとする](#97-からりとする) | [98. すっきりする](#98-すっきりする) | [99. さっぱりする](#99-さっぱりする) | [100. ほかほか](#100-ほかほか) |
 
-### [Phân Nhóm 3: Hành Vi & Thái Độ](#nhom-3)
+### [Phân Nhóm 3: Hành Vi & Thái Độ](#nhóm-3)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 | [141. とことこ](#141-とことこ) | [142. もたもたする](#142-もたもたする) | [143. ゆったりする](#143-ゆったりする) | [144. はきはき](#144-はきはき) | [145. きっぱり](#145-きっぱり) |
 | [146. ちゃんとする](#146-ちゃんとする) | [147. きちんと](#147-きちんと) | [148. だらだら](#148-だらだら) | [149. もじもじする](#149-もじもじする) | [150. てきぱきやる](#150-てきぱきやる) |
 
-### [Phân Nhóm 4: Mức Độ & Biến Đổi](#nhom-4)
+### [Phân Nhóm 4: Mức Độ & Biến Đổi](#nhóm-4)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -68,9 +68,10 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-## <span id="nhom-1"></span>📌 Phân Nhóm: Trạng Thái Tinh Thần & Cảm Xúc
+## nhóm-1
+### 📌 Phân Nhóm 1: Trạng Thái Tinh Thần & Cảm Xúc
 
-### <span id="1-すっきり"></span>1. すっきり
+### 1-すっきり
 * **Ý nghĩa:** Sảng khoái / Nhẹ nhõm / Gọn gàng (sau khi trút bỏ gánh nặng)
 
 <img src="images/onomatopoeia/sukkiri.png" width="300" />
@@ -89,7 +90,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="2-がっかり"></span>2. がっかり
+### 2-がっかり
 * **Ý nghĩa:** Thất vọng / Chán nản / Sụp đổ tinh thần
 
 <img src="images/onomatopoeia/gakkari.png" width="300" />
@@ -108,7 +109,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="3-いらいら"></span>3. いらいら
+### 3-いらいら
 * **Ý nghĩa:** Bực bội / Sốt ruột / Nóng lòng
 
 <img src="images/onomatopoeia/iraira.png" width="300" />
@@ -127,7 +128,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="4-どきどき"></span>4. どきどき
+### 4-どきどき
 * **Ý nghĩa:** Hồi hộp / Tim đập thình thịch
 
 <img src="images/onomatopoeia/dokidoki.png" width="300" />
@@ -146,7 +147,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="5-わくわく"></span>5. わくわく
+### 5-わくわく
 * **Ý nghĩa:** Háo hức / Hồi hộp mong chờ
 
 <img src="images/onomatopoeia/wakuwaku.png" width="300" />
@@ -165,7 +166,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="6-はらはら"></span>6. はらはら
+### 6-はらはら
 * **Ý nghĩa:** Lo lắng / Nhấp nhổm (lo sợ giùm cho người khác)
 
 <img src="images/onomatopoeia/harahara.png" width="300" />
@@ -184,7 +185,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="7-うっとり"></span>7. うっとり
+### 7-うっとり
 * **Ý nghĩa:** Say đắm / Ngây ngất / Say sưa ngắm nhìn
 
 <img src="images/onomatopoeia/uttori.png" width="300" />
@@ -203,7 +204,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="8-しょんぼり"></span>8. しょんぼり
+### 8-しょんぼり
 * **Ý nghĩa:** Ủ rũ / Buồn bã / Thẫn thờ
 
 <img src="images/onomatopoeia/shonbori.png" width="300" />
@@ -222,7 +223,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="9-びくびく"></span>9. びくびく
+### 9-びくびく
 * **Ý nghĩa:** Run sợ / Phấp phỏng lo sợ / Sợ sệt
 
 <img src="images/onomatopoeia/bikubiku.png" width="300" />
@@ -241,7 +242,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="10-おどおど"></span>10. おどおど
+### 10-おどおど
 * **Ý nghĩa:** Rụt rè / Lúng túng / Khép nép (thiếu tự tin)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -260,7 +261,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="11-ほっと"></span>11. ほっと
+### 11-ほっと
 * **Ý nghĩa:** Thở phào nhẹ nhõm / Yên tâm
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -279,7 +280,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="12-むかむか"></span>12. むかむか
+### 12-むかむか
 * **Ý nghĩa:** Nôn nao / Bực tức / Tức tối lồng lộn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -298,7 +299,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="13-やきもき"></span>13. やきもき
+### 13-やきもき
 * **Ý nghĩa:** Sốt ruột / Bồn chồn lo lắng (về chuyện của người khác)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -317,7 +318,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="14-おろおろ"></span>14. おろおろ
+### 14-おろおろ
 * **Ý nghĩa:** Cuống cuồng / Lúng túng mất phương hướng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -336,7 +337,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="15-びっくり"></span>15. びっくり
+### 15-びっくり
 * **Ý nghĩa:** Giật mình / Kinh ngạc / Bất ngờ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -355,7 +356,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="16-うきうき"></span>16. うきうき
+### 16-うきうき
 * **Ý nghĩa:** Hân hoan / Rộn ràng vui tươi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -374,7 +375,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="17-めそめそ"></span>17. めそめそ
+### 17-めそめそ
 * **Ý nghĩa:** Khọc thút thít / Sụt sùi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -393,7 +394,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="18-おずおず"></span>18. おずおず
+### 18-おずおず
 * **Ý nghĩa:** Rụt rè / Rón rén / Ngần ngại
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -412,7 +413,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="19-もじもじ"></span>19. もじもじ
+### 19-もじもじ
 * **Ý nghĩa:** Ngượng nghịu / Ngại ngùng lúng túng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -431,7 +432,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="20-てきぱき"></span>20. てきぱき
+### 20-てきぱき
 * **Ý nghĩa:** Nhanh nhẹn / Tháo vát / Nhanh nhảu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -450,7 +451,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="21-ぬくぬく"></span>21. ぬくぬく
+### 21-ぬくぬく
 * **Ý nghĩa:** Ấm êm / Dễ chịu / Sung sướng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -469,7 +470,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="22-はっきり"></span>22. はっきり
+### 22-はっきり
 * **Ý nghĩa:** Rõ ràng / Dứt khoát
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -488,7 +489,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="23-すくすく"></span>23. すくすく
+### 23-すくすく
 * **Ý nghĩa:** Mau lớn / Khỏe mạnh (trẻ em, cây cối)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -507,7 +508,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="24-いそいそ"></span>24. いそいそ
+### 24-いそいそ
 * **Ý nghĩa:** Hớn hở vội vã / Hăm hở
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -526,7 +527,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="25-じりじり"></span>25. じりじり
+### 25-じりじり
 * **Ý nghĩa:** Nóng ruột chờ đợi / Sốt ruột
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -545,7 +546,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="26-もやもや"></span>26. もやもや
+### 26-もやもや
 * **Ý nghĩa:** Bức bối / Bứt rứt / U ám trong lòng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -564,7 +565,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="27-つくづく"></span>27. つくづく
+### 27-つくづく
 * **Ý nghĩa:** Thấu đáo / Sâu sắc / Tỉ mỉ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -583,7 +584,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="28-あたふた"></span>28. あたふた
+### 28-あたふた
 * **Ý nghĩa:** Luống cuống / Cuống quýt / Vội vã
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -602,7 +603,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="29-しみじみ"></span>29. しみじみ
+### 29-しみじみ
 * **Ý nghĩa:** Thấm thía / Sâu sắc / Lắng đọng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -621,7 +622,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="30-うじうじ"></span>30. うじうじ
+### 30-うじうじ
 * **Ý nghĩa:** Do dự / Thiếu quyết đoán / Kỳ kèo
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -640,7 +641,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="31-そわそわ"></span>31. そわそわ
+### 31-そわそわ
 * **Ý nghĩa:** Nhấp nhổm / Bồn chồn (đứng ngồi không yên)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -659,7 +660,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="32-どきっと"></span>32. どきっと
+### 32-どきっと
 * **Ý nghĩa:** Giật nảy mình / Hoảng hốt bất ngờ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -678,7 +679,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="33-きっと"></span>33. きっと
+### 33-きっと
 * **Ý nghĩa:** Nghiêm nghị / Cứng rắn / Chắc chắn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -697,7 +698,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="34-はっと"></span>34. はっと
+### 34-はっと
 * **Ý nghĩa:** Giật mình nhận ra / Sực tỉnh
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -716,7 +717,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="35-むっと"></span>35. むっと
+### 35-むっと
 * **Ý nghĩa:** Hậm hực / Khó chịu ra mặt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -735,7 +736,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="36-ぷんぷん"></span>36. ぷんぷん
+### 36-ぷんぷん
 * **Ý nghĩa:** Giận đùng đùng / Mùi bay nồng nặc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -754,7 +755,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="37-むっつり"></span>37. むっつり
+### 37-むっつり
 * **Ý nghĩa:** Lầm lì / Lầm rầm / Ít nói
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -773,7 +774,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="38-げっそり"></span>38. げっそり
+### 38-げっそり
 * **Ý nghĩa:** Gầy rộc đi / Hốc hác / Chán nản cực độ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -792,7 +793,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="39-にこにこ"></span>39. にこにこ
+### 39-にこにこ
 * **Ý nghĩa:** Mỉm cười rạng rỡ / Vui vẻ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -811,7 +812,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="40-にやにや"></span>40. にやにや
+### 40-にやにや
 * **Ý nghĩa:** Cười đểu / Cười ẩn ý / Cười một mình
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -830,7 +831,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="41-けろっと"></span>41. けろっと
+### 41-けろっと
 * **Ý nghĩa:** Thản nhiên / Như không có chuyện gì
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -849,7 +850,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="42-けろり"></span>42. けろり
+### 42-けろり
 * **Ý nghĩa:** Thản nhiên bình phục / Khỏi hẳn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -868,7 +869,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="43-ぼうぜん"></span>43. ぼうぜん
+### 43-ぼうぜん
 * **Ý nghĩa:** Bàng hoàng / Ngơ ngác / Thẫn thờ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -887,7 +888,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="44-しゃきっと"></span>44. しゃきっと
+### 44-しゃきっと
 * **Ý nghĩa:** Tỉnh táo hẳn / Dứt khoát vững vàng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -906,7 +907,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="45-ぴりぴり"></span>45. ぴりぴり
+### 45-ぴりぴり
 * **Ý nghĩa:** Căng thẳng nhạy cảm / Tê rát (vị cay)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -925,7 +926,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="46-はしゃぐ"></span>46. はしゃぐ
+### 46-はしゃぐ
 * **Ý nghĩa:** Vui đùa quá trớn / Phấn khích huyên náo
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -944,7 +945,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="47-めげる"></span>47. めげる
+### 47-めげる
 * **Ý nghĩa:** Nản lòng / Thoái chí / Sụp đổ trước áp lực
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -963,7 +964,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="48-ひやひや"></span>48. ひやひや
+### 48-ひやひや
 * **Ý nghĩa:** Lo sợ run rẩy / Sợ dựng tóc gáy / Ớn lạnh
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -982,7 +983,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="49-もじもじする"></span>49. もじもじする
+### 49-もじもじする
 * **Ý nghĩa:** Lúng ta lúng túng / Rụt rè ngần ngại
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1001,7 +1002,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="50-そわそわする"></span>50. そわそわする
+### 50-そわそわする
 * **Ý nghĩa:** Đứng ngồi không yên / Bồn chồn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1020,9 +1021,10 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-## <span id="nhom-2"></span>📌 Phân Nhóm: Cảm Giác Cơ Thể & Thể Chất
+## nhóm-2
+### 📌 Phân Nhóm 2: Cảm Giác Cơ Thể & Thể Chất
 
-### <span id="51-さっぱり"></span>51. さっぱり
+### 51-さっぱり
 * **Ý nghĩa:** Sảng khoái mát mẻ / Thanh đạm (vị ăn) / Hoàn toàn không (kèm phủ định)
 
 <img src="images/onomatopoeia/sappari.png" width="300" />
@@ -1041,7 +1043,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="52-ぴったり"></span>52. ぴったり
+### 52-ぴったり
 * **Ý nghĩa:** Vừa khít / Vừa vặn hoàn hảo / Phù hợp nhất
 
 <img src="images/onomatopoeia/pittari.png" width="300" />
@@ -1060,7 +1062,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="53-ぐっすり"></span>53. ぐっすり
+### 53-ぐっすり
 * **Ý nghĩa:** Ngủ say / Ngủ ngon giấc
 
 <img src="images/onomatopoeia/gussuri.png" width="300" />
@@ -1079,7 +1081,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="54-ぺこぺこ"></span>54. ぺこぺこ
+### 54-ぺこぺこ
 * **Ý nghĩa:** Đói cồn cào / Khúm núm cúi đầu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1098,7 +1100,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="55-からから"></span>55. からから
+### 55-からから
 * **Ý nghĩa:** Khô khốc / Khát khô cổ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1117,7 +1119,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="56-ぱっちり"></span>56. ぱっちり
+### 56-ぱっちり
 * **Ý nghĩa:** Tròn xoe / To tròn (mắt)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1136,7 +1138,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="57-ぽかぽか"></span>57. ぽかぽか
+### 57-ぽかぽか
 * **Ý nghĩa:** Ấm áp / Dễ chịu (cơ thể, thời tiết)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1155,7 +1157,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="58-ゾクゾク"></span>58. ゾクゾク
+### 58-ゾクゾク
 * **Ý nghĩa:** Rùng mình vì lạnh hoặc vì phấn khích
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1174,7 +1176,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="59-ずきずき"></span>59. ずきずき
+### 59-ずきずき
 * **Ý nghĩa:** Đau nhói / Đau buốt liên tục từng cơn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1193,7 +1195,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="60-むずむず"></span>60. むずむず
+### 60-むずむず
 * **Ý nghĩa:** Ngứa ngáy / Bứt rứt muốn hành động
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1212,7 +1214,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="61-じんじん"></span>61. じんじん
+### 61-じんじん
 * **Ý nghĩa:** Tê rần rần / Tê buốt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1231,7 +1233,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="62-くたくた"></span>62. くたくた
+### 62-くたくた
 * **Ý nghĩa:** Mệt rã rời / Mệt lử / Nhão nhẹt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1250,7 +1252,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="63-へとへと"></span>63. へとへと
+### 63-へとへと
 * **Ý nghĩa:** Mệt đứt hơi / Kiệt sức hoàn toàn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1269,7 +1271,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="64-ぶるぶる"></span>64. ぶるぶる
+### 64-ぶるぶる
 * **Ý nghĩa:** Run cầm cập / Run lẩy bẩy
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1288,7 +1290,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="65-がくがく"></span>65. がくがく
+### 65-がくがく
 * **Ý nghĩa:** Run bủn rủn (đầu gối, khớp xương)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1307,7 +1309,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="66-ぞっと"></span>66. ぞっと
+### 66-ぞっと
 * **Ý nghĩa:** Rợn tóc gáy / Nổi gai ốc / Kinh hãi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1326,7 +1328,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="67-ひんやり"></span>67. ひんやり
+### 67-ひんやり
 * **Ý nghĩa:** Mát lạnh se se / Dễ chịu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1345,7 +1347,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="68-むんむん"></span>68. むんむん
+### 68-むんむん
 * **Ý nghĩa:** Oi bức nồng nặc / Ngột ngạt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1364,7 +1366,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="69-ねばねば"></span>69. ねばねば
+### 69-ねばねば
 * **Ý nghĩa:** Dính dính nhớp nháp / Độ dính kéo sợi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1383,7 +1385,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="70-ぬるぬる"></span>70. ぬるぬる
+### 70-ぬるぬる
 * **Ý nghĩa:** Trơn tuột / Nhớt nhúa
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1402,7 +1404,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="71-ぴちぴち"></span>71. ぴちぴち
+### 71-ぴちぴち
 * **Ý nghĩa:** Tươi rói (cá nhảy) / Tràn đầy sức sống tươi trẻ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1421,7 +1423,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="72-がさがさ"></span>72. がさがさ
+### 72-がさがさ
 * **Ý nghĩa:** Khô ráp / Nhám nhúa / Xột xoạt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1440,7 +1442,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="73-べたべた"></span>73. べたべた
+### 73-べたべた
 * **Ý nghĩa:** Bết dính / Nhớp nháp khó chịu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1459,7 +1461,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="74-つるつる"></span>74. つるつる
+### 74-つるつる
 * **Ý nghĩa:** Trơn nhẵn / Láng mịn bóng bẩy
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1478,7 +1480,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="75-ごつごつ"></span>75. ごつごつ
+### 75-ごつごつ
 * **Ý nghĩa:** Gồ ghề / Thô ráp / Góc cạnh
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1497,7 +1499,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="76-あっさり"></span>76. あっさり
+### 76-あっさり
 * **Ý nghĩa:** Thanh mát nhẹ nhàng / Dễ dàng / Đơn giản không cầu kỳ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1516,7 +1518,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="77-こってり"></span>77. こってり
+### 77-こってり
 * **Ý nghĩa:** Đậm đà béo ngậy / Mức độ nặng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1535,7 +1537,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="78-むせ返る"></span>78. むせ返る
+### 78-むせ返る
 * **Ý nghĩa:** Ngạt thở / Sặc sụa (vì mùi hoặc khói)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1554,7 +1556,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="79-ひりひり"></span>79. ひりひり
+### 79-ひりひり
 * **Ý nghĩa:** Đau rát buốt / Cay xè (đầu lưỡi)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1573,7 +1575,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="80-ちくちく"></span>80. ちくちく
+### 80-ちくちく
 * **Ý nghĩa:** Đau châm chích / Ngứa ngáy (như bị kim đâm)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1592,7 +1594,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="81-がたがた"></span>81. がたがた
+### 81-がたがた
 * **Ý nghĩa:** Rung bần bật / Lỏng lẻo ọp ẹp
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1611,7 +1613,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="82-がびがび"></span>82. がびがび
+### 82-がびがび
 * **Ý nghĩa:** Khô cứng đơ / Nhám xơ xác (do dính keo, nước)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1630,7 +1632,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="83-かさかさ"></span>83. かさかさ
+### 83-かさかさ
 * **Ý nghĩa:** Khô ráp xơ xác / Thiếu ẩm
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1649,7 +1651,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="84-すーすー"></span>84. すーすー
+### 84-すーすー
 * **Ý nghĩa:** Tê mát lạnh / Gió lùa lành lạnh
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1668,7 +1670,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="85-じわーっと"></span>85. じわーっと
+### 85-じわーっと
 * **Ý nghĩa:** Rỉ ra từ từ / Thấm đẫm dần dần
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1687,7 +1689,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="86-からりとする"></span>86. からりとする
+### 86-からりとする
 * **Ý nghĩa:** Khô ráo hoàn toàn / Thoáng đãng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1706,7 +1708,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="87-ねばねばする"></span>87. ねばねばする
+### 87-ねばねばする
 * **Ý nghĩa:** Dính dấp / Có tính dính nhớt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1725,7 +1727,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="88-ぬるぬるする"></span>88. ぬるぬるする
+### 88-ぬるぬるする
 * **Ý nghĩa:** Trơn nhớt / Nhớt nhúa
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1744,7 +1746,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="89-べたべたする"></span>89. べたべたする
+### 89-べたべたする
 * **Ý nghĩa:** Nhớp nháp dính mồ hôi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1763,7 +1765,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="90-つるつるする"></span>90. つるつるする
+### 90-つるつるする
 * **Ý nghĩa:** Trơn láng / Trơn tuột
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1782,7 +1784,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="91-ごつごつする"></span>91. ごつごつする
+### 91-ごつごつする
 * **Ý nghĩa:** Xương xẩu / Gồ ghề
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1801,7 +1803,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="92-ひりひりする"></span>92. ひりひりする
+### 92-ひりひりする
 * **Ý nghĩa:** Đau rát / Cay rát đầu lưỡi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1820,7 +1822,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="93-ちくちくする"></span>93. ちくちくする
+### 93-ちくちくする
 * **Ý nghĩa:** Đau châm chích / Ngứa ngáy ngứa ngáy
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1839,7 +1841,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="94-がたがたする"></span>94. がたがたする
+### 94-がたがたする
 * **Ý nghĩa:** Rung lắc cọc cạch / Lọc cọc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1858,7 +1860,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="95-すーすーする"></span>95. すーすーする
+### 95-すーすーする
 * **Ý nghĩa:** Tê mát bạc hà / Gió thổi lạnh lùa
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1877,7 +1879,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="96-じわーっとする"></span>96. じわーっとする
+### 96-じわーっとする
 * **Ý nghĩa:** Rưng rưng nước mắt / Râm ran
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1896,7 +1898,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="97-からりとする"></span>97. からりとする
+### 97-からりとする
 * **Ý nghĩa:** Khô ráo / Hết ẩm mốc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1915,7 +1917,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="98-すっきりする"></span>98. すっきりする
+### 98-すっきりする
 * **Ý nghĩa:** Nhẹ nhõm đầu óc / Đỡ đau
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1934,7 +1936,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="99-さっぱりする"></span>99. さっぱりする
+### 99-さっぱりする
 * **Ý nghĩa:** Sảng khoái mát mẻ đầu óc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1953,7 +1955,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="100-ほかほか"></span>100. ほかほか
+### 100-ほかほか
 * **Ý nghĩa:** Nóng hổi (thức ăn) / Ấm áp dễ chịu (cơ thể)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -1972,9 +1974,10 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-## <span id="nhom-3"></span>📌 Phân Nhóm: Hành Vi & Thái Độ
+## nhóm-3
+### 📌 Phân Nhóm 3: Hành Vi & Thái Độ
 
-### <span id="101-うっかり"></span>101. うっかり
+### 101-うっかり
 * **Ý nghĩa:** Lơ đãng / Vô ý / Lỡ đễnh (quên đồ, làm sai)
 
 <img src="images/onomatopoeia/ukkari.png" width="300" />
@@ -1993,7 +1996,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="102-しっかり"></span>102. しっかり
+### 102-しっかり
 * **Ý nghĩa:** Chắc chắn / Vững vàng / Đáng tin cậy
 
 <img src="images/onomatopoeia/shikkari.png" width="300" />
@@ -2012,7 +2015,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="103-のんびり"></span>103. のんびり
+### 103-のんびり
 * **Ý nghĩa:** Thong thả / Thong dong / Nhàn nhã thảnh thơi
 
 <img src="images/onomatopoeia/nonbiri.png" width="300" />
@@ -2031,7 +2034,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="104-うろうろ"></span>104. うろうろ
+### 104-うろうろ
 * **Ý nghĩa:** Lảng vảng / Đi tới đi lui (không mục đích)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2050,7 +2053,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="105-ぶらぶら"></span>105. ぶらぶら
+### 105-ぶらぶら
 * **Ý nghĩa:** Đi loanh quanh dạo chơi / Nhàn rỗi đi dạo
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2069,7 +2072,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="106-よろよろ"></span>106. よろよろ
+### 106-よろよろ
 * **Ý nghĩa:** Lảo đảo / Loạng choạng không vững
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2088,7 +2091,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="107-とぼとぼ"></span>107. とぼとぼ
+### 107-とぼとぼ
 * **Ý nghĩa:** Lầm lũi bước đi / Lê lết mệt mỏi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2107,7 +2110,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="108-こっそり"></span>108. こっそり
+### 108-こっそり
 * **Ý nghĩa:** Lén lút / Vụng trộm / Âm thầm
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2126,7 +2129,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="109-こっくり"></span>109. こっくり
+### 109-こっくり
 * **Ý nghĩa:** Gật gù (ngủ gật) / Đồng ý gật đầu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2145,7 +2148,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="110-さっさと"></span>110. さっさと
+### 110-さっさと
 * **Ý nghĩa:** Nhanh chóng / Mau lẹ (không chần chừ)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2164,7 +2167,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="111-せっせと"></span>111. せっせと
+### 111-せっせと
 * **Ý nghĩa:** Cần mẫn / Chăm chỉ / Siêng năng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2183,7 +2186,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="112-じっと"></span>112. じっと
+### 112-じっと
 * **Ý nghĩa:** Chằm chằm (nhìn) / Đứng im chịu đựng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2202,7 +2205,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="113-ぼんやり"></span>113. ぼんやり
+### 113-ぼんやり
 * **Ý nghĩa:** Thơ thẩn / Ngẩn ngơ / Mơ hồ không rõ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2221,7 +2224,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="114-ぐずぐず"></span>114. ぐずぐず
+### 114-ぐずぐず
 * **Ý nghĩa:** Lề mề / Chần chừ / Kỳ kèo lười nhác
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2240,7 +2243,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="115-ばたばた"></span>115. ばたばた
+### 115-ばたばた
 * **Ý nghĩa:** Bận rộn tíu tít / Luống cuống dập dồn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2259,7 +2262,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="116-ちょこちょこ"></span>116. ちょこちょこ
+### 116-ちょこちょこ
 * **Ý nghĩa:** Lăng xăng / Đi thoăn thoắt / Thường xuyên
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2278,7 +2281,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="117-うとうと"></span>117. うとうと
+### 117-うとうと
 * **Ý nghĩa:** Mơ màng / Thiu thiu ngủ / Ngủ gà ngủ gật
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2297,7 +2300,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="118-ぐうぐう"></span>118. ぐうぐう
+### 118-ぐうぐう
 * **Ý nghĩa:** Ngủ khò khò / Kêu réo (bụng đói)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2316,7 +2319,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="119-すらすら"></span>119. すらすら
+### 119-すらすら
 * **Ý nghĩa:** Trôi chảy / Trơn tru / Vèo vèo
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2335,7 +2338,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="120-ぺらぺら"></span>120. ぺらぺら
+### 120-ぺらぺら
 * **Ý nghĩa:** Lưu loát (nói ngoại ngữ) / Mỏng dính / Nói hớt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2354,7 +2357,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="121-ちらちら"></span>121. ちらちら
+### 121-ちらちら
 * **Ý nghĩa:** Liếc nhìn / Lác đác (tuyết rơi) / Chập chờn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2373,7 +2376,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="122-じろじろ"></span>122. じろじろ
+### 122-じろじろ
 * **Ý nghĩa:** Nhìn soi mói / Nhìn chằm chằm thiếu lịch sự
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2392,7 +2395,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="123-ぐんぐん"></span>123. ぐんぐん
+### 123-ぐんぐん
 * **Ý nghĩa:** Vùn vụt / Nhanh như thổi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2411,7 +2414,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="124-てくてく"></span>124. てくてく
+### 124-てくてく
 * **Ý nghĩa:** Đi bộ túc tắc / Cặm cụi đi bộ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2430,7 +2433,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="125-きょろきょろ"></span>125. きょろきょろ
+### 125-きょろきょろ
 * **Ý nghĩa:** Dáo dác nhìn quanh / Lơ ngơ ngó nghiêng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2449,7 +2452,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="126-おずおずと"></span>126. おずおずと
+### 126-おずおずと
 * **Ý nghĩa:** Rụt rè e sợ / Ngập ngừng hỏi han
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2468,7 +2471,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="127-ちょこまか"></span>127. ちょこまか
+### 127-ちょこまか
 * **Ý nghĩa:** Chạy đi chạy lại lăng xăng / Làm ồn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2487,7 +2490,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="128-すたすた"></span>128. すたすた
+### 128-すたすた
 * **Ý nghĩa:** Đi nhanh thoăn thoắt / Bước nhanh dứt khoát
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2506,7 +2509,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="129-さっさとやる"></span>129. さっさとやる
+### 129-さっさとやる
 * **Ý nghĩa:** Nhanh nhẹn làm việc / Hoàn thành nhanh
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2525,7 +2528,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="130-ぐいぐい"></span>130. ぐいぐい
+### 130-ぐいぐい
 * **Ý nghĩa:** Kéo mạnh vùn vụt / Uống ực ực dồn dập
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2544,7 +2547,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="131-うとうとする"></span>131. うとうとする
+### 131-うとうとする
 * **Ý nghĩa:** Ngủ gà ngủ gật / Buồn ngủ ngủ gật
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2563,7 +2566,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="132-こそこそ"></span>132. こそこそ
+### 132-こそこそ
 * **Ý nghĩa:** Thì thầm lén lút / Vụng trộm chuyện trò
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2582,7 +2585,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="133-ぬきあし"></span>133. ぬきあし
+### 133-ぬきあし
 * **Ý nghĩa:** Nhón chân bước đi rón rén / Đi không tiếng động
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2601,7 +2604,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="134-ひそひそ"></span>134. ひそひそ
+### 134-ひそひそ
 * **Ý nghĩa:** Thì thầm nhỏ giọng / Nói khẽ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2620,7 +2623,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="135-へらへら"></span>135. へらへら
+### 135-へらへら
 * **Ý nghĩa:** Cười nhởn nhơ / Cười trừ nịnh bợ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2639,7 +2642,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="136-にやにやする"></span>136. にやにやする
+### 136-にやにやする
 * **Ý nghĩa:** Cười tủm tỉm / Cười ẩn ý
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2658,7 +2661,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="137-ふらふら"></span>137. ふらふら
+### 137-ふらふら
 * **Ý nghĩa:** Lảo đảo loạng choạng / Không kiên định
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2677,7 +2680,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="138-のろのろ"></span>138. のろのろ
+### 138-のろのろ
 * **Ý nghĩa:** Chậm chạp như sên / Lề mề ì ạch
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2696,7 +2699,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="139-ぐずぐずする"></span>139. ぐずぐずする
+### 139-ぐずぐずする
 * **Ý nghĩa:** Lề mề / Trì hoãn chần chừ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2715,7 +2718,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="140-そそくさと"></span>140. そそくさと
+### 140-そそくさと
 * **Ý nghĩa:** Hối hả chuồn đi / Vội vã lén lút ra về
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2734,7 +2737,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="141-とことこ"></span>141. とことこ
+### 141-とことこ
 * **Ý nghĩa:** Bước đi lon ton / Đi lại nhanh của bé nhỏ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2753,7 +2756,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="142-もたもたする"></span>142. もたもたする
+### 142-もたもたする
 * **Ý nghĩa:** Lóng ngóng vụng về / Chậm chạp bất tiện
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2772,7 +2775,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="143-ゆったりする"></span>143. ゆったりする
+### 143-ゆったりする
 * **Ý nghĩa:** Thư thái rộng rãi / Thong thả thoải mái
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2791,7 +2794,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="144-はきはき"></span>144. はきはき
+### 144-はきはき
 * **Ý nghĩa:** Hoạt bát nhanh nhảu / Rõ ràng mạch lạc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2810,7 +2813,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="145-きっぱり"></span>145. きっぱり
+### 145-きっぱり
 * **Ý nghĩa:** Dứt khoát từ chối / Rõ ràng minh bạch
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2829,7 +2832,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="146-ちゃんとする"></span>146. ちゃんとする
+### 146-ちゃんとする
 * **Ý nghĩa:** Đàng hoàng chỉn chu / Đâu ra đấy
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2848,7 +2851,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="147-きちんと"></span>147. きちんと
+### 147-きちんと
 * **Ý nghĩa:** Ngăn nắp chỉn chu / Đâu ra đấy
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2867,7 +2870,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="148-だらだら"></span>148. だらだら
+### 148-だらだら
 * **Ý nghĩa:** Lê thê dài dòng / Lười nhác nằm dài / Chảy lòng thòng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2886,7 +2889,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="149-もじもじする"></span>149. もじもじする
+### 149-もじもじする
 * **Ý nghĩa:** Ngượng nghịu khép nép
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2905,7 +2908,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="150-てきぱきやる"></span>150. てきぱきやる
+### 150-てきぱきやる
 * **Ý nghĩa:** Tháo vát hoàn thành / Làm việc nhanh nhảu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2924,9 +2927,10 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-## <span id="nhom-4"></span>📌 Phân Nhóm: Mức Độ & Biến Đổi
+## nhóm-4
+### 📌 Phân Nhóm 4: Mức Độ & Biến Đổi
 
-### <span id="151-めっきり"></span>151. めっきり
+### 151-めっきり
 * **Ý nghĩa:** Rõ rệt / Đáng kể (biến đổi theo thời gian)
 
 <img src="images/onomatopoeia/mekkiri.png" width="300" />
@@ -2945,7 +2949,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="152-すっかり"></span>152. すっかり
+### 152-すっかり
 * **Ý nghĩa:** Hoàn toàn / Sạch sành sanh
 
 <img src="images/onomatopoeia/sukkari.png" width="300" />
@@ -2964,7 +2968,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="153-ぎっしり"></span>153. ぎっしり
+### 153-ぎっしり
 * **Ý nghĩa:** Nén chặt / Đầy chật ních / San sát
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2983,7 +2987,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="154-ずらり"></span>154. ずらり
+### 154-ずらり
 * **Ý nghĩa:** Xếp hàng san sát / San sát tăm tắp
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3002,7 +3006,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="155-たっぷり"></span>155. たっぷり
+### 155-たっぷり
 * **Ý nghĩa:** Dồi dào / Đầy ắp / Đầy tràn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3021,7 +3025,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="156-ばらばら"></span>156. ばらばら
+### 156-ばらばら
 * **Ý nghĩa:** Rời rạc / Rải rác / Mỗi người một ngả
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3040,7 +3044,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="157-めちゃくちゃ"></span>157. めちゃくちゃ
+### 157-めちゃくちゃ
 * **Ý nghĩa:** Lộn xộn / Nát bét / Cực kỳ (tiếng lóng)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3059,7 +3063,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="158-ごちゃごちゃ"></span>158. ごちゃごちゃ
+### 158-ごちゃごちゃ
 * **Ý nghĩa:** Bừa bộn / Lộn xộn lung tung
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3078,7 +3082,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="159-ぴかぴか"></span>159. ぴかぴか
+### 159-ぴかぴか
 * **Ý nghĩa:** Sáng loáng / Lấp lánh / Mới toanh
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3097,7 +3101,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="160-がらがら"></span>160. がらがら
+### 160-がらがら
 * **Ý nghĩa:** Trống huơ trống hoác (tàu xe) / Tiếng ầm ầm đổ nát
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3116,7 +3120,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="161-どんより"></span>161. どんより
+### 161-どんより
 * **Ý nghĩa:** U ám / Xám xịt (thời tiết, ánh mắt)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3135,7 +3139,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="162-しっとり"></span>162. しっとり
+### 162-しっとり
 * **Ý nghĩa:** Ẩm mịn / Dịu dàng / Yên ắng dễ chịu
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3154,7 +3158,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="163-からり"></span>163. からり
+### 163-からり
 * **Ý nghĩa:** Khô ráo thoáng đãng / Cởi mở dứt khoát
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3173,7 +3177,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="164-じっとり"></span>164. じっとり
+### 164-じっとり
 * **Ý nghĩa:** Đầm đìa / Ẩm ướt khó chịu (mồ hôi)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3192,7 +3196,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="165-どっさり"></span>165. どっさり
+### 165-どっさり
 * **Ý nghĩa:** Nhiều đống lớn / Trĩu nặng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3211,7 +3215,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="166-びっしょり"></span>166. びっしょり
+### 166-びっしょり
 * **Ý nghĩa:** Ướt sũng / Ướt đẫm
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3230,7 +3234,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="167-ぼろぼろ"></span>167. ぼろぼろ
+### 167-ぼろぼろ
 * **Ý nghĩa:** Rách nát tơi tả / Lã chã (lệ rơi) / Rệu rã
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3249,7 +3253,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="168-ざらざら"></span>168. ざらざら
+### 168-ざらざら
 * **Ý nghĩa:** Nhám ráp / Đầy cát sạn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3268,7 +3272,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="169-まるまる"></span>169. まるまる
+### 169-まるまる
 * **Ý nghĩa:** Tròn trịa mập mạp / Tròn vẹn toàn bộ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3287,7 +3291,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="170-じわじわ"></span>170. じわじわ
+### 170-じわじわ
 * **Ý nghĩa:** Từ từ thấm dần / Tác động chậm chắc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3306,7 +3310,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="171-どんどん"></span>171. どんどん
+### 171-どんどん
 * **Ý nghĩa:** Nhanh chóng liên tục / Dồn dập
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3325,7 +3329,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="172-ますます"></span>172. ますます
+### 172-ますます
 * **Ý nghĩa:** Càng ngày càng / Tăng tiến
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3344,7 +3348,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="173-いよいよ"></span>173. いよいよ
+### 173-いよいよ
 * **Ý nghĩa:** Cuối cùng thì / Ngày càng tăng tiến mức độ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3363,7 +3367,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="174-そろそろ"></span>174. そろそろ
+### 174-そろそろ
 * **Ý nghĩa:** Sắp sửa đến lúc / Chuẩn bị
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3382,7 +3386,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="175-だんだん"></span>175. だんだん
+### 175-だんだん
 * **Ý nghĩa:** Dần dần / Từng bước một
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3401,7 +3405,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="176-ほとんど"></span>176. ほとんど
+### 176-ほとんど
 * **Ý nghĩa:** Hầu như / Gần như toàn bộ / Suýt nữa thì
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3420,7 +3424,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="177-おおよそ"></span>177. おおよそ
+### 177-おおよそ
 * **Ý nghĩa:** Đại khái / Khoảng chừng / Nhìn chung
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3439,7 +3443,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="178-ごくごく"></span>178. ごくごく
+### 178-ごくごく
 * **Ý nghĩa:** Cực kỳ / Vô cùng / Uống ừng ực dồn dập
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3458,7 +3462,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="179-がたがたする"></span>179. がたがたする
+### 179-がたがたする
 * **Ý nghĩa:** Cọc cạch lung lay / Sập xệ ọp ẹp
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3477,7 +3481,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="180-がらりと"></span>180. がらりと
+### 180-がらりと
 * **Ý nghĩa:** Thay đổi 180 độ / Hoàn toàn khác biệt
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3496,7 +3500,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="181-どっと"></span>181. どっと
+### 181-どっと
 * **Ý nghĩa:** Ồ ạt kéo tới / Đột ngột ùa ra (tiếng cười, mệt mỏi)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3515,7 +3519,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="182-ぽつぽつ"></span>182. ぽつぽつ
+### 182-ぽつぽつ
 * **Ý nghĩa:** Lác đác rải rác / Mưa rơi tí tách / Nổi mụn nhỏ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3534,7 +3538,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="183-ちらほら"></span>183. ちらほら
+### 183-ちらほら
 * **Ý nghĩa:** Lác đác đây đó / Rải rác xuất hiện
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3553,7 +3557,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="184-まちまち"></span>184. まちまち
+### 184-まちまち
 * **Ý nghĩa:** Muôn hình muôn vẻ / Không đồng đều / Khác nhau
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3572,7 +3576,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="185-べたっと"></span>185. べたっと
+### 185-べたっと
 * **Ý nghĩa:** Bám dính chặt / Dán bệt xuống đất
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3591,7 +3595,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="186-すかすか"></span>186. すかすか
+### 186-すかすか
 * **Ý nghĩa:** Trống rỗng thưa thớt / Loãng toẹt / Gió lùa thông thoáng
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3610,7 +3614,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="187-ずっしり"></span>187. ずっしり
+### 187-ずっしり
 * **Ý nghĩa:** Nặng trĩu tay / Nặng đầm / Có giá trị
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3629,7 +3633,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="188-みっしり"></span>188. みっしり
+### 188-みっしり
 * **Ý nghĩa:** Dày đặc / San sát chật chội / Nghiêm khắc
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3648,7 +3652,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="189-ぎゅうぎゅう"></span>189. ぎゅうぎゅう
+### 189-ぎゅうぎゅう
 * **Ý nghĩa:** Nhét chật cứng / Chật ních / Khóc thút thít
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3667,7 +3671,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="190-カラリとする"></span>190. カラリとする
+### 190-カラリとする
 * **Ý nghĩa:** Hết ẩm ướt / Khô ráo hoàn toàn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3686,7 +3690,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="191-ずらっと"></span>191. ずらっと
+### 191-ずらっと
 * **Ý nghĩa:** Dải dài san sát / Xếp hàng dài tăm tắp
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3705,7 +3709,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="192-ひょっこり"></span>192. ひょっこり
+### 192-ひょっこり
 * **Ý nghĩa:** Bất thình lình xuất hiện / Tình cờ gặp
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3724,7 +3728,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="193-ふと"></span>193. ふと
+### 193-ふと
 * **Ý nghĩa:** Đột nhiên nhận ra / Tình cờ / Ngẫu nhiên
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3743,7 +3747,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="194-ちょっぴり"></span>194. ちょっぴり
+### 194-ちょっぴり
 * **Ý nghĩa:** Một chút xíu / Hơi hơi / Hơi một chút
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3762,7 +3766,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="195-わずか"></span>195. わずか
+### 195-わずか
 * **Ý nghĩa:** Vỏn vẹn / Chỉ một ít / Không đáng kể
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3781,7 +3785,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="196-いささか"></span>196. いささか
+### 196-いささか
 * **Ý nghĩa:** Hơi hơi / Một chút (văn phong trang trọng)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3800,7 +3804,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="197-およそ"></span>197. およそ
+### 197-およそ
 * **Ý nghĩa:** Nhìn chung / Khoảng chừng / Xấp xỉ
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3819,7 +3823,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="198-ほぼ"></span>198. ほぼ
+### 198-ほぼ
 * **Ý nghĩa:** Gần như / Xấp xỉ / Hầu như hoàn toàn
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3838,7 +3842,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="199-めちゃめちゃ"></span>199. めちゃめちゃ
+### 199-めちゃめちゃ
 * **Ý nghĩa:** Nát bét / Lộn xộn cực độ / Quá mức
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -3857,7 +3861,7 @@ Sổ tay trực quan tổng hợp 200 từ láy tượng thanh, tượng hình (
 
 ---
 
-### <span id="200-さらさら"></span>200. さらさら
+### 200-さらさら
 * **Ý nghĩa:** Mượt mà (tóc) / Xào xạc (gió, lá) / Viết trơn tru
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
