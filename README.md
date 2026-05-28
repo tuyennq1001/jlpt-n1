@@ -43,7 +43,7 @@ Dưới đây là danh sách các file chi tiết của từng nhóm ngữ pháp
 | 21 | **Giới hạn / Thời điểm** | 5 | `～にして`, `～をもって` | [bunpou/21_n1_group_scope.md](./bunpou/21_n1_group_scope.md) | Xác định mốc thời gian, cơ hội bước ngoặt hoặc phương thức đặc biệt. |
 | 22 | **Đánh giá / Quan điểm** | 3 | `～からいって`, `～に言わせれば` | [bunpou/22_n1_group_perspective.md](./bunpou/22_n1_group_perspective.md) | Đưa ra nhận xét, đánh giá hoặc góc nhìn từ một đối tượng, cương vị. |
 | 23 | **Hướng vào đối tượng** | 4 | `～をめぐって`, `～にこたえて` | [bunpou/23_n1_group_attitude.md](./bunpou/23_n1_group_attitude.md) | Diễn tả hướng tác động của hành động hoặc thái độ vào một đối tượng. |
-| 24 | **Cấm đoán / Nghĩa vụ** | 6 | `～べからず`, `～まじき` | [bunpou/24_n1_group_advanced_negation.md](./bunpou/24_n1_group_advanced_negation.md) | Các dạng phủ định cổ, cấm đoán hoặc khuyên răn mạnh mẽ trên cương vị. |
+| 24 | **Cấm đoán / Nghĩa vụ** | 6 | `～べからず`, `～まじき`, `～にたえない` | [bunpou/24_n1_group_advanced_negation.md](./bunpou/24_n1_group_advanced_negation.md) | Các dạng phủ định cổ, cấm đoán hoặc khuyên răn mạnh mẽ trên cương vị. |
 | 25 | **Kính ngữ nâng cao** | 6 | `～おいでになる`, `～まかり出る` | [bunpou/25_n1_group_keigo.md](./bunpou/25_n1_group_keigo.md) | Kính ngữ cực độ (Cung đình ngữ) và khiêm nhường ngữ cổ trang trọng. |
 | 26 | **Phó từ & Liên từ** | 8 | `ひいては`, `ましてや` | [bunpou/26_n1_group_conjunctions.md](./bunpou/26_n1_group_conjunctions.md) | Các liên kết câu học thuật giúp thay đổi hoặc nhấn mạnh lập luận bài viết. |
 | 27 | **Tương quan đặc biệt** | 5 | `～もさることながら`, `～と相まって` | [bunpou/27_n1_group_correlation.md](./bunpou/27_n1_group_correlation.md) | Diễn tả sự cộng hưởng giữa 2 yếu tố hoặc đặc tính độc nhất vô nhị. |
