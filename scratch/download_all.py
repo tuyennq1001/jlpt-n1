@@ -308,6 +308,7 @@ descriptions = {
     "むせ返る": "a character coughing from thick smoke or strong perfume in the air",
     "むっちり": "a cute chubby baby forearm or thigh with soft skin rolls",
     "むっつり": "a grumpy character sitting silently with a stern, expressionless face",
+    "どぎまぎ": "a flustered character with blushing cheeks, looking confused and embarrassed with hands up in a gentle panic, 3d clay model style",
     "むっと": "a character crossing their arms with a pouting and displeased face",
     "むんむん": "a hot, humid crowded train with steam rising, people looking sweaty",
     "めきめき": "a character growing taller and stronger rapidly, with a plant sprout growing next to them",

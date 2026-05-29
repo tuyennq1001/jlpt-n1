@@ -24,7 +24,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 | [56. まったり](#56-まったり) | [57. うるうる](#57-うるうる) | [58. げらげら](#58-げらげら) | [59. くすくす](#59-くすくす) | [60. しくしく](#60-しくしく) |
 | [61. かんかん](#61-かんかん) | [62. しぶしぶ](#62-しぶしぶ) | [63. いやいや](#63-いやいや) | [64. もんもん](#64-もんもん) | [65. くよくよ](#65-くよくよ) |
 | [66. るんるん](#66-るんるん) | [67. きょとん](#67-きょとん) | [68. ぽかん](#68-ぽかん) | [69. うはうは](#69-うはうは) | [70. ぷんすか](#70-ぷんすか) |
-| [71. むっつり](#71-むっつり) | [72. のりのり](#72-のりのり) | [73. てれてれ](#73-てれてれ) | [74. おめおめ](#74-おめおめ) | [75. つれづれ](#75-つれづれ) |
+| [71. どぎまぎ](#71-どぎまぎ) | [72. のりのり](#72-のりのり) | [73. てれてれ](#73-てれてれ) | [74. おめおめ](#74-おめおめ) | [75. つれづれ](#75-つれづれ) |
 
 ### [Phân Nhóm 2: Cảm Giác Cơ Thể & Thể Chất](#nhóm-2)
 
@@ -35,7 +35,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 | [86. じんじん](#86-じんじん) | [87. くたくた](#87-くたくた) | [88. へとへと](#88-へとへと) | [89. ぶるぶる](#89-ぶるぶる) | [90. がくがく](#90-がくがく) |
 | [91. ぞっと](#91-ぞっと) | [92. ひんやり](#92-ひんやり) | [93. むんむん](#93-むんむん) | [94. ねばねば](#94-ねばねば) | [95. ぬるぬる](#95-ぬるぬる) |
 | [96. ぴちぴち](#96-ぴちぴち) | [97. がさがさ](#97-がさがさ) | [98. べたべた](#98-べたべた) | [99. つるつる](#99-つるつる) | [100. ごつごつ](#100-ごつごつ) |
-| [101. あっさり](#101-あっさり) | [102. こってり](#102-こってり) | [103. むせ返る](#103-むせ返る) | [104. ひりひり](#104-ひりひり) | [105. ちくちく](#105-ちくちく) |
+| [101. あっさり](#101-あっさり) | [102. こってり](#102-こってり) | [103. むせ返る (むせかえる)](#103-むせ返る) | [104. ひりひり](#104-ひりひり) | [105. ちくちく](#105-ちくちく) |
 | [106. がたがた](#106-がたがた) | [107. がびがび](#107-がびがび) | [108. かさかさ](#108-かさかさ) | [109. すーすー](#109-すーすー) | [110. じわーっと](#110-じわーっと) |
 | [111. ほかほか](#111-ほかほか) | [112. ばったり](#112-ばったり) | [113. へろへろ](#113-へろへろ) | [114. へなへな](#114-へなへな) | [115. ふにゃふにゃ](#115-ふにゃふにゃ) |
 | [116. しつこい](#116-しつこい) | [117. くどい](#117-くどい) | [118. ちびちび](#118-ちびちび) | [119. きりきり](#119-きりきり) | [120. むしむし](#120-むしむし) |
@@ -63,7 +63,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 | [201. するりと](#201-するりと) | [202. こつこつ](#202-こつこつ) | [203. ちょくちょく](#203-ちょくちょく) | [204. うろちょろ](#204-うろちょろ) | [205. つんつん](#205-つんつん) |
 | [206. きびきび](#206-きびきび) | [207. やんわり](#207-やんわり) | [208. のそのそ](#208-のそのそ) | [209. うかうか](#209-うかうか) | [210. もたもた](#210-もたもた) |
 | [211. ちゃくちゃくと](#211-ちゃくちゃくと) | [212. ゆうゆうと](#212-ゆうゆうと) | [213. のうのうと](#213-のうのうと) | [214. よちよち](#214-よちよち) | [215. しゃきしゃき](#215-しゃきしゃき) |
-| [216. しれっと](#216-しれっと) | [217. しゃあしゃあと](#217-しゃあしゃあと) | [218. ぬけぬけと](#218-ぬけぬけと) | [219. 堂々と](#219-堂々と) | [220. せかせか](#220-せかせか) |
+| [216. しれっと](#216-しれっと) | [217. しゃあしゃあと](#217-しゃあしゃあと) | [218. ぬけぬけと](#218-ぬけぬけと) | [219. 堂々と (どうどうと)](#219-堂々と) | [220. せかせか](#220-せかせか) |
 | [221. まごまご](#221-まごまご) | [222. わいわい](#222-わいわい) | [223. がやがや](#223-がやがや) | [224. にっこり](#224-にっこり) | [225. にやりと](#225-にやりと) |
 
 ### [Phân Nhóm 4: Mức Độ & Biến Đổi](#nhóm-4)
@@ -442,7 +442,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 恥ずかしがって、言いたいことが言えない様子。
 > * **Sắc thái:** Thái độ ngượng ngùng, ngập ngừng không dám bộc lộ ý kiến hay hành động vì xấu hổ trước người khác.
-> * **Từ đồng nghĩa:** はникаむ, もじもじする
+> * **Từ đồng nghĩa:** はにかむ
 > * **Từ trái nghĩa:** 堂々とする, はきはきする
 
 > [!TIP]
@@ -613,7 +613,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 慌てて落ち着かない様子。
 > * **Sắc thái:** Hành động vội vàng, bối rối luống cuống khi gặp tình huống bất ngờ hoặc khi sắp trễ giờ.
-> * **Từ đồng nghĩa:** [おろおろ](#14-おろおろ), あたふたする
+> * **Từ đồng nghĩa:** [おろおろ](#14-おろおろ), 慌てる
 > * **Từ trái nghĩa:** 冷静沈着, 落ち着く
 
 > [!TIP]
@@ -917,7 +917,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 態度や気持ちが引き締まり, はっきりする様子。
 > * **Sắc thái:** Cơ thể tỉnh táo sảng khoái hẳn lên sau khi rửa mặt hoặc uống cà phê; Hoặc thái độ dứt khoát nghiêm túc.
-> * **Từ đồng nghĩa:** しゃきっとする, シャキッ
+> * **Từ đồng nghĩa:** [しっかり](#152-しっかり), [きちんと](#193-きちんと)
 > * **Từ trái nghĩa:** [ぼんやり](#163-ぼんやり), [ふにゃふにゃ](#115-ふにゃふにゃ)
 
 > [!TIP]
@@ -936,7 +936,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 神経を尖らせて、緊張している様子。舌が痛む様子。
 > * **Sắc thái:** Không khí căng thẳng bao trùm phòng thi hoặc thái độ vô cùng nhạy cảm dễ nổi giận; Hoặc vị cay làm tê đầu lưỡi.
-> * **Từ đồng nghĩa:** ぴりぴりする, ピリピリ
+> * **Từ đồng nghĩa:** [ひりひり](#104-ひりひり), 緊張する
 > * **Từ trái nghĩa:** [のんびり](#153-のんびり), 穏やか
 
 > [!TIP]
@@ -1316,7 +1316,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 済んだことをいつまでも気にして悩む様子。
 > * **Sắc thái:** Cứ mãi để tâm và buồn bã vì những chuyện nhỏ nhặt đã xảy ra trong quá khứ mà không thể thay đổi.
-> * **Từ đồng nghĩa:** くよくよする, 悔やむ
+> * **Từ đồng nghĩa:** 悩む, 悔やむ
 > * **Từ trái nghĩa:** [あっさり](#101-あっさり), 気にしない
 
 > [!TIP]
@@ -1421,22 +1421,22 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 
 ---
 
-### 71-むっつり
-* **Ý nghĩa:** Lầm lì / Cau có khó đăm đăm
+### 71-どぎまぎ
+* **Ý nghĩa:** Bối rối / Luống cuống / Ngượng ngùng (khi bất ngờ)
 
-<img src="images/onomatopoeia/むっつり.png" width="300" />
+*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
 
 > [!NOTE]
 > **Định nghĩa & Sắc thái**
-> * **日本語:** 口数が少なく、愛想がない様子。
-> * **Sắc thái:** Thái độ im lìm, không thèm mở miệng nói chuyện, mặt mày cau có khó gần khiến người khác e ngại.
-> * **Từ đồng nghĩa:** 不機嫌, むっつりする
-> * **Từ trái nghĩa:** にこやか, 愛想がいい
+> * **日本語:** 不意をつかれて慌てたり、どうしていいか分からなくなったりする様子。
+> * **Sắc thái:** Trạng thái luống cuống, mặt đỏ bối rối khi bất ngờ bị chú ý hoặc bị hỏi dồn.
+> * **Từ đồng nghĩa:** 慌てる, [おろおろ](#14-おろおろ)
+> * **Từ trái nghĩa:** 冷静, 落ち着く
 
 > [!TIP]
 > **Ví dụ thực tế (例文)**
-> * 彼は朝からむっつりした顔で座っている。
->   * *Từ sáng tới giờ anh ta cứ ngồi lầm lì cau có khó đăm đăm.*
+> * 先生に急に指名されて、どぎまぎしてしまった。
+>   * *Bất ngờ bị thầy giáo chỉ định, tôi đã luống cuống bối rối.*
 
 ---
 
@@ -2033,6 +2033,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 ---
 
 ### 103-むせ返る
+* **Cách đọc:** むせかえる
 * **Ý nghĩa:** Ngạt thở / Sặc sụa (vì mùi hoặc khói)
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -2288,7 +2289,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** しつこくて嫌になる様子。味がしつこい様子。
 > * **Sắc thái:** Độ béo ngấy của món ăn nhiều dầu mỡ khó tiêu; Hoặc tính cách lải nhải dai dẳng làm người khác khó chịu; Cơn ho kéo dài mãi không khỏi.
-> * **Từ đồng nghĩa:** [くどい](#117-くどい), [しつこい](#116-しつこい)
+> * **Từ đồng nghĩa:** [くどい](#117-くどい), 執拗な
 > * **Từ trái nghĩa:** [あっさり](#101-あっさり), [さっぱり](#76-さっぱり)
 
 > [!TIP]
@@ -2383,7 +2384,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 湿気が多くて湿っている様子。陰気な様子。
 > * **Sắc thái:** Thời tiết mùa mưa làm phòng ốc ẩm mốc, quần áo ẩm ướt không khô; Hoặc tính cách u ám buồn bã.
-> * **Từ đồng nghĩa:** じめじめする, 湿っぽい
+> * **Từ đồng nghĩa:** 湿っぽい, 陰気な
 > * **Từ trái nghĩa:** [からっと](#122-からっと), 乾燥する
 
 > [!TIP]
@@ -2801,7 +2802,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 貝や軟骨などの歯ごたえがある様子。
 > * **Sắc thái:** Cảm giác nhai các món có độ dai giòn, sần sật cứng nhẹ ở răng (như sụn heo, sứa, hải sâm).
-> * **Từ đồng nghĩa:** こりこりする
+> * **Từ đồng nghĩa:** 歯ごたえがある
 > * **Từ trái nghĩa:** 柔らかい
 
 > [!TIP]
@@ -2858,7 +2859,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 柔らかくて弾力があり、触ると気持ちが良い様子。
 > * **Sắc thái:** Cảm giác sờ vào những vật mềm mại, dẻo và nảy nhẹ (như má em bé, đệm chân mèo cưng, thạch jelly).
-> * **Từ đồng nghĩa:** [もちもち](#145-もちもち), ぷにぷにする
+> * **Từ đồng nghĩa:** [もちもち](#145-もちもち), 柔らかい
 > * **Từ trái nghĩa:** [かちかち](#135-かちかち)
 
 > [!TIP]
@@ -2994,7 +2995,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 焦らず、ゆったりとくつろぐ様子。
 > * **Sắc thái:** Hành động thong thả, không vội vàng, tận hưởng thời gian nghỉ ngơi thư thái mà không vướng bận lo nghĩ.
-> * **Từ đồng nghĩa:** ゆったり, のんびりする
+> * **Từ đồng nghĩa:** ゆったり, 気楽
 > * **Từ trái nghĩa:** [いそいそ](#24-いそいそ), [せかせか](#220-せかせか)
 
 > [!TIP]
@@ -3298,7 +3299,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 滞りなく、順調に進む様子。
 > * **Sắc thái:** Làm việc gì đó trôi chảy không bị vấp váp (như đọc bài trơn tru, làm toán vèo vèo).
-> * **Từ đồng nghĩa:** すらすらと, 流暢に
+> * **Từ đồng nghĩa:** 流暢に, 滑らか
 > * **Từ trái nghĩa:** つっかえる, どもる
 
 > [!TIP]
@@ -3431,7 +3432,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** ためらいながら、恐る恐る発言したり行動したりする様子。
 > * **Sắc thái:** Thái độ ngập ngừng rụt rè mở lời vì sợ sệt hoặc tôn kính cấp trên.
-> * **Từ đồng nghĩa:** 恐る恐る, [おずおず](#18-おずおず)
+> * **Từ đồng nghĩa:** 恐る恐る, 躊躇う
 > * **Từ trái nghĩa:** [堂々と](#219-堂々と)
 
 > [!TIP]
@@ -3621,7 +3622,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 挙動が慌ただしく、落ち着かない様子で立ち去る様子。
 > * **Sắc thái:** Hành vi vội vàng sửa soạn đồ đạc rồi hối hả lén lút chuồn về trước để tránh rắc rối.
-> * **Từ đồng nghĩa:** そそくさ, 急いで
+> * **Từ đồng nghĩa:** 急いで, 慌ただしく
 > * **Từ trái nghĩa:** ゆっくり, [のんびり](#153-のんびり)
 
 > [!TIP]
@@ -3640,7 +3641,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 子供や動物が小股で歩く様子。
 > * **Sắc thái:** Những bước đi ngắn nhanh nhẹn, lon ton đầy đáng yêu của trẻ chập chững biết đi.
-> * **Từ đồng nghĩa:** とことこと, [ちょこちょこ](#166-ちょこちょこ)
+> * **Từ đồng nghĩa:** [てくてく](#174-てくてく), [ちょこちょこ](#166-ちょこちょこ)
 > * **Từ trái nghĩa:** のっしのっし
 
 > [!TIP]
@@ -3659,7 +3660,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 要領が悪く、仕事が捗らない様子。
 > * **Sắc thái:** Cách làm việc lóng ngóng vụng về làm công việc tiến triển rất chậm chạp ì ạch.
-> * **Từ đồng nghĩa:** [もたもた](#210-もたもた), [ぐずぐず](#164-ぐずぐず)
+> * **Từ đồng nghĩa:** [ぐずぐず](#164-ぐずぐず), 遅れる
 > * **Từ trái nghĩa:** てきぱきやる
 
 > [!TIP]
@@ -3678,7 +3679,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 余裕があって、のびのびと落ち着いている様子。
 > * **Sắc thái:** Mặc quần áo rộng rãi thư thái; Hoặc tinh thần thong thả không vội vã.
-> * **Từ đồng nghĩa:** ゆったり, [のんびり](#153-のんびり)
+> * **Từ đồng nghĩa:** リラックス, [のんびり](#153-のんびり)
 > * **Từ trái nghĩa:** せかせかする, 窮屈な
 
 > [!TIP]
@@ -3697,7 +3698,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 話し方や態度が明確で、活発な様子。
 > * **Sắc thái:** Cách nói chuyện to, rõ chữ dứt khoát mạch lạc và thái độ vô cùng tự tin, năng động.
-> * **Từ đồng nghĩa:** [てきぱき](#20-てきぱき), はきはきと
+> * **Từ đồng nghĩa:** [てきぱき](#20-てきぱき), 明瞭
 > * **Từ trái nghĩa:** [おどおど](#10-おどおど), ぼそぼそ
 
 > [!TIP]
@@ -3716,7 +3717,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 態度を明確にして、曖昧さを残さない様子。
 > * **Sắc thái:** Đưa ra quyết định từ chối một cách dứt khoát thẳng thừng, không mập mờ tạo hy vọng hão huyền.
-> * **Từ đồng nghĩa:** きっぱりと, 断固として
+> * **Từ đồng nghĩa:** 断固として, 明確に
 > * **Từ trái nghĩa:** あやふやに, 曖昧に
 
 > [!TIP]
@@ -3735,7 +3736,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 規則やマナーに従い、きちんとする様子。
 > * **Sắc thái:** Hành động ngồi đàng hoàng chỉnh tề; Làm việc chu đáo chỉn chu đâu ra đấy.
-> * **Từ đồng nghĩa:** ちゃんと, [きちんと](#193-きちんと)
+> * **Từ đồng nghĩa:** [きちんと](#193-きちんと), 整える
 > * **Từ trái nghĩa:** だらしなくする
 
 > [!TIP]
@@ -4240,6 +4241,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 ---
 
 ### 219-堂々と
+* **Cách đọc:** どうどうと
 * **Ý nghĩa:** Đường đường chính chính / Tự tin uy nghi
 
 *(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
@@ -4248,7 +4250,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 自信に満ちて、誇らしげな様子。
 > * **Sắc thái:** Thái độ tự tin đầy kiêu hãnh, quang minh chính đại không lén lút che giấu gì cả.
-> * **Từ đồng nghĩa:** 堂々, 堂々とすること
+> * **Từ đồng nghĩa:** 自信満々, 誇らしげ
 > * **Từ trái nghĩa:** [おどおど](#10-おどおど), [こそこそ](#180-こそこそ)
 
 > [!TIP]
@@ -4343,7 +4345,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 嬉しそうに微笑む様子。
 > * **Sắc thái:** Hành động mỉm cười nhẹ nhàng rạng rỡ đầy thân thiện hướng về người khác.
-> * **Từ đồng nghĩa:** [にこにこ](#39-にこにこ), にっこりする
+> * **Từ đồng nghĩa:** [にこにこ](#39-にこにこ), 微笑む
 > * **Từ trái nghĩa:** しかめっ面, [つんつん](#205-つんつん)
 
 > [!TIP]
@@ -4362,7 +4364,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 意味ありげに、また満足そうに笑う様子。
 > * **Sắc thái:** Nụ cười thoáng qua đầy ẩn ý, tự mãn hoặc nham hiểm khi nghĩ ra một mưu mẹo gì đó.
-> * **Từ đồng nghĩa:** [にやにや](#40-にやにや), にやりとする
+> * **Từ đồng nghĩa:** [にやにや](#40-にやにや), ほほ笑む
 > * **Từ trái nghĩa:** 真面目な顔
 
 > [!TIP]
@@ -4593,7 +4595,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 適度に湿り気があって、落ち着いた様子。
 > * **Sắc thái:** Bề mặt ẩm mịn dễ chịu (da dẻ, bánh ngọt); Hoặc bầu không khí yên bình tĩnh lặng thấm đẫm chất thơ.
-> * **Từ đồng nghĩa:** しっとりする, 潤う
+> * **Từ đồng nghĩa:** 潤う, 湿り気がある
 > * **Từ trái nghĩa:** [からから](#80-からから), [かさかさ](#108-かさかさ)
 
 > [!TIP]
@@ -5030,7 +5032,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 中身が少なくてすき間が多い様子。風がよく通る様子。
 > * **Sắc thái:** Hộp quà bọc to nhưng bên trong ruột trống rỗng thưa thớt; Hoặc quần áo mỏng nhiều khe hở gió lùa lạnh.
-> * **Từ đồng nghĩa:** [がらがら](#235-がらがら), すかすかする
+> * **Từ đồng nghĩa:** [がらがら](#235-がらがら), 空いている
 > * **Từ trái nghĩa:** [ぎっしり](#228-ぎっしり), [ぎゅうぎゅう](#263-ぎゅうぎゅう)
 
 > [!TIP]
@@ -5049,7 +5051,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 重みがあって、手応えが感じられる様子。
 > * **Sắc thái:** Cầm túi vàng hoặc đồ vật lên có cảm giác nặng trĩu tay rất đầm; Hoặc lời nói có sức nặng lớn.
-> * **Từ đồng nghĩa:** 重たい, ずっしりとする
+> * **Từ đồng nghĩa:** 重たい, 重量感がある
 > * **Từ trái nghĩa:** 軽々しい, スカスカ
 
 > [!TIP]
@@ -5505,7 +5507,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 風が激しく吹く音。水が激しく流れる音。
 > * **Sắc thái:** Tiếng gió bão rít mạnh gào rú ào ào bên ngoài cửa sổ hoặc tiếng nước sông lũ chảy xiết cuồn cuộn.
-> * **Từ đồng nghĩa:** ごうごうと, 轟々と
+> * **Từ đồng nghĩa:** ゴロゴロ, 響き渡る
 > * **Từ trái nghĩa:** [しとしと](#283-しとしと), [そよそよ](#286-そよそよ)
 
 > [!TIP]
@@ -5524,7 +5526,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 風が静かに心地よく吹く様子。
 > * **Sắc thái:** Làn gió xuân thổi nhè nhẹ, hiu hiu dễ chịu làm rung rinh ngọn cỏ.
-> * **Từ đồng nghĩa:** そよそよと, [さらさら](#273-さらさら)
+> * **Từ đồng nghĩa:** [さらさら](#273-さらさら), 穏やかに吹く
 > * **Từ trái nghĩa:** [ごうごう](#285-ごうごう), びゅうびゅう
 
 > [!TIP]
@@ -5556,7 +5558,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 ### 288-こんもり
 * **Ý nghĩa:** Rậm rạp um tùm / Xum xuê đắp cao
 
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+<img src="images/onomatopoeia/こんもり.png" width="300" />
 
 > [!NOTE]
 > **Định nghĩa & Sắc thái**
@@ -5581,7 +5583,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 > **Định nghĩa & Sắc thái**
 > * **日本語:** 落ち着いて時間をかけ、十分に物事を行う様子。
 > * **Sắc thái:** Hành động từ tốn dành nhiều thời gian để suy nghĩ thấu đáo hoặc chuẩn bị một cách cực kỳ cẩn thận không vội vã.
-> * **Từ đồng nghĩa:** じっくりと, [つくづく](#27-つくづく)
+> * **Từ đồng nghĩa:** [つくづく](#27-つくづく), 入念に
 > * **Từ trái nghĩa:** [さっさと](#160-さっさと), 急いで
 
 > [!TIP]
@@ -5594,7 +5596,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 ### 290-ばっちり
 * **Ý nghĩa:** Hoàn hảo chu đáo / Trúng phóc / Tuyệt hảo
 
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+<img src="images/onomatopoeia/ばっちり.png" width="300" />
 
 > [!NOTE]
 > **Định nghĩa & Sắc thái**
@@ -5727,7 +5729,7 @@ Sổ tay trực quan tổng hợp 300 từ láy tượng thanh, tượng hình (
 ### 297-ぐんと
 * **Ý nghĩa:** Đáng kể / Vượt bậc / Nâng cấp rõ rệt
 
-*(Ảnh minh họa cho từ này sẽ được bổ sung ở các đợt học sau)*
+<img src="images/onomatopoeia/ぐんと.png" width="300" />
 
 > [!NOTE]
 > **Định nghĩa & Sắc thái**

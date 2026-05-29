@@ -39,6 +39,28 @@ Chào mừng bạn đến với kho tài liệu ôn luyện **JLPT N1**. Để t
 
 ---
 
+## 📝 Chú Thích Ký Hiệu (Connection Notations)
+
+Để các công thức ngữ pháp được ngắn gọn và nhất quán, tài liệu sử dụng các ký hiệu viết tắt sau:
+
+*   **`V` (Verb - Động từ)**:
+    *   `V-る`: Động từ thể từ điển (đại diện cho thể từ điển, ví dụ: *食べる*, *行く*).
+    *   `V-た`: Động từ thể quá khứ (ví dụ: *食べた*, *行った*).
+    *   `V-ない`: Động từ thể phủ định (ví dụ: *食べない*, *行かない*).
+    *   `V-て`: Động từ thể て (ví dụ: *食べて*, *行って*).
+    *   `V-ば`: Động từ thể điều kiện (ví dụ: *食べれば*, *行けば*).
+    *   `V-たら`: Động từ thể たら (ví dụ: *食べたら*, *行ったら*).
+    *   `V-ý chí`: Động từ thể ý chí / ý hướng (意向形 - *Ikoukei*, ví dụ: *食べよう*, *行こう*).
+    *   `V-khả năng`: Động từ thể khả năng (ví dụ: *食べられる*, *行ける*).
+    *   `V-ます`: Động từ thể ます bỏ ます (dạng liên dụng / thể liên kết của động từ, ví dụ: *食べ*, *行き*).
+*   **`A` (Adjective - Tính từ)**:
+    *   `A-い`: Tính từ đuôi い.
+    *   `A-な`: Tính từ đuôi な.
+*   **`N` (Noun - Danh từ)**.
+
+---
+
+
 ## 📂 1. Tài Liệu Từ Vựng (Goi)
 
 Tài liệu từ vựng trực quan được biên soạn và phân loại chi tiết tại:
@@ -2983,6 +3005,28 @@ Chào mừng bạn đến với kho tài liệu ôn luyện **JLPT N1**. Để t
 2. **🎨 Từ vựng (`goi/`):** Tổng hợp từ vựng, đặc biệt là nhóm phó từ & từ láy tượng hình/tượng thanh có đi kèm ảnh minh họa trực quan sinh động.
 
 ---
+
+## 📝 Chú Thích Ký Hiệu (Connection Notations)
+
+Để các công thức ngữ pháp được ngắn gọn và nhất quán, tài liệu sử dụng các ký hiệu viết tắt sau:
+
+*   **`V` (Verb - Động từ)**:
+    *   `V-る`: Động từ thể từ điển (đại diện cho thể từ điển, ví dụ: *食べる*, *行く*).
+    *   `V-た`: Động từ thể quá khứ (ví dụ: *食べた*, *行った*).
+    *   `V-ない`: Động từ thể phủ định (ví dụ: *食べない*, *行かない*).
+    *   `V-て`: Động từ thể て (ví dụ: *食べて*, *行って*).
+    *   `V-ば`: Động từ thể điều kiện (ví dụ: *食べれば*, *行けば*).
+    *   `V-たら`: Động từ thể たら (ví dụ: *食べたら*, *行ったら*).
+    *   `V-ý chí`: Động từ thể ý chí / ý hướng (意向形 - *Ikoukei*, ví dụ: *食べよう*, *行こう*).
+    *   `V-khả năng`: Động từ thể khả năng (ví dụ: *食べられる*, *行ける*).
+    *   `V-ます`: Động từ thể ます bỏ ます (dạng liên dụng / thể liên kết của động từ, ví dụ: *食べ*, *行き*).
+*   **`A` (Adjective - Tính từ)**:
+    *   `A-い`: Tính từ đuôi い.
+    *   `A-な`: Tính từ đuôi な.
+*   **`N` (Noun - Danh từ)**.
+
+---
+
 
 ## 📂 1. Tài Liệu Từ Vựng (Goi)
 

@@ -177,7 +177,7 @@ words_data = [
         "Tâm trạng phấn chấn, nhẹ nhàng, vui vẻ biểu hiện ra bên ngoài (như bước đi nhún nhảy vì vui).",
         "彼女は新しいデート服を着て、うきうきと出かけた。",
         "Cô ấy diện bộ đồ hẹn hò mới rồi hân hoan bước ra ngoài.",
-        "わくわく, うきうきする",
+        "わくわく",
         "しょんぼり, がっかり"
     ),
     (
@@ -210,7 +210,7 @@ words_data = [
         "Thái độ ngượng ngùng, ngập ngừng không dám bộc lộ ý kiến hay hành động vì xấu hổ trước người khác.",
         "子供は知らない人の前で、恥ずかしそうにもじもじしていた。",
         "Đứa bé ngượng nghịu lúng túng trước mặt người lạ.",
-        "はникаむ, もじもじする",
+        "はにかむ",
         "堂々とする, はきはきする"
     ),
     (
@@ -309,7 +309,7 @@ words_data = [
         "Hành động vội vàng, bối rối luống cuống khi gặp tình huống bất ngờ hoặc khi sắp trễ giờ.",
         "急にテストがあると聞いて、あたふた準備した。",
         "Nghe tin sắp có kiểm tra đột xuất, tôi luống cuống chuẩn bị.",
-        "おろおろ, あたふたする",
+        "おろおろ, 慌てる",
         "冷静沈着, 落ち着く"
     ),
     (
@@ -485,7 +485,7 @@ words_data = [
         "Cơ thể tỉnh táo sảng khoái hẳn lên sau khi rửa mặt hoặc uống cà phê; Hoặc thái độ dứt khoát nghiêm túc.",
         "冷たい水を浴びて、頭をしゃきっとさせた。",
         "Dội nước lạnh giúp đầu óc tôi tỉnh táo hẳn lên.",
-        "しゃきっとする, シャキッ",
+        "しっかり, きちんと",
         "ぼんやり, ふにゃふにゃ"
     ),
     (
@@ -496,7 +496,7 @@ words_data = [
         "Không khí căng thẳng bao trùm phòng thi hoặc thái độ vô cùng nhạy cảm dễ nổi giận; Hoặc vị cay làm tê đầu lưỡi.",
         "試験前なので, 教室の空気がぴりぴりしている。",
         "Vì sắp thi nên bầu không khí trong lớp học vô cùng căng thẳng.",
-        "ぴりぴりする, ピリピリ",
+        "ひりひり, 緊張する",
         "のんびり, 穏やか"
     ),
     (
@@ -716,7 +716,7 @@ words_data = [
         "Cứ mãi để tâm và buồn bã vì những chuyện nhỏ nhặt đã xảy ra trong quá khứ mà không thể thay đổi.",
         "失敗したことをいつまでもくよくよするな。",
         "Đừng có mãi lo nghĩ buồn bã về chuyện đã thất bại nữa.",
-        "くよくよする, 悔やむ",
+        "悩む, 悔やむ",
         "あっさり, 気にしない"
     ),
     (
@@ -775,15 +775,15 @@ words_data = [
         "にこにこ, 穏やか"
     ),
     (
-        "むっつり",
+        "どぎまぎ",
         "Trạng Thái Tinh Thần & Cảm Xúc",
-        "Lầm lì / Cau có khó đăm đăm",
-        "口数が少なく、愛想がない様子。",
-        "Thái độ im lìm, không thèm mở miệng nói chuyện, mặt mày cau có khó gần khiến người khác e ngại.",
-        "彼は朝からむっつりした顔で座っている。",
-        "Từ sáng tới giờ anh ta cứ ngồi lầm lì cau có khó đăm đăm.",
-        "不機嫌, むっつりする",
-        "にこやか, 愛想がいい"
+        "Bối rối / Luống cuống / Ngượng ngùng (khi bất ngờ)",
+        "不意をつかれて慌てたり、どうしていいか分からなくなったりする様子。",
+        "Trạng thái luống cuống, mặt đỏ bối rối khi bất ngờ bị chú ý hoặc bị hỏi dồn.",
+        "先生に急に指名されて、どぎまぎしてしまった。",
+        "Bất ngờ bị thầy giáo chỉ định, tôi đã luống cuống bối rối.",
+        "慌てる, おろおろ",
+        "冷静, 落ち着く"
     ),
     (
         "のりのり",
@@ -1277,7 +1277,7 @@ words_data = [
         "Độ béo ngấy của món ăn nhiều dầu mỡ khó tiêu; Hoặc tính cách lải nhải dai dẳng làm người khác khó chịu; Cơn ho kéo dài mãi không khỏi.",
         "この料理は油 q 多すぎて、味がしつこい。",
         "Món ăn này nhiều dầu quá nên vị béo ngấy rất khó ăn.",
-        "くどい, しつこい",
+        "くどい, 執拗な",
         "あっさり, さっぱり"
     ),
     (
@@ -1332,7 +1332,7 @@ words_data = [
         "Thời tiết mùa mưa làm phòng ốc ẩm mốc, quần áo ẩm ướt không khô; Hoặc tính cách u ám buồn bã.",
         "梅雨の時期は部屋の中がじめじめして嫌だ。",
         "Mùa mưa đến là trong phòng cứ ẩm ướt mốc meo thật khó chịu.",
-        "じめじめする, 湿っぽい",
+        "湿っぽい, 陰気な",
         "からっと, 乾燥する"
     ),
     (
@@ -1574,7 +1574,7 @@ words_data = [
         "Cảm giác nhai các món có độ dai giòn, sần sật cứng nhẹ ở răng (như sụn heo, sứa, hải sâm).",
         "軟骨のこりこりとした食感が好きだ。",
         "Tôi thích cái cảm giác nhai sụn heo giòn sần sật.",
-        "こりこりする",
+        "歯ごたえがある",
         "柔らかい"
     ),
     (
@@ -1607,7 +1607,7 @@ words_data = [
         "Cảm giác sờ vào những vật mềm mại, dẻo và nảy nhẹ (như má em bé, đệm chân mèo cưng, thạch jelly).",
         "猫の肉球はぷにぷにしていて可愛い。",
         "Cái đệm chân của chú mèo mềm dẻo sờ thích tay dễ thương ghê.",
-        "もちもち, ぷにぷにする",
+        "もちもち, 柔らかい",
         "かちかち"
     ),
     (
@@ -1684,7 +1684,7 @@ words_data = [
         "Hành động thong thả, không vội vàng, tận hưởng thời gian nghỉ ngơi thư thái mà không vướng bận lo nghĩ.",
         "週末は田舎の温泉でのんびり過ごしたい。",
         "Cuối tuần tôi muốn dành thời gian nghỉ ngơi thong thả ở suối nước nóng vùng quê.",
-        "ゆったり, のんびりする",
+        "ゆったり, 気楽",
         "いそいそ, せかせか"
     ),
     (
@@ -1860,7 +1860,7 @@ words_data = [
         "Làm việc gì đó trôi chảy không bị vấp váp (như đọc bài trơn tru, làm toán vèo vèo).",
         "彼女は難しい質問にすらすらと答えた。",
         "Cô ấy trả lời câu hỏi khó trôi chảy vèo vèo.",
-        "すらすらと, 流暢に",
+        "流暢に, 滑らか",
         "つっかえる, どもる"
     ),
     (
@@ -1937,7 +1937,7 @@ words_data = [
         "Thái độ ngập ngừng rụt rè mở lời vì sợ sệt hoặc tôn kính cấp trên.",
         "おずおずと社長に自分の意見を述べた。",
         "Tôi rụt rè rón rén bày tỏ ý kiến của mình với giám đốc.",
-        "恐る恐る, おずおず",
+        "恐る恐る, 躊躇う",
         "堂々と"
     ),
     (
@@ -2047,7 +2047,7 @@ words_data = [
         "Hành vi vội vàng sửa soạn đồ đạc rồi hối hả lén lút chuồn về trước để tránh rắc rối.",
         "彼は会議が終わると, そそくさと退室した。",
         "Cuộc họp vừa kết thúc, anh ta liền hối hả chuồn ra khỏi phòng.",
-        "そそくさ, 急いで",
+        "急いで, 慌ただしく",
         "ゆっくり, のんびり"
     ),
     (
@@ -2058,7 +2058,7 @@ words_data = [
         "Những bước đi ngắn nhanh nhẹn, lon ton đầy đáng yêu của trẻ chập chững biết đi.",
         "赤ちゃんがとことこ歩く姿が可愛い。",
         "Dáng vẻ em bé bước đi lon ton trông thật đáng yêu.",
-        "とことこと, ちょこちょこ",
+        "てくてく, ちょこちょこ",
         "のっしのっし"
     ),
     (
@@ -2069,7 +2069,7 @@ words_data = [
         "Cách làm việc lóng ngóng vụng về làm công việc tiến triển rất chậm chạp ì ạch.",
         "スマホの操作にもたもたしているとおじいちゃんに言われた。",
         "Tôi bị ông nội chê là lóng ngóng thao tác điện thoại chậm chạp.",
-        "もたもた, ぐずぐず",
+        "ぐずぐず, 遅れる",
         "てきぱきやる"
     ),
     (
@@ -2080,7 +2080,7 @@ words_data = [
         "Mặc quần áo rộng rãi thư thái; Hoặc tinh thần thong thả không vội vã.",
         "週末は自宅でゆったりした気分で過ごす。",
         "Cuối tuần tôi ở nhà tận hưởng thời gian thư thái nhẹ nhàng.",
-        "ゆったり, のんびり",
+        "リラックス, のんびり",
         "せかせかする, 窮屈な"
     ),
     (
@@ -2091,7 +2091,7 @@ words_data = [
         "Cách nói chuyện to, rõ chữ dứt khoát mạch lạc và thái độ vô cùng tự tin, năng động.",
         "面接では質問にはきはきと答えなさい。",
         "Lúc phỏng vấn hãy trả lời các câu hỏi thật hoạt bát rõ ràng mạch lạc.",
-        "てきぱき, はきはきと",
+        "てきぱき, 明瞭",
         "おどおど, ぼそぼそ"
     ),
     (
@@ -2102,7 +2102,7 @@ words_data = [
         "Đưa ra quyết định từ chối một cách dứt khoát thẳng thừng, không mập mờ tạo hy vọng hão huyền.",
         "彼は彼女の誘いをきっぱり断った。",
         "Cậu ấy đã từ chối thẳng thừng dứt khoát lời mời của cô ấy.",
-        "きっぱりと, 断固として",
+        "断固として, 明確に",
         "あやふやに, 曖昧に"
     ),
     (
@@ -2113,7 +2113,7 @@ words_data = [
         "Hành động ngồi đàng hoàng chỉnh tề; Làm việc chu đáo chỉn chu đâu ra đấy.",
         "部屋をちゃんと片付けなさい。",
         "Hãy dọn dẹp phòng đàng hoàng chỉn chu đi.",
-        "ちゃんと, きちんと",
+        "きちんと, 整える",
         "だらしなくする"
     ),
     (
@@ -2410,7 +2410,7 @@ words_data = [
         "Thái độ tự tin đầy kiêu hãnh, quang minh chính đại không lén lút che giấu gì cả.",
         "ステージの上で堂々とスピーチをした。",
         "Cậu ấy đã đứng thuyết trình vô cùng tự tin đường đường chính chính trên sân khấu.",
-        "堂々, 堂々とすること",
+        "自信満々, 誇らしげ",
         "おどおど, こそこそ"
     ),
     (
@@ -2465,7 +2465,7 @@ words_data = [
         "Hành động mỉm cười nhẹ nhàng rạng rỡ đầy thân thiện hướng về người khác.",
         "彼女はカメラに向かってにっこり笑った。",
         "Cô ấy mỉm cười rạng rỡ trước ống kính máy ảnh.",
-        "にこにこ, にっこりする",
+        "にこにこ, 微笑む",
         "しかめっ面, つんつん"
     ),
     (
@@ -2476,7 +2476,7 @@ words_data = [
         "Nụ cười thoáng qua đầy ẩn ý, tự mãn hoặc nham hiểm khi nghĩ ra một mưu mẹo gì đó.",
         "彼は何か悪だくみを思いついたのか、にやりと笑った。",
         "Anh ta bỗng cười khẩy một cái đầy ẩn ý, có vẻ vừa nghĩ ra âm mưu gì đó.",
-        "にやにや, にやりとする",
+        "にやにや, ほほ笑む",
         "真面目な顔"
     ),
     (
@@ -2608,7 +2608,7 @@ words_data = [
         "Bề mặt ẩm mịn dễ chịu (da dẻ, bánh ngọt); Hoặc bầu không khí yên bình tĩnh lặng thấm đẫm chất thơ.",
         "化粧水のおかげで、肌がしっとりしてきた。",
         "Nhờ có nước hoa hồng nên da tôi đã trở nên ẩm mịn.",
-        "しっとりする, 潤う",
+        "潤う, 湿り気がある",
         "からから, かさかさ"
     ),
     (
@@ -2861,7 +2861,7 @@ words_data = [
         "Hộp quà bọc to nhưng bên trong ruột trống rỗng thưa thớt; Hoặc quần áo mỏng nhiều khe hở gió lùa lạnh.",
         "荷物の箱を開けたら, 中身はすかすかだった。",
         "Mở thùng hành lý ra mới thấy bên trong trống rỗng thưa thớt quá chừng.",
-        "がらがら, すかすかする",
+        "がらがら, 空いている",
         "ぎっしり, ぎゅうぎゅう"
     ),
     (
@@ -2872,7 +2872,7 @@ words_data = [
         "Cầm túi vàng hoặc đồ vật lên có cảm giác nặng trĩu tay rất đầm; Hoặc lời nói có sức nặng lớn.",
         "このバッグは見た目よりずっしり重い。",
         "Chiếc túi xách này cầm nặng trĩu tay hơn vẻ bề ngoài của nó.",
-        "重たい, ずっしりとする",
+        "重たい, 重量感がある",
         "軽々しい, スカスカ"
     ),
     (
@@ -3136,7 +3136,7 @@ words_data = [
         "Tiếng gió bão rít mạnh gào rú ào ào bên ngoài cửa sổ hoặc tiếng nước sông lũ chảy xiết cuồn cuộn.",
         "台風の風がごうごうと吹き荒れている。",
         "Gió bão đang thổi rít lên ào ào gào rú dữ dội.",
-        "ごうごうと, 轟々と",
+        "ゴロゴロ, 響き渡る",
         "しとしと, そよそよ"
     ),
     (
@@ -3147,7 +3147,7 @@ words_data = [
         "Làn gió xuân thổi nhè nhẹ, hiu hiu dễ chịu làm rung rinh ngọn cỏ.",
         "春の風がそよそよと吹いていて気持ちがいい。",
         "Gió xuân thổi hiu hiu nhè nhẹ thật dễ chịu.",
-        "そよそよと, さらさら",
+        "さらさら, 穏やかに吹く",
         "ごうごう, びゅうびゅう"
     ),
     (
@@ -3180,7 +3180,7 @@ words_data = [
         "Hành động từ tốn dành nhiều thời gian để suy nghĩ thấu đáo hoặc chuẩn bị một cách cực kỳ cẩn thận không vội vã.",
         "将来設計についてじっくり考えよう。",
         "Hãy cùng từ tốn suy nghĩ thật kỹ càng thấu đáo về kế hoạch tương lai.",
-        "じっくりと, つくづく",
+        "つくづく, 入念に",
         "さっさと, 急いで"
     ),
     (
@@ -3367,7 +3367,10 @@ ILLUSTRATED_WORDS = {
 "ほくほく": "ほくほく.png",
 "ひえひえ": "ひえひえ.png",
 "うろうろ": "うろうろ.png",
-    "よろよろ": "よろよろ.png",
+"よろよろ": "よろよろ.png",
+"こんもり": "こんもり.png",
+"ばっちり": "ばっちり.png",
+"ぐんと": "ぐんと.png",
 }
 
 def format_word_links(text, all_words_map):
@@ -3383,6 +3386,11 @@ def format_word_links(text, all_words_map):
         else:
             result_parts.append(part)
     return ", ".join(result_parts)
+
+KANJI_READINGS = {
+    "堂々と": "どうどうと",
+    "むせ返る": "むせかえる",
+}
 
 def generate_markdown():
     output_path = "/Users/tuyennq1001/htdocs/jlpt-n1/goi/goi_onomatopoeia.md"
@@ -3438,7 +3446,8 @@ def generate_markdown():
                 if item_idx < len(row):
                     num, item = row[item_idx]
                     word = item[0]
-                    row_strs.append(f"[{num}. {word}](#{num}-{word})")
+                    display_word = f"{word} ({KANJI_READINGS[word]})" if word in KANJI_READINGS else word
+                    row_strs.append(f"[{num}. {display_word}](#{num}-{word})")
                 else:
                     row_strs.append("")
             markdown_content.append("| " + " | ".join(row_strs) + " |")
@@ -3463,6 +3472,8 @@ def generate_markdown():
             formatted_ant = format_word_links(ant, all_words_map)
             
             markdown_content.append(f'### {num}-{word}')
+            if word in KANJI_READINGS:
+                markdown_content.append(f"* **Cách đọc:** {KANJI_READINGS[word]}")
             markdown_content.append(f"* **Ý nghĩa:** {meaning}")
             markdown_content.append("")
             
